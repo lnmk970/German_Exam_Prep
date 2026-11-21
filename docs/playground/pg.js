@@ -15,7 +15,7 @@ const view=$('#view');let cur=null,activity={last:0,sec:0,timer:null};
 /* ---------- router ---------- */
 function route(){const h=(location.hash||'#ueben').slice(1).split('?');const v=h[0]||'ueben';const q=new URLSearchParams(h[1]||'');
  $$('#tabs button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));stopTimer();
- if(v==='stats')renderStats();else if(v==='plan')renderPlan();else if(v==='lernen')window.PGLearn.render(view);else renderSetup(q)}
+ if(v==='stats')renderStats();else if(v==='plan')renderPlan();else renderSetup(q)}
 $$('#tabs button').forEach(b=>b.onclick=()=>{location.hash='#'+b.dataset.v});
 window.addEventListener('hashchange',route);
 
