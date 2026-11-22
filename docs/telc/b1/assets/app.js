@@ -45,12 +45,12 @@ function go(s,keep){
  if(s==='antworten'&&!st.fin)return;
  if(SECS.includes(cur)&&cur!==s)leaveTask(cur);
  cur=s;st.where=s;
- if(!st.fin&&(s==='lesen'||s==='schreiben')&&!st.lock[s])st.began[s]=1;
+ if(!st.fin&&s==='lesen'&&!st.lock[s])st.began[s]=1;
  $$('main > section').forEach(x=>x.classList.toggle('on',x.id===s));
  $$('#lesen,#hoeren,#schreiben,#sprechen').forEach(x=>x.classList.toggle('gated',!st.lock[x.id]&&!st.fin&&!st.began[x.id]));
  if(TK[s]){showTask(s,st.cur[s]||0)}else{pal()}
  if(!st.fin){let tc=null;
-  if((s==='lesen'||s==='schreiben')&&!st.lock[s])tc=s;
+  if((s==='lesen'||(s==='schreiben'&&st.began.schreiben))&&!st.lock[s])tc=s;
   else if(s==='hoeren'&&st.began.hoeren&&!st.lock.hoeren)tc='hoeren';
   else if(s==='sprechen'&&st.began.sprechen&&!st.lock.sprechen)tc=clockOf('sprechen');
   if(!st.paused)setAct(tc)}
@@ -182,7 +182,12 @@ function verdict(){
  if(!isNaN(sch)){const w=base+sch;t+='<p><b>Schriftlich mit Schreiben'+(st.mansch?'':' (Schätzung)')+':</b> '+w.toFixed(1).replace('.0','')+' von 225 · '+(w>=135?'<span class="tag ok">60 % erreicht</span>':'<span class="tag no">unter 60 %</span>')+'</p>'}
  if(!isNaN(spr)){t+='<p><b>Mündlich'+(st.mansp?'':' (Schätzung)')+':</b> '+spr+' von 75 · '+(spr>=45?'<span class="tag ok">60 % erreicht</span>':'<span class="tag no">unter 60 %</span>')+'</p>'}
  if(!isNaN(sch)&&!isNaN(spr)){const tot=base+sch+spr,ok=base+sch>=135&&spr>=45;t+='<p><b>Gesamt:</b> '+tot.toFixed(1).replace('.0','')+' von 300 · <b>'+(ok?'Bestanden':'Nicht bestanden')+'</b>'+(ok?' ('+(tot>=270?'sehr gut':tot>=240?'gut':tot>=210?'befriedigend':'ausreichend')+')':'')+'</p>'}
- v.innerHTML=t;
+ let R;const hasS=!isNaN(sch),hasP=!isNaN(spr),wr=base+(hasS?sch:0);
+ if(hasS&&hasP){const tot=base+sch+spr,ok=wr>=135&&spr>=45;
+  R=ok?['ok','B1 erreicht · bestanden','Gesamt '+tot.toFixed(1).replace('.0','')+' von 300 Punkten. Schriftlich '+wr.toFixed(1).replace('.0','')+' von 225 (mind. 135), mündlich '+spr+' von 75 (mind. 45).']:['warn','B1 noch nicht erreicht · Niveau A2','Gesamt '+tot.toFixed(1).replace('.0','')+' von 300 Punkten. '+(wr<135?'Schriftlich fehlen '+(135-wr).toFixed(1).replace('.0','')+' Punkte (mind. 135 von 225). ':'')+(spr<45?'Mündlich fehlen '+(45-spr).toFixed(1).replace('.0','')+' Punkte (mind. 45 von 75).':'')]}
+ else if(base+45<135)R=['warn','B1 nicht mehr erreichbar · Niveau A2','Schriftlich sind höchstens '+(base+45).toFixed(1).replace('.0','')+' von 225 möglich, nötig sind 135.'];
+ else R=['wait','Vorläufig: B1 noch offen','Es fehlt noch '+(hasS?'':'die Bewertung von Schreiben')+(!hasS&&!hasP?' und ':'')+(hasP?'':'die Bewertung von Sprechen')+'. Tragen Sie die Punkte unten ein.'];
+ v.innerHTML='<div class="res '+R[0]+'"><b>'+R[1]+'</b><span>'+R[2]+'</span></div>'+t;
 }
 function opt(e,i){return e.ot?(e.ot[i]):''}
 function card(k,inl){
@@ -394,6 +399,7 @@ function bind(){
  $$('[data-begin]').forEach(x=>x.onclick=()=>{const k=x.dataset.begin;st.began[k]=1;st.talk=st.talk||0;
    if(k==='hoeren'){startHoeren();go('hoeren');return}
    if(k==='sprechen'){setAct('vorb');$('#spprep').hidden=false}
+   if(k==='schreiben'){setAct('schreiben')}
    save();go(k)});
  $('#endcur').onclick=()=>{if(confirm(LAB[cur]+' jetzt beenden? Danach können Sie nichts mehr ändern.'))endSec(cur)};
  $$('[data-endsec]').forEach(x=>x.onclick=()=>{if(confirm('Jetzt beenden? Danach können Sie nichts mehr ändern.'))endSec(x.dataset.endsec)});
