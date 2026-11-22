@@ -565,11 +565,11 @@
    "text": "<p>Sie lernen sich in einer Gruppe kennen. Stellen Sie sich vor: Name, Herkunft, Wohnort, Beruf oder Ausbildung, Familie, Hobbys, warum Sie Deutsch lernen. Fragen Sie Ihren Gesprächspartner / Ihre Gesprächspartnerin: Wo wohnt er/sie? Wie gefällt ihm/ihr die Wohnung? Reagieren Sie auf die Antworten.</p>"
   },
   {
-   "title": "Teil 2 · Gespräch über ein Thema (ca. 4 Minuten, 20 Minuten Vorbereitung)",
-   "text": "<p><b>Thema: Wohnen in der Stadt oder auf dem Land?</b> Halten Sie einen kurzen Vortrag (ca. 3 Minuten) mit diesen fünf Punkten: 1. Meine Erfahrungen mit dem Wohnen · 2. Wie Menschen in meinem Heimatland wohnen · 3. Vorteile und Nachteile von Stadt und Land · 4. Meine Meinung · 5. Abschluss und Dank für die Aufmerksamkeit. Danach stellen die Zuhörer Fragen.</p>"
+   "title": "Teil 2 · Gespräch über ein Thema (ca. 6 Minuten, 20 Minuten Vorbereitung)",
+   "text": "<p><b>Thema: Wohnen in der Stadt oder auf dem Land?</b></p><div class=\"text\"><p><b>Text A</b> · Eva Hoffmann, 36, Grafikerin</p><p>„Ich wohne gern in der Stadt. Alles ist in der Nähe: Supermarkt, Arzt, Kino und Bus. Ich brauche kein Auto. Die Wohnungen sind allerdings teuer, und es ist oft laut. Trotzdem möchte ich nicht umziehen.“</p></div><div class=\"text\"><p><b>Text B</b> · Heinz Schulz, 55, Landwirt</p><p>„Ich lebe auf dem Land und möchte nirgendwo anders wohnen. Hier ist es ruhig, die Luft ist sauber, und die Miete ist niedrig. Die Nachbarn kennen sich. Aber ohne Auto kommt man schlecht weg, und der Bus fährt nur selten.“</p></div><p>Wählen Sie Text A oder Text B. In der Prüfung hat Ihr Partner oder Ihre Partnerin den anderen Text. <b>Berichten Sie kurz</b>, welche Informationen in Ihrem Text stehen (ca. 1 Minute). <b>Danach unterhalten Sie sich über das Thema:</b> Erzählen Sie von eigenen Erfahrungen, stellen Sie Fragen und reagieren Sie auf Ihre Partnerin oder Ihren Partner.</p>"
   },
   {
-   "title": "Teil 3 · Gemeinsam etwas planen (ca. 4 Minuten)",
+   "title": "Teil 3 · Gemeinsam etwas planen (ca. 6 Minuten)",
    "text": "<p><b>Sie planen gemeinsam ein Hausfest</b> für die Nachbarn in Ihrem Haus. Besprechen Sie: Wann und wo? · Wer wird eingeladen? · Was gibt es zu essen und zu trinken? · Wer bringt was mit? · Wer macht die Einladungen? · Was tun Sie, wenn es regnet?</p>"
   }
  ],
@@ -582,7 +582,7 @@
    "Verb an der richtigen Stelle, Nomen groß",
    "Etwa 80 bis 100 Wörter, in 30 Minuten"
   ],
-  "speak": "<p><b>Teil 1:</b> Guten Tag, ich heiße Manoj, ich bin 33 Jahre alt und komme aus Indien. Seit zwei Jahren wohne ich in Aachen in einer 2-Zimmer-Wohnung. Ich arbeite als Softwareentwickler. Ich lerne Deutsch, weil ich hier bleiben möchte. Wo wohnst du? Wie gefällt dir deine Wohnung?</p><p><b>Teil 2:</b> Mein Thema ist: Wohnen in der Stadt oder auf dem Land. Ich wohne in einer Stadt, weil dort mein Büro ist. Der Vorteil ist, dass alles in der Nähe ist: Geschäfte, Bus und Ärzte. Der Nachteil sind die hohen Mieten und der Lärm. In Indien ziehen viele Menschen in die Stadt, weil es dort mehr Arbeit gibt. Meiner Meinung nach ist das Land schöner, aber man braucht ein Auto. Vielen Dank für Ihre Aufmerksamkeit.</p><p><b>Teil 3:</b> Wollen wir das Hausfest im Juni machen, vielleicht am zweiten Samstag? Wir können im Hof feiern, dort gibt es genug Platz. Wir laden alle Nachbarn ein, auch die Kinder. Ich schreibe die Einladungen und hänge sie im Treppenhaus auf. Jeder bringt etwas zu essen mit, ich kümmere mich um die Getränke. Wenn es regnet, feiern wir im Keller oder verschieben das Fest auf den nächsten Tag.</p>"
+  "speak": "<p><b>Teil 1:</b> Guten Tag, ich heiße Manoj, ich bin 33 Jahre alt und komme aus Indien. Seit zwei Jahren wohne ich in Aachen in einer 2-Zimmer-Wohnung. Ich arbeite als Softwareentwickler. Ich lerne Deutsch, weil ich hier bleiben möchte. Wo wohnst du? Wie gefällt dir deine Wohnung?</p><p><b>Teil 2:</b> Ich habe Text A gelesen. Eva Hoffmann wohnt gern in der Stadt, weil alles in der Nähe ist. Aber die Wohnungen sind teuer und laut. Ich wohne in Aachen, und für mich ist das praktisch, weil ich kein Auto brauche. Die Miete ist aber wirklich hoch. Ich finde, auf dem Land ist es ruhiger. Wo wohnst du, und wie gefällt es dir?</p><p><b>Teil 3:</b> Wollen wir das Hausfest im Juni machen, vielleicht am zweiten Samstag? Wir können im Hof feiern, dort gibt es genug Platz. Wir laden alle Nachbarn ein, auch die Kinder. Ich schreibe die Einladungen und hänge sie im Treppenhaus auf. Jeder bringt etwas zu essen mit, ich kümmere mich um die Getränke. Wenn es regnet, feiern wir im Keller oder verschieben das Fest auf den nächsten Tag.</p>"
  },
  "hoertexte": [
   {
