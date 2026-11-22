@@ -66,7 +66,7 @@ function showTask(sec,i){
 }
 function pal(){
  const P=$('#pal');
- if(!TK[cur]){P.innerHTML='<h5>'+(cur==='antworten'?'Auswertung':LAB[cur]||'')+'</h5><p class="hint">'+(cur==='schreiben'?'Ein Brief oder eine E-Mail zu vier Leitpunkten. Etwa 80 bis 100 Wörter.':cur==='sprechen'?'Drei Teile: Kontakt aufnehmen, Thema vortragen, gemeinsam planen.':'')+'</p>';return}
+ if(!TK[cur]){P.innerHTML='<h5>'+(cur==='antworten'?'Auswertung':LAB[cur]||'')+'</h5><p class="hint">'+(cur==='schreiben'?'Ein Brief oder eine E-Mail zu vier Leitpunkten. Etwa 80 bis 100 Wörter.':cur==='sprechen'?'Drei Teile: Kontakt aufnehmen, Gespräch über ein Thema, gemeinsam planen.':'')+'</p>';return}
  const ti=st.cur[cur]||0;let h='<h5>'+LAB[cur]+' · Aufgaben</h5><p class="hint">Klicken zum Springen</p>';
  const titles=meta.tt[cur];
  TK[cur].forEach((ks,idx)=>{
@@ -306,7 +306,7 @@ function revSP(){const box=$('#sprev');if(!box)return;const A=spAnalyze(),key=A.
  h+='<div class="sum"><div><b>'+(R.tot!==null?'≈ '+R.tot+' / 75':lfail?'…':'… / 75')+'</b><small>Schätzung'+(R.assumed?' · Aussprache angenommen: B':'')+'</small></div>'+part.map((x,i)=>'<div><b>'+x+' / '+pm[i]+'</b><small>Teil '+(i+1)+'</small></div>').join('')+'</div>';
  h+='<p class="hint">Nach den offiziellen telc-Kriterien: vier Kriterien (Ausdrucksfähigkeit, Aufgabenbewältigung, Formale Richtigkeit, Aussprache und Intonation), je A bis D. Teil 1 zählt höchstens 15 Punkte, Teil 2 und Teil 3 je höchstens 30. In der echten Prüfung bewerten zwei Prüfende Ihr Gespräch. Diese Schätzung liest nur Ihren Text (Spracherkennung) und kann sich irren. Aussprache und Intonation sind nur über die Erkennungssicherheit des Browsers messbar; fehlt sie, wird B angenommen. Die Punkte werden automatisch eingetragen; überschreiben Sie sie, wenn Sie selbst oder mit Claude bewerten. Der Grammatik-Check sendet Ihren Text an languagetool.org.</p>';
  h+='<div class="tblw"><table class="sptbl"><thead><tr><th></th>'+['Teil 1','Teil 2','Teil 3'].map(x=>'<th>'+x+'</th>').join('')+'</tr></thead><tbody>'+SPCRIT.map((c,ci)=>'<tr><td>'+c+'</td>'+[0,1,2].map(i=>{const g=R.G[i][ci];return'<td>'+(g===null?'…':'<b>'+g+'</b> <small>'+spPts(i,ci,g)+' / '+SPMAX[i][ci]+'</small>')+'</td>'}).join('')+'</tr>').join('')+'</tbody></table></div>';
- A.P.forEach((p,i)=>{h+='<p><b>Teil '+(i+1)+': '+(['Kontakt aufnehmen','Thema vortragen','Gemeinsam planen'][i])+'</b> <small>('+p.n+' Wörter'+(p.sec?', '+fmt(p.sec*1000):'')+')</small></p>';
+ A.P.forEach((p,i)=>{h+='<p><b>Teil '+(i+1)+': '+(['Kontakt aufnehmen','Gespräch über ein Thema','Gemeinsam planen'][i])+'</b> <small>('+p.n+' Wörter'+(p.sec?', '+fmt(p.sec*1000):'')+')</small></p>';
   h+=p.n?'<ul class="rl">'+p.ch.map(c=>'<li class="'+(c[1]?'ok':'no')+'">'+(c[1]?'✔ ':'✘ ')+esc(c[0])+'</li>').join('')+'<li class="'+(p.cs.length>=2?'ok':p.cs.length?'half':'no')+'">'+(p.cs.length>=2?'✔ ':p.cs.length?'◐ ':'✘ ')+'Verbindungswörter: '+(p.cs.length?esc(p.cs.join(', ')):'keine')+'</li></ul>':'<p>Kein Text für diesen Teil.</p>'});
  h+='<p><b>Formale Richtigkeit (Grammatik)</b></p>';
  if(ltOk)h+=st.lt2.m.length?'<p>'+st.lt2.m.length+' mögliche Fehler:</p><ul class="rl">'+st.lt2.m.map(m=>'<li class="no">✘ „'+esc(m.bad)+'“'+(m.rep?' → <b>'+esc(m.rep)+'</b>':'')+' <small>('+wsCat(m.cat)+')</small></li>').join('')+'</ul>':'<p>Keine Fehler gefunden. Sehr gut!</p>';
