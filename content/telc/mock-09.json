@@ -5,42 +5,42 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Wer im Dezember heiraten möchte, muss den Termin beim Standesamt mindestens drei Monate vorher anmelden. Die Gebühr beträgt 80 Euro. Trauzeugen sind nicht vorgeschrieben, aber viele Paare wünschen sie sich.</p><p><b>2</b>&nbsp; Das Stadtfest findet am ersten Juliwochenende statt. Auf drei Bühnen spielen Bands aus der Region, die Kinder können basteln und schminken. Der Eintritt ist frei, nur das Essen kostet Geld.</p><p><b>3</b>&nbsp; Die Familie Weber sucht für den Sommer eine Betreuung für ihre beiden Kinder (3 und 6 Jahre). Gesucht wird jemand, der montags bis donnerstags von acht bis fünfzehn Uhr Zeit hat und etwas kochen kann.</p><p><b>4</b>&nbsp; Wer seine Oma oder seinen Opa im Pflegeheim besuchen möchte, braucht keinen Termin mehr. Die Besuchszeiten sind täglich von 10 bis 18 Uhr. Kinder unter 12 Jahren müssen von Erwachsenen begleitet werden.</p><p><b>5</b>&nbsp; Nach 40 Jahren in der Firma geht Herr Brandt in den Ruhestand. Seine Kollegen laden alle Mitarbeiter am Freitag um 16 Uhr in die Kantine ein. Jeder bringt etwas zu essen mit, Getränke gibt es von der Firma.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Abschiedsfeier im Betrieb<br><b>b</b>&nbsp; Hochzeit planen<br><b>c</b>&nbsp; Kinderbetreuung gesucht<br><b>d</b>&nbsp; Musik und Spaß für die ganze Stadt<br><b>e</b>&nbsp; Besuch im Seniorenheim<br><b>f</b>&nbsp; Streit unter Nachbarn<br><b>g</b>&nbsp; Neues Kinderbuch erschienen<br><b>h</b>&nbsp; Geburtstag mit Überraschung<br><b>i</b>&nbsp; Umzug ins Ausland<br><b>j</b>&nbsp; Schulfest abgesagt</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Wer im Dezember heiraten möchte, muss den Termin beim Standesamt bis spätestens Ende September anmelden. Dabei sind Ausweis, Geburtsurkunde und eine Meldebescheinigung vorzulegen. Das Brautpaar kann zwischen drei Trauzimmern wählen. Die Gebühr beträgt 80 Euro. Termine am Wochenende sind schnell vergeben.</p><p><b>2</b>&nbsp; Das Stadtfest findet am ersten Juliwochenende statt. Auf drei Bühnen spielen lokale Bands, es gibt Stände mit Essen und Spielen für Kinder. Am Samstagabend endet das Fest mit einem Feuerwerk. Der Eintritt ist frei. Die Innenstadt ist für Autos gesperrt, Parkplätze gibt es am Stadion mit Pendelbus.</p><p><b>3</b>&nbsp; Die Familie Weber sucht für den Sommer eine Betreuung für ihre beiden Kinder, drei und sechs Jahre alt. Gebraucht wird jemand von Juli bis August, montags bis freitags von 8 bis 13 Uhr. Wir wohnen in der Südstadt. Sie sollten Kinder mögen und möglichst Erfahrung haben. Wir zahlen 12 Euro pro Stunde. Telefon 0172 / 5 55 12.</p><p><b>4</b>&nbsp; Wer seine Oma oder seinen Opa im Pflegeheim besuchen möchte, kann dies täglich zwischen 10 und 18 Uhr tun. Besucher müssen sich am Empfang eintragen. Kinder sind willkommen, sollten aber nicht allein kommen. In der Cafeteria können Gäste und Bewohner gemeinsam Kaffee trinken. Lebensmittel bitte vorher mit dem Personal abstimmen.</p><p><b>5</b>&nbsp; Nach 40 Jahren in der Firma geht Herr Brandt in den Ruhestand. Zu seinem Abschied laden die Kollegen alle Mitarbeiter am Freitag um 15 Uhr in die Kantine ein. Es gibt Kuchen und Getränke. Wer ein Geschenk beisteuern möchte, kann sich bei Frau Keller melden. Wir freuen uns auf viele Gäste und gemeinsame Erinnerungen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Gemeinsam auf eine lange Zeit zurückblicken<br><b>b</b>&nbsp; Vorbereitung für den schönsten Tag<br><b>c</b>&nbsp; Aushilfe für die Ferienzeit gesucht<br><b>d</b>&nbsp; Ein Wochenende voller Unterhaltung<br><b>e</b>&nbsp; Regeln für Verwandtenbesuche<br><b>f</b>&nbsp; Familie sucht Wohnung in Stadtmitte<br><b>g</b>&nbsp; Ärger mit der Nachbarschaft<br><b>h</b>&nbsp; Neues Buch für Kinder erschienen<br><b>i</b>&nbsp; Schulfest fällt aus<br><b>j</b>&nbsp; Geburtstag mit Überraschungen</div>",
    "items": [
     {
      "id": "l1",
      "q": "Text 1",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Termin beim Standesamt → Hochzeit planen (b)."
+     "why": "Passt zu „Vorbereitung für den schönsten Tag“."
     },
     {
      "id": "l2",
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Stadtfest, Bands, Kinder → d."
+     "why": "Passt zu „Ein Wochenende voller Unterhaltung“."
     },
     {
      "id": "l3",
      "q": "Text 3",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Betreuung für zwei Kinder → c."
+     "why": "Passt zu „Aushilfe für die Ferienzeit gesucht“."
     },
     {
      "id": "l4",
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Besuchszeiten im Pflegeheim → e."
+     "why": "Passt zu „Regeln für Verwandtenbesuche“."
     },
     {
      "id": "l5",
      "q": "Text 5",
      "letters": "abcdefghij",
      "key": "a",
-     "why": "Ruhestand, Kollegen feiern → a."
+     "why": "Passt zu „Gemeinsam auf eine lange Zeit zurückblicken“."
     }
    ]
   },

@@ -5,42 +5,42 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Firma Meier & Söhne sucht ab sofort eine Aushilfe für das Lager. Arbeitszeit: Montag bis Freitag, 8 bis 12 Uhr. Bewerbungen bitte direkt an das Personalbüro.</p><p><b>2</b>&nbsp; Das Arbeitsamt bietet im März einen Bewerbungskurs an. Sie lernen, einen Lebenslauf zu schreiben und sich im Gespräch gut zu zeigen. Der Kurs ist kostenlos und dauert drei Tage.</p><p><b>3</b>&nbsp; Wegen einer Betriebsversammlung ist die Firma am Freitag von 12 bis 14 Uhr telefonisch nicht erreichbar. Danach sind wir wie gewohnt für Sie da.</p><p><b>4</b>&nbsp; Ab dem 1. April können alle Mitarbeiter zwei Tage pro Woche von zu Hause arbeiten. Bitte sprechen Sie vorher mit Ihrer Abteilungsleitung.</p><p><b>5</b>&nbsp; Der Betriebsrat lädt alle Kolleginnen und Kollegen zum Sommerfest am 20. Juli ein. Es gibt Essen, Musik und Spiele für Kinder. Familie ist willkommen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Arbeiten von zu Hause erlaubt<br><b>b</b>&nbsp; Aushilfe im Lager gesucht<br><b>c</b>&nbsp; Hilfe bei der Bewerbung<br><b>d</b>&nbsp; Kurz nicht zu erreichen<br><b>e</b>&nbsp; Feiern mit der Familie<br><b>f</b>&nbsp; Neue Büros in Frankfurt<br><b>g</b>&nbsp; Gehalt steigt<br><b>h</b>&nbsp; Kantine zieht um<br><b>i</b>&nbsp; Fortbildung für Chefs<br><b>j</b>&nbsp; Firma sucht Geschäftsführer</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Firma Meier & Söhne sucht ab sofort eine Aushilfe für das Lager. Sie packen Pakete, sortieren Waren und helfen beim Beladen der Lastwagen. Körperliche Arbeit macht Ihnen nichts aus, und Sie sind zuverlässig. Arbeitszeit: 20 Stunden pro Woche, nach Absprache. Bezahlung: 13 Euro pro Stunde. Bewerbungen bitte persönlich im Büro.</p><p><b>2</b>&nbsp; Das Arbeitsamt bietet im März einen Bewerbungskurs an. An drei Vormittagen lernen die Teilnehmer, wie man einen Lebenslauf schreibt, ein Anschreiben formuliert und sich im Vorstellungsgespräch verhält. Außerdem werden Bewerbungsfotos gemacht. Der Kurs ist kostenlos. Anmeldung bei der Agentur. Plätze sind begrenzt.</p><p><b>3</b>&nbsp; Wegen einer Betriebsversammlung ist die Firma am Dienstag zwischen 10 und 13 Uhr nicht erreichbar. Alle Mitarbeiter nehmen daran teil. Anrufer können eine Nachricht auf dem Anrufbeantworter hinterlassen; wir melden uns ab 13 Uhr zurück. Dringende Lieferungen bitten wir vorher anzukündigen. Wir bitten um Verständnis.</p><p><b>4</b>&nbsp; Ab dem 1. April können alle Mitarbeiter zwei Tage pro Woche zu Hause arbeiten. Voraussetzung ist ein ruhiger Arbeitsplatz und eine stabile Internetverbindung. Die Firma stellt den Laptop. Die Abteilungsleiter legen gemeinsam mit den Teams fest, wer an welchem Tag zu Hause bleibt, damit das Büro nicht leer ist.</p><p><b>5</b>&nbsp; Der Betriebsrat lädt alle Kolleginnen und Kollegen mit ihren Familien zum Sommerfest am 14. Juni ein. Es gibt Grillen, Musik und ein Programm für Kinder. Beginn ist um 14 Uhr auf dem Firmengelände. Getränke sind frei. Bitte melden Sie sich bis zum 1. Juni mit der Zahl der Personen an.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Arbeitsort nicht mehr nur das Büro<br><b>b</b>&nbsp; Teilzeitjob für kräftige Hände<br><b>c</b>&nbsp; Tipps für die Jobsuche<br><b>d</b>&nbsp; Kurze Pause im Betrieb<br><b>e</b>&nbsp; Einladung zu einem gemeinsamen Nachmittag<br><b>f</b>&nbsp; Firma sucht Leiter für die Abteilung<br><b>g</b>&nbsp; Höhere Löhne ab Juli<br><b>h</b>&nbsp; Neue Büros in Frankfurt<br><b>i</b>&nbsp; Seminar für Führungskräfte<br><b>j</b>&nbsp; Kantine zieht um</div>",
    "items": [
     {
      "id": "l1",
      "q": "Text 1",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Text 1: Eine Aushilfe für das Lager wird gesucht → b."
+     "why": "Passt zu „Teilzeitjob für kräftige Hände“."
     },
     {
      "id": "l2",
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Text 2: Ein Kurs hilft beim Lebenslauf und im Gespräch → c. „Bewerbung“ ist der Oberbegriff."
+     "why": "Passt zu „Tipps für die Jobsuche“."
     },
     {
      "id": "l3",
      "q": "Text 3",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Text 3: Die Firma ist zwei Stunden telefonisch nicht da → d. „Kurz“ passt zu „von 12 bis 14 Uhr“."
+     "why": "Passt zu „Kurze Pause im Betrieb“."
     },
     {
      "id": "l4",
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "a",
-     "why": "Text 4: Mitarbeiter dürfen zwei Tage zu Hause arbeiten → a."
+     "why": "Passt zu „Arbeitsort nicht mehr nur das Büro“."
     },
     {
      "id": "l5",
      "q": "Text 5",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Text 5: Das Sommerfest ist für die ganze Familie → e."
+     "why": "Passt zu „Einladung zu einem gemeinsamen Nachmittag“."
     }
    ]
   },

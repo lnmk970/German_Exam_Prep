@@ -5,42 +5,42 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Ab dem 1. Mai ist die Praxis von Dr. Hahn dienstags geschlossen. Termine gibt es weiterhin montags, mittwochs, donnerstags und freitags. In dringenden Fällen wenden Sie sich bitte an die Praxis von Dr. Lang.</p><p><b>2</b>&nbsp; Der Vermieter hat angekündigt, dass im Mai das Treppenhaus renoviert wird. Die Arbeiten dauern zwei Wochen. Mieter sollen in dieser Zeit ihre Fahrräder nicht im Flur abstellen.</p><p><b>3</b>&nbsp; Wer im Winter an einer Erkältung leidet, sollte viel trinken und sich ausruhen. Antibiotika helfen bei einer Erkältung nicht. Wenn das Fieber nach drei Tagen nicht sinkt, sollte man zum Arzt gehen.</p><p><b>4</b>&nbsp; Die Stadt sucht Mieter für 40 neue Sozialwohnungen. Wer wenig Einkommen hat, kann sich bis Ende des Monats bewerben. Die Wohnungen sind 2 bis 4 Zimmer groß, die Miete liegt bei 6 Euro pro Quadratmeter.</p><p><b>5</b>&nbsp; Immer mehr Deutsche schlafen schlecht. Experten raten, abends keine schweren Mahlzeiten zu essen, auf Kaffee zu verzichten und das Handy früh auszuschalten. Das Schlafzimmer sollte kühl und dunkel sein.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Praxis an einem Tag zu<br><b>b</b>&nbsp; Günstige Wohnungen für Familien<br><b>c</b>&nbsp; Besser schlafen in 3 Schritten<br><b>d</b>&nbsp; Treppenhaus wird schön<br><b>e</b>&nbsp; Tipps gegen den Schnupfen<br><b>f</b>&nbsp; Neues Krankenhaus eröffnet<br><b>g</b>&nbsp; Mietpreise in der Stadt<br><b>h</b>&nbsp; Sport im Alter<br><b>i</b>&nbsp; Impfung für Kinder<br><b>j</b>&nbsp; Umzug leicht gemacht</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Praxis von Dr. Hahn bleibt wegen eines Umbaus am Freitag, dem 6. Mai, für einen Tag geschlossen. Es geht um Arbeiten an der Elektrik. Patienten mit einem Termin an diesem Tag werden telefonisch informiert und bekommen einen neuen. In dringenden Fällen hilft die Vertretung in der Bahnhofstraße 5, Telefon 4 55 10.</p><p><b>2</b>&nbsp; Der Vermieter hat angekündigt, dass im Mai das Treppenhaus des Wohnblocks in der Lindenstraße gestrichen wird. Die Arbeiten dauern etwa zwei Wochen. Die Bewohner sollen in dieser Zeit ihre Fahrräder und Schuhschränke aus dem Flur entfernen. Auch das Geländer wird erneuert. Die Miete bleibt unverändert.</p><p><b>3</b>&nbsp; Im Winter sind viele Menschen erkältet. Wer Husten und eine laufende Nase hat, sollte viel trinken, sich ausruhen und nicht gleich zum Arzt gehen. Warmer Tee, Inhalieren und frische Luft helfen oft schon. Nur bei hohem Fieber oder wenn die Beschwerden länger als eine Woche dauern, ist ein Arztbesuch sinnvoll. Antibiotika helfen bei Viren nicht.</p><p><b>4</b>&nbsp; Die Stadt baut in der Siedlung am Fluss 40 neue Wohnungen mit niedriger Miete. Sie sind für Familien mit kleinem Einkommen bestimmt. Interessenten müssen sich bis Ende Juni im Rathaus bewerben und ihr Gehalt nachweisen. Die Auswahl erfolgt im Juli, im Herbst können die ersten Mieter einziehen.</p><p><b>5</b>&nbsp; Wer schlecht schläft, ist tagsüber müde und nervös. Forscher haben herausgefunden, dass immer mehr Deutsche weniger als sechs Stunden pro Nacht schlafen. Experten raten, abends nicht mehr auf das Handy zu schauen, das Schlafzimmer kühl zu halten und jeden Tag zur gleichen Zeit ins Bett zu gehen. Wer trotzdem nicht einschlafen kann, sollte mit dem Arzt sprechen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Vorübergehend keine Sprechstunde<br><b>b</b>&nbsp; Bezahlbarer Wohnraum für Familien<br><b>c</b>&nbsp; Ruhige Nächte durch gute Gewohnheiten<br><b>d</b>&nbsp; Frische Farbe für das Haus<br><b>e</b>&nbsp; Richtig reagieren bei Winterkrankheiten<br><b>f</b>&nbsp; Neue Praxis im Stadtzentrum eröffnet<br><b>g</b>&nbsp; Wohnungen werden teurer<br><b>h</b>&nbsp; Grippeimpfung ab Oktober<br><b>i</b>&nbsp; Mieter streiten über Lärm<br><b>j</b>&nbsp; Mehr Sport gegen Rückenschmerzen</div>",
    "items": [
     {
      "id": "l1",
      "q": "Text 1",
      "letters": "abcdefghij",
      "key": "a",
-     "why": "Praxis dienstags geschlossen → a."
+     "why": "Passt zu „Vorübergehend keine Sprechstunde“."
     },
     {
      "id": "l2",
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Treppenhaus renoviert → d."
+     "why": "Passt zu „Frische Farbe für das Haus“."
     },
     {
      "id": "l3",
      "q": "Text 3",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Erkältung, Tipps → e."
+     "why": "Passt zu „Richtig reagieren bei Winterkrankheiten“."
     },
     {
      "id": "l4",
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Sozialwohnungen → b."
+     "why": "Passt zu „Bezahlbarer Wohnraum für Familien“."
     },
     {
      "id": "l5",
      "q": "Text 5",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Schlafprobleme → c."
+     "why": "Passt zu „Ruhige Nächte durch gute Gewohnheiten“."
     }
    ]
   },

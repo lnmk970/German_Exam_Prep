@@ -5,42 +5,42 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Stadtapotheke hat am Wochenende Notdienst. In dringenden Fällen können Sie auch nachts klingeln. Bitte legen Sie Ihr Rezept vor.</p><p><b>2</b>&nbsp; Das Rote Kreuz sucht Blutspender. Am Mittwoch von 14 bis 19 Uhr ist die Spende in der Turnhalle möglich. Jeder gesunde Erwachsene darf kommen. Bitte bringen Sie einen Ausweis mit.</p><p><b>3</b>&nbsp; Ab Juli gibt es in allen Supermärkten der Stadt keine Plastiktüten mehr. Kunden können Stofftaschen kaufen oder eigene Taschen mitbringen.</p><p><b>4</b>&nbsp; Die Laufgruppe des Turnvereins trifft sich jeden Sonntag um neun Uhr am Stadtpark. Anfänger sind willkommen. Die Teilnahme ist kostenlos.</p><p><b>5</b>&nbsp; Das Kino im Hof des Museums zeigt im August jeden Freitagabend einen Film. Bei Regen fällt die Vorstellung aus. Der Eintritt kostet sechs Euro.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Apotheke auch nachts erreichbar<br><b>b</b>&nbsp; Blut spenden und Leben retten<br><b>c</b>&nbsp; Schluss mit Plastiktüten<br><b>d</b>&nbsp; Neue Ärzte im Stadtteil<br><b>e</b>&nbsp; Gemeinsam joggen<br><b>f</b>&nbsp; Filme unter freiem Himmel<br><b>g</b>&nbsp; Preise für Bahnkarten steigen<br><b>h</b>&nbsp; Eltern-Kind-Café eröffnet<br><b>i</b>&nbsp; Müll richtig trennen<br><b>j</b>&nbsp; Fahrradtour am Sonntag</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Am kommenden Wochenende ist die Stadtapotheke am Marktplatz auch nachts geöffnet. Wer am Samstag oder Sonntag dringend ein Medikament braucht, kann dort rund um die Uhr klingeln. Die Mitarbeiter beraten auch am Telefon. Die Nummer steht an der Tür und im Internet. Die Notdienstapotheke wechselt jede Woche.</p><p><b>2</b>&nbsp; Das Rote Kreuz sucht Spender. Am Mittwoch von 14 bis 19 Uhr kann man in der Turnhalle der Grundschule Blut abgeben. Man muss mindestens 18 Jahre alt und gesund sein. Bitte Ausweis mitbringen. Nach der Spende gibt es einen Imbiss. Besonders gebraucht wird Blut der Gruppe 0.</p><p><b>3</b>&nbsp; Ab Juli bekommen Kunden in den Supermärkten der Stadt keine kostenlosen Tüten aus Kunststoff mehr. Wer keinen eigenen Beutel mitbringt, muss Papiertüten oder Stoffbeutel kaufen. Die Stadt will damit weniger Müll auf den Straßen und in den Flüssen. Die Händler unterstützen die Regel; Stoffbeutel kosten ab einem Euro.</p><p><b>4</b>&nbsp; Die Laufgruppe des Turnvereins trifft sich jeden Dienstag und Donnerstag um 18 Uhr am Parkplatz des Stadions. Es gibt drei Gruppen: für Anfänger, Fortgeschrittene und Schnelle. Man läuft zwischen 5 und 10 Kilometer. Neue Teilnehmer sind jederzeit willkommen und können kostenlos mitmachen. Bitte feste Schuhe mitbringen.</p><p><b>5</b>&nbsp; Das Kino im Hof des Museums zeigt im August jeden Freitag einen Film. Die Vorführungen beginnen bei Sonnenuntergang, gegen 21 Uhr. Man kann Decken und Kissen mitbringen. Bei Regen fällt die Vorstellung aus. Das Programm hängt am Eingang. Der Eintritt kostet 5 Euro, für Kinder 3 Euro.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Medikamente in der Nacht<br><b>b</b>&nbsp; Aufruf an alle Gesunden<br><b>c</b>&nbsp; Einkaufen ohne Kunststoff<br><b>d</b>&nbsp; Neue Ärzte im Stadtteil<br><b>e</b>&nbsp; Sport in der Gemeinschaft<br><b>f</b>&nbsp; Abendunterhaltung im Freien<br><b>g</b>&nbsp; Preise für Bahnkarten steigen<br><b>h</b>&nbsp; Müll richtig trennen<br><b>i</b>&nbsp; Fahrradtour am Sonntag<br><b>j</b>&nbsp; Eltern-Kind-Café eröffnet</div>",
    "items": [
     {
      "id": "l1",
      "q": "Text 1",
      "letters": "abcdefghij",
      "key": "a",
-     "why": "Text 1: Notdienst, nachts klingeln → a „Apotheke auch nachts erreichbar“."
+     "why": "Passt zu „Medikamente in der Nacht“."
     },
     {
      "id": "l2",
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Text 2: Blutspender gesucht → b."
+     "why": "Passt zu „Aufruf an alle Gesunden“."
     },
     {
      "id": "l3",
      "q": "Text 3",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Text 3: keine Plastiktüten mehr → c. „Müll trennen“ (i) wird nicht erwähnt."
+     "why": "Passt zu „Einkaufen ohne Kunststoff“."
     },
     {
      "id": "l4",
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Text 4: Laufgruppe trifft sich sonntags → e „Gemeinsam joggen“. Die Fahrradtour (j) ist ein anderes Thema."
+     "why": "Passt zu „Sport in der Gemeinschaft“."
     },
     {
      "id": "l5",
      "q": "Text 5",
      "letters": "abcdefghij",
      "key": "f",
-     "why": "Text 5: Kino im Hof, Freitagabend → f „Filme unter freiem Himmel“."
+     "why": "Passt zu „Abendunterhaltung im Freien“."
     }
    ]
   },

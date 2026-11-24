@@ -5,42 +5,42 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Hausverwaltung informiert: Am Mittwoch wird von 9 bis 12 Uhr das Wasser abgestellt, weil im Keller eine Leitung repariert wird. Bitte füllen Sie vorher Wasser in Behälter.</p><p><b>2</b>&nbsp; Im Hof des Hauses Nummer 12 gibt es ab Mai einen Gemeinschaftsgarten. Wer mitmachen möchte, trägt sich in die Liste im Treppenhaus ein. Werkzeug ist vorhanden.</p><p><b>3</b>&nbsp; Wegen der Straßenarbeiten ist die Hauptstraße bis zum 30. Juni für Autos gesperrt. Busse und Radfahrer können durchfahren. Anwohner dürfen ihre Garagen wie gewohnt benutzen.</p><p><b>4</b>&nbsp; Die Stadtwerke bitten alle Haushalte, ihren Stromzähler bis zum 15. Januar abzulesen. Die Zahlen können online, per Post oder telefonisch durchgegeben werden.</p><p><b>5</b>&nbsp; Der Mieterverein bietet jeden ersten Montag im Monat eine kostenlose Beratung an. Es geht um Fragen zu Mietvertrag, Nebenkosten und Kündigung. Eine Anmeldung ist nicht nötig.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Rat bei Problemen mit der Wohnung<br><b>b</b>&nbsp; Zählerstand melden<br><b>c</b>&nbsp; Gärtnern mit den Nachbarn<br><b>d</b>&nbsp; Straße teilweise gesperrt<br><b>e</b>&nbsp; Kein Wasser am Vormittag<br><b>f</b>&nbsp; Neue Müllabfuhr<br><b>g</b>&nbsp; Wohnung zu vermieten<br><b>h</b>&nbsp; Lärm im Treppenhaus<br><b>i</b>&nbsp; Umzug nach Köln<br><b>j</b>&nbsp; Strom wird billiger</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Hausverwaltung informiert: Am Mittwoch wird die Wasserleitung im Haus repariert. Zwischen 8 und 12 Uhr ist deshalb kein Wasser vorhanden. Bitte füllen Sie rechtzeitig Eimer oder Flaschen. Auch die Toiletten können in dieser Zeit nicht benutzt werden. Sollte es länger dauern, wird ein Zettel im Treppenhaus aufgehängt.</p><p><b>2</b>&nbsp; Im Hof des Hauses Nummer 12 gibt es ab Mai einen Gemeinschaftsgarten. Alle Mieter dürfen dort Salat, Tomaten und Kräuter anbauen. Die Beete werden von der Hausverwaltung angelegt, Erde und Samen sind kostenlos. Wer mitmachen möchte, trägt sich auf der Liste im Eingang ein. Das erste Treffen ist am 3. Mai um 17 Uhr.</p><p><b>3</b>&nbsp; Wegen der Straßenarbeiten ist die Hauptstraße bis Ende August zwischen Marktplatz und Bahnhof nur in einer Richtung befahrbar. Autofahrer werden über die Gartenstraße umgeleitet. Die Haltestellen der Buslinie 5 werden verlegt. Fußgänger können den Gehweg weiter benutzen. Anwohner dürfen bis zu den Häusern fahren.</p><p><b>4</b>&nbsp; Die Stadtwerke bitten alle Haushalte, ihren Stromzählerstand bis zum 15. Dezember mitzuteilen. Das geht telefonisch, auf der Internetseite oder mit der Postkarte, die in diesen Tagen im Briefkasten liegt. Wer nichts meldet, bekommt eine geschätzte Rechnung, die höher oder niedriger sein kann als der tatsächliche Verbrauch.</p><p><b>5</b>&nbsp; Der Mieterverein bietet jeden ersten Montag im Monat von 17 bis 19 Uhr eine kostenlose Sprechstunde an. Juristen beantworten Fragen zu Miete, Nebenkosten, Kündigung und Mängeln in der Wohnung. Bitte Unterlagen wie den Mietvertrag mitbringen. Eine Anmeldung ist nicht nötig, Mitglieder haben Vorrang.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Fachleute helfen bei Streit mit dem Vermieter<br><b>b</b>&nbsp; Aufforderung an Kunden zur Ablesung<br><b>c</b>&nbsp; Pflanzen und Ernten mit den Nachbarn<br><b>d</b>&nbsp; Verkehr wird umgeleitet<br><b>e</b>&nbsp; Unterbrechung der Versorgung am Vormittag<br><b>f</b>&nbsp; Preissenkung bei der Energie<br><b>g</b>&nbsp; Mehr Mülltonnen für das Haus<br><b>h</b>&nbsp; Rollstuhlgerechte Wohnungen im Neubau<br><b>i</b>&nbsp; Streit wegen Lärm im Treppenhaus<br><b>j</b>&nbsp; Neue Buslinie zum Bahnhof</div>",
    "items": [
     {
      "id": "l1",
      "q": "Text 1",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Text 1: Das Wasser wird für drei Stunden abgestellt → e. „am Vormittag“ passt zu „von 9 bis 12 Uhr“."
+     "why": "Passt zu „Unterbrechung der Versorgung am Vormittag“."
     },
     {
      "id": "l2",
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Text 2: Ein Garten im Hof für alle Hausbewohner → c. „mit den Nachbarn“ passt zu „Gemeinschaftsgarten“."
+     "why": "Passt zu „Pflanzen und Ernten mit den Nachbarn“."
     },
     {
      "id": "l3",
      "q": "Text 3",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Text 3: Autos dürfen nicht durch, Busse und Radfahrer schon → d. Nur „teilweise“ gesperrt."
+     "why": "Passt zu „Verkehr wird umgeleitet“."
     },
     {
      "id": "l4",
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Text 4: Haushalte sollen den Zählerstand durchgeben → b. „Stromzähler ablesen“ = „Zählerstand melden“."
+     "why": "Passt zu „Aufforderung an Kunden zur Ablesung“."
     },
     {
      "id": "l5",
      "q": "Text 5",
      "letters": "abcdefghij",
      "key": "a",
-     "why": "Text 5: Beratung zu Mietvertrag und Kündigung → a. „Probleme mit der Wohnung“ ist der Oberbegriff."
+     "why": "Passt zu „Fachleute helfen bei Streit mit dem Vermieter“."
     }
    ]
   },

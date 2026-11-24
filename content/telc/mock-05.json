@@ -5,42 +5,42 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Der Supermarkt in der Bahnhofstraße hat ab Montag länger geöffnet: Er schließt jetzt erst um 22 Uhr. Am Sonntag bleibt er weiterhin geschlossen.</p><p><b>2</b>&nbsp; Beim Kochkurs für Anfänger lernen Sie vier einfache Gerichte mit Gemüse. Der Kurs findet an drei Abenden statt. Alle Zutaten sind im Preis enthalten.</p><p><b>3</b>&nbsp; Auf dem Marktplatz gibt es jeden Samstag frisches Obst und Gemüse direkt vom Bauern. Wer mit eigener Tasche kommt, bekommt fünf Prozent Rabatt.</p><p><b>4</b>&nbsp; Wegen eines Wasserschadens bleibt das Restaurant „Zur Linde“ bis zum 15. Mai geschlossen. Reservierungen für Feiern können wir in dieser Zeit leider nicht annehmen.</p><p><b>5</b>&nbsp; In unserer Kantine gibt es ab sofort jeden Tag ein vegetarisches Gericht. Die Auswahl wechselt jede Woche. Fragen beantwortet das Küchenteam gern.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Frisch vom Bauern<br><b>b</b>&nbsp; Vorübergehend kein Essen im Lokal<br><b>c</b>&nbsp; Lernen, einfach zu kochen<br><b>d</b>&nbsp; Mehr Zeit zum Einkaufen<br><b>e</b>&nbsp; Neues Angebot ohne Fleisch<br><b>f</b>&nbsp; Neue Preise im Café<br><b>g</b>&nbsp; Lieferservice startet<br><b>h</b>&nbsp; Kochbuch gewonnen<br><b>i</b>&nbsp; Bäckerei sucht Verkäufer<br><b>j</b>&nbsp; Rezepte aus aller Welt</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Der Supermarkt in der Bahnhofstraße hat ab Montag länger geöffnet. Montags bis samstags können Kunden künftig bis 21 Uhr einkaufen, bisher war um 19 Uhr Schluss. Das gilt auch für die Bäckerei im Eingangsbereich. Sonntags bleibt das Geschäft weiterhin geschlossen. Die Geschäftsleitung möchte damit Berufstätigen entgegenkommen.</p><p><b>2</b>&nbsp; Beim Kochkurs für Anfänger lernen Sie vier einfache Gerichte, die schnell gehen und wenig kosten, zum Beispiel Nudeln mit Gemüsesoße und eine Kartoffelsuppe. Der Kurs findet an vier Samstagen von 10 bis 13 Uhr statt. Die Zutaten sind im Preis von 60 Euro enthalten. Am Ende essen alle gemeinsam. Anmeldung bis zum 15. des Monats.</p><p><b>3</b>&nbsp; Auf dem Marktplatz gibt es jeden Samstag von 7 bis 13 Uhr frische Waren von Bauern aus der Umgebung: Gemüse, Obst, Eier, Käse und Brot. Viele Händler verkaufen ihre Produkte direkt vom eigenen Hof. Preise und Qualität sind meist besser als im Laden. Bei schlechtem Wetter bleibt der Markt geöffnet.</p><p><b>4</b>&nbsp; Wegen eines Wasserschadens bleibt das Restaurant „Zur Linde“ bis Ende des Monats geschlossen. Die Besitzer lassen die Küche renovieren. Reservierungen für Feiern in dieser Zeit werden an das Gasthaus Kranz in der Nachbarstraße weitergegeben. Die Wiedereröffnung ist für den 1. des nächsten Monats geplant.</p><p><b>5</b>&nbsp; In unserer Kantine gibt es ab sofort jeden Tag ein Gericht ohne Fleisch und Fisch. Die Köche verwenden dafür Gemüse, Hülsenfrüchte und Getreide aus der Region. Das Menü kostet wie die anderen Gerichte 4,50 Euro. Wer Vorschläge hat, kann sie in die Box am Eingang werfen. Die Rückmeldungen werden jeden Monat ausgewertet.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Regionale Produkte direkt vom Erzeuger<br><b>b</b>&nbsp; Gäste müssen sich gedulden<br><b>c</b>&nbsp; Erste Schritte in der Küche<br><b>d</b>&nbsp; Verlängerter Service am Abend<br><b>e</b>&nbsp; Speiseplan wird erweitert<br><b>f</b>&nbsp; Lieferservice für Senioren startet<br><b>g</b>&nbsp; Neue Preise im Café<br><b>h</b>&nbsp; Bäckerei sucht Verkäufer<br><b>i</b>&nbsp; Rezepte aus aller Welt<br><b>j</b>&nbsp; Gewinnspiel mit Kochbuch</div>",
    "items": [
     {
      "id": "l1",
      "q": "Text 1",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Text 1: Der Supermarkt schließt später → d. „Länger geöffnet“ bedeutet mehr Zeit zum Einkaufen."
+     "why": "Passt zu „Verlängerter Service am Abend“."
     },
     {
      "id": "l2",
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Text 2: Ein Kurs für Anfänger, einfache Gerichte → c. „Lernen, einfach zu kochen“."
+     "why": "Passt zu „Erste Schritte in der Küche“."
     },
     {
      "id": "l3",
      "q": "Text 3",
      "letters": "abcdefghij",
      "key": "a",
-     "why": "Text 3: Obst und Gemüse direkt vom Bauern → a. Das Wort „Bauer“ steht in Text und Überschrift."
+     "why": "Passt zu „Regionale Produkte direkt vom Erzeuger“."
     },
     {
      "id": "l4",
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Text 4: Das Restaurant ist wegen eines Schadens zu → b. „Vorübergehend“ passt zu „bis zum 15. Mai“."
+     "why": "Passt zu „Gäste müssen sich gedulden“."
     },
     {
      "id": "l5",
      "q": "Text 5",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Text 5: Täglich ein vegetarisches Gericht → e. „ohne Fleisch“ ist ein anderes Wort für „vegetarisch“."
+     "why": "Passt zu „Speiseplan wird erweitert“."
     }
    ]
   },

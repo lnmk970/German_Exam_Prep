@@ -5,42 +5,42 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Das Bürgeramt Mitte ist ab nächster Woche dienstags und donnerstags auch bis 19 Uhr geöffnet. Termine können online gebucht werden. Wer keinen Termin hat, muss mit längerer Wartezeit rechnen.</p><p><b>2</b>&nbsp; Der Wochenmarkt auf dem Rathausplatz findet immer mittwochs und samstags statt. Es gibt Obst, Gemüse, Käse und Blumen direkt von den Bauern aus der Region. Parkplätze sind in der Tiefgarage vorhanden.</p><p><b>3</b>&nbsp; Wer in Deutschland ein Auto anmelden möchte, braucht eine Versicherungsbestätigung, den Fahrzeugbrief und einen gültigen Ausweis. Die Gebühr beträgt rund 30 Euro. Die Zulassungsstelle ist in der Bahnhofstraße.</p><p><b>4</b>&nbsp; Ab Montag wird die Hauptstraße zwischen Rathaus und Bahnhof gesperrt, weil die Fernwärme-Leitungen erneuert werden. Die Arbeiten dauern etwa vier Wochen. Busse fahren eine andere Route, Geschäfte bleiben erreichbar.</p><p><b>5</b>&nbsp; Die Stadtbibliothek hat ein neues Angebot: Wer sich ausweist, kann jetzt auch Spiele und Musik ausleihen. Die Leihfrist beträgt vier Wochen. Studenten und Kinder bezahlen keine Jahresgebühr.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Länger geöffnet beim Amt<br><b>b</b>&nbsp; Autos anmelden leicht gemacht<br><b>c</b>&nbsp; Frisch vom Bauern<br><b>d</b>&nbsp; Straße wegen Bauarbeiten zu<br><b>e</b>&nbsp; Mehr als nur Bücher<br><b>f</b>&nbsp; Neues Schwimmbad eröffnet<br><b>g</b>&nbsp; Mietpreise steigen<br><b>h</b>&nbsp; Fahrradwege werden breiter<br><b>i</b>&nbsp; Parkgebühren teurer<br><b>j</b>&nbsp; Stadtführung für Touristen</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Das Bürgeramt Mitte ist ab nächster Woche dienstags und donnerstags bis 19 Uhr geöffnet. Bisher schloss das Amt schon um 16 Uhr. Damit können auch Berufstätige ihre Angelegenheiten erledigen, ohne sich freizunehmen. Termine kann man online buchen; wer ohne Termin kommt, muss mit Wartezeit rechnen. Ausweise und Reisepässe können weiter nur mit Termin beantragt werden.</p><p><b>2</b>&nbsp; Der Wochenmarkt auf dem Rathausplatz findet immer mittwochs und samstags statt, von 8 bis 14 Uhr. Rund 30 Händler bieten Obst, Gemüse, Fleisch und Blumen an. Im Winter ist der Markt kleiner. Außerdem gibt es einen Stand mit warmen Speisen und Getränken. Ein Besuch lohnt sich vor allem am Samstag, wenn auch Bauern aus dem Umland kommen.</p><p><b>3</b>&nbsp; Wer in Deutschland ein Auto anmelden möchte, braucht dafür mehrere Unterlagen: den Fahrzeugbrief, die Versicherungsbestätigung, einen gültigen Personalausweis und einen Nachweis über die Hauptuntersuchung. Die Anmeldung kann man seit diesem Jahr auch im Internet vornehmen, die Kennzeichen kommen dann per Post. Die Gebühr beträgt etwa 30 Euro.</p><p><b>4</b>&nbsp; Ab Montag wird die Hauptstraße zwischen Rathaus und Bahnhof wegen Bauarbeiten gesperrt. Die Stadt erneuert dort die Wasserleitungen. Die Arbeiten dauern voraussichtlich sechs Wochen. Autofahrer werden über die Ringstraße umgeleitet, die Buslinien 3 und 7 fahren eine andere Strecke. Die Geschäfte bleiben für Fußgänger erreichbar.</p><p><b>5</b>&nbsp; Die Stadtbibliothek hat ein neues Angebot: Wer sich einen Ausweis holt, kann nicht nur Bücher ausleihen, sondern auch Spiele, Werkzeug und sogar Musikinstrumente. Die Leihfrist beträgt zwei Wochen. Der Ausweis kostet 12 Euro im Jahr, für Kinder und Jugendliche ist er kostenlos. Das Angebot soll die Bibliothek für mehr Menschen interessant machen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Mehr Zeit für Behördengänge<br><b>b</b>&nbsp; Neue Wege zum eigenen Fahrzeug<br><b>c</b>&nbsp; Treffpunkt zum Einkaufen unter freiem Himmel<br><b>d</b>&nbsp; Durchfahrt vorübergehend nicht möglich<br><b>e</b>&nbsp; Vielfältiges Angebot zum Leihen<br><b>f</b>&nbsp; Neues Schwimmbad eröffnet<br><b>g</b>&nbsp; Wohnungsmieten steigen<br><b>h</b>&nbsp; Fahrradwege werden breiter<br><b>i</b>&nbsp; Parken im Zentrum wird teurer<br><b>j</b>&nbsp; Stadtführung für Gäste</div>",
    "items": [
     {
      "id": "l1",
      "q": "Text 1",
      "letters": "abcdefghij",
      "key": "a",
-     "why": "Bürgeramt, längere Öffnungszeiten → a."
+     "why": "Passt zu „Mehr Zeit für Behördengänge“."
     },
     {
      "id": "l2",
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Wochenmarkt, Bauern → c."
+     "why": "Passt zu „Treffpunkt zum Einkaufen unter freiem Himmel“."
     },
     {
      "id": "l3",
      "q": "Text 3",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Auto anmelden → b."
+     "why": "Passt zu „Neue Wege zum eigenen Fahrzeug“."
     },
     {
      "id": "l4",
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Straßensperre → d."
+     "why": "Passt zu „Durchfahrt vorübergehend nicht möglich“."
     },
     {
      "id": "l5",
      "q": "Text 5",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Bibliothek verleiht auch Spiele und Musik → e."
+     "why": "Passt zu „Vielfältiges Angebot zum Leihen“."
     }
    ]
   },

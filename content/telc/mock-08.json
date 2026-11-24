@@ -5,42 +5,42 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Wegen Bauarbeiten fahren zwischen Hannover und Göttingen von Freitagabend bis Montagmorgen keine Fernzüge. Reisende können auf Regionalzüge ausweichen, die Fahrkarten bleiben gültig. Eine Fahrt kann kostenlos storniert werden.</p><p><b>2</b>&nbsp; Mit dem neuen Deutschlandticket können Sie für 49 Euro im Monat alle Busse und Regionalzüge im ganzen Land nutzen. Das Ticket ist monatlich kündbar und kann auch online gekauft werden. Fernzüge sind nicht eingeschlossen.</p><p><b>3</b>&nbsp; Die Autobahn A 7 ist wegen eines Unfalls bei Kassel in beide Richtungen gesperrt. Der Verkehr wird über die Landstraße umgeleitet. Autofahrer sollten mit einer Verspätung von bis zu einer Stunde rechnen.</p><p><b>4</b>&nbsp; Ab dem 1. Juni dürfen Fahrräder in den Zügen der Regionalbahn auch in der Hauptverkehrszeit kostenlos mitgenommen werden, wenn noch Platz ist. Bei großen Gruppen ist eine Anmeldung nötig.</p><p><b>5</b>&nbsp; Am Flughafen Düsseldorf wird ab nächster Woche das Parkhaus P 3 renoviert. Kurzzeitparker sollen das Parkhaus P 1 nutzen. Die Preise bleiben gleich. Gäste mit Behinderung dürfen weiterhin die Plätze vor Terminal B benutzen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Verkehrschaos auf der Autobahn<br><b>b</b>&nbsp; Billiger Bus und Bahn im ganzen Land<br><b>c</b>&nbsp; Fahrräder dürfen jetzt mehr<br><b>d</b>&nbsp; Flughafen: Neue Parkplätze für Kurzzeitgäste<br><b>e</b>&nbsp; Streik bei der Bahn<br><b>f</b>&nbsp; Bahnlinie vorübergehend gesperrt<br><b>g</b>&nbsp; Neue Fahrpläne im Sommer<br><b>h</b>&nbsp; Taxi-Preise steigen<br><b>i</b>&nbsp; Mehr Sicherheit am Bahnhof<br><b>j</b>&nbsp; Urlaub mit dem Zug ins Ausland</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Wegen Bauarbeiten fahren zwischen Hannover und Göttingen vom 3. bis zum 24. Juni keine Züge. Die Bahn setzt Ersatzbusse ein, die an allen Bahnhöfen der Strecke halten. Reisende müssen etwa 40 Minuten mehr Fahrzeit einplanen. Fahrräder können in den Bussen nicht mitgenommen werden. Aktuelle Informationen gibt es im Internet.</p><p><b>2</b>&nbsp; Mit dem neuen Deutschlandticket können Sie für 49 Euro im Monat in ganz Deutschland alle Busse, Straßenbahnen und Regionalzüge nutzen. Das Ticket gibt es nur als Abonnement, es lässt sich jeden Monat kündigen. Man kann es per App oder im Kundenzentrum kaufen. Für Fernzüge wie den ICE gilt es nicht.</p><p><b>3</b>&nbsp; Die Autobahn A 7 ist wegen eines Unfalls bei Kassel in Richtung Süden gesperrt. Ein Lastwagen ist umgekippt und hat Ladung verloren. Es gibt acht Kilometer Stau. Die Polizei empfiehlt, die Strecke großräumig zu umfahren. Die Aufräumarbeiten dauern voraussichtlich bis zum Abend.</p><p><b>4</b>&nbsp; Ab dem 1. Juni dürfen Fahrräder in den Zügen der Regionalbahn kostenlos mitgenommen werden, auch zu Stoßzeiten. Bisher war das morgens und am späten Nachmittag verboten. Die Bahn hat dafür zusätzliche Plätze eingerichtet. Wer sein Fahrrad mitnimmt, muss es selbst sichern. In überfüllten Zügen kann das Personal die Mitnahme ablehnen.</p><p><b>5</b>&nbsp; Am Flughafen Düsseldorf wird ab nächster Woche das Parkhaus P3 für Kurzparker eingerichtet. Wer weniger als zwei Stunden bleibt, zahlt nur 3 Euro und muss kein Ticket ziehen. Das Kennzeichen wird automatisch erkannt. Damit soll die Zufahrt zum Terminal entlastet werden, weil dort oft Stau entsteht.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Lange Wartezeiten für Autofahrer<br><b>b</b>&nbsp; Ein Preis für viele Fahrten<br><b>c</b>&nbsp; Neue Regeln für Radfahrer<br><b>d</b>&nbsp; Mehr Platz für Abholer und Besucher<br><b>e</b>&nbsp; Preise für Taxifahrten steigen<br><b>f</b>&nbsp; Ersatz für ausfallende Verbindungen<br><b>g</b>&nbsp; Neue Sommerfahrpläne ab Juli<br><b>h</b>&nbsp; Mehr Kontrollen am Bahnhof<br><b>i</b>&nbsp; Streik bei der Fluggesellschaft<br><b>j</b>&nbsp; Urlaub mit dem Nachtzug</div>",
    "items": [
     {
      "id": "l1",
      "q": "Text 1",
      "letters": "abcdefghij",
      "key": "f",
-     "why": "Fernzüge fahren nicht (Bauarbeiten): Bahnlinie gesperrt → f."
+     "why": "Passt zu „Ersatz für ausfallende Verbindungen“."
     },
     {
      "id": "l2",
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "49-Euro-Ticket für Bus und Bahn → b."
+     "why": "Passt zu „Ein Preis für viele Fahrten“."
     },
     {
      "id": "l3",
      "q": "Text 3",
      "letters": "abcdefghij",
      "key": "a",
-     "why": "Unfall, Sperrung, Umleitung → a."
+     "why": "Passt zu „Lange Wartezeiten für Autofahrer“."
     },
     {
      "id": "l4",
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Fahrradmitnahme wird erleichtert → c."
+     "why": "Passt zu „Neue Regeln für Radfahrer“."
     },
     {
      "id": "l5",
      "q": "Text 5",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Parkhaus P 3 renoviert, Kurzzeitparker nutzen P 1 → d."
+     "why": "Passt zu „Mehr Platz für Abholer und Besucher“."
     }
    ]
   },
