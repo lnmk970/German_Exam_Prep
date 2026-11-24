@@ -533,10 +533,10 @@
     },
     {
      "id": "h20",
-     "q": "Die Lieferung ist immer kostenlos.",
+     "q": "Kleine Bestellungen kosten extra.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     }
    ]
   }

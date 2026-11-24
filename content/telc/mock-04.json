@@ -533,10 +533,10 @@
     },
     {
      "id": "h20",
-     "q": "Der Rabatt gilt noch im Juli.",
+     "q": "Wer zu zweit kommt, bekommt ein Buch geschenkt.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     }
    ]
   }

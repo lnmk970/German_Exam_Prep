@@ -414,10 +414,10 @@
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin arbeitet mit anderen daran, ihr Viertel zu verbessern.",
+     "q": "Die Stadtverwaltung unterstützt die Initiative nicht.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -533,10 +533,10 @@
     },
     {
      "id": "h20",
-     "q": "Das Fundbüro hat jeden Tag geöffnet.",
+     "q": "Man kann Fundsachen nur zu bestimmten Zeiten abholen.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     }
    ]
   }

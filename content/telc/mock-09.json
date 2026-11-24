@@ -414,10 +414,10 @@
     },
     {
      "id": "h5",
-     "q": "Das Fest hat das Verhältnis zwischen den Nachbarn verbessert.",
+     "q": "Das Straßenfest wird in diesem Jahr zum ersten Mal organisiert.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -470,10 +470,10 @@
     },
     {
      "id": "h12",
-     "q": "Sie verbringen ihren Urlaub bei Verwandten.",
+     "q": "Die Fahrt zu den Verwandten ist in wenigen Stunden zu schaffen.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h13",

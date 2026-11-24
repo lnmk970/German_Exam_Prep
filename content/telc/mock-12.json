@@ -414,10 +414,10 @@
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin schätzt es, ihr Tempo selbst zu bestimmen.",
+     "q": "Die Sprecherin besucht Museen am liebsten mit Freunden.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },

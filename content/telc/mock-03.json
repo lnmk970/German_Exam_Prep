@@ -477,10 +477,10 @@
     },
     {
      "id": "h13",
-     "q": "Das Geschäft hat Schwierigkeiten, Kunden zu finden.",
+     "q": "Das Geschäft läuft gut und hat schon Angestellte.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     },
     {
      "id": "h14",
@@ -533,10 +533,10 @@
     },
     {
      "id": "h20",
-     "q": "Auch Sportjacken sind um zwanzig Prozent billiger.",
+     "q": "Sportjacken sind stärker reduziert als Laufschuhe.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     }
    ]
   }

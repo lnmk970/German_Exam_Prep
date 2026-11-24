@@ -414,10 +414,10 @@
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin sucht eine Stelle, weil ihr Betrieb nicht mehr existiert.",
+     "q": "Die Sprecherin hat selbst gekündigt, um etwas Neues zu suchen.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -491,10 +491,10 @@
     },
     {
      "id": "h15",
-     "q": "Ein Verwandter von ihr könnte später die Firma weiterführen.",
+     "q": "Sie will die Werkstatt in den nächsten zwei Jahren an ihren Sohn übergeben.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -505,10 +505,10 @@
    "items": [
     {
      "id": "h16",
-     "q": "Im Sommer ist die Personalabteilung zwei Wochen lang nicht zu sprechen.",
+     "q": "Bewerbungen werden im August nicht angenommen.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",

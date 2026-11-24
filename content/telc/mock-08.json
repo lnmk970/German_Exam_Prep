@@ -519,10 +519,10 @@
     },
     {
      "id": "h18",
-     "q": "Das Taxi kommt um sechs Uhr.",
+     "q": "Das Taxi wartet nur kurze Zeit.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     },
     {
      "id": "h19",

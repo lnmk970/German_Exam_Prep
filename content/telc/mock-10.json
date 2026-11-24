@@ -414,10 +414,10 @@
     },
     {
      "id": "h5",
-     "q": "Die Eltern begrenzen die Bildschirmzeit der Kinder.",
+     "q": "Die Kinder dürfen so lange vor dem Bildschirm sitzen, wie sie möchten.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -477,10 +477,10 @@
     },
     {
      "id": "h13",
-     "q": "Seine Kollegen müssen sich an seine Erreichbarkeit anpassen.",
+     "q": "Seine Kollegen haben sich nie über seine Erreichbarkeit beschwert.",
      "tf": true,
-     "key": "r",
-     "why": "Richtig."
+     "key": "f",
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
@@ -533,10 +533,10 @@
     },
     {
      "id": "h20",
-     "q": "Man kann die Bücher in dieser Zeit nicht zurückgeben.",
+     "q": "Die Bibliothek bleibt wegen des Umbaus länger geschlossen.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     }
    ]
   }

@@ -414,10 +414,10 @@
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin findet ein hohes Gehalt am wichtigsten.",
+     "q": "Die Sprecherin hat ihre letzte Firma wegen der schlechten Stimmung verlassen.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     }
    ]
   },
@@ -533,10 +533,10 @@
     },
     {
      "id": "h20",
-     "q": "Alle Busse fahren wie gewohnt.",
+     "q": "Die Straßenbahnen fahren seltener als sonst.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     }
    ]
   }

@@ -491,10 +491,10 @@
     },
     {
      "id": "h15",
-     "q": "Mieter sollten die Fenster den ganzen Tag gekippt lassen.",
+     "q": "Mieter sollten die Fenster nicht ständig offen lassen.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     }
    ]
   },
@@ -526,10 +526,10 @@
     },
     {
      "id": "h19",
-     "q": "Herr Schulte ist nur eine Woche weg.",
+     "q": "Herr Schulte ist auch in den nächsten Tagen noch nicht im Büro.",
      "tf": true,
-     "key": "f",
-     "why": "Falsch: im Text steht etwas anderes."
+     "key": "r",
+     "why": "Richtig."
     },
     {
      "id": "h20",
