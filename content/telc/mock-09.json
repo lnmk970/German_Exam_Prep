@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -782,7 +782,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Sofort. Es ist laut und anstrengend, aber wenn abends alle am Tisch sitzen und lachen, weiß ich, warum ich das mache.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -878,7 +878,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -908,7 +908,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -926,7 +926,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -944,7 +944,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -962,7 +962,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -980,8 +980,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 596,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

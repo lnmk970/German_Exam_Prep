@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -770,7 +770,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Heizkörper nicht zustellen, richtig lüften, also kurz und kräftig, und die Temperatur im Schlafzimmer niedriger halten. Und mit dem Vermieter sprechen. Die Fenster den ganzen Tag gekippt zu lassen, ist dagegen keine gute Idee.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -854,7 +854,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -884,7 +884,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Hausverwaltung Maier. Wegen Wartungsarbeiten wird am Dienstag zwischen neun und elf Uhr der Aufzug nicht funktionieren. Bitte planen Sie mehr Zeit ein. Wir entschuldigen uns für die Unannehmlichkeiten.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -902,7 +902,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird der Strom in der Altstadt von dreizehn bis fünfzehn Uhr abgeschaltet. Betroffen sind die Straßen rund um den Marktplatz.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -920,7 +920,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das Möbelhaus Wohnwelt lädt ein zur Küchenwoche. Alle Küchen sind bis zu vierzig Prozent reduziert, die Planung ist kostenlos. Am Samstag gibt es außerdem eine Vorführung moderner Kochgeräte.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -938,7 +938,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Hier ist die Mailbox von Herrn Schulte. Ich bin bis zum fünfzehnten Mai im Urlaub und danach wieder erreichbar. In dringenden Fällen wenden Sie sich bitte an meine Kollegin Frau Weiß.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -956,8 +956,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Die Müllabfuhr informiert: Wegen des Feiertags am Donnerstag verschiebt sich die Abholung der Papiertonne auf Freitag. Die Biotonne wird wie gewohnt abgeholt.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 659,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

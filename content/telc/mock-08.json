@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -782,7 +782,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Vielleicht in ein paar Jahren. Im Moment fehlt mir die Ruhe. Aber ich möchte irgendwann ein Buch schreiben, und dazu braucht man einen festen Platz.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -878,7 +878,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -908,7 +908,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -926,7 +926,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -944,7 +944,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Das Taxi wartet vor dem Haus. Bitte seien Sie pünktlich, die Wartezeit ist auf fünf Minuten begrenzt.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -962,7 +962,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Gäste, das Hotel Seeblick heißt Sie herzlich willkommen. Das Frühstück gibt es von sieben bis zehn Uhr im Wintergarten. Am Abend sind Sie zu einem Glas Wein auf der Terrasse eingeladen.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -980,8 +980,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Und nun der Wetterbericht für das Wochenende. Am Samstag scheint überall die Sonne, am Sonntag ziehen im Norden Wolken auf. Die Temperaturen steigen bis auf achtundzwanzig Grad.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 610,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

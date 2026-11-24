@@ -45,7 +45,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -129,7 +129,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -213,7 +213,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -243,7 +243,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -261,7 +261,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -279,7 +279,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -297,7 +297,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -315,8 +315,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 614,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

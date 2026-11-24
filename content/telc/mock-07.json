@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -782,7 +782,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Ein Praktikum, am besten mehrere. Und keine Angst vor dem Gehalt: Nach der Probezeit kann man verhandeln.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -878,7 +878,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -908,7 +908,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -926,7 +926,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -944,7 +944,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -962,7 +962,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -980,8 +980,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 630,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

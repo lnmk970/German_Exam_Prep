@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -794,7 +794,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Dass Schulen das Thema stärker aufgreifen. Kinder lernen schnell und tragen es in die Familien. Außerdem hoffe ich, dass bald alle großen Supermärkte Mehrwegsysteme anbieten.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -902,7 +902,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -932,7 +932,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist das Reisebüro Sonnenschein. Unsere Filiale in der Marktstraße ist umgezogen und befindet sich jetzt in der Schillerstraße, direkt neben der Post. Die Öffnungszeiten sind unverändert: Montag bis Freitag von neun bis achtzehn Uhr.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -950,7 +950,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -968,7 +968,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Und nun das Wetter. Heute zieht von Westen Regen auf, im Laufe des Nachmittags erreicht er die Mitte des Landes. Morgen wird es trocken, aber windig, bei Temperaturen um zwölf Grad.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -986,7 +986,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -1004,8 +1004,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen bei Sport Meier. Nur diese Woche: Alle Laufschuhe sind um zwanzig Prozent reduziert, Sportjacken sogar um dreißig Prozent. Außerdem erhalten Sie beim Kauf von zwei Paar Schuhen eine Trinkflasche gratis.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 559,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

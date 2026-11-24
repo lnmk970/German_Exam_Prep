@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -782,7 +782,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -878,7 +878,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -908,7 +908,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -926,7 +926,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -944,7 +944,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -962,7 +962,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -980,8 +980,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 586,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

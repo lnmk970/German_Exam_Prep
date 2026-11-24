@@ -45,7 +45,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -129,7 +129,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Ja. Für Zugewanderte übernimmt der Staat einen großen Teil der Kosten. Berufstätige können in manchen Bundesländern Bildungsurlaub nehmen, das heißt, sie bekommen dafür bezahlt frei.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -213,7 +213,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -243,7 +243,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -261,7 +261,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage in der Universitätsbibliothek: Das Gebäude schließt heute schon um achtzehn Uhr. Bitte bringen Sie Ihre ausgeliehenen Bücher bis siebzehn Uhr dreißig an die Theke.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -279,7 +279,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -297,7 +297,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Lust auf Sprachen? Im Café Babel treffen sich jeden Donnerstag ab neunzehn Uhr Menschen aus aller Welt zum Sprachaustausch. Die Teilnahme ist kostenlos, ein Getränk müssen Sie aber bestellen.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -315,8 +315,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 675,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

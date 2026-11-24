@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -782,7 +782,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ja, in zehn Jahren vielleicht. Mein Neffe lernt gerade bei mir. Wenn er gut ist, übernimmt er die Werkstatt.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -878,7 +878,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -908,7 +908,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken, wir antworten dann ab dem fünfundzwanzigsten August.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -926,7 +926,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -944,7 +944,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie diesen Termin telefonisch bis morgen zwölf Uhr, sonst vergeben wir ihn an andere Kunden.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -962,7 +962,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -980,8 +980,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück, ich bin bis siebzehn Uhr im Büro.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 546,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

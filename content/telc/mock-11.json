@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -770,7 +770,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Mehr Beteiligung. Wir bieten Bürgerabende an, aber es kommen oft nur zwanzig Leute. Ich möchte, dass sich auch die Jüngeren einmischen.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -854,7 +854,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -884,7 +884,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -902,7 +902,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -920,7 +920,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -938,7 +938,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -956,8 +956,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 664,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",

@@ -686,7 +686,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 30,
    "r": "+0%"
   },
   {
@@ -794,7 +794,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Mein Sohn wird den Betrieb übernehmen, wenn ich in zwei Jahren in Rente gehe. Er möchte außerdem eine kleine Terrasse bauen und Kochkurse anbieten.",
-   "p": 0.6,
+   "p": 30,
    "r": "-8%"
   },
   {
@@ -902,7 +902,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das ist das Ende des Teils.",
-   "p": 3.0,
+   "p": 45,
    "r": "+0%"
   },
   {
@@ -932,7 +932,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen im Supermarkt Frischkauf. Heute gibt es Erdbeeren aus der Region für einen Euro neunundneunzig pro Schale und frisches Brot zum halben Preis. Bitte beachten Sie: Unser Markt schließt heute schon um achtzehn Uhr.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -950,7 +950,7 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Guten Tag, hier spricht das Restaurant Zur Sonne. Ihre Reservierung für Samstagabend um neunzehn Uhr haben wir leider verwechselt. Wir können Ihnen einen Tisch um zwanzig Uhr anbieten. Bitte rufen Sie uns bis morgen zurück.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -968,7 +968,7 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Die Bäckerei Hoffmann informiert: Ab dem ersten Juli sind wir auch sonntags von sieben bis elf Uhr für Sie da. Frische Brötchen gibt es dann auch mit Aufstrich und Kaffee zum Mitnehmen.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -986,7 +986,7 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Achtung, eine Durchsage im Einkaufszentrum: Auf dem Parkplatz steht ein silberner Kleinwagen mit dem Kennzeichen K-AB zwei drei vier im Weg. Bitte fahren Sie das Fahrzeug sofort weg.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
   },
   {
@@ -1004,8 +1004,14 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Pizza Roma liefert jetzt auch nach Feierabend bis dreiundzwanzig Uhr. Ab einem Bestellwert von fünfzehn Euro ist die Lieferung kostenlos, darunter kostet sie zwei Euro. Bestellen können Sie telefonisch oder online.",
-   "p": 6,
+   "p": 15,
    "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 577,
+   "r": "+0%"
   },
   {
    "v": "de-DE-AmalaNeural",
