@@ -47,7 +47,7 @@
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
    "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "left": "<div class=\"text\"><p>Vier Tage arbeiten, drei Tage frei</p><p>Die Firma Lindner aus Bielefeld, die Küchengeräte herstellt, hat vor einem Jahr die Vier-Tage-Woche eingeführt. Die 120 Beschäftigten arbeiten seitdem von Montag bis Donnerstag je neun Stunden, bekommen aber den gleichen Lohn wie vorher. Geschäftsführerin Petra Lindner erklärt: „Wir hatten Probleme, neue Fachkräfte zu finden. Mit dem langen Wochenende sind wir plötzlich attraktiv.“</p><p>Die Reaktionen der Mitarbeiter waren überwiegend positiv. Viele nutzen den freien Freitag für Arztbesuche oder Behördengänge, die früher während der Arbeitszeit stattfinden mussten. Andere fahren mit der Familie weg. Eine Mitarbeiterin sagt, sie habe abends mehr Energie für ihre Kinder, obwohl der Arbeitstag länger ist.</p><p>Es gab aber auch Probleme. Im Kundenservice fehlte freitags zunächst jemand am Telefon, und mehrere Kunden beschwerten sich. Die Firma hat darauf ein Schichtsystem eingeführt: Eine Gruppe arbeitet von Dienstag bis Freitag, sodass das Telefon immer besetzt ist.</p><p>Wirtschaftlich hat sich die Umstellung bisher gelohnt. Die Zahl der Krankmeldungen sank um ein Fünftel, und im letzten Jahr kündigten nur zwei Mitarbeiter, nach fast zehn im Jahr davor. Die Produktion ist ungefähr gleich geblieben, weil die Beschäftigten konzentrierter arbeiten.</p><p>Nicht jede Firma kann so ein Modell einführen, meint Petra Lindner. In Krankenhäusern oder Geschäften müssten zum Beispiel immer Menschen anwesend sein. Für ihre eigene Firma schließt sie eine Rückkehr zur Fünf-Tage-Woche aus. Eine Drei-Tage-Woche sei dagegen nicht geplant.</p></div>",
+   "left": "<div class=\"text\"><p>Vier Tage arbeiten, drei Tage frei</p><p>Die Firma Lindner aus Bielefeld, die Küchengeräte herstellt, hat vor einem Jahr die Vier-Tage-Woche eingeführt. Die 120 Beschäftigten arbeiten seitdem von Montag bis Donnerstag je neun Stunden, bekommen aber den gleichen Lohn wie vorher. Geschäftsführerin Petra Lindner erklärt: „Wir hatten Probleme, neue Fachkräfte zu finden. Mit dem langen Wochenende sind wir plötzlich attraktiv.“</p><p>Die Reaktionen der Mitarbeiter waren überwiegend positiv. Viele nutzen den freien Freitag für Arztbesuche oder Behördengänge, die früher während der Arbeitszeit stattfinden mussten. Andere fahren mit der Familie weg. Eine Mitarbeiterin sagt, sie habe abends mehr Energie für ihre Kinder, obwohl der Arbeitstag länger ist.</p><p>Es gab aber auch Probleme. Im Kundenservice fehlte freitags zunächst jemand am Telefon, und mehrere Kunden beschwerten sich. Die Firma hat darauf ein Schichtsystem eingeführt: Eine Gruppe arbeitet von Dienstag bis Freitag, sodass das Telefon immer besetzt ist.</p><p>Wirtschaftlich hat sich die Umstellung bisher gelohnt. Die Zahl der Krankmeldungen sank um ein Fünftel, und im letzten Jahr kündigten nur zwei Mitarbeiter, nach fast zehn im Jahr davor. Die Produktion ist ungefähr gleich geblieben, weil die Beschäftigten konzentrierter arbeiten.</p><p>Nicht jede Firma kann so ein Modell einführen, meint Petra Lindner. In Krankenhäusern oder Geschäften müssten zum Beispiel immer Menschen anwesend sein. Für ihre eigene Firma schließt sie eine Rückkehr zur Fünf-Tage-Woche aus. Eine Drei-Tage-Woche sei dagegen nicht geplant.</p><p>Bei den Beschäftigten ist das Modell inzwischen so beliebt, dass sich auf freie Stellen deutlich mehr Menschen bewerben als früher. Ein Mitarbeiter erzählt, dass er für die neue Stelle sogar eine längere Fahrt in Kauf genommen hat. Auch andere Firmen in der Region haben bei Lindner angefragt, wie das System funktioniert.</p></div>",
    "items": [
     {
      "id": "l6",
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich arbeite seit drei Jahren im Homeoffice und möchte nie wieder ins Büro. Ich spare die Zeit für den Weg und kann mir meine Arbeit einteilen. Nur manchmal vermisse ich die Kollegen.</p>"
+     "<p>Ich arbeite seit drei Jahren im Homeoffice und möchte nie wieder ins Büro. Ich spare die Zeit für den Weg und kann mir meine Arbeit einteilen. Nur manchmal vermisse ich die Kollegen. Dafür gehe ich mittags immer eine halbe Stunde spazieren, das tut mir gut. Eine feste Zeit zum Aufhören habe ich leider noch nicht gefunden.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich bin den ganzen Tag bei Kunden unterwegs. Das gefällt mir, aber die Arbeit ist körperlich anstrengend, und im Winter ist es oft kalt.</p>"
+     "<p>Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich bin den ganzen Tag bei Kunden unterwegs. Das gefällt mir, aber die Arbeit ist körperlich anstrengend, und im Winter ist es oft kalt. Meine Kollegen und ich fahren jeden Morgen gemeinsam zum Lager. Im Auto planen wir, was wir an dem Tag alles schaffen müssen.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich wechsle gerade den Job. In meiner alten Firma gab es keine Perspektive, mein Chef hat mich nie gelobt. Die neue Stelle bringt weniger Gehalt, aber dafür mehr Verantwortung.</p>"
+     "<p>Ich wechsle gerade den Job. In meiner alten Firma gab es keine Perspektive, mein Chef hat mich nie gelobt. Die neue Stelle bringt weniger Gehalt, aber dafür mehr Verantwortung. Meine Frau findet den Wechsel mutig, aber sie unterstützt mich. Nächste Woche beginne ich schon, ich bin gespannt auf die neuen Kollegen.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich bin selbstständig als Grafiker. Ich verdiene nicht schlecht, aber die Aufträge schwanken. In manchen Monaten habe ich kaum Zeit, in anderen fast nichts zu tun. Eine feste Stelle wäre sicherer, aber ich bin lieber mein eigener Chef.</p>"
+     "<p>Ich bin selbstständig als Grafiker. Ich verdiene nicht schlecht, aber die Aufträge schwanken. In manchen Monaten habe ich kaum Zeit, in anderen fast nichts zu tun. Eine feste Stelle wäre sicherer, aber ich bin lieber mein eigener Chef. Meine Frau arbeitet in einem Büro mit festem Gehalt, das beruhigt mich. Im Moment arbeite ich an einer Reihe von Plakaten für ein Theater.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Für mich ist ein gutes Team wichtiger als das Gehalt. In meiner letzten Firma habe ich viel verdient, aber die Stimmung war schlecht. Jetzt verdiene ich weniger, gehe aber gern jeden Morgen zur Arbeit.</p>"
+     "<p>Für mich ist ein gutes Team wichtiger als das Gehalt. In meiner letzten Firma habe ich viel verdient, aber die Stimmung war schlecht. Jetzt verdiene ich weniger, gehe aber gern jeden Morgen zur Arbeit. Wir essen mittags zusammen, und am Freitag gibt es manchmal Kuchen von einer Kollegin. Das sind die kleinen Dinge, die den Alltag schöner machen.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Bewerbung und Vorstellungsgespräch. Herr Weber, Personalleiter eines Handwerksbetriebs",
-   "html": "<div class=\"text\"><p>Herr Weber, Sie lesen jede Woche viele Bewerbungen. Was ist Ihnen am wichtigsten?</p><p>Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen.</p><p>Wie lang sollte eine Bewerbung sein?</p><p>Ein Anschreiben, eine Seite, dazu ein Lebenslauf mit zwei Seiten. Mehr liest niemand. Wichtig sind Zeugnisse und Nachweise, aber bitte nur die relevanten.</p><p>Und das Vorstellungsgespräch?</p><p>Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck.</p><p>Welche Fragen stellen Sie?</p><p>Warum diese Stelle, warum unsere Firma, wo sehen Sie sich in fünf Jahren? Und ich frage nach Schwächen: Was können Sie nicht so gut? Da hört man, ob jemand ehrlich ist.</p><p>Was war Ihre seltsamste Bewerbung?</p><p>Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben.</p><p>Wie lange dauert der Prozess?</p><p>Von der Anzeige bis zur Zusage im Durchschnitt sechs Wochen. Wir antworten aber immer, auch bei Absagen. Das ist uns wichtig.</p><p>Was raten Sie Berufsanfängern?</p><p>Ein Praktikum, am besten mehrere. Und keine Angst vor dem Gehalt: Nach der Probezeit kann man verhandeln.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Weber, Sie lesen jede Woche viele Bewerbungen. Was ist Ihnen am wichtigsten?</p><p>Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen. Eine Bewerbung mit Humor kann übrigens sympathisch sein, aber nur in der richtigen Dosis.</p><p>Wie lang sollte eine Bewerbung sein?</p><p>Ein Anschreiben, eine Seite, dazu ein Lebenslauf mit zwei Seiten. Mehr liest niemand. Wichtig sind Zeugnisse und Nachweise, aber bitte nur die relevanten.</p><p>Und das Vorstellungsgespräch?</p><p>Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck. Das gilt auch für Online-Gespräche, bei denen man die Kamera gut einrichten sollte.</p><p>Welche Fragen stellen Sie?</p><p>Warum diese Stelle, warum unsere Firma, wo sehen Sie sich in fünf Jahren? Und ich frage nach Schwächen: Was können Sie nicht so gut? Da hört man, ob jemand ehrlich ist.</p><p>Was war Ihre seltsamste Bewerbung?</p><p>Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben. Er hat sich dann bei uns für den Kuchen bedankt, und wir haben darüber gelacht.</p><p>Wie lange dauert der Prozess?</p><p>Von der Anzeige bis zur Zusage im Durchschnitt sechs Wochen. Wir antworten aber immer, auch bei Absagen. Das ist uns wichtig.</p><p>Was raten Sie Berufsanfängern?</p><p>Ein Praktikum, am besten mehrere. Und keine Angst vor dem Gehalt: Nach der Probezeit kann man verhandeln.</p><p>Gibt es etwas, das Bewerber gar nicht tun sollten?</p><p>Zu spät kommen, ohne Bescheid zu sagen. Oder schlecht über den früheren Chef sprechen. Das wirkt unfreundlich.</p><p>Was wünschen Sie sich von Bewerbern?</p><p>Mut und Neugier. Wer ehrlich über seine Ziele spricht, macht einen sehr guten Eindruck.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.</p>"
+     "<p>Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit. Sollten Sie verhindert sein, rufen Sie uns bitte bis Freitag an. Die Nummer finden Sie auf Ihrer Einladung. Wir wünschen Ihnen viel Erfolg.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Guten Tag, hier spricht das Restaurant Zur Sonne. Ihre Reservierung für Samstagabend um neunzehn Uhr haben wir leider verwechselt. Wir können Ihnen einen Tisch um zwanzig Uhr anbieten. Bitte rufen Sie uns bis morgen zurück.</p>"
+     "<p>Guten Tag, hier spricht das Restaurant Zur Sonne. Ihre Reservierung für Samstagabend um neunzehn Uhr haben wir leider verwechselt. Wir können Ihnen einen Tisch um zwanzig Uhr anbieten. Bitte rufen Sie uns bis morgen zurück. Wenn Ihnen das nicht passt, können wir auch einen Tisch am Sonntag um achtzehn Uhr anbieten. Als kleine Entschuldigung laden wir Sie zu einem Getränk ein.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.</p>"
+     "<p>Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich. Die Büros sind rund um die Uhr zugänglich. Wer möchte, kann auch einen Besprechungsraum mieten. Die Preise finden Sie auf unserer Internetseite.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Achtung, eine Durchsage im Einkaufszentrum: Auf dem Parkplatz steht ein silberner Kleinwagen mit dem Kennzeichen K-AB zwei drei vier im Weg. Bitte fahren Sie das Fahrzeug sofort weg.</p>"
+     "<p>Achtung, eine Durchsage im Einkaufszentrum: Auf dem Parkplatz steht ein silberner Kleinwagen mit dem Kennzeichen K-AB zwei drei vier im Weg. Bitte fahren Sie das Fahrzeug sofort weg. Andernfalls lassen wir das Auto in einer Stunde abschleppen. Die Kosten dafür trägt der Besitzer. Wir bitten um Verständnis.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.</p>"
+     "<p>Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung. Die Fahrkarten gelten auch im Ersatzverkehr. Weitere Informationen finden Sie an den Haltestellen und auf unserer Internetseite.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich arbeite seit drei Jahren im Homeoffice und möchte nie wieder ins Büro. Ich spare die Zeit für den Weg und kann mir meine Arbeit einteilen. Nur manchmal vermisse ich die Kollegen.",
+   "t": "Ich arbeite seit drei Jahren im Homeoffice und möchte nie wieder ins Büro. Ich spare die Zeit für den Weg und kann mir meine Arbeit einteilen. Nur manchmal vermisse ich die Kollegen. Dafür gehe ich mittags immer eine halbe Stunde spazieren, das tut mir gut. Eine feste Zeit zum Aufhören habe ich leider noch nicht gefunden.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich bin den ganzen Tag bei Kunden unterwegs. Das gefällt mir, aber die Arbeit ist körperlich anstrengend, und im Winter ist es oft kalt.",
+   "t": "Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich bin den ganzen Tag bei Kunden unterwegs. Das gefällt mir, aber die Arbeit ist körperlich anstrengend, und im Winter ist es oft kalt. Meine Kollegen und ich fahren jeden Morgen gemeinsam zum Lager. Im Auto planen wir, was wir an dem Tag alles schaffen müssen.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wechsle gerade den Job. In meiner alten Firma gab es keine Perspektive, mein Chef hat mich nie gelobt. Die neue Stelle bringt weniger Gehalt, aber dafür mehr Verantwortung.",
+   "t": "Ich wechsle gerade den Job. In meiner alten Firma gab es keine Perspektive, mein Chef hat mich nie gelobt. Die neue Stelle bringt weniger Gehalt, aber dafür mehr Verantwortung. Meine Frau findet den Wechsel mutig, aber sie unterstützt mich. Nächste Woche beginne ich schon, ich bin gespannt auf die neuen Kollegen.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich bin selbstständig als Grafiker. Ich verdiene nicht schlecht, aber die Aufträge schwanken. In manchen Monaten habe ich kaum Zeit, in anderen fast nichts zu tun. Eine feste Stelle wäre sicherer, aber ich bin lieber mein eigener Chef.",
+   "t": "Ich bin selbstständig als Grafiker. Ich verdiene nicht schlecht, aber die Aufträge schwanken. In manchen Monaten habe ich kaum Zeit, in anderen fast nichts zu tun. Eine feste Stelle wäre sicherer, aber ich bin lieber mein eigener Chef. Meine Frau arbeitet in einem Büro mit festem Gehalt, das beruhigt mich. Im Moment arbeite ich an einer Reihe von Plakaten für ein Theater.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Für mich ist ein gutes Team wichtiger als das Gehalt. In meiner letzten Firma habe ich viel verdient, aber die Stimmung war schlecht. Jetzt verdiene ich weniger, gehe aber gern jeden Morgen zur Arbeit.",
+   "t": "Für mich ist ein gutes Team wichtiger als das Gehalt. In meiner letzten Firma habe ich viel verdient, aber die Stimmung war schlecht. Jetzt verdiene ich weniger, gehe aber gern jeden Morgen zur Arbeit. Wir essen mittags zusammen, und am Freitag gibt es manchmal Kuchen von einer Kollegin. Das sind die kleinen Dinge, die den Alltag schöner machen.",
    "p": 16,
    "r": "-8%"
   },
@@ -709,7 +709,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen.",
+   "t": "Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen. Eine Bewerbung mit Humor kann übrigens sympathisch sein, aber nur in der richtigen Dosis.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -733,7 +733,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck.",
+   "t": "Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck. Das gilt auch für Online-Gespräche, bei denen man die Kamera gut einrichten sollte.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -757,7 +757,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben.",
+   "t": "Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben. Er hat sich dann bei uns für den Kuchen bedankt, und wir haben darüber gelacht.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -782,6 +782,30 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Ein Praktikum, am besten mehrere. Und keine Angst vor dem Gehalt: Nach der Probezeit kann man verhandeln.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es etwas, das Bewerber gar nicht tun sollten?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Zu spät kommen, ohne Bescheid zu sagen. Oder schlecht über den früheren Chef sprechen. Das wirkt unfreundlich.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was wünschen Sie sich von Bewerbern?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mut und Neugier. Wer ehrlich über seine Ziele spricht, macht einen sehr guten Eindruck.",
    "p": 30,
    "r": "-8%"
   },
@@ -799,7 +823,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen.",
+   "t": "Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen. Eine Bewerbung mit Humor kann übrigens sympathisch sein, aber nur in der richtigen Dosis.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -823,7 +847,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck.",
+   "t": "Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck. Das gilt auch für Online-Gespräche, bei denen man die Kamera gut einrichten sollte.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -847,7 +871,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben.",
+   "t": "Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben. Er hat sich dann bei uns für den Kuchen bedankt, und wir haben darüber gelacht.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -872,6 +896,30 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Ein Praktikum, am besten mehrere. Und keine Angst vor dem Gehalt: Nach der Probezeit kann man verhandeln.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es etwas, das Bewerber gar nicht tun sollten?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Zu spät kommen, ohne Bescheid zu sagen. Oder schlecht über den früheren Chef sprechen. Das wirkt unfreundlich.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was wünschen Sie sich von Bewerbern?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Mut und Neugier. Wer ehrlich über seine Ziele spricht, macht einen sehr guten Eindruck.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +943,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.",
+   "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit. Sollten Sie verhindert sein, rufen Sie uns bitte bis Freitag an. Die Nummer finden Sie auf Ihrer Einladung. Wir wünschen Ihnen viel Erfolg.",
    "p": 5,
    "r": "-8%"
   },
@@ -907,13 +955,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.",
+   "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit. Sollten Sie verhindert sein, rufen Sie uns bitte bis Freitag an. Die Nummer finden Sie auf Ihrer Einladung. Wir wünschen Ihnen viel Erfolg.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier spricht das Restaurant Zur Sonne. Ihre Reservierung für Samstagabend um neunzehn Uhr haben wir leider verwechselt. Wir können Ihnen einen Tisch um zwanzig Uhr anbieten. Bitte rufen Sie uns bis morgen zurück.",
+   "t": "Guten Tag, hier spricht das Restaurant Zur Sonne. Ihre Reservierung für Samstagabend um neunzehn Uhr haben wir leider verwechselt. Wir können Ihnen einen Tisch um zwanzig Uhr anbieten. Bitte rufen Sie uns bis morgen zurück. Wenn Ihnen das nicht passt, können wir auch einen Tisch am Sonntag um achtzehn Uhr anbieten. Als kleine Entschuldigung laden wir Sie zu einem Getränk ein.",
    "p": 5,
    "r": "-8%"
   },
@@ -925,13 +973,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier spricht das Restaurant Zur Sonne. Ihre Reservierung für Samstagabend um neunzehn Uhr haben wir leider verwechselt. Wir können Ihnen einen Tisch um zwanzig Uhr anbieten. Bitte rufen Sie uns bis morgen zurück.",
+   "t": "Guten Tag, hier spricht das Restaurant Zur Sonne. Ihre Reservierung für Samstagabend um neunzehn Uhr haben wir leider verwechselt. Wir können Ihnen einen Tisch um zwanzig Uhr anbieten. Bitte rufen Sie uns bis morgen zurück. Wenn Ihnen das nicht passt, können wir auch einen Tisch am Sonntag um achtzehn Uhr anbieten. Als kleine Entschuldigung laden wir Sie zu einem Getränk ein.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.",
+   "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich. Die Büros sind rund um die Uhr zugänglich. Wer möchte, kann auch einen Besprechungsraum mieten. Die Preise finden Sie auf unserer Internetseite.",
    "p": 5,
    "r": "-8%"
   },
@@ -943,13 +991,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.",
+   "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich. Die Büros sind rund um die Uhr zugänglich. Wer möchte, kann auch einen Besprechungsraum mieten. Die Preise finden Sie auf unserer Internetseite.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage im Einkaufszentrum: Auf dem Parkplatz steht ein silberner Kleinwagen mit dem Kennzeichen K-AB zwei drei vier im Weg. Bitte fahren Sie das Fahrzeug sofort weg.",
+   "t": "Achtung, eine Durchsage im Einkaufszentrum: Auf dem Parkplatz steht ein silberner Kleinwagen mit dem Kennzeichen K-AB zwei drei vier im Weg. Bitte fahren Sie das Fahrzeug sofort weg. Andernfalls lassen wir das Auto in einer Stunde abschleppen. Die Kosten dafür trägt der Besitzer. Wir bitten um Verständnis.",
    "p": 5,
    "r": "-8%"
   },
@@ -961,13 +1009,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage im Einkaufszentrum: Auf dem Parkplatz steht ein silberner Kleinwagen mit dem Kennzeichen K-AB zwei drei vier im Weg. Bitte fahren Sie das Fahrzeug sofort weg.",
+   "t": "Achtung, eine Durchsage im Einkaufszentrum: Auf dem Parkplatz steht ein silberner Kleinwagen mit dem Kennzeichen K-AB zwei drei vier im Weg. Bitte fahren Sie das Fahrzeug sofort weg. Andernfalls lassen wir das Auto in einer Stunde abschleppen. Die Kosten dafür trägt der Besitzer. Wir bitten um Verständnis.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.",
+   "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung. Die Fahrkarten gelten auch im Ersatzverkehr. Weitere Informationen finden Sie an den Haltestellen und auf unserer Internetseite.",
    "p": 5,
    "r": "-8%"
   },
@@ -979,14 +1027,14 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.",
+   "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung. Die Fahrkarten gelten auch im Ersatzverkehr. Weitere Informationen finden Sie an den Haltestellen und auf unserer Internetseite.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "",
-   "p": 630,
+   "p": 403,
    "r": "+0%"
   },
   {

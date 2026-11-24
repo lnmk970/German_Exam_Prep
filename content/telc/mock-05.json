@@ -47,7 +47,7 @@
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
    "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "left": "<div class=\"text\"><p>Vier Wochen ohne Fertiggericht</p><p>Familie Arslan aus Dortmund hat ein Experiment gemacht: Vier Wochen lang gab es bei ihr kein Fertiggericht, keine Tiefkühlpizza und keine Tütensuppe. Die Idee kam von Vater Murat, der bei einer Untersuchung erfahren hatte, dass sein Cholesterinwert zu hoch ist. „Wir haben gemerkt, wie viel Fertiges wir eigentlich essen“, sagt er.</p><p>Die erste Woche war schwierig. Die Eltern arbeiten beide, und abends fehlte oft die Zeit zum Kochen. Deshalb hat die Familie am Sonntag Essen für mehrere Tage vorbereitet und eingefroren. Auch die Kinder, 9 und 12, mussten helfen: Sie schälten Gemüse und deckten den Tisch.</p><p>Auch die Einkäufe veränderten sich. Statt im Supermarkt kauft Frau Arslan jetzt samstags auf dem Wochenmarkt ein, weil Obst und Gemüse dort frischer und oft billiger sind. Insgesamt gab die Familie in den vier Wochen etwa 60 Euro weniger aus als sonst, obwohl sie mehr Bioprodukte gekauft hat.</p><p>Nicht alle waren begeistert. Der zwölfjährige Emre vermisste vor allem die Pizza am Freitagabend. Nach zwei Wochen erlaubten ihm die Eltern, selbst eine Pizza aus frischem Teig zu machen. „Das hat ihm sogar besser geschmeckt als die aus dem Tiefkühlfach“, erzählt die Mutter. Seitdem kocht er gern.</p><p>Nach dem Experiment gibt es bei den Arslans nicht nur Frisches. Einmal pro Woche greifen sie zum Fertigprodukt, wenn es abends sehr schnell gehen muss. Aber das gemeinsame Essen am Tisch ist ihnen jetzt wichtiger. „Früher hat jeder vor dem Fernseher gegessen“, sagt Murat Arslan.</p></div>",
+   "left": "<div class=\"text\"><p>Vier Wochen ohne Fertiggericht</p><p>Familie Arslan aus Dortmund hat ein Experiment gemacht: Vier Wochen lang gab es bei ihr kein Fertiggericht, keine Tiefkühlpizza und keine Tütensuppe. Die Idee kam von Vater Murat, der bei einer Untersuchung erfahren hatte, dass sein Cholesterinwert zu hoch ist. „Wir haben gemerkt, wie viel Fertiges wir eigentlich essen“, sagt er.</p><p>Die erste Woche war schwierig. Die Eltern arbeiten beide, und abends fehlte oft die Zeit zum Kochen. Deshalb hat die Familie am Sonntag Essen für mehrere Tage vorbereitet und eingefroren. Auch die Kinder, 9 und 12, mussten helfen: Sie schälten Gemüse und deckten den Tisch.</p><p>Auch die Einkäufe veränderten sich. Statt im Supermarkt kauft Frau Arslan jetzt samstags auf dem Wochenmarkt ein, weil Obst und Gemüse dort frischer und oft billiger sind. Insgesamt gab die Familie in den vier Wochen etwa 60 Euro weniger aus als sonst, obwohl sie mehr Bioprodukte gekauft hat.</p><p>Nicht alle waren begeistert. Der zwölfjährige Emre vermisste vor allem die Pizza am Freitagabend. Nach zwei Wochen erlaubten ihm die Eltern, selbst eine Pizza aus frischem Teig zu machen. „Das hat ihm sogar besser geschmeckt als die aus dem Tiefkühlfach“, erzählt die Mutter. Seitdem kocht er gern.</p><p>Nach dem Experiment gibt es bei den Arslans nicht nur Frisches. Einmal pro Woche greifen sie zum Fertigprodukt, wenn es abends sehr schnell gehen muss. Aber das gemeinsame Essen am Tisch ist ihnen jetzt wichtiger. „Früher hat jeder vor dem Fernseher gegessen“, sagt Murat Arslan.</p><p>Eine Ernährungsberaterin, die das Experiment begleitet hat, hält die Idee für nachahmenswert. Sie sagt, dass man schon mit kleinen Änderungen viel erreichen kann, zum Beispiel mit einem Wochenplan. Die Familie hat inzwischen ein Heft mit ihren besten Rezepten angelegt, das auch Freunde und Nachbarn leihen dürfen.</p></div>",
    "items": [
     {
      "id": "l6",
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich gehe selten ins Restaurant, weil ich gern selbst koche. Am Wochenende lade ich Freunde ein und probiere neue Rezepte aus. Restaurantessen ist mir außerdem zu teuer, und die Portionen sind oft zu groß.</p>"
+     "<p>Ich gehe selten ins Restaurant, weil ich gern selbst koche. Am Wochenende lade ich Freunde ein und probiere neue Rezepte aus. Restaurantessen ist mir außerdem zu teuer, und die Portionen sind oft zu groß. Im Restaurant weiß man nie, wie viel Salz oder Fett im Essen ist. Zu Hause kann ich selbst entscheiden und auf die Qualität achten.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich esse fast jeden Tag in der Kantine. Dort gibt es immer ein vegetarisches Gericht und einen Salat, das reicht mir. Nur manchmal ist das Essen kalt, wenn ich spät komme, aber im Großen und Ganzen bin ich zufrieden.</p>"
+     "<p>Ich esse fast jeden Tag in der Kantine. Dort gibt es immer ein vegetarisches Gericht und einen Salat, das reicht mir. Nur manchmal ist das Essen kalt, wenn ich spät komme, aber im Großen und Ganzen bin ich zufrieden. Meine Kollegen und ich essen meistens zusammen am großen Tisch, das macht Spaß. Für Besucher gibt es einen Kaffeeautomaten im Eingangsbereich.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich kaufe am liebsten auf dem Wochenmarkt ein. Das Gemüse ist frisch, und ich kenne die Verkäufer. Im Supermarkt gehe ich nur noch für Dinge wie Mehl oder Waschmittel.</p>"
+     "<p>Ich kaufe am liebsten auf dem Wochenmarkt ein. Das Gemüse ist frisch, und ich kenne die Verkäufer. Im Supermarkt gehe ich nur noch für Dinge wie Mehl oder Waschmittel. Am Samstagmorgen gehe ich mit einem Korb hin und bleibe meistens eine Stunde. Danach trinke ich noch einen Kaffee mit einer Freundin.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Mein Problem ist die Zeit. Ich arbeite bis spät und bestelle fast jeden Abend etwas beim Lieferdienst. Das ist nicht billig, aber ich habe keine Energie mehr zum Kochen. Am Wochenende versuche ich, etwas Gesundes vorzubereiten.</p>"
+     "<p>Mein Problem ist die Zeit. Ich arbeite bis spät und bestelle fast jeden Abend etwas beim Lieferdienst. Das ist nicht billig, aber ich habe keine Energie mehr zum Kochen. Am Wochenende versuche ich, etwas Gesundes vorzubereiten. Früher habe ich viel Fertigessen gekauft, heute probiere ich verschiedene Lieferdienste aus. Das Essen kommt meistens in einer halben Stunde.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Wir gehen jeden Freitag mit der ganzen Familie essen. Das ist unser fester Termin, und die Kinder freuen sich schon die ganze Woche darauf. Meistens gehen wir zum Italiener, weil es dort für Kinder immer Pizza gibt.</p>"
+     "<p>Wir gehen jeden Freitag mit der ganzen Familie essen. Das ist unser fester Termin, und die Kinder freuen sich schon die ganze Woche darauf. Meistens gehen wir zum Italiener, weil es dort für Kinder immer Pizza gibt. Mein Mann bestellt immer dasselbe, aber ich probiere gern etwas Neues. Nach dem Essen gehen wir manchmal noch zusammen ein Eis essen.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Das Familienrestaurant. Herr Rossi, Besitzer der Trattoria „Da Marco“",
-   "html": "<div class=\"text\"><p>Herr Rossi, Ihr Restaurant gibt es schon seit zwanzig Jahren. Was ist das Geheimnis?</p><p>Wir sind ein Familienbetrieb. Meine Frau kocht, mein Sohn bedient, und ich kümmere mich um den Einkauf. Wir kennen unsere Stammgäste, viele kommen seit der ersten Woche.</p><p>Was ist das Besondere an Ihrer Küche?</p><p>Wir kochen nach den Rezepten meiner Großmutter aus Neapel. Die Nudeln machen wir selbst, die Soße kocht drei Stunden. Fertigprodukte gibt es bei uns nicht.</p><p>Wo kaufen Sie die Zutaten?</p><p>Gemüse und Fleisch kommen von Höfen aus der Umgebung, Olivenöl und Käse bestelle ich direkt aus Italien. Das ist teurer, aber die Qualität stimmt.</p><p>Wie sind Ihre Preise?</p><p>Für ein Hauptgericht zahlt man zwischen zwölf und achtzehn Euro. Das ist nicht billig, aber auch nicht teuer. Mittags haben wir ein günstiges Menü für neun Euro.</p><p>Was war die schwierigste Zeit?</p><p>Die zwei Jahre mit den Einschränkungen. Wir haben Essen zum Mitnehmen angeboten, und viele Stammgäste haben Gutscheine gekauft. Dadurch mussten wir niemanden entlassen.</p><p>Gibt es Probleme mit dem Personal?</p><p>Ja. Gute Köche und Kellner zu finden, ist sehr schwer. Die Arbeitszeiten sind lang, abends und am Wochenende, das schreckt viele junge Leute ab.</p><p>Wann haben Sie geöffnet?</p><p>Täglich außer montags, mittags von zwölf bis vierzehn Uhr und abends bis dreiundzwanzig Uhr. Am Wochenende ist es abends immer voll, da sollte man reservieren.</p><p>Was planen Sie für die Zukunft?</p><p>Mein Sohn wird den Betrieb übernehmen, wenn ich in zwei Jahren in Rente gehe. Er möchte außerdem eine kleine Terrasse bauen und Kochkurse anbieten.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Rossi, Ihr Restaurant gibt es schon seit zwanzig Jahren. Was ist das Geheimnis?</p><p>Wir sind ein Familienbetrieb. Meine Frau kocht, mein Sohn bedient, und ich kümmere mich um den Einkauf. Wir kennen unsere Stammgäste, viele kommen seit der ersten Woche. Ohne diese Treue hätten wir die schwierigen Jahre nicht geschafft.</p><p>Was ist das Besondere an Ihrer Küche?</p><p>Wir kochen nach den Rezepten meiner Großmutter aus Neapel. Die Nudeln machen wir selbst, die Soße kocht drei Stunden. Fertigprodukte gibt es bei uns nicht. Dazu kommt ein Tiramisu, das nach einem Rezept meiner Tante gemacht wird.</p><p>Wo kaufen Sie die Zutaten?</p><p>Gemüse und Fleisch kommen von Höfen aus der Umgebung, Olivenöl und Käse bestelle ich direkt aus Italien. Das ist teurer, aber die Qualität stimmt.</p><p>Wie sind Ihre Preise?</p><p>Für ein Hauptgericht zahlt man zwischen zwölf und achtzehn Euro. Das ist nicht billig, aber auch nicht teuer. Mittags haben wir ein günstiges Menü für neun Euro. Für Gruppen ab zehn Personen machen wir auf Wunsch ein besonderes Menü.</p><p>Was war die schwierigste Zeit?</p><p>Die zwei Jahre mit den Einschränkungen. Wir haben Essen zum Mitnehmen angeboten, und viele Stammgäste haben Gutscheine gekauft. Dadurch mussten wir niemanden entlassen.</p><p>Gibt es Probleme mit dem Personal?</p><p>Ja. Gute Köche und Kellner zu finden, ist sehr schwer. Die Arbeitszeiten sind lang, abends und am Wochenende, das schreckt viele junge Leute ab. Einige unserer Mitarbeiter sind schon seit über zehn Jahren bei uns.</p><p>Wann haben Sie geöffnet?</p><p>Täglich außer montags, mittags von zwölf bis vierzehn Uhr und abends bis dreiundzwanzig Uhr. Am Wochenende ist es abends immer voll, da sollte man reservieren.</p><p>Was planen Sie für die Zukunft?</p><p>Mein Sohn wird den Betrieb übernehmen, wenn ich in zwei Jahren in Rente gehe. Er möchte außerdem eine kleine Terrasse bauen und Kochkurse anbieten.</p><p>Wie viele Gäste haben Sie an einem normalen Abend?</p><p>Etwa achtzig, am Wochenende oft hundert. Dann sind alle Tische besetzt, und wir haben viel zu tun.</p><p>Gibt es etwas, das Sie besonders stolz macht?</p><p>Ja, dass uns viele Gäste von ihrer Familie empfohlen haben. Das ist die beste Werbung, die man haben kann.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Willkommen im Supermarkt Frischkauf. Heute gibt es Erdbeeren aus der Region für einen Euro neunundneunzig pro Schale und frisches Brot zum halben Preis. Bitte beachten Sie: Unser Markt schließt heute schon um achtzehn Uhr.</p>"
+     "<p>Willkommen im Supermarkt Frischkauf. Heute gibt es Erdbeeren aus der Region für einen Euro neunundneunzig pro Schale und frisches Brot zum halben Preis. Bitte beachten Sie: Unser Markt schließt heute schon um achtzehn Uhr. Auch Joghurt und Käse aus der Region sind diese Woche im Angebot. Bitte nehmen Sie sich einen Einkaufskorb am Eingang, die Wagen stehen draußen auf dem Parkplatz.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.</p>"
+     "<p>Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen. Die Feuerwehr ist bereits unterwegs. Bitte benutzen Sie keine Aufzüge und nehmen Sie keine persönlichen Gegenstände mit. Die Gruppenleiter zählen alle Mitarbeiter am Sammelplatz.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Die Bäckerei Hoffmann informiert: Ab dem ersten Juli sind wir auch sonntags von sieben bis elf Uhr für Sie da. Frische Brötchen gibt es dann auch mit Aufstrich und Kaffee zum Mitnehmen.</p>"
+     "<p>Die Bäckerei Hoffmann informiert: Ab dem ersten Juli sind wir auch sonntags von sieben bis elf Uhr für Sie da. Frische Brötchen gibt es dann auch mit Aufstrich und Kaffee zum Mitnehmen. Alle Backwaren werden jeden Morgen frisch gebacken, auch glutenfreies Brot ist erhältlich. Bestellungen für größere Feiern nehmen wir gern bis Freitag entgegen.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.</p>"
+     "<p>Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an. Meine Kollegin Frau Brandt vertritt mich in der Zeit und ist unter der Nummer null drei vier fünf erreichbar. Nach meiner Rückkehr melde ich mich bei Ihnen.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Pizza Roma liefert jetzt auch nach Feierabend bis dreiundzwanzig Uhr. Ab einem Bestellwert von fünfzehn Euro ist die Lieferung kostenlos, darunter kostet sie zwei Euro. Bestellen können Sie telefonisch oder online.</p>"
+     "<p>Pizza Roma liefert jetzt auch nach Feierabend bis dreiundzwanzig Uhr. Ab einem Bestellwert von fünfzehn Euro ist die Lieferung kostenlos, darunter kostet sie zwei Euro. Bestellen können Sie telefonisch oder online. Wir haben eine große Auswahl an vegetarischen Pizzen und frischen Salaten. Als Neukunde erhalten Sie beim ersten Mal ein Getränk gratis.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich gehe selten ins Restaurant, weil ich gern selbst koche. Am Wochenende lade ich Freunde ein und probiere neue Rezepte aus. Restaurantessen ist mir außerdem zu teuer, und die Portionen sind oft zu groß.",
+   "t": "Ich gehe selten ins Restaurant, weil ich gern selbst koche. Am Wochenende lade ich Freunde ein und probiere neue Rezepte aus. Restaurantessen ist mir außerdem zu teuer, und die Portionen sind oft zu groß. Im Restaurant weiß man nie, wie viel Salz oder Fett im Essen ist. Zu Hause kann ich selbst entscheiden und auf die Qualität achten.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich esse fast jeden Tag in der Kantine. Dort gibt es immer ein vegetarisches Gericht und einen Salat, das reicht mir. Nur manchmal ist das Essen kalt, wenn ich spät komme, aber im Großen und Ganzen bin ich zufrieden.",
+   "t": "Ich esse fast jeden Tag in der Kantine. Dort gibt es immer ein vegetarisches Gericht und einen Salat, das reicht mir. Nur manchmal ist das Essen kalt, wenn ich spät komme, aber im Großen und Ganzen bin ich zufrieden. Meine Kollegen und ich essen meistens zusammen am großen Tisch, das macht Spaß. Für Besucher gibt es einen Kaffeeautomaten im Eingangsbereich.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich kaufe am liebsten auf dem Wochenmarkt ein. Das Gemüse ist frisch, und ich kenne die Verkäufer. Im Supermarkt gehe ich nur noch für Dinge wie Mehl oder Waschmittel.",
+   "t": "Ich kaufe am liebsten auf dem Wochenmarkt ein. Das Gemüse ist frisch, und ich kenne die Verkäufer. Im Supermarkt gehe ich nur noch für Dinge wie Mehl oder Waschmittel. Am Samstagmorgen gehe ich mit einem Korb hin und bleibe meistens eine Stunde. Danach trinke ich noch einen Kaffee mit einer Freundin.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Mein Problem ist die Zeit. Ich arbeite bis spät und bestelle fast jeden Abend etwas beim Lieferdienst. Das ist nicht billig, aber ich habe keine Energie mehr zum Kochen. Am Wochenende versuche ich, etwas Gesundes vorzubereiten.",
+   "t": "Mein Problem ist die Zeit. Ich arbeite bis spät und bestelle fast jeden Abend etwas beim Lieferdienst. Das ist nicht billig, aber ich habe keine Energie mehr zum Kochen. Am Wochenende versuche ich, etwas Gesundes vorzubereiten. Früher habe ich viel Fertigessen gekauft, heute probiere ich verschiedene Lieferdienste aus. Das Essen kommt meistens in einer halben Stunde.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir gehen jeden Freitag mit der ganzen Familie essen. Das ist unser fester Termin, und die Kinder freuen sich schon die ganze Woche darauf. Meistens gehen wir zum Italiener, weil es dort für Kinder immer Pizza gibt.",
+   "t": "Wir gehen jeden Freitag mit der ganzen Familie essen. Das ist unser fester Termin, und die Kinder freuen sich schon die ganze Woche darauf. Meistens gehen wir zum Italiener, weil es dort für Kinder immer Pizza gibt. Mein Mann bestellt immer dasselbe, aber ich probiere gern etwas Neues. Nach dem Essen gehen wir manchmal noch zusammen ein Eis essen.",
    "p": 16,
    "r": "-8%"
   },
@@ -709,7 +709,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir sind ein Familienbetrieb. Meine Frau kocht, mein Sohn bedient, und ich kümmere mich um den Einkauf. Wir kennen unsere Stammgäste, viele kommen seit der ersten Woche.",
+   "t": "Wir sind ein Familienbetrieb. Meine Frau kocht, mein Sohn bedient, und ich kümmere mich um den Einkauf. Wir kennen unsere Stammgäste, viele kommen seit der ersten Woche. Ohne diese Treue hätten wir die schwierigen Jahre nicht geschafft.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -721,7 +721,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir kochen nach den Rezepten meiner Großmutter aus Neapel. Die Nudeln machen wir selbst, die Soße kocht drei Stunden. Fertigprodukte gibt es bei uns nicht.",
+   "t": "Wir kochen nach den Rezepten meiner Großmutter aus Neapel. Die Nudeln machen wir selbst, die Soße kocht drei Stunden. Fertigprodukte gibt es bei uns nicht. Dazu kommt ein Tiramisu, das nach einem Rezept meiner Tante gemacht wird.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -745,7 +745,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Für ein Hauptgericht zahlt man zwischen zwölf und achtzehn Euro. Das ist nicht billig, aber auch nicht teuer. Mittags haben wir ein günstiges Menü für neun Euro.",
+   "t": "Für ein Hauptgericht zahlt man zwischen zwölf und achtzehn Euro. Das ist nicht billig, aber auch nicht teuer. Mittags haben wir ein günstiges Menü für neun Euro. Für Gruppen ab zehn Personen machen wir auf Wunsch ein besonderes Menü.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -769,7 +769,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja. Gute Köche und Kellner zu finden, ist sehr schwer. Die Arbeitszeiten sind lang, abends und am Wochenende, das schreckt viele junge Leute ab.",
+   "t": "Ja. Gute Köche und Kellner zu finden, ist sehr schwer. Die Arbeitszeiten sind lang, abends und am Wochenende, das schreckt viele junge Leute ab. Einige unserer Mitarbeiter sind schon seit über zehn Jahren bei uns.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -794,6 +794,30 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Mein Sohn wird den Betrieb übernehmen, wenn ich in zwei Jahren in Rente gehe. Er möchte außerdem eine kleine Terrasse bauen und Kochkurse anbieten.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Gäste haben Sie an einem normalen Abend?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa achtzig, am Wochenende oft hundert. Dann sind alle Tische besetzt, und wir haben viel zu tun.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es etwas, das Sie besonders stolz macht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, dass uns viele Gäste von ihrer Familie empfohlen haben. Das ist die beste Werbung, die man haben kann.",
    "p": 30,
    "r": "-8%"
   },
@@ -811,7 +835,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir sind ein Familienbetrieb. Meine Frau kocht, mein Sohn bedient, und ich kümmere mich um den Einkauf. Wir kennen unsere Stammgäste, viele kommen seit der ersten Woche.",
+   "t": "Wir sind ein Familienbetrieb. Meine Frau kocht, mein Sohn bedient, und ich kümmere mich um den Einkauf. Wir kennen unsere Stammgäste, viele kommen seit der ersten Woche. Ohne diese Treue hätten wir die schwierigen Jahre nicht geschafft.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -823,7 +847,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir kochen nach den Rezepten meiner Großmutter aus Neapel. Die Nudeln machen wir selbst, die Soße kocht drei Stunden. Fertigprodukte gibt es bei uns nicht.",
+   "t": "Wir kochen nach den Rezepten meiner Großmutter aus Neapel. Die Nudeln machen wir selbst, die Soße kocht drei Stunden. Fertigprodukte gibt es bei uns nicht. Dazu kommt ein Tiramisu, das nach einem Rezept meiner Tante gemacht wird.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -847,7 +871,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Für ein Hauptgericht zahlt man zwischen zwölf und achtzehn Euro. Das ist nicht billig, aber auch nicht teuer. Mittags haben wir ein günstiges Menü für neun Euro.",
+   "t": "Für ein Hauptgericht zahlt man zwischen zwölf und achtzehn Euro. Das ist nicht billig, aber auch nicht teuer. Mittags haben wir ein günstiges Menü für neun Euro. Für Gruppen ab zehn Personen machen wir auf Wunsch ein besonderes Menü.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -871,7 +895,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ja. Gute Köche und Kellner zu finden, ist sehr schwer. Die Arbeitszeiten sind lang, abends und am Wochenende, das schreckt viele junge Leute ab.",
+   "t": "Ja. Gute Köche und Kellner zu finden, ist sehr schwer. Die Arbeitszeiten sind lang, abends und am Wochenende, das schreckt viele junge Leute ab. Einige unserer Mitarbeiter sind schon seit über zehn Jahren bei uns.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -896,6 +920,30 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Mein Sohn wird den Betrieb übernehmen, wenn ich in zwei Jahren in Rente gehe. Er möchte außerdem eine kleine Terrasse bauen und Kochkurse anbieten.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie viele Gäste haben Sie an einem normalen Abend?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Etwa achtzig, am Wochenende oft hundert. Dann sind alle Tische besetzt, und wir haben viel zu tun.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es etwas, das Sie besonders stolz macht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, dass uns viele Gäste von ihrer Familie empfohlen haben. Das ist die beste Werbung, die man haben kann.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -919,7 +967,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Supermarkt Frischkauf. Heute gibt es Erdbeeren aus der Region für einen Euro neunundneunzig pro Schale und frisches Brot zum halben Preis. Bitte beachten Sie: Unser Markt schließt heute schon um achtzehn Uhr.",
+   "t": "Willkommen im Supermarkt Frischkauf. Heute gibt es Erdbeeren aus der Region für einen Euro neunundneunzig pro Schale und frisches Brot zum halben Preis. Bitte beachten Sie: Unser Markt schließt heute schon um achtzehn Uhr. Auch Joghurt und Käse aus der Region sind diese Woche im Angebot. Bitte nehmen Sie sich einen Einkaufskorb am Eingang, die Wagen stehen draußen auf dem Parkplatz.",
    "p": 5,
    "r": "-8%"
   },
@@ -931,13 +979,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Supermarkt Frischkauf. Heute gibt es Erdbeeren aus der Region für einen Euro neunundneunzig pro Schale und frisches Brot zum halben Preis. Bitte beachten Sie: Unser Markt schließt heute schon um achtzehn Uhr.",
+   "t": "Willkommen im Supermarkt Frischkauf. Heute gibt es Erdbeeren aus der Region für einen Euro neunundneunzig pro Schale und frisches Brot zum halben Preis. Bitte beachten Sie: Unser Markt schließt heute schon um achtzehn Uhr. Auch Joghurt und Käse aus der Region sind diese Woche im Angebot. Bitte nehmen Sie sich einen Einkaufskorb am Eingang, die Wagen stehen draußen auf dem Parkplatz.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.",
+   "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen. Die Feuerwehr ist bereits unterwegs. Bitte benutzen Sie keine Aufzüge und nehmen Sie keine persönlichen Gegenstände mit. Die Gruppenleiter zählen alle Mitarbeiter am Sammelplatz.",
    "p": 5,
    "r": "-8%"
   },
@@ -949,13 +997,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.",
+   "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen. Die Feuerwehr ist bereits unterwegs. Bitte benutzen Sie keine Aufzüge und nehmen Sie keine persönlichen Gegenstände mit. Die Gruppenleiter zählen alle Mitarbeiter am Sammelplatz.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Bäckerei Hoffmann informiert: Ab dem ersten Juli sind wir auch sonntags von sieben bis elf Uhr für Sie da. Frische Brötchen gibt es dann auch mit Aufstrich und Kaffee zum Mitnehmen.",
+   "t": "Die Bäckerei Hoffmann informiert: Ab dem ersten Juli sind wir auch sonntags von sieben bis elf Uhr für Sie da. Frische Brötchen gibt es dann auch mit Aufstrich und Kaffee zum Mitnehmen. Alle Backwaren werden jeden Morgen frisch gebacken, auch glutenfreies Brot ist erhältlich. Bestellungen für größere Feiern nehmen wir gern bis Freitag entgegen.",
    "p": 5,
    "r": "-8%"
   },
@@ -967,13 +1015,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Bäckerei Hoffmann informiert: Ab dem ersten Juli sind wir auch sonntags von sieben bis elf Uhr für Sie da. Frische Brötchen gibt es dann auch mit Aufstrich und Kaffee zum Mitnehmen.",
+   "t": "Die Bäckerei Hoffmann informiert: Ab dem ersten Juli sind wir auch sonntags von sieben bis elf Uhr für Sie da. Frische Brötchen gibt es dann auch mit Aufstrich und Kaffee zum Mitnehmen. Alle Backwaren werden jeden Morgen frisch gebacken, auch glutenfreies Brot ist erhältlich. Bestellungen für größere Feiern nehmen wir gern bis Freitag entgegen.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.",
+   "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an. Meine Kollegin Frau Brandt vertritt mich in der Zeit und ist unter der Nummer null drei vier fünf erreichbar. Nach meiner Rückkehr melde ich mich bei Ihnen.",
    "p": 5,
    "r": "-8%"
   },
@@ -985,13 +1033,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.",
+   "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an. Meine Kollegin Frau Brandt vertritt mich in der Zeit und ist unter der Nummer null drei vier fünf erreichbar. Nach meiner Rückkehr melde ich mich bei Ihnen.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Pizza Roma liefert jetzt auch nach Feierabend bis dreiundzwanzig Uhr. Ab einem Bestellwert von fünfzehn Euro ist die Lieferung kostenlos, darunter kostet sie zwei Euro. Bestellen können Sie telefonisch oder online.",
+   "t": "Pizza Roma liefert jetzt auch nach Feierabend bis dreiundzwanzig Uhr. Ab einem Bestellwert von fünfzehn Euro ist die Lieferung kostenlos, darunter kostet sie zwei Euro. Bestellen können Sie telefonisch oder online. Wir haben eine große Auswahl an vegetarischen Pizzen und frischen Salaten. Als Neukunde erhalten Sie beim ersten Mal ein Getränk gratis.",
    "p": 5,
    "r": "-8%"
   },
@@ -1003,14 +1051,14 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Pizza Roma liefert jetzt auch nach Feierabend bis dreiundzwanzig Uhr. Ab einem Bestellwert von fünfzehn Euro ist die Lieferung kostenlos, darunter kostet sie zwei Euro. Bestellen können Sie telefonisch oder online.",
+   "t": "Pizza Roma liefert jetzt auch nach Feierabend bis dreiundzwanzig Uhr. Ab einem Bestellwert von fünfzehn Euro ist die Lieferung kostenlos, darunter kostet sie zwei Euro. Bestellen können Sie telefonisch oder online. Wir haben eine große Auswahl an vegetarischen Pizzen und frischen Salaten. Als Neukunde erhalten Sie beim ersten Mal ein Getränk gratis.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "",
-   "p": 577,
+   "p": 336,
    "r": "+0%"
   },
   {

@@ -47,7 +47,7 @@
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
    "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "left": "<div class=\"text\"><p>Großfamilie im Hochhaus</p><p>In einem Hochhaus in Essen leben vier Generationen unter einem Dach, allerdings nicht in einer gemeinsamen Wohnung. Im achten Stock wohnen die Urgroßmutter Ilse Berger (91) und ihre Tochter Hannelore (68), im neunten Stock die Enkelin Sabine (44) mit Mann und den Söhnen Jonas (16) und Paul (11). Die Familie hat die Wohnungen bewusst übereinander gewählt.</p><p>Begonnen hat alles, als Ilse Berger nach einem Sturz nicht mehr allein zurechtkam. Statt ins Pflegeheim zu ziehen, entschied die Familie, näher zusammenzurücken. Hannelore zog zu ihrer Mutter, wenige Monate später fand Sabine im Haus eine freie Wohnung. „Wir wollten, dass Oma ihre vertraute Umgebung behält“, sagt sie.</p><p>Der Alltag ist gut organisiert. Mittags essen alle zusammen bei Hannelore, die für alle kocht. Dafür erledigt Sabine nach der Arbeit die Einkäufe und fährt die Urgroßmutter zu Arztterminen. Die Jungen helfen ihr am Computer, wenn sie Fotos an Verwandte schicken will. Jede Generation übernimmt also eine Aufgabe.</p><p>Konflikte gibt es natürlich auch. Der Fernseher bei Ilse läuft oft sehr laut, und Jonas braucht für seine Hausaufgaben Ruhe. Deshalb gilt in der Familie eine Regel: Zwischen 15 und 17 Uhr ist Ruhezeit. Außerdem darf niemand unangemeldet in die Wohnung der anderen kommen.</p><p>Der Soziologe Prof. Klaus Reuter findet das Modell zukunftsfähig. Immer mehr Familien suchen solche Lösungen, weil Pflegeplätze fehlen und die Mieten steigen. Er warnt aber: „Das funktioniert nur, wenn jeder genug Privatsphäre behält.“</p></div>",
+   "left": "<div class=\"text\"><p>Großfamilie im Hochhaus</p><p>In einem Hochhaus in Essen leben vier Generationen unter einem Dach, allerdings nicht in einer gemeinsamen Wohnung. Im achten Stock wohnen die Urgroßmutter Ilse Berger (91) und ihre Tochter Hannelore (68), im neunten Stock die Enkelin Sabine (44) mit Mann und den Söhnen Jonas (16) und Paul (11). Die Familie hat die Wohnungen bewusst übereinander gewählt.</p><p>Begonnen hat alles, als Ilse Berger nach einem Sturz nicht mehr allein zurechtkam. Statt ins Pflegeheim zu ziehen, entschied die Familie, näher zusammenzurücken. Hannelore zog zu ihrer Mutter, wenige Monate später fand Sabine im Haus eine freie Wohnung. „Wir wollten, dass Oma ihre vertraute Umgebung behält“, sagt sie.</p><p>Der Alltag ist gut organisiert. Mittags essen alle zusammen bei Hannelore, die für alle kocht. Dafür erledigt Sabine nach der Arbeit die Einkäufe und fährt die Urgroßmutter zu Arztterminen. Die Jungen helfen ihr am Computer, wenn sie Fotos an Verwandte schicken will. Jede Generation übernimmt also eine Aufgabe.</p><p>Konflikte gibt es natürlich auch. Der Fernseher bei Ilse läuft oft sehr laut, und Jonas braucht für seine Hausaufgaben Ruhe. Deshalb gilt in der Familie eine Regel: Zwischen 15 und 17 Uhr ist Ruhezeit. Außerdem darf niemand unangemeldet in die Wohnung der anderen kommen.</p><p>Der Soziologe Prof. Klaus Reuter findet das Modell zukunftsfähig. Immer mehr Familien suchen solche Lösungen, weil Pflegeplätze fehlen und die Mieten steigen. Er warnt aber: „Das funktioniert nur, wenn jeder genug Privatsphäre behält.“</p><p>Die Kinder der Familie sehen das Zusammenleben meistens positiv. Jonas erzählt, dass er nach der Schule oft bei seiner Großmutter vorbeischaut und mit ihr Karten spielt. Die Eltern sind froh, dass sie bei Krankheit der Kinder nicht sofort freinehmen müssen, weil immer jemand im Haus ist.</p></div>",
    "items": [
     {
      "id": "l6",
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen Lieder. Das Schönste ist, dass alle Zeit füreinander haben.</p>"
+     "<p>Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen Lieder. Das Schönste ist, dass alle Zeit füreinander haben. Am Heiligabend gehen wir erst in die Kirche, danach gibt es Kartoffelsalat mit Würstchen. Meine Mutter backt schon im November mehrere Sorten Kekse.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich feiere meinen Geburtstag nie. Früher habe ich große Partys gemacht, aber das war mir zu viel Stress. Jetzt gehe ich einfach mit meiner Frau essen und schalte das Handy aus.</p>"
+     "<p>Ich feiere meinen Geburtstag nie. Früher habe ich große Partys gemacht, aber das war mir zu viel Stress. Jetzt gehe ich einfach mit meiner Frau essen und schalte das Handy aus. Meine Freunde schicken mir Nachrichten, und das reicht mir völlig. Einmal im Jahr besuche ich meine Eltern, dann feiern wir ein bisschen.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Bei uns in Köln ist Karneval das schönste Fest. Man verkleidet sich, tanzt auf der Straße und spricht mit Fremden, als würde man sie schon ewig kennen. Nur die Preise für Getränke sind in dieser Zeit unglaublich hoch.</p>"
+     "<p>Bei uns in Köln ist Karneval das schönste Fest. Man verkleidet sich, tanzt auf der Straße und spricht mit Fremden, als würde man sie schon ewig kennen. Nur die Preise für Getränke sind in dieser Zeit unglaublich hoch. Ich bin schon als Pirat, als Clown und einmal als Pinguin gegangen. Am Rosenmontag habe ich frei, deshalb kann ich bis in die Nacht feiern.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Hochzeiten finde ich anstrengend. Man muss im Anzug stundenlang sitzen, Reden hören und Leute treffen, die man kaum kennt. Aber für meine Schwester war ich natürlich da, und es war am Ende doch ein schöner Tag.</p>"
+     "<p>Hochzeiten finde ich anstrengend. Man muss im Anzug stundenlang sitzen, Reden hören und Leute treffen, die man kaum kennt. Aber für meine Schwester war ich natürlich da, und es war am Ende doch ein schöner Tag. Besonders die Tischreden fand ich lang, aber die Musik war gut. Die Kinder meiner Schwester haben die ganze Zeit getanzt.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas zu essen mit, die Kinder spielen auf der gesperrten Straße. Seit dem ersten Fest vor zehn Jahren kennen wir uns viel besser.</p>"
+     "<p>Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas zu essen mit, die Kinder spielen auf der gesperrten Straße. Seit dem ersten Fest vor zehn Jahren kennen wir uns viel besser. Dieses Jahr kommt eine Band, die ein Nachbar kennt. Wer möchte, kann im Hof auch ein Tischtennisturnier mitspielen.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Großfamilie. Herr Demir, Vater von fünf Kindern",
-   "html": "<div class=\"text\"><p>Herr Demir, Sie haben fünf Kinder. Wie sieht ein normaler Morgen bei Ihnen aus?</p><p>Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad.</p><p>Wie schaffen Sie das organisatorisch?</p><p>Mit einem großen Wochenplan an der Wand. Jedes Kind hat Aufgaben: Tisch decken, Müll rausbringen, Geschirrspüler ausräumen. Die Älteste, Leyla, ist fünfzehn und hilft bei den Kleinen.</p><p>Wo essen Sie?</p><p>Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern.</p><p>Wie ist das mit dem Geld?</p><p>Es ist nicht leicht. Wir haben ein Haus gemietet, und Kleidung und Schuhe sind teuer. Aber wir kaufen viel gebraucht, und die Älteren geben ihre Sachen an die Jüngeren weiter.</p><p>Und Urlaub?</p><p>Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt.</p><p>Was ist das Schwierigste?</p><p>Zeit für jedes einzelne Kind zu haben. Deshalb mache ich mit jedem einmal im Monat etwas allein, zum Beispiel Eis essen oder ins Kino.</p><p>Würden Sie wieder so viele Kinder wollen?</p><p>Sofort. Es ist laut und anstrengend, aber wenn abends alle am Tisch sitzen und lachen, weiß ich, warum ich das mache.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Demir, Sie haben fünf Kinder. Wie sieht ein normaler Morgen bei Ihnen aus?</p><p>Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad. Gestern hat der Kleinste sogar seine Mütze im Kühlschrank versteckt.</p><p>Wie schaffen Sie das organisatorisch?</p><p>Mit einem großen Wochenplan an der Wand. Jedes Kind hat Aufgaben: Tisch decken, Müll rausbringen, Geschirrspüler ausräumen. Die Älteste, Leyla, ist fünfzehn und hilft bei den Kleinen.</p><p>Wo essen Sie?</p><p>Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern. Samstags backen wir manchmal gemeinsam Fladenbrot, und die Kinder dürfen helfen.</p><p>Wie ist das mit dem Geld?</p><p>Es ist nicht leicht. Wir haben ein Haus gemietet, und Kleidung und Schuhe sind teuer. Aber wir kaufen viel gebraucht, und die Älteren geben ihre Sachen an die Jüngeren weiter.</p><p>Und Urlaub?</p><p>Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt. Meistens fahren wir nachts, damit die Kinder im Auto schlafen.</p><p>Was ist das Schwierigste?</p><p>Zeit für jedes einzelne Kind zu haben. Deshalb mache ich mit jedem einmal im Monat etwas allein, zum Beispiel Eis essen oder ins Kino.</p><p>Würden Sie wieder so viele Kinder wollen?</p><p>Sofort. Es ist laut und anstrengend, aber wenn abends alle am Tisch sitzen und lachen, weiß ich, warum ich das mache.</p><p>Wie ist das mit den Hausaufgaben?</p><p>Die Großen helfen den Kleinen. Das klappt meistens gut, und dabei lernen sie auch selbst viel.</p><p>Wünschen Sie sich etwas für die Zukunft?</p><p>Ein größeres Haus, mit mehr Platz zum Spielen. Aber ehrlich gesagt sind wir auch jetzt sehr glücklich.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.</p>"
+     "<p>Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen. Die Kasse öffnet eine Stunde vor Beginn. Für Kinder unter zwölf Jahren gibt es einen ermäßigten Preis, und Popcorn bekommen Sie an der Theke im Foyer.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.</p>"
+     "<p>Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter. Der Wind weht schwach bis mäßig. In der Nacht zum Montag kühlt es auf etwa zehn Grad ab, im Bergland sind auch noch Werte um fünf Grad möglich.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.</p>"
+     "<p>Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof. Wenn der Bus Verspätung hat, rufe ich dich kurz an. Ich bringe auch einen Kuchen mit, den hat Mama gebacken. Bis Samstag, ich freue mich!</p>"
     ],
     [
      "Ansage 4",
-     "<p>Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.</p>"
+     "<p>Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder. Das Café im Erdgeschoss hat an diesem Tag verlängerte Öffnungszeiten. Kinderwagen können Sie an der Garderobe abstellen, und einen Wickelraum finden Sie im ersten Stock.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.</p>"
+     "<p>Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor. Heute gibt es auch einen Fahrdienst für Gäste im Rollstuhl. Bitte melden Sie sich bei Frau Winter am Eingang, wenn Sie Hilfe brauchen.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen Lieder. Das Schönste ist, dass alle Zeit füreinander haben.",
+   "t": "Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen Lieder. Das Schönste ist, dass alle Zeit füreinander haben. Am Heiligabend gehen wir erst in die Kirche, danach gibt es Kartoffelsalat mit Würstchen. Meine Mutter backt schon im November mehrere Sorten Kekse.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich feiere meinen Geburtstag nie. Früher habe ich große Partys gemacht, aber das war mir zu viel Stress. Jetzt gehe ich einfach mit meiner Frau essen und schalte das Handy aus.",
+   "t": "Ich feiere meinen Geburtstag nie. Früher habe ich große Partys gemacht, aber das war mir zu viel Stress. Jetzt gehe ich einfach mit meiner Frau essen und schalte das Handy aus. Meine Freunde schicken mir Nachrichten, und das reicht mir völlig. Einmal im Jahr besuche ich meine Eltern, dann feiern wir ein bisschen.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bei uns in Köln ist Karneval das schönste Fest. Man verkleidet sich, tanzt auf der Straße und spricht mit Fremden, als würde man sie schon ewig kennen. Nur die Preise für Getränke sind in dieser Zeit unglaublich hoch.",
+   "t": "Bei uns in Köln ist Karneval das schönste Fest. Man verkleidet sich, tanzt auf der Straße und spricht mit Fremden, als würde man sie schon ewig kennen. Nur die Preise für Getränke sind in dieser Zeit unglaublich hoch. Ich bin schon als Pirat, als Clown und einmal als Pinguin gegangen. Am Rosenmontag habe ich frei, deshalb kann ich bis in die Nacht feiern.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hochzeiten finde ich anstrengend. Man muss im Anzug stundenlang sitzen, Reden hören und Leute treffen, die man kaum kennt. Aber für meine Schwester war ich natürlich da, und es war am Ende doch ein schöner Tag.",
+   "t": "Hochzeiten finde ich anstrengend. Man muss im Anzug stundenlang sitzen, Reden hören und Leute treffen, die man kaum kennt. Aber für meine Schwester war ich natürlich da, und es war am Ende doch ein schöner Tag. Besonders die Tischreden fand ich lang, aber die Musik war gut. Die Kinder meiner Schwester haben die ganze Zeit getanzt.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas zu essen mit, die Kinder spielen auf der gesperrten Straße. Seit dem ersten Fest vor zehn Jahren kennen wir uns viel besser.",
+   "t": "Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas zu essen mit, die Kinder spielen auf der gesperrten Straße. Seit dem ersten Fest vor zehn Jahren kennen wir uns viel besser. Dieses Jahr kommt eine Band, die ein Nachbar kennt. Wer möchte, kann im Hof auch ein Tischtennisturnier mitspielen.",
    "p": 16,
    "r": "-8%"
   },
@@ -709,7 +709,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad.",
+   "t": "Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad. Gestern hat der Kleinste sogar seine Mütze im Kühlschrank versteckt.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -733,7 +733,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern.",
+   "t": "Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern. Samstags backen wir manchmal gemeinsam Fladenbrot, und die Kinder dürfen helfen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -757,7 +757,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt.",
+   "t": "Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt. Meistens fahren wir nachts, damit die Kinder im Auto schlafen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -782,6 +782,30 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Sofort. Es ist laut und anstrengend, aber wenn abends alle am Tisch sitzen und lachen, weiß ich, warum ich das mache.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie ist das mit den Hausaufgaben?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Großen helfen den Kleinen. Das klappt meistens gut, und dabei lernen sie auch selbst viel.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wünschen Sie sich etwas für die Zukunft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ein größeres Haus, mit mehr Platz zum Spielen. Aber ehrlich gesagt sind wir auch jetzt sehr glücklich.",
    "p": 30,
    "r": "-8%"
   },
@@ -799,7 +823,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad.",
+   "t": "Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad. Gestern hat der Kleinste sogar seine Mütze im Kühlschrank versteckt.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -823,7 +847,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern.",
+   "t": "Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern. Samstags backen wir manchmal gemeinsam Fladenbrot, und die Kinder dürfen helfen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -847,7 +871,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt.",
+   "t": "Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt. Meistens fahren wir nachts, damit die Kinder im Auto schlafen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -872,6 +896,30 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Sofort. Es ist laut und anstrengend, aber wenn abends alle am Tisch sitzen und lachen, weiß ich, warum ich das mache.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie ist das mit den Hausaufgaben?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Die Großen helfen den Kleinen. Das klappt meistens gut, und dabei lernen sie auch selbst viel.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wünschen Sie sich etwas für die Zukunft?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ein größeres Haus, mit mehr Platz zum Spielen. Aber ehrlich gesagt sind wir auch jetzt sehr glücklich.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +943,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
+   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen. Die Kasse öffnet eine Stunde vor Beginn. Für Kinder unter zwölf Jahren gibt es einen ermäßigten Preis, und Popcorn bekommen Sie an der Theke im Foyer.",
    "p": 5,
    "r": "-8%"
   },
@@ -907,13 +955,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
+   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen. Die Kasse öffnet eine Stunde vor Beginn. Für Kinder unter zwölf Jahren gibt es einen ermäßigten Preis, und Popcorn bekommen Sie an der Theke im Foyer.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
+   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter. Der Wind weht schwach bis mäßig. In der Nacht zum Montag kühlt es auf etwa zehn Grad ab, im Bergland sind auch noch Werte um fünf Grad möglich.",
    "p": 5,
    "r": "-8%"
   },
@@ -925,13 +973,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
+   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter. Der Wind weht schwach bis mäßig. In der Nacht zum Montag kühlt es auf etwa zehn Grad ab, im Bergland sind auch noch Werte um fünf Grad möglich.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.",
+   "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof. Wenn der Bus Verspätung hat, rufe ich dich kurz an. Ich bringe auch einen Kuchen mit, den hat Mama gebacken. Bis Samstag, ich freue mich!",
    "p": 5,
    "r": "-8%"
   },
@@ -943,13 +991,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.",
+   "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof. Wenn der Bus Verspätung hat, rufe ich dich kurz an. Ich bringe auch einen Kuchen mit, den hat Mama gebacken. Bis Samstag, ich freue mich!",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.",
+   "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder. Das Café im Erdgeschoss hat an diesem Tag verlängerte Öffnungszeiten. Kinderwagen können Sie an der Garderobe abstellen, und einen Wickelraum finden Sie im ersten Stock.",
    "p": 5,
    "r": "-8%"
   },
@@ -961,13 +1009,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.",
+   "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder. Das Café im Erdgeschoss hat an diesem Tag verlängerte Öffnungszeiten. Kinderwagen können Sie an der Garderobe abstellen, und einen Wickelraum finden Sie im ersten Stock.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.",
+   "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor. Heute gibt es auch einen Fahrdienst für Gäste im Rollstuhl. Bitte melden Sie sich bei Frau Winter am Eingang, wenn Sie Hilfe brauchen.",
    "p": 5,
    "r": "-8%"
   },
@@ -979,14 +1027,14 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.",
+   "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor. Heute gibt es auch einen Fahrdienst für Gäste im Rollstuhl. Bitte melden Sie sich bei Frau Winter am Eingang, wenn Sie Hilfe brauchen.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "",
-   "p": 596,
+   "p": 353,
    "r": "+0%"
   },
   {

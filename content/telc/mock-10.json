@@ -47,7 +47,7 @@
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
    "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "left": "<div class=\"text\"><p>Das Ende der Zeitung?</p><p>Immer weniger Menschen in Deutschland lesen eine gedruckte Tageszeitung. Vor zwanzig Jahren hatte noch jeder zweite Haushalt ein Abonnement, heute ist es nur noch etwa jeder vierte. Die Verlage reagieren darauf mit Sparmaßnahmen: Viele haben ihre Redaktionen verkleinert oder Lokalausgaben zusammengelegt.</p><p>Junge Leser informieren sich meist auf dem Smartphone, oft über soziale Netzwerke. Das sieht Nina Kramer, Chefredakteurin einer Regionalzeitung in Münster, kritisch: „Dort sieht man vor allem, was einem gefällt, nicht, was wichtig ist.“ Ihre Zeitung hat deshalb eine App entwickelt, die täglich fünf Meldungen auswählt und kurz erklärt.</p><p>Das Geschäft mit Digitalabos ist schwierig. Viele Leser sind nicht bereit, für Nachrichten im Internet zu zahlen, weil es so viele kostenlose Angebote gibt. Nur etwa jeder zehnte Nutzer der App hat bisher ein bezahltes Abo abgeschlossen. Auch das Geld aus der Werbung ist gesunken, weil Firmen ihre Anzeigen lieber bei großen Internetkonzernen schalten.</p><p>Trotzdem sieht Kramer eine Zukunft. Ältere Leser schätzen die Zeitung am Frühstückstisch, und gerade in kleineren Städten gibt es kaum eine andere Quelle für Nachrichten aus der Region. Über den Stadtrat, den örtlichen Fußballverein oder die Baustelle am Markt berichten nur die Lokalredaktionen. „Das kann kein Internetkonzern ersetzen“, meint sie.</p><p>Nina Kramer rechnet damit, dass es die gedruckte Zeitung auch in zehn Jahren noch geben wird, allerdings nur noch an vier Tagen pro Woche. Die übrigen Ausgaben sollen nur digital erscheinen. „Wichtig ist, dass wir die Leser dort erreichen, wo sie sind“, sagt sie.</p></div>",
+   "left": "<div class=\"text\"><p>Das Ende der Zeitung?</p><p>Immer weniger Menschen in Deutschland lesen eine gedruckte Tageszeitung. Vor zwanzig Jahren hatte noch jeder zweite Haushalt ein Abonnement, heute ist es nur noch etwa jeder vierte. Die Verlage reagieren darauf mit Sparmaßnahmen: Viele haben ihre Redaktionen verkleinert oder Lokalausgaben zusammengelegt.</p><p>Junge Leser informieren sich meist auf dem Smartphone, oft über soziale Netzwerke. Das sieht Nina Kramer, Chefredakteurin einer Regionalzeitung in Münster, kritisch: „Dort sieht man vor allem, was einem gefällt, nicht, was wichtig ist.“ Ihre Zeitung hat deshalb eine App entwickelt, die täglich fünf Meldungen auswählt und kurz erklärt.</p><p>Das Geschäft mit Digitalabos ist schwierig. Viele Leser sind nicht bereit, für Nachrichten im Internet zu zahlen, weil es so viele kostenlose Angebote gibt. Nur etwa jeder zehnte Nutzer der App hat bisher ein bezahltes Abo abgeschlossen. Auch das Geld aus der Werbung ist gesunken, weil Firmen ihre Anzeigen lieber bei großen Internetkonzernen schalten.</p><p>Trotzdem sieht Kramer eine Zukunft. Ältere Leser schätzen die Zeitung am Frühstückstisch, und gerade in kleineren Städten gibt es kaum eine andere Quelle für Nachrichten aus der Region. Über den Stadtrat, den örtlichen Fußballverein oder die Baustelle am Markt berichten nur die Lokalredaktionen. „Das kann kein Internetkonzern ersetzen“, meint sie.</p><p>Nina Kramer rechnet damit, dass es die gedruckte Zeitung auch in zehn Jahren noch geben wird, allerdings nur noch an vier Tagen pro Woche. Die übrigen Ausgaben sollen nur digital erscheinen. „Wichtig ist, dass wir die Leser dort erreichen, wo sie sind“, sagt sie.</p><p>In vielen Familien wird die Zeitung inzwischen nur noch am Wochenende gelesen. Einige Leser sagen, dass sie die gedruckte Ausgabe wegen der Haptik schätzen und gern etwas in der Hand halten. Die Zeitung will deshalb ihr Wochenendmagazin ausbauen und mit mehr Reportagen und Bildern interessanter machen.</p></div>",
    "items": [
     {
      "id": "l6",
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich lese nur noch Nachrichten am Handy. Eine Zeitung habe ich seit Jahren nicht mehr gekauft. Ich finde es praktisch, dass ich unterwegs in der Bahn alles lesen kann. Aber ich weiß, dass ich dadurch oft nur die Überschriften sehe.</p>"
+     "<p>Ich lese nur noch Nachrichten am Handy. Eine Zeitung habe ich seit Jahren nicht mehr gekauft. Ich finde es praktisch, dass ich unterwegs in der Bahn alles lesen kann. Aber ich weiß, dass ich dadurch oft nur die Überschriften sehe. Abends lese ich meistens noch einmal in einer App, was am Tag passiert ist. Zeitungsabos finde ich teuer.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich sehe fast jeden Abend fern. Nach der Arbeit will ich einfach abschalten und mich berieseln lassen. Am liebsten schaue ich Krimis, aber Nachrichten interessieren mich nicht.</p>"
+     "<p>Ich sehe fast jeden Abend fern. Nach der Arbeit will ich einfach abschalten und mich berieseln lassen. Am liebsten schaue ich Krimis, aber Nachrichten interessieren mich nicht. Mein Fernseher ist schon zehn Jahre alt, aber er funktioniert noch gut. Am Sonntag schaue ich oft mit meiner Frau einen Film.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen und im Auto. Dabei lerne ich viel über Geschichte und Wirtschaft. Nur bei sehr langen Folgen schlafe ich manchmal ein.</p>"
+     "<p>Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen und im Auto. Dabei lerne ich viel über Geschichte und Wirtschaft. Nur bei sehr langen Folgen schlafe ich manchmal ein. Meine Lieblingsfolge ist eine über Geschichte, die dauert zwei Stunden. Eine neue Folge kommt jede Woche am Montag.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich bin viel in sozialen Netzwerken unterwegs, aber nur beruflich. Privat habe ich keine Profile, weil mir das zu viel Zeit nimmt. Ich telefoniere lieber mit Freunden.</p>"
+     "<p>Ich bin viel in sozialen Netzwerken unterwegs, aber nur beruflich. Privat habe ich keine Profile, weil mir das zu viel Zeit nimmt. Ich telefoniere lieber mit Freunden. Dafür habe ich ein Profil mit meinem Lebenslauf, und Kunden schreiben mir dort manchmal. Abends schalte ich die Benachrichtigungen aus.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Meine Kinder dürfen nur eine Stunde am Tag an den Computer oder das Handy. Anfangs gab es viel Streit, aber inzwischen akzeptieren sie die Regel. Dafür spielen sie mehr draußen und lesen mehr.</p>"
+     "<p>Meine Kinder dürfen nur eine Stunde am Tag an den Computer oder das Handy. Anfangs gab es viel Streit, aber inzwischen akzeptieren sie die Regel. Dafür spielen sie mehr draußen und lesen mehr. Am Wochenende dürfen sie etwas länger, wenn sie vorher ihre Aufgaben gemacht haben. Wir haben auch einen Familienabend ohne Handys eingeführt.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Leben ohne Smartphone. Herr Braun, Lehrer",
-   "html": "<div class=\"text\"><p>Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?</p><p>Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann.</p><p>Wie haben Sie die erste Zeit erlebt?</p><p>Schwer. In den ersten Wochen habe ich ständig in die Tasche gegriffen. Ich fühlte mich auch abgeschnitten, weil ich im Klassenchat nichts mehr mitbekam. Jetzt weiß ich, dass das nicht so schlimm ist.</p><p>Was gewinnen Sie?</p><p>Zeit. Ich lese wieder Bücher, ich gehe öfter spazieren, und abends bin ich nicht mehr so unruhig. Außerdem sehe ich viel mehr von meiner Umgebung.</p><p>Wie kommen Sie ohne Smartphone zurecht?</p><p>Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier.</p><p>Gibt es auch Nachteile?</p><p>Ja. Manche Dinge gehen nur noch mit App, zum Beispiel das Parken in der Innenstadt. Und die Kollegen sind manchmal genervt, wenn sie mir etwas schicken wollen und ich nicht antworte.</p><p>Was sagen Ihre Schüler dazu?</p><p>Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert.</p><p>Würden Sie wieder ein Smartphone kaufen?</p><p>Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?</p><p>Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann. Außerdem habe ich gemerkt, wie müde meine Augen abends waren.</p><p>Wie haben Sie die erste Zeit erlebt?</p><p>Schwer. In den ersten Wochen habe ich ständig in die Tasche gegriffen. Ich fühlte mich auch abgeschnitten, weil ich im Klassenchat nichts mehr mitbekam. Jetzt weiß ich, dass das nicht so schlimm ist.</p><p>Was gewinnen Sie?</p><p>Zeit. Ich lese wieder Bücher, ich gehe öfter spazieren, und abends bin ich nicht mehr so unruhig. Außerdem sehe ich viel mehr von meiner Umgebung.</p><p>Wie kommen Sie ohne Smartphone zurecht?</p><p>Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier. Auch Bücher aus der Bibliothek helfen mir mehr, als ich früher dachte.</p><p>Gibt es auch Nachteile?</p><p>Ja. Manche Dinge gehen nur noch mit App, zum Beispiel das Parken in der Innenstadt. Und die Kollegen sind manchmal genervt, wenn sie mir etwas schicken wollen und ich nicht antworte.</p><p>Was sagen Ihre Schüler dazu?</p><p>Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert. Der Vorschlag kam von einem Schüler, der sich ein Experiment gewünscht hatte.</p><p>Würden Sie wieder ein Smartphone kaufen?</p><p>Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.</p><p>Wie reagieren Ihre Freunde darauf?</p><p>Meistens gelassen. Manche finden es altmodisch, andere beneiden mich. Ich rufe sie einfach öfter an.</p><p>Was möchten Sie anderen mit auf den Weg geben?</p><p>Man sollte ausprobieren, wie es ohne ist. Schon ein Wochenende ohne Handy zeigt, wie viel Zeit man gewinnt.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.</p>"
+     "<p>Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden. Bitte halten Sie Ihre Kundennummer bereit, wenn Sie uns anrufen. Die Nummer finden Sie oben rechts auf Ihrer Rechnung.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.</p>"
+     "<p>Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an. Die Erhöhung betrifft alle Wohnungen im Haus. Wenn Sie Fragen haben, bin ich bis zum Monatsende täglich nach achtzehn Uhr zu Hause.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.</p>"
+     "<p>Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen. Alternativ können Sie über die Bundesstraße fahren, dort ist der Verkehr dichter als sonst. Der Stau löst sich voraussichtlich gegen zwanzig Uhr auf.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.</p>"
+     "<p>Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei. Am Wochenende hat die Apotheke am Marktplatz Notdienst. Bitte bringen Sie bei Rezepten Ihre Versichertenkarte mit.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.</p>"
+     "<p>Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich. Die Bücher, die Sie jetzt zurückgeben, werden erst nach der Wiedereröffnung gebucht. Wir bedanken uns für Ihr Verständnis und wünschen Ihnen einen schönen Tag.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich lese nur noch Nachrichten am Handy. Eine Zeitung habe ich seit Jahren nicht mehr gekauft. Ich finde es praktisch, dass ich unterwegs in der Bahn alles lesen kann. Aber ich weiß, dass ich dadurch oft nur die Überschriften sehe.",
+   "t": "Ich lese nur noch Nachrichten am Handy. Eine Zeitung habe ich seit Jahren nicht mehr gekauft. Ich finde es praktisch, dass ich unterwegs in der Bahn alles lesen kann. Aber ich weiß, dass ich dadurch oft nur die Überschriften sehe. Abends lese ich meistens noch einmal in einer App, was am Tag passiert ist. Zeitungsabos finde ich teuer.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich sehe fast jeden Abend fern. Nach der Arbeit will ich einfach abschalten und mich berieseln lassen. Am liebsten schaue ich Krimis, aber Nachrichten interessieren mich nicht.",
+   "t": "Ich sehe fast jeden Abend fern. Nach der Arbeit will ich einfach abschalten und mich berieseln lassen. Am liebsten schaue ich Krimis, aber Nachrichten interessieren mich nicht. Mein Fernseher ist schon zehn Jahre alt, aber er funktioniert noch gut. Am Sonntag schaue ich oft mit meiner Frau einen Film.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen und im Auto. Dabei lerne ich viel über Geschichte und Wirtschaft. Nur bei sehr langen Folgen schlafe ich manchmal ein.",
+   "t": "Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen und im Auto. Dabei lerne ich viel über Geschichte und Wirtschaft. Nur bei sehr langen Folgen schlafe ich manchmal ein. Meine Lieblingsfolge ist eine über Geschichte, die dauert zwei Stunden. Eine neue Folge kommt jede Woche am Montag.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich bin viel in sozialen Netzwerken unterwegs, aber nur beruflich. Privat habe ich keine Profile, weil mir das zu viel Zeit nimmt. Ich telefoniere lieber mit Freunden.",
+   "t": "Ich bin viel in sozialen Netzwerken unterwegs, aber nur beruflich. Privat habe ich keine Profile, weil mir das zu viel Zeit nimmt. Ich telefoniere lieber mit Freunden. Dafür habe ich ein Profil mit meinem Lebenslauf, und Kunden schreiben mir dort manchmal. Abends schalte ich die Benachrichtigungen aus.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Meine Kinder dürfen nur eine Stunde am Tag an den Computer oder das Handy. Anfangs gab es viel Streit, aber inzwischen akzeptieren sie die Regel. Dafür spielen sie mehr draußen und lesen mehr.",
+   "t": "Meine Kinder dürfen nur eine Stunde am Tag an den Computer oder das Handy. Anfangs gab es viel Streit, aber inzwischen akzeptieren sie die Regel. Dafür spielen sie mehr draußen und lesen mehr. Am Wochenende dürfen sie etwas länger, wenn sie vorher ihre Aufgaben gemacht haben. Wir haben auch einen Familienabend ohne Handys eingeführt.",
    "p": 16,
    "r": "-8%"
   },
@@ -709,7 +709,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann.",
+   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann. Außerdem habe ich gemerkt, wie müde meine Augen abends waren.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -745,7 +745,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier.",
+   "t": "Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier. Auch Bücher aus der Bibliothek helfen mir mehr, als ich früher dachte.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -769,7 +769,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert.",
+   "t": "Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert. Der Vorschlag kam von einem Schüler, der sich ein Experiment gewünscht hatte.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -782,6 +782,30 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie reagieren Ihre Freunde darauf?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Meistens gelassen. Manche finden es altmodisch, andere beneiden mich. Ich rufe sie einfach öfter an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was möchten Sie anderen mit auf den Weg geben?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Man sollte ausprobieren, wie es ohne ist. Schon ein Wochenende ohne Handy zeigt, wie viel Zeit man gewinnt.",
    "p": 30,
    "r": "-8%"
   },
@@ -799,7 +823,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann.",
+   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann. Außerdem habe ich gemerkt, wie müde meine Augen abends waren.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -835,7 +859,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier.",
+   "t": "Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier. Auch Bücher aus der Bibliothek helfen mir mehr, als ich früher dachte.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -859,7 +883,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert.",
+   "t": "Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert. Der Vorschlag kam von einem Schüler, der sich ein Experiment gewünscht hatte.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -872,6 +896,30 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie reagieren Ihre Freunde darauf?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Meistens gelassen. Manche finden es altmodisch, andere beneiden mich. Ich rufe sie einfach öfter an.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was möchten Sie anderen mit auf den Weg geben?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Man sollte ausprobieren, wie es ohne ist. Schon ein Wochenende ohne Handy zeigt, wie viel Zeit man gewinnt.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +943,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
+   "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden. Bitte halten Sie Ihre Kundennummer bereit, wenn Sie uns anrufen. Die Nummer finden Sie oben rechts auf Ihrer Rechnung.",
    "p": 5,
    "r": "-8%"
   },
@@ -907,13 +955,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
+   "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden. Bitte halten Sie Ihre Kundennummer bereit, wenn Sie uns anrufen. Die Nummer finden Sie oben rechts auf Ihrer Rechnung.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
+   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an. Die Erhöhung betrifft alle Wohnungen im Haus. Wenn Sie Fragen haben, bin ich bis zum Monatsende täglich nach achtzehn Uhr zu Hause.",
    "p": 5,
    "r": "-8%"
   },
@@ -925,13 +973,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
+   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an. Die Erhöhung betrifft alle Wohnungen im Haus. Wenn Sie Fragen haben, bin ich bis zum Monatsende täglich nach achtzehn Uhr zu Hause.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
+   "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen. Alternativ können Sie über die Bundesstraße fahren, dort ist der Verkehr dichter als sonst. Der Stau löst sich voraussichtlich gegen zwanzig Uhr auf.",
    "p": 5,
    "r": "-8%"
   },
@@ -943,13 +991,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
+   "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen. Alternativ können Sie über die Bundesstraße fahren, dort ist der Verkehr dichter als sonst. Der Stau löst sich voraussichtlich gegen zwanzig Uhr auf.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
+   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei. Am Wochenende hat die Apotheke am Marktplatz Notdienst. Bitte bringen Sie bei Rezepten Ihre Versichertenkarte mit.",
    "p": 5,
    "r": "-8%"
   },
@@ -961,13 +1009,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
+   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei. Am Wochenende hat die Apotheke am Marktplatz Notdienst. Bitte bringen Sie bei Rezepten Ihre Versichertenkarte mit.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
+   "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich. Die Bücher, die Sie jetzt zurückgeben, werden erst nach der Wiedereröffnung gebucht. Wir bedanken uns für Ihr Verständnis und wünschen Ihnen einen schönen Tag.",
    "p": 5,
    "r": "-8%"
   },
@@ -979,14 +1027,14 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
+   "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich. Die Bücher, die Sie jetzt zurückgeben, werden erst nach der Wiedereröffnung gebucht. Wir bedanken uns für Ihr Verständnis und wünschen Ihnen einen schönen Tag.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "",
-   "p": 586,
+   "p": 370,
    "r": "+0%"
   },
   {

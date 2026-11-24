@@ -47,7 +47,7 @@
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
    "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "left": "<div class=\"text\"><p>Ein Tag im Hausarztzentrum</p><p>Im Hausarztzentrum Südstadt arbeiten sieben Ärztinnen und Ärzte gemeinsam unter einem Dach. Seit das Zentrum vor zwei Jahren eröffnet wurde, kommen täglich mehr als 200 Patienten. „Früher hatte jeder Arzt seine eigene kleine Praxis und oft zu wenig Zeit“, sagt die Leiterin Dr. Sabine Hahn. „Heute können wir uns die Arbeit teilen und mehr Zeit für die einzelnen Menschen einplanen.“</p><p>Besonders beliebt sind die Abendsprechstunden. Montags und donnerstags ist das Zentrum bis 20 Uhr geöffnet, damit auch Berufstätige einen Termin bekommen, ohne sich freinehmen zu müssen. Wer morgens krank wird, kann außerdem über eine App einen Termin am selben Tag buchen. Dafür müssen Patienten allerdings vorher online ein Formular ausfüllen.</p><p>Das Zentrum hat auch eine eigene Apotheke und einen Raum, in dem Physiotherapeuten arbeiten. Viele Patienten schätzen, dass sie nach dem Arztbesuch alles am selben Ort erledigen können. Nur Röntgenaufnahmen werden weiterhin in einer Klinik in der Nähe gemacht, weil das Zentrum dafür keinen Platz hat.</p><p>Auch die Wohnsituation spielt eine Rolle. Weil Wohnungen in der Südstadt teuer sind, hat die Stadt dem Zentrum erlaubt, im Obergeschoss vier kleine Wohnungen für junge Ärzte und Pflegekräfte einzurichten. So lassen sich neue Mitarbeiter leichter finden. Zwei Wohnungen sind schon vermietet, die anderen sollen im Herbst fertig werden.</p><p>Die Zukunft sieht gut aus, meint Dr. Hahn, aber ein Problem bleibt: Es gibt zu wenige junge Hausärzte. „Viele wollen lieber in einem Krankenhaus arbeiten, weil sie dort feste Dienstpläne haben“, sagt sie. Deshalb plant das Zentrum, im nächsten Jahr zwei Stellen anzubieten, bei denen man die Arbeitszeit freier einteilen kann.</p></div>",
+   "left": "<div class=\"text\"><p>Ein Tag im Hausarztzentrum</p><p>Im Hausarztzentrum Südstadt arbeiten sieben Ärztinnen und Ärzte gemeinsam unter einem Dach. Seit das Zentrum vor zwei Jahren eröffnet wurde, kommen täglich mehr als 200 Patienten. „Früher hatte jeder Arzt seine eigene kleine Praxis und oft zu wenig Zeit“, sagt die Leiterin Dr. Sabine Hahn. „Heute können wir uns die Arbeit teilen und mehr Zeit für die einzelnen Menschen einplanen.“</p><p>Besonders beliebt sind die Abendsprechstunden. Montags und donnerstags ist das Zentrum bis 20 Uhr geöffnet, damit auch Berufstätige einen Termin bekommen, ohne sich freinehmen zu müssen. Wer morgens krank wird, kann außerdem über eine App einen Termin am selben Tag buchen. Dafür müssen Patienten allerdings vorher online ein Formular ausfüllen.</p><p>Das Zentrum hat auch eine eigene Apotheke und einen Raum, in dem Physiotherapeuten arbeiten. Viele Patienten schätzen, dass sie nach dem Arztbesuch alles am selben Ort erledigen können. Nur Röntgenaufnahmen werden weiterhin in einer Klinik in der Nähe gemacht, weil das Zentrum dafür keinen Platz hat.</p><p>Auch die Wohnsituation spielt eine Rolle. Weil Wohnungen in der Südstadt teuer sind, hat die Stadt dem Zentrum erlaubt, im Obergeschoss vier kleine Wohnungen für junge Ärzte und Pflegekräfte einzurichten. So lassen sich neue Mitarbeiter leichter finden. Zwei Wohnungen sind schon vermietet, die anderen sollen im Herbst fertig werden.</p><p>Die Zukunft sieht gut aus, meint Dr. Hahn, aber ein Problem bleibt: Es gibt zu wenige junge Hausärzte. „Viele wollen lieber in einem Krankenhaus arbeiten, weil sie dort feste Dienstpläne haben“, sagt sie. Deshalb plant das Zentrum, im nächsten Jahr zwei Stellen anzubieten, bei denen man die Arbeitszeit freier einteilen kann.</p><p>Auch für die Umgebung hat das Zentrum Vorteile gebracht. Zwei Kindergärten in der Nähe laden regelmäßig eine Ärztin ein, die den Kindern erklärt, was bei einer Untersuchung passiert. Im Sommer gibt es außerdem einen Tag der offenen Tür, an dem sich die Nachbarn die Räume ansehen können.</p></div>",
    "items": [
     {
      "id": "l6",
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe: Supermarkt, Arzt, Café. Dafür ist es laut, und die Miete ist hoch. Einen Balkon habe ich nicht, aber das stört mich nicht, weil ich ohnehin viel unterwegs bin.</p>"
+     "<p>Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe: Supermarkt, Arzt, Café. Dafür ist es laut, und die Miete ist hoch. Einen Balkon habe ich nicht, aber das stört mich nicht, weil ich ohnehin viel unterwegs bin. Im Haus kennt man sich, und im Sommer sitzen wir abends manchmal gemeinsam im Hof. Eine größere Wohnung könnte ich mir aber nicht leisten.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal, sie können draußen spielen. Aber ich muss jeden Morgen eine Dreiviertelstunde zur Arbeit fahren, und abends gibt es kaum Busse. Ohne Auto geht es nicht.</p>"
+     "<p>Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal, sie können draußen spielen. Aber ich muss jeden Morgen eine Dreiviertelstunde zur Arbeit fahren, und abends gibt es kaum Busse. Ohne Auto geht es nicht. Meine Frau arbeitet im Homeoffice, deshalb ist sie nachmittags für die Kinder da. Am Wochenende machen wir oft einen Ausflug in den Wald.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Wir teilen uns Küche und Bad, das spart Geld. Meistens verstehen wir uns gut, nur beim Putzen gibt es manchmal Streit. Später möchte ich trotzdem allein wohnen.</p>"
+     "<p>Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Wir teilen uns Küche und Bad, das spart Geld. Meistens verstehen wir uns gut, nur beim Putzen gibt es manchmal Streit. Später möchte ich trotzdem allein wohnen. Zum Glück haben wir einen großen Küchentisch, an dem wir abends alle zusammen essen. Putzpläne haben wir schon mehrmals neu geschrieben.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich wohne bei meinen Eltern, obwohl ich schon 28 bin. Das ist bequem, meine Mutter kocht, und ich zahle kaum Miete. Aber ich möchte unabhängiger sein und suche seit Monaten eine kleine Wohnung, bisher ohne Erfolg.</p>"
+     "<p>Ich wohne bei meinen Eltern, obwohl ich schon 28 bin. Das ist bequem, meine Mutter kocht, und ich zahle kaum Miete. Aber ich möchte unabhängiger sein und suche seit Monaten eine kleine Wohnung, bisher ohne Erfolg. Meine Eltern sind sehr nett und stellen keine Fragen, wenn ich spät nach Hause komme. Trotzdem fehlt mir mein eigener Raum.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Ich habe vor einem Jahr eine Wohnung im Altbau gekauft. Hohe Decken und ein alter Holzboden, das gefällt mir sehr. Die Heizkosten sind allerdings hoch. Ich würde trotzdem sofort wieder so eine Wohnung nehmen.</p>"
+     "<p>Ich habe vor einem Jahr eine Wohnung im Altbau gekauft. Hohe Decken und ein alter Holzboden, das gefällt mir sehr. Die Heizkosten sind allerdings hoch. Ich würde trotzdem sofort wieder so eine Wohnung nehmen. Die Nachbarn im Haus sind überwiegend ältere Leute, mit denen ich mich gut verstehe. Im Winter friere ich manchmal trotzdem.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Wohnungssuche in der Großstadt. Frau Ivanova, Studentin",
-   "html": "<div class=\"text\"><p>Frau Ivanova, Sie haben gerade eine Wohnung in München gefunden. Wie lange haben Sie gesucht?</p><p>Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort.</p><p>Wo haben Sie in dieser Zeit gewohnt?</p><p>Zuerst bei einer Freundin, später in einem Hostel. Das war teuer, fast 600 Euro im Monat für ein Bett im Mehrbettzimmer.</p><p>Was war das größte Problem?</p><p>Dass so viele Leute gleichzeitig suchen. Bei einer Besichtigung standen fünfzig Personen im Treppenhaus. Am Ende bekommt jemand mit festem Einkommen die Wohnung, und als Studentin hat man schlechte Chancen.</p><p>Wie haben Sie dann doch ein Zimmer gefunden?</p><p>Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten.</p><p>Wie groß ist das Zimmer, und was kostet es?</p><p>Es hat 14 Quadratmeter und kostet 480 Euro warm. Bad und Küche teile ich mit zwei anderen Frauen. Das ist für München eigentlich günstig.</p><p>Was raten Sie anderen Studenten?</p><p>Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben.</p></div>"
+   "html": "<div class=\"text\"><p>Frau Ivanova, Sie haben gerade eine Wohnung in München gefunden. Wie lange haben Sie gesucht?</p><p>Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort. Dabei hatte ich eigentlich gehofft, schon nach zwei Monaten fündig zu werden.</p><p>Wo haben Sie in dieser Zeit gewohnt?</p><p>Zuerst bei einer Freundin, später in einem Hostel. Das war teuer, fast 600 Euro im Monat für ein Bett im Mehrbettzimmer.</p><p>Was war das größte Problem?</p><p>Dass so viele Leute gleichzeitig suchen. Bei einer Besichtigung standen fünfzig Personen im Treppenhaus. Am Ende bekommt jemand mit festem Einkommen die Wohnung, und als Studentin hat man schlechte Chancen.</p><p>Wie haben Sie dann doch ein Zimmer gefunden?</p><p>Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten. Die Studentin und ich haben uns dann beim Kaffee kennengelernt, und es hat sofort gepasst.</p><p>Wie groß ist das Zimmer, und was kostet es?</p><p>Es hat 14 Quadratmeter und kostet 480 Euro warm. Bad und Küche teile ich mit zwei anderen Frauen. Das ist für München eigentlich günstig.</p><p>Was raten Sie anderen Studenten?</p><p>Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben. Ich habe zum Beispiel auch bei Nachbarn nachgefragt und im Internet Anzeigen aufgegeben.</p><p>Wie ist es in der neuen Wohnung?</p><p>Wir verstehen uns gut, und die Lage ist ideal. Zur Uni brauche ich nur zehn Minuten mit dem Rad.</p><p>Gibt es auch Nachteile?</p><p>Die Küche ist sehr klein, und wir haben nur ein Bad für drei Personen. Aber daran gewöhnt man sich.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.</p>"
+     "<p>Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab. Bitte schalten Sie in dieser Zeit auch die Waschmaschine und die Spülmaschine nicht ein. Ab dreizehn Uhr steht Ihnen das Wasser wieder wie gewohnt zur Verfügung.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.</p>"
+     "<p>Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an. Die Sendung beginnt um zwanzig Uhr fünfzehn und dauert eine halbe Stunde. Die Telefonnummer der Redaktion nennen wir Ihnen gleich zu Beginn der Sendung.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.</p>"
+     "<p>Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben. Das Praxisteam ist ab Montag um acht Uhr wieder für Sie da. Rezepte für Dauermedikamente können Sie in dieser Zeit online bestellen.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.</p>"
+     "<p>Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist. Falls Sie die Waschmaschine dringend brauchen, können wir Ihnen ein Leihgerät anbieten. Das kostet zehn Euro pro Woche.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.</p>"
+     "<p>Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach. Am Wochenende bleibt es unbeständig, immer wieder gibt es Schauer. In der Nacht kühlt es auf etwa acht Grad ab.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe: Supermarkt, Arzt, Café. Dafür ist es laut, und die Miete ist hoch. Einen Balkon habe ich nicht, aber das stört mich nicht, weil ich ohnehin viel unterwegs bin.",
+   "t": "Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe: Supermarkt, Arzt, Café. Dafür ist es laut, und die Miete ist hoch. Einen Balkon habe ich nicht, aber das stört mich nicht, weil ich ohnehin viel unterwegs bin. Im Haus kennt man sich, und im Sommer sitzen wir abends manchmal gemeinsam im Hof. Eine größere Wohnung könnte ich mir aber nicht leisten.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal, sie können draußen spielen. Aber ich muss jeden Morgen eine Dreiviertelstunde zur Arbeit fahren, und abends gibt es kaum Busse. Ohne Auto geht es nicht.",
+   "t": "Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal, sie können draußen spielen. Aber ich muss jeden Morgen eine Dreiviertelstunde zur Arbeit fahren, und abends gibt es kaum Busse. Ohne Auto geht es nicht. Meine Frau arbeitet im Homeoffice, deshalb ist sie nachmittags für die Kinder da. Am Wochenende machen wir oft einen Ausflug in den Wald.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Wir teilen uns Küche und Bad, das spart Geld. Meistens verstehen wir uns gut, nur beim Putzen gibt es manchmal Streit. Später möchte ich trotzdem allein wohnen.",
+   "t": "Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Wir teilen uns Küche und Bad, das spart Geld. Meistens verstehen wir uns gut, nur beim Putzen gibt es manchmal Streit. Später möchte ich trotzdem allein wohnen. Zum Glück haben wir einen großen Küchentisch, an dem wir abends alle zusammen essen. Putzpläne haben wir schon mehrmals neu geschrieben.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich wohne bei meinen Eltern, obwohl ich schon 28 bin. Das ist bequem, meine Mutter kocht, und ich zahle kaum Miete. Aber ich möchte unabhängiger sein und suche seit Monaten eine kleine Wohnung, bisher ohne Erfolg.",
+   "t": "Ich wohne bei meinen Eltern, obwohl ich schon 28 bin. Das ist bequem, meine Mutter kocht, und ich zahle kaum Miete. Aber ich möchte unabhängiger sein und suche seit Monaten eine kleine Wohnung, bisher ohne Erfolg. Meine Eltern sind sehr nett und stellen keine Fragen, wenn ich spät nach Hause komme. Trotzdem fehlt mir mein eigener Raum.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe vor einem Jahr eine Wohnung im Altbau gekauft. Hohe Decken und ein alter Holzboden, das gefällt mir sehr. Die Heizkosten sind allerdings hoch. Ich würde trotzdem sofort wieder so eine Wohnung nehmen.",
+   "t": "Ich habe vor einem Jahr eine Wohnung im Altbau gekauft. Hohe Decken und ein alter Holzboden, das gefällt mir sehr. Die Heizkosten sind allerdings hoch. Ich würde trotzdem sofort wieder so eine Wohnung nehmen. Die Nachbarn im Haus sind überwiegend ältere Leute, mit denen ich mich gut verstehe. Im Winter friere ich manchmal trotzdem.",
    "p": 16,
    "r": "-8%"
   },
@@ -709,7 +709,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort.",
+   "t": "Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort. Dabei hatte ich eigentlich gehofft, schon nach zwei Monaten fündig zu werden.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -745,7 +745,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten.",
+   "t": "Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten. Die Studentin und ich haben uns dann beim Kaffee kennengelernt, und es hat sofort gepasst.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -769,7 +769,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben.",
+   "t": "Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben. Ich habe zum Beispiel auch bei Nachbarn nachgefragt und im Internet Anzeigen aufgegeben.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie ist es in der neuen Wohnung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wir verstehen uns gut, und die Lage ist ideal. Zur Uni brauche ich nur zehn Minuten mit dem Rad.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es auch Nachteile?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Küche ist sehr klein, und wir haben nur ein Bad für drei Personen. Aber daran gewöhnt man sich.",
    "p": 30,
    "r": "-8%"
   },
@@ -787,7 +811,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort.",
+   "t": "Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort. Dabei hatte ich eigentlich gehofft, schon nach zwei Monaten fündig zu werden.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -823,7 +847,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten.",
+   "t": "Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten. Die Studentin und ich haben uns dann beim Kaffee kennengelernt, und es hat sofort gepasst.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -847,7 +871,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben.",
+   "t": "Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben. Ich habe zum Beispiel auch bei Nachbarn nachgefragt und im Internet Anzeigen aufgegeben.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie ist es in der neuen Wohnung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Wir verstehen uns gut, und die Lage ist ideal. Zur Uni brauche ich nur zehn Minuten mit dem Rad.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es auch Nachteile?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Die Küche ist sehr klein, und wir haben nur ein Bad für drei Personen. Aber daran gewöhnt man sich.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -871,7 +919,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.",
+   "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab. Bitte schalten Sie in dieser Zeit auch die Waschmaschine und die Spülmaschine nicht ein. Ab dreizehn Uhr steht Ihnen das Wasser wieder wie gewohnt zur Verfügung.",
    "p": 5,
    "r": "-8%"
   },
@@ -883,13 +931,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.",
+   "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab. Bitte schalten Sie in dieser Zeit auch die Waschmaschine und die Spülmaschine nicht ein. Ab dreizehn Uhr steht Ihnen das Wasser wieder wie gewohnt zur Verfügung.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
+   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an. Die Sendung beginnt um zwanzig Uhr fünfzehn und dauert eine halbe Stunde. Die Telefonnummer der Redaktion nennen wir Ihnen gleich zu Beginn der Sendung.",
    "p": 5,
    "r": "-8%"
   },
@@ -901,13 +949,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
+   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an. Die Sendung beginnt um zwanzig Uhr fünfzehn und dauert eine halbe Stunde. Die Telefonnummer der Redaktion nennen wir Ihnen gleich zu Beginn der Sendung.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.",
+   "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben. Das Praxisteam ist ab Montag um acht Uhr wieder für Sie da. Rezepte für Dauermedikamente können Sie in dieser Zeit online bestellen.",
    "p": 5,
    "r": "-8%"
   },
@@ -919,13 +967,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.",
+   "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben. Das Praxisteam ist ab Montag um acht Uhr wieder für Sie da. Rezepte für Dauermedikamente können Sie in dieser Zeit online bestellen.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
+   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist. Falls Sie die Waschmaschine dringend brauchen, können wir Ihnen ein Leihgerät anbieten. Das kostet zehn Euro pro Woche.",
    "p": 5,
    "r": "-8%"
   },
@@ -937,13 +985,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
+   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist. Falls Sie die Waschmaschine dringend brauchen, können wir Ihnen ein Leihgerät anbieten. Das kostet zehn Euro pro Woche.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.",
+   "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach. Am Wochenende bleibt es unbeständig, immer wieder gibt es Schauer. In der Nacht kühlt es auf etwa acht Grad ab.",
    "p": 5,
    "r": "-8%"
   },
@@ -955,14 +1003,14 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.",
+   "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach. Am Wochenende bleibt es unbeständig, immer wieder gibt es Schauer. In der Nacht kühlt es auf etwa acht Grad ab.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "",
-   "p": 614,
+   "p": 396,
    "r": "+0%"
   },
   {

@@ -47,7 +47,7 @@
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
    "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "left": "<div class=\"text\"><p>Neues Leben im alten Bahnhof</p><p>Der alte Bahnhof von Oberdorf stand zwanzig Jahre lang leer. Seit dem letzten Zug 2004 verfiel das Gebäude, Fenster waren eingeschlagen, und die Gemeinde dachte schon an den Abriss. Dann gründeten 15 Einwohner einen Verein und kauften das Haus für einen Euro von der Bahn.</p><p>Die Renovierung dauerte drei Jahre und kostete 400.000 Euro. Einen Teil des Geldes spendeten Firmen aus der Region, ein anderer kam aus einem Förderprogramm des Landes. Viele Arbeiten haben die Vereinsmitglieder selbst gemacht: Sie strichen Wände, erneuerten Böden und bauten Möbel. Insgesamt kamen mehr als 5.000 Stunden unbezahlter Arbeit zusammen.</p><p>Heute ist der Bahnhof ein Treffpunkt für das ganze Dorf. Im früheren Wartesaal gibt es ein Café, in der Schalterhalle finden Konzerte und Lesungen statt, und im Obergeschoss können Schüler nachmittags Hausaufgaben machen. Am Wochenende bietet ein Fahrradverleih Touren auf der alten Bahnstrecke an, die zum Radweg umgebaut wurde.</p><p>Den größten Erfolg sieht Vereinsvorsitzende Martina Roth jedoch woanders. „Früher kannte man sich im Dorf kaum. Jetzt treffen sich Alt und Jung hier, und viele Neue sind dazugezogen.“ Der Verein hat inzwischen 120 Mitglieder, und die Gemeinde hat im vergangenen Jahr erstmals seit Langem mehr Einwohner gewonnen als verloren.</p><p>Probleme gibt es trotzdem: Die Heizkosten sind hoch, und das Café macht nur im Sommer Gewinn. Der Verein sucht deshalb Sponsoren für eine Solaranlage auf dem Dach. Wenn das gelingt, will er die Eintrittspreise für die Konzerte niedrig halten.</p></div>",
+   "left": "<div class=\"text\"><p>Neues Leben im alten Bahnhof</p><p>Der alte Bahnhof von Oberdorf stand zwanzig Jahre lang leer. Seit dem letzten Zug 2004 verfiel das Gebäude, Fenster waren eingeschlagen, und die Gemeinde dachte schon an den Abriss. Dann gründeten 15 Einwohner einen Verein und kauften das Haus für einen Euro von der Bahn.</p><p>Die Renovierung dauerte drei Jahre und kostete 400.000 Euro. Einen Teil des Geldes spendeten Firmen aus der Region, ein anderer kam aus einem Förderprogramm des Landes. Viele Arbeiten haben die Vereinsmitglieder selbst gemacht: Sie strichen Wände, erneuerten Böden und bauten Möbel. Insgesamt kamen mehr als 5.000 Stunden unbezahlter Arbeit zusammen.</p><p>Heute ist der Bahnhof ein Treffpunkt für das ganze Dorf. Im früheren Wartesaal gibt es ein Café, in der Schalterhalle finden Konzerte und Lesungen statt, und im Obergeschoss können Schüler nachmittags Hausaufgaben machen. Am Wochenende bietet ein Fahrradverleih Touren auf der alten Bahnstrecke an, die zum Radweg umgebaut wurde.</p><p>Den größten Erfolg sieht Vereinsvorsitzende Martina Roth jedoch woanders. „Früher kannte man sich im Dorf kaum. Jetzt treffen sich Alt und Jung hier, und viele Neue sind dazugezogen.“ Der Verein hat inzwischen 120 Mitglieder, und die Gemeinde hat im vergangenen Jahr erstmals seit Langem mehr Einwohner gewonnen als verloren.</p><p>Probleme gibt es trotzdem: Die Heizkosten sind hoch, und das Café macht nur im Sommer Gewinn. Der Verein sucht deshalb Sponsoren für eine Solaranlage auf dem Dach. Wenn das gelingt, will er die Eintrittspreise für die Konzerte niedrig halten.</p><p>Der Bahnhof wird inzwischen auch von Schulklassen besucht, die dort etwas über die Geschichte der Bahn lernen. Ein pensionierter Lokführer zeigt den Kindern alte Fotos und erzählt von seiner Arbeit. Im Herbst soll eine kleine Ausstellung zur Geschichte des Dorfes eröffnet werden.</p></div>",
    "items": [
     {
      "id": "l6",
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das ist schön, wenn man Hilfe braucht, aber manchmal auch anstrengend, weil alle über einen reden. Ich möchte hier nicht weg.</p>"
+     "<p>Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das ist schön, wenn man Hilfe braucht, aber manchmal auch anstrengend, weil alle über einen reden. Ich möchte hier nicht weg. Mein Nachbar bringt mir die Post, wenn ich im Urlaub bin. Im Sommer gibt es manchmal ein kleines Fest auf dem Marktplatz.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Die Mieten in meiner Stadt sind unglaublich hoch. Für meine kleine Wohnung zahle ich fast die Hälfte meines Gehalts. Ich überlege, aufs Land zu ziehen, aber dort gibt es keine Arbeit für mich.</p>"
+     "<p>Die Mieten in meiner Stadt sind unglaublich hoch. Für meine kleine Wohnung zahle ich fast die Hälfte meines Gehalts. Ich überlege, aufs Land zu ziehen, aber dort gibt es keine Arbeit für mich. Mein Chef sagt, ich könnte auch im Homeoffice arbeiten, aber das ist in der kleinen Wohnung schwierig. Eine Genossenschaftswohnung wäre meine Hoffnung.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit und treffe nach Feierabend Freunde am Fluss. Nur im Winter ist die Stadt grau.</p>"
+     "<p>Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit und treffe nach Feierabend Freunde am Fluss. Nur im Winter ist die Stadt grau. Im Frühling gehe ich oft joggen im Stadtpark, und am Wochenende gibt es dort ein kleines Konzert. Das Kino am Fluss finde ich auch toll.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich finde die Stadt zu laut und zu hektisch. Überall sind Baustellen, und die Straßenbahn ist immer voll. Wenn ich könnte, würde ich in ein Dorf ziehen. Aber meine Arbeit hält mich hier.</p>"
+     "<p>Ich finde die Stadt zu laut und zu hektisch. Überall sind Baustellen, und die Straßenbahn ist immer voll. Wenn ich könnte, würde ich in ein Dorf ziehen. Aber meine Arbeit hält mich hier. Nachts hört man immer noch Autos und manchmal laute Musik von der Straße. Ein Dorf mit einem See wäre mein Traum.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Seit zwei Jahren engagiere ich mich in einer Bürgerinitiative für mehr Grün in der Stadt. Wir haben schon zwei Spielplätze und einen Gemeinschaftsgarten gebaut. Die Stadtverwaltung hilft uns dabei.</p>"
+     "<p>Seit zwei Jahren engagiere ich mich in einer Bürgerinitiative für mehr Grün in der Stadt. Wir haben schon zwei Spielplätze und einen Gemeinschaftsgarten gebaut. Die Stadtverwaltung hilft uns dabei. Jeden Monat treffen wir uns im Gemeindehaus und planen die nächsten Aktionen. Zuletzt haben wir mit den Kindern der Grundschule Bäume gepflanzt.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Bürgermeisterin Frau Hoffmann über ihre Stadt",
-   "html": "<div class=\"text\"><p>Frau Hoffmann, Sie sind seit fünf Jahren Bürgermeisterin von Neustadt. Was war Ihr größter Erfolg?</p><p>Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher.</p><p>Wie finanzieren Sie solche Projekte?</p><p>Zum Teil mit Geld vom Land, zum Teil durch Einsparungen an anderer Stelle. Wir haben zum Beispiel weniger Straßen gebaut und mehr in Radwege investiert. Neue Schulden wollen wir nicht.</p><p>Wie sieht es mit den Wohnungen aus?</p><p>Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert.</p><p>Was kritisieren die Bürger am häufigsten?</p><p>Parkplätze und Baustellen. Das ist überall gleich. Die meisten verstehen aber, dass man für Fortschritt etwas aushalten muss.</p><p>Wie viele Menschen leben in Neustadt?</p><p>Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan.</p><p>Was wünschen Sie sich für die Zukunft?</p><p>Mehr Beteiligung. Wir bieten Bürgerabende an, aber es kommen oft nur zwanzig Leute. Ich möchte, dass sich auch die Jüngeren einmischen.</p></div>"
+   "html": "<div class=\"text\"><p>Frau Hoffmann, Sie sind seit fünf Jahren Bürgermeisterin von Neustadt. Was war Ihr größter Erfolg?</p><p>Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher. Inzwischen planen drei weitere Städte unser Konzept.</p><p>Wie finanzieren Sie solche Projekte?</p><p>Zum Teil mit Geld vom Land, zum Teil durch Einsparungen an anderer Stelle. Wir haben zum Beispiel weniger Straßen gebaut und mehr in Radwege investiert. Neue Schulden wollen wir nicht.</p><p>Wie sieht es mit den Wohnungen aus?</p><p>Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert. Die Wohnungen sollen in zwei Jahren fertig sein, und wir haben schon viele Anfragen.</p><p>Was kritisieren die Bürger am häufigsten?</p><p>Parkplätze und Baustellen. Das ist überall gleich. Die meisten verstehen aber, dass man für Fortschritt etwas aushalten muss.</p><p>Wie viele Menschen leben in Neustadt?</p><p>Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan. Dazu kommen Betriebe, die neue Standorte suchen, und das bringt zusätzliche Arbeitsplätze.</p><p>Was wünschen Sie sich für die Zukunft?</p><p>Mehr Beteiligung. Wir bieten Bürgerabende an, aber es kommen oft nur zwanzig Leute. Ich möchte, dass sich auch die Jüngeren einmischen.</p><p>Wie gehen Sie mit Kritik um?</p><p>Ich höre zu und erkläre, was wir planen. Manchmal ändern wir auch etwas, wenn der Vorschlag gut ist.</p><p>Möchten Sie zum Schluss noch etwas sagen?</p><p>Ja, wir laden alle ein, bei den nächsten Bürgerabenden zu kommen. Jede Meinung zählt.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.</p>"
+     "<p>Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich. Termine können Sie online oder telefonisch vereinbaren. Ohne Termin ist eine Bearbeitung nur in dringenden Fällen möglich. Das Amt ist von Montag bis Freitag von acht bis zwölf Uhr geöffnet.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.</p>"
+     "<p>Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer. Das Stück dauert etwa zwei Stunden mit einer Pause. Die Plätze sind nummeriert, und die Abendkasse öffnet eine Stunde vor Beginn.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.</p>"
+     "<p>Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar. In dringenden Fällen erreichen Sie den Bereitschaftsdienst unter der Nummer null zwei vier acht, fünf fünf fünf. Wir bitten um Verständnis.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.</p>"
+     "<p>Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis. Die Kasse im Eingangsbereich ist wie gewohnt besetzt. Bitte nutzen Sie die Umkleiden im Erdgeschoss und achten Sie auf die Hinweisschilder am Beckenrand.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.</p>"
+     "<p>Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen. Fahrräder und größere Gegenstände werden nach drei Monaten versteigert. Für das Abholen von Fundsachen fällt eine Gebühr von zwei Euro an.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das ist schön, wenn man Hilfe braucht, aber manchmal auch anstrengend, weil alle über einen reden. Ich möchte hier nicht weg.",
+   "t": "Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das ist schön, wenn man Hilfe braucht, aber manchmal auch anstrengend, weil alle über einen reden. Ich möchte hier nicht weg. Mein Nachbar bringt mir die Post, wenn ich im Urlaub bin. Im Sommer gibt es manchmal ein kleines Fest auf dem Marktplatz.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Mieten in meiner Stadt sind unglaublich hoch. Für meine kleine Wohnung zahle ich fast die Hälfte meines Gehalts. Ich überlege, aufs Land zu ziehen, aber dort gibt es keine Arbeit für mich.",
+   "t": "Die Mieten in meiner Stadt sind unglaublich hoch. Für meine kleine Wohnung zahle ich fast die Hälfte meines Gehalts. Ich überlege, aufs Land zu ziehen, aber dort gibt es keine Arbeit für mich. Mein Chef sagt, ich könnte auch im Homeoffice arbeiten, aber das ist in der kleinen Wohnung schwierig. Eine Genossenschaftswohnung wäre meine Hoffnung.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit und treffe nach Feierabend Freunde am Fluss. Nur im Winter ist die Stadt grau.",
+   "t": "Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit und treffe nach Feierabend Freunde am Fluss. Nur im Winter ist die Stadt grau. Im Frühling gehe ich oft joggen im Stadtpark, und am Wochenende gibt es dort ein kleines Konzert. Das Kino am Fluss finde ich auch toll.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich finde die Stadt zu laut und zu hektisch. Überall sind Baustellen, und die Straßenbahn ist immer voll. Wenn ich könnte, würde ich in ein Dorf ziehen. Aber meine Arbeit hält mich hier.",
+   "t": "Ich finde die Stadt zu laut und zu hektisch. Überall sind Baustellen, und die Straßenbahn ist immer voll. Wenn ich könnte, würde ich in ein Dorf ziehen. Aber meine Arbeit hält mich hier. Nachts hört man immer noch Autos und manchmal laute Musik von der Straße. Ein Dorf mit einem See wäre mein Traum.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Seit zwei Jahren engagiere ich mich in einer Bürgerinitiative für mehr Grün in der Stadt. Wir haben schon zwei Spielplätze und einen Gemeinschaftsgarten gebaut. Die Stadtverwaltung hilft uns dabei.",
+   "t": "Seit zwei Jahren engagiere ich mich in einer Bürgerinitiative für mehr Grün in der Stadt. Wir haben schon zwei Spielplätze und einen Gemeinschaftsgarten gebaut. Die Stadtverwaltung hilft uns dabei. Jeden Monat treffen wir uns im Gemeindehaus und planen die nächsten Aktionen. Zuletzt haben wir mit den Kindern der Grundschule Bäume gepflanzt.",
    "p": 16,
    "r": "-8%"
   },
@@ -709,7 +709,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher.",
+   "t": "Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher. Inzwischen planen drei weitere Städte unser Konzept.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -733,7 +733,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert.",
+   "t": "Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert. Die Wohnungen sollen in zwei Jahren fertig sein, und wir haben schon viele Anfragen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -757,7 +757,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan.",
+   "t": "Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan. Dazu kommen Betriebe, die neue Standorte suchen, und das bringt zusätzliche Arbeitsplätze.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -770,6 +770,30 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Mehr Beteiligung. Wir bieten Bürgerabende an, aber es kommen oft nur zwanzig Leute. Ich möchte, dass sich auch die Jüngeren einmischen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie gehen Sie mit Kritik um?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich höre zu und erkläre, was wir planen. Manchmal ändern wir auch etwas, wenn der Vorschlag gut ist.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Möchten Sie zum Schluss noch etwas sagen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ja, wir laden alle ein, bei den nächsten Bürgerabenden zu kommen. Jede Meinung zählt.",
    "p": 30,
    "r": "-8%"
   },
@@ -787,7 +811,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher.",
+   "t": "Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher. Inzwischen planen drei weitere Städte unser Konzept.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -811,7 +835,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert.",
+   "t": "Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert. Die Wohnungen sollen in zwei Jahren fertig sein, und wir haben schon viele Anfragen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -835,7 +859,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan.",
+   "t": "Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan. Dazu kommen Betriebe, die neue Standorte suchen, und das bringt zusätzliche Arbeitsplätze.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -848,6 +872,30 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Mehr Beteiligung. Wir bieten Bürgerabende an, aber es kommen oft nur zwanzig Leute. Ich möchte, dass sich auch die Jüngeren einmischen.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie gehen Sie mit Kritik um?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich höre zu und erkläre, was wir planen. Manchmal ändern wir auch etwas, wenn der Vorschlag gut ist.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Möchten Sie zum Schluss noch etwas sagen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ja, wir laden alle ein, bei den nächsten Bürgerabenden zu kommen. Jede Meinung zählt.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -871,7 +919,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.",
+   "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich. Termine können Sie online oder telefonisch vereinbaren. Ohne Termin ist eine Bearbeitung nur in dringenden Fällen möglich. Das Amt ist von Montag bis Freitag von acht bis zwölf Uhr geöffnet.",
    "p": 5,
    "r": "-8%"
   },
@@ -883,13 +931,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.",
+   "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich. Termine können Sie online oder telefonisch vereinbaren. Ohne Termin ist eine Bearbeitung nur in dringenden Fällen möglich. Das Amt ist von Montag bis Freitag von acht bis zwölf Uhr geöffnet.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.",
+   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer. Das Stück dauert etwa zwei Stunden mit einer Pause. Die Plätze sind nummeriert, und die Abendkasse öffnet eine Stunde vor Beginn.",
    "p": 5,
    "r": "-8%"
   },
@@ -901,13 +949,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.",
+   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer. Das Stück dauert etwa zwei Stunden mit einer Pause. Die Plätze sind nummeriert, und die Abendkasse öffnet eine Stunde vor Beginn.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.",
+   "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar. In dringenden Fällen erreichen Sie den Bereitschaftsdienst unter der Nummer null zwei vier acht, fünf fünf fünf. Wir bitten um Verständnis.",
    "p": 5,
    "r": "-8%"
   },
@@ -919,13 +967,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.",
+   "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar. In dringenden Fällen erreichen Sie den Bereitschaftsdienst unter der Nummer null zwei vier acht, fünf fünf fünf. Wir bitten um Verständnis.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.",
+   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis. Die Kasse im Eingangsbereich ist wie gewohnt besetzt. Bitte nutzen Sie die Umkleiden im Erdgeschoss und achten Sie auf die Hinweisschilder am Beckenrand.",
    "p": 5,
    "r": "-8%"
   },
@@ -937,13 +985,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.",
+   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis. Die Kasse im Eingangsbereich ist wie gewohnt besetzt. Bitte nutzen Sie die Umkleiden im Erdgeschoss und achten Sie auf die Hinweisschilder am Beckenrand.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.",
+   "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen. Fahrräder und größere Gegenstände werden nach drei Monaten versteigert. Für das Abholen von Fundsachen fällt eine Gebühr von zwei Euro an.",
    "p": 5,
    "r": "-8%"
   },
@@ -955,14 +1003,14 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.",
+   "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen. Fahrräder und größere Gegenstände werden nach drei Monaten versteigert. Für das Abholen von Fundsachen fällt eine Gebühr von zwei Euro an.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "",
-   "p": 664,
+   "p": 432,
    "r": "+0%"
   },
   {

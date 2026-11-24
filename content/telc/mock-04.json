@@ -47,7 +47,7 @@
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
    "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
-   "left": "<div class=\"text\"><p>Mit 41 wieder Schüler</p><p>Jasmin Kovač hat zwanzig Jahre als Verkäuferin in einem Schuhgeschäft gearbeitet. Dann schloss das Geschäft, und sie wurde arbeitslos. Beim Arbeitsamt hörte sie immer wieder denselben Satz: Ohne Schulabschluss sei es schwer, eine neue Stelle zu finden. Mit 41 hat sie sich deshalb an der Abendschule angemeldet.</p><p>Der Unterricht findet viermal pro Woche von 18 bis 21 Uhr statt. Tagsüber arbeitet sie weiter in einem Supermarkt, damit sie die Miete bezahlen kann. Ihre beiden Töchter, 14 und 17, helfen im Haushalt. „Manchmal kocht die Ältere, wenn ich aus dem Unterricht komme“, sagt Frau Kovač und lacht.</p><p>Am schwersten fällt ihr der Matheunterricht. „Früher habe ich einfach im Kopf gerechnet, jetzt muss ich Formeln lernen“, erzählt sie. In Deutsch und Geschichte dagegen gehört sie zu den Besten in der Klasse, weil sie viel liest. Ihr Lehrer meint, dass Erwachsene oft motivierter lernen als Jugendliche.</p><p>Ihre Mitschüler sind zwischen 19 und 55 Jahre alt. Manche wollen später studieren, andere wie sie einen besseren Job finden. In den Pausen tauschen sie Tipps aus und lernen gemeinsam für Klassenarbeiten. „Das ist wie eine große Familie“, sagt Frau Kovač. Besonders hilft ihr ein junger Mitschüler, der ihr Computerprogramme erklärt.</p><p>Wenn alles gut läuft, hat sie den Abschluss im nächsten Sommer. Dann möchte sie eine Ausbildung zur Bürokauffrau beginnen. Ein Studium plant sie nicht. „Ich will einfach einen Beruf, bei dem ich nicht mehr den ganzen Tag stehen muss“, sagt sie.</p></div>",
+   "left": "<div class=\"text\"><p>Mit 41 wieder Schüler</p><p>Jasmin Kovač hat zwanzig Jahre als Verkäuferin in einem Schuhgeschäft gearbeitet. Dann schloss das Geschäft, und sie wurde arbeitslos. Beim Arbeitsamt hörte sie immer wieder denselben Satz: Ohne Schulabschluss sei es schwer, eine neue Stelle zu finden. Mit 41 hat sie sich deshalb an der Abendschule angemeldet.</p><p>Der Unterricht findet viermal pro Woche von 18 bis 21 Uhr statt. Tagsüber arbeitet sie weiter in einem Supermarkt, damit sie die Miete bezahlen kann. Ihre beiden Töchter, 14 und 17, helfen im Haushalt. „Manchmal kocht die Ältere, wenn ich aus dem Unterricht komme“, sagt Frau Kovač und lacht.</p><p>Am schwersten fällt ihr der Matheunterricht. „Früher habe ich einfach im Kopf gerechnet, jetzt muss ich Formeln lernen“, erzählt sie. In Deutsch und Geschichte dagegen gehört sie zu den Besten in der Klasse, weil sie viel liest. Ihr Lehrer meint, dass Erwachsene oft motivierter lernen als Jugendliche.</p><p>Ihre Mitschüler sind zwischen 19 und 55 Jahre alt. Manche wollen später studieren, andere wie sie einen besseren Job finden. In den Pausen tauschen sie Tipps aus und lernen gemeinsam für Klassenarbeiten. „Das ist wie eine große Familie“, sagt Frau Kovač. Besonders hilft ihr ein junger Mitschüler, der ihr Computerprogramme erklärt.</p><p>Wenn alles gut läuft, hat sie den Abschluss im nächsten Sommer. Dann möchte sie eine Ausbildung zur Bürokauffrau beginnen. Ein Studium plant sie nicht. „Ich will einfach einen Beruf, bei dem ich nicht mehr den ganzen Tag stehen muss“, sagt sie.</p><p>Ihre Kollegen im Supermarkt unterstützen sie, so gut es geht. Manche tauschen ihre Schichten mit ihr, damit sie pünktlich zum Unterricht kommt. Ihre Tochter, die schon studiert, hilft ihr gelegentlich bei den Hausaufgaben und lacht darüber, dass jetzt die Mutter lernen muss.</p></div>",
    "items": [
     {
      "id": "l6",
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich lerne Deutsch seit einem Jahr im Kurs. Eigentlich gefällt mir der Unterricht, aber die Gruppe ist groß, und ich spreche selten. Deshalb übe ich zusätzlich mit meiner Nachbarin, die mir viel hilft.</p>"
+     "<p>Ich lerne Deutsch seit einem Jahr im Kurs. Eigentlich gefällt mir der Unterricht, aber die Gruppe ist groß, und ich spreche selten. Deshalb übe ich zusätzlich mit meiner Nachbarin, die mir viel hilft. In der Pause sprechen die anderen Teilnehmer leider meistens ihre Muttersprache. Meine Lehrerin sagt, ich soll mutiger sein.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich benutze nur eine App. Zehn Minuten am Tag reichen mir. Einen Kurs besuche ich nicht, weil ich abends müde bin. Mein Wortschatz wächst schnell, aber sprechen kann ich noch nicht gut.</p>"
+     "<p>Ich benutze nur eine App. Zehn Minuten am Tag reichen mir. Einen Kurs besuche ich nicht, weil ich abends müde bin. Mein Wortschatz wächst schnell, aber sprechen kann ich noch nicht gut. Am Wochenende schaue ich manchmal ein Video, in dem jemand langsam erklärt, wie man Sätze bildet. Eine Prüfung möchte ich im nächsten Jahr machen.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Mein Mann und ich sprechen zu Hause nur Deutsch, obwohl wir beide aus Spanien kommen. Am Anfang war das komisch, aber jetzt macht es uns Spaß. Unsere Kinder lachen manchmal über unsere Fehler.</p>"
+     "<p>Mein Mann und ich sprechen zu Hause nur Deutsch, obwohl wir beide aus Spanien kommen. Am Anfang war das komisch, aber jetzt macht es uns Spaß. Unsere Kinder lachen manchmal über unsere Fehler. Das Lustige ist, dass unsere Kinder uns am Tisch verbessern. Zum Geburtstag haben sie uns ein Wörterbuch geschenkt.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich habe in der Schule sechs Jahre Englisch gelernt, aber ich habe fast alles vergessen. Jetzt brauche ich es für die Arbeit und besuche einen Kurs am Abend. Das ist anstrengend, aber ich merke Fortschritte.</p>"
+     "<p>Ich habe in der Schule sechs Jahre Englisch gelernt, aber ich habe fast alles vergessen. Jetzt brauche ich es für die Arbeit und besuche einen Kurs am Abend. Das ist anstrengend, aber ich merke Fortschritte. Meine Lehrerin ist freundlich und gibt uns viele Übungen für zu Hause. Vor der Arbeit lerne ich eine halbe Stunde Vokabeln im Zug.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Ich schaue abends Serien auf Deutsch, mit deutschen Untertiteln. Das hilft mir beim Hören und beim Lesen. Nur Grammatik lerne ich so nicht, dafür brauche ich ein Buch.</p>"
+     "<p>Ich schaue abends Serien auf Deutsch, mit deutschen Untertiteln. Das hilft mir beim Hören und beim Lesen. Nur Grammatik lerne ich so nicht, dafür brauche ich ein Buch. Manchmal drücke ich auf Pause und suche ein Wort im Wörterbuch. Mein Mann lernt lieber mit einem Podcast, aber das ist mir zu schnell.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Erwachsene lernen eine neue Sprache. Herr Dr. Berger, Leiter der Volkshochschule",
-   "html": "<div class=\"text\"><p>Herr Berger, wie viele Menschen lernen bei Ihnen Sprachen?</p><p>Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch.</p><p>Wer sind Ihre Kursteilnehmer?</p><p>Das Alter reicht von achtzehn bis über achtzig. Viele sind berufstätig und lernen abends. Aber wir haben auch Rentner, die vormittags kommen, weil sie auf Reisen mehr verstehen wollen.</p><p>Wie lernt man am besten?</p><p>Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern.</p><p>Was halten Sie von Lern-Apps?</p><p>Sie sind ein gutes Extra, zum Beispiel für Vokabeln. Aber Apps ersetzen keinen Kurs, weil man dort kaum Gespräche führt.</p><p>Wie lange dauert es bis zum Niveau B1?</p><p>Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre.</p><p>Gibt es Förderung?</p><p>Ja. Für Zugewanderte übernimmt der Staat einen großen Teil der Kosten. Berufstätige können in manchen Bundesländern Bildungsurlaub nehmen, das heißt, sie bekommen dafür bezahlt frei.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Berger, wie viele Menschen lernen bei Ihnen Sprachen?</p><p>Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch. Das hat auch mit den vielen neuen Einwohnern in unserer Stadt zu tun.</p><p>Wer sind Ihre Kursteilnehmer?</p><p>Das Alter reicht von achtzehn bis über achtzig. Viele sind berufstätig und lernen abends. Aber wir haben auch Rentner, die vormittags kommen, weil sie auf Reisen mehr verstehen wollen.</p><p>Wie lernt man am besten?</p><p>Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern. Hausaufgaben sind dabei ebenso wichtig wie das Üben im Kurs.</p><p>Was halten Sie von Lern-Apps?</p><p>Sie sind ein gutes Extra, zum Beispiel für Vokabeln. Aber Apps ersetzen keinen Kurs, weil man dort kaum Gespräche führt.</p><p>Wie lange dauert es bis zum Niveau B1?</p><p>Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre. Wer täglich etwas liest oder Radio hört, kommt natürlich schneller voran.</p><p>Gibt es Förderung?</p><p>Ja. Für Zugewanderte übernimmt der Staat einen großen Teil der Kosten. Berufstätige können in manchen Bundesländern Bildungsurlaub nehmen, das heißt, sie bekommen dafür bezahlt frei.</p><p>Welche Rolle spielt die Prüfung?</p><p>Für viele ist sie wichtig, zum Beispiel für den Beruf oder für die Einbürgerung. Wir bereiten darauf mit Probeprüfungen vor.</p><p>Haben Sie einen Tipp für die Motivation?</p><p>Ja, sich kleine Ziele setzen. Wer nach drei Monaten ein Gespräch im Café führt, ist stolz und macht weiter.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich.</p>"
+     "<p>Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich. Die Kursbücher können Sie ab nächster Woche im Sekretariat abholen. Das Büro ist montags bis donnerstags von neun bis zwölf Uhr geöffnet.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten.</p>"
+     "<p>Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten. Für Kinder unter sechs Jahren ist der Eintritt frei. Das Restaurant am Seeufer hat dagegen normal geöffnet, auch bei schlechtem Wetter.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten.</p>"
+     "<p>Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten. Bitte beachten Sie auch, dass die Parkplätze am Rathaus in dieser Zeit nicht zur Verfügung stehen. Die Busse fahren weiterhin im Zehn-Minuten-Takt.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit.</p>"
+     "<p>Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit. Für Rollstuhlfahrer gibt es einen eigenen Eingang an der Ostseite. Parkplätze sind nur begrenzt vorhanden, bitte nutzen Sie die öffentlichen Verkehrsmittel.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis.</p>"
+     "<p>Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis. Das Angebot gilt für Anfänger- und Fortgeschrittenenkurse in Englisch, Spanisch und Italienisch. Informationen erhalten Sie am Telefon oder direkt in unserem Büro im Stadtzentrum.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich lerne Deutsch seit einem Jahr im Kurs. Eigentlich gefällt mir der Unterricht, aber die Gruppe ist groß, und ich spreche selten. Deshalb übe ich zusätzlich mit meiner Nachbarin, die mir viel hilft.",
+   "t": "Ich lerne Deutsch seit einem Jahr im Kurs. Eigentlich gefällt mir der Unterricht, aber die Gruppe ist groß, und ich spreche selten. Deshalb übe ich zusätzlich mit meiner Nachbarin, die mir viel hilft. In der Pause sprechen die anderen Teilnehmer leider meistens ihre Muttersprache. Meine Lehrerin sagt, ich soll mutiger sein.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich benutze nur eine App. Zehn Minuten am Tag reichen mir. Einen Kurs besuche ich nicht, weil ich abends müde bin. Mein Wortschatz wächst schnell, aber sprechen kann ich noch nicht gut.",
+   "t": "Ich benutze nur eine App. Zehn Minuten am Tag reichen mir. Einen Kurs besuche ich nicht, weil ich abends müde bin. Mein Wortschatz wächst schnell, aber sprechen kann ich noch nicht gut. Am Wochenende schaue ich manchmal ein Video, in dem jemand langsam erklärt, wie man Sätze bildet. Eine Prüfung möchte ich im nächsten Jahr machen.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Mann und ich sprechen zu Hause nur Deutsch, obwohl wir beide aus Spanien kommen. Am Anfang war das komisch, aber jetzt macht es uns Spaß. Unsere Kinder lachen manchmal über unsere Fehler.",
+   "t": "Mein Mann und ich sprechen zu Hause nur Deutsch, obwohl wir beide aus Spanien kommen. Am Anfang war das komisch, aber jetzt macht es uns Spaß. Unsere Kinder lachen manchmal über unsere Fehler. Das Lustige ist, dass unsere Kinder uns am Tisch verbessern. Zum Geburtstag haben sie uns ein Wörterbuch geschenkt.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe in der Schule sechs Jahre Englisch gelernt, aber ich habe fast alles vergessen. Jetzt brauche ich es für die Arbeit und besuche einen Kurs am Abend. Das ist anstrengend, aber ich merke Fortschritte.",
+   "t": "Ich habe in der Schule sechs Jahre Englisch gelernt, aber ich habe fast alles vergessen. Jetzt brauche ich es für die Arbeit und besuche einen Kurs am Abend. Das ist anstrengend, aber ich merke Fortschritte. Meine Lehrerin ist freundlich und gibt uns viele Übungen für zu Hause. Vor der Arbeit lerne ich eine halbe Stunde Vokabeln im Zug.",
    "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich schaue abends Serien auf Deutsch, mit deutschen Untertiteln. Das hilft mir beim Hören und beim Lesen. Nur Grammatik lerne ich so nicht, dafür brauche ich ein Buch.",
+   "t": "Ich schaue abends Serien auf Deutsch, mit deutschen Untertiteln. Das hilft mir beim Hören und beim Lesen. Nur Grammatik lerne ich so nicht, dafür brauche ich ein Buch. Manchmal drücke ich auf Pause und suche ein Wort im Wörterbuch. Mein Mann lernt lieber mit einem Podcast, aber das ist mir zu schnell.",
    "p": 16,
    "r": "-8%"
   },
@@ -709,7 +709,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch.",
+   "t": "Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch. Das hat auch mit den vielen neuen Einwohnern in unserer Stadt zu tun.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -733,7 +733,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern.",
+   "t": "Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern. Hausaufgaben sind dabei ebenso wichtig wie das Üben im Kurs.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -757,7 +757,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre.",
+   "t": "Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre. Wer täglich etwas liest oder Radio hört, kommt natürlich schneller voran.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -770,6 +770,30 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Ja. Für Zugewanderte übernimmt der Staat einen großen Teil der Kosten. Berufstätige können in manchen Bundesländern Bildungsurlaub nehmen, das heißt, sie bekommen dafür bezahlt frei.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Welche Rolle spielt die Prüfung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für viele ist sie wichtig, zum Beispiel für den Beruf oder für die Einbürgerung. Wir bereiten darauf mit Probeprüfungen vor.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie einen Tipp für die Motivation?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, sich kleine Ziele setzen. Wer nach drei Monaten ein Gespräch im Café führt, ist stolz und macht weiter.",
    "p": 30,
    "r": "-8%"
   },
@@ -787,7 +811,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch.",
+   "t": "Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch. Das hat auch mit den vielen neuen Einwohnern in unserer Stadt zu tun.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -811,7 +835,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern.",
+   "t": "Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern. Hausaufgaben sind dabei ebenso wichtig wie das Üben im Kurs.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -835,7 +859,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre.",
+   "t": "Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre. Wer täglich etwas liest oder Radio hört, kommt natürlich schneller voran.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -848,6 +872,30 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Ja. Für Zugewanderte übernimmt der Staat einen großen Teil der Kosten. Berufstätige können in manchen Bundesländern Bildungsurlaub nehmen, das heißt, sie bekommen dafür bezahlt frei.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Welche Rolle spielt die Prüfung?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Für viele ist sie wichtig, zum Beispiel für den Beruf oder für die Einbürgerung. Wir bereiten darauf mit Probeprüfungen vor.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Haben Sie einen Tipp für die Motivation?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja, sich kleine Ziele setzen. Wer nach drei Monaten ein Gespräch im Café führt, ist stolz und macht weiter.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -871,7 +919,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich.",
+   "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich. Die Kursbücher können Sie ab nächster Woche im Sekretariat abholen. Das Büro ist montags bis donnerstags von neun bis zwölf Uhr geöffnet.",
    "p": 5,
    "r": "-8%"
   },
@@ -883,13 +931,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich.",
+   "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich. Die Kursbücher können Sie ab nächster Woche im Sekretariat abholen. Das Büro ist montags bis donnerstags von neun bis zwölf Uhr geöffnet.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten.",
+   "t": "Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten. Für Kinder unter sechs Jahren ist der Eintritt frei. Das Restaurant am Seeufer hat dagegen normal geöffnet, auch bei schlechtem Wetter.",
    "p": 5,
    "r": "-8%"
   },
@@ -901,13 +949,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten.",
+   "t": "Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten. Für Kinder unter sechs Jahren ist der Eintritt frei. Das Restaurant am Seeufer hat dagegen normal geöffnet, auch bei schlechtem Wetter.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten.",
+   "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten. Bitte beachten Sie auch, dass die Parkplätze am Rathaus in dieser Zeit nicht zur Verfügung stehen. Die Busse fahren weiterhin im Zehn-Minuten-Takt.",
    "p": 5,
    "r": "-8%"
   },
@@ -919,13 +967,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten.",
+   "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten. Bitte beachten Sie auch, dass die Parkplätze am Rathaus in dieser Zeit nicht zur Verfügung stehen. Die Busse fahren weiterhin im Zehn-Minuten-Takt.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit.",
+   "t": "Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit. Für Rollstuhlfahrer gibt es einen eigenen Eingang an der Ostseite. Parkplätze sind nur begrenzt vorhanden, bitte nutzen Sie die öffentlichen Verkehrsmittel.",
    "p": 5,
    "r": "-8%"
   },
@@ -937,13 +985,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit.",
+   "t": "Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit. Für Rollstuhlfahrer gibt es einen eigenen Eingang an der Ostseite. Parkplätze sind nur begrenzt vorhanden, bitte nutzen Sie die öffentlichen Verkehrsmittel.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis.",
+   "t": "Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis. Das Angebot gilt für Anfänger- und Fortgeschrittenenkurse in Englisch, Spanisch und Italienisch. Informationen erhalten Sie am Telefon oder direkt in unserem Büro im Stadtzentrum.",
    "p": 5,
    "r": "-8%"
   },
@@ -955,14 +1003,14 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis.",
+   "t": "Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis. Das Angebot gilt für Anfänger- und Fortgeschrittenenkurse in Englisch, Spanisch und Italienisch. Informationen erhalten Sie am Telefon oder direkt in unserem Büro im Stadtzentrum.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "",
-   "p": 675,
+   "p": 448,
    "r": "+0%"
   },
   {
