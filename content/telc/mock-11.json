@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin fährt am Wochenende in eine Großstadt.",
+     "q": "Die Sprecherin schätzt die Hilfsbereitschaft in der Stadt.",
      "tf": true,
      "key": "r",
-     "why": "Wegen Kultur."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher zahlt weniger als die Hälfte seines Gehalts für die Miete.",
+     "q": "Der Sprecher hat bereits beschlossen, wegzuziehen.",
      "tf": true,
      "key": "f",
-     "why": "Fast die Hälfte."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin fährt jeden Tag mit dem Fahrrad zur Arbeit.",
+     "q": "Der Sprecher findet die Freizeitmöglichkeiten gut.",
      "tf": true,
      "key": "r",
-     "why": "Jeden Tag."
+     "why": "Richtig."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher mag die Hektik der Stadt.",
+     "q": "Die Sprecherin fühlt sich in ihrer Stadt wohl.",
      "tf": true,
      "key": "f",
-     "why": "Zu laut und hektisch."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h5",
-     "q": "Der Spielplatz wird im Frühling gebaut.",
+     "q": "Die Sprecherin arbeitet mit anderen daran, ihr Viertel zu verbessern.",
      "tf": true,
      "key": "r",
-     "why": "Frühling."
+     "why": "Richtig."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Frau Hoffmann ist seit fünf Jahren Bürgermeisterin.",
+     "q": "Die Geschäfte haben von der Entscheidung profitiert.",
      "tf": true,
      "key": "r",
-     "why": "Fünf Jahre."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Das autofreie Zentrum war von Anfang an beliebt bei Geschäftsleuten.",
+     "q": "Die Bürger waren von Anfang an dafür.",
      "tf": true,
      "key": "f",
-     "why": "Zuerst Kritik."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h8",
-     "q": "Das Schwimmbad wurde schneller gebaut als geplant.",
+     "q": "Die Stadt hat für die Projekte neue Kredite aufgenommen.",
      "tf": true,
      "key": "f",
-     "why": "Länger."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h9",
-     "q": "Die Baukosten des Schwimmbads sind gestiegen.",
+     "q": "Die Stadt will Wohnraum für Menschen mit wenig Einkommen schaffen.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h10",
-     "q": "Vormittags hat sie Termine mit Bürgern.",
+     "q": "Die Stadt hat Probleme mit steigenden Mieten.",
      "tf": true,
      "key": "r",
-     "why": "Bis mittags."
+     "why": "Richtig."
     },
     {
      "id": "h11",
-     "q": "Sie ist abends meistens früh zu Hause.",
+     "q": "Am meisten beschweren sich die Bürger über das Schulsystem.",
      "tf": true,
      "key": "f",
-     "why": "Selten vor zehn."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h12",
-     "q": "Sonntags schaltet sie das Handy aus.",
+     "q": "Die Stadt wächst, weil sie für Familien günstiger ist.",
      "tf": true,
      "key": "r",
-     "why": "Wandern."
+     "why": "Richtig."
     },
     {
      "id": "h13",
-     "q": "Bei Neubauten müssen alle Wohnungen günstig vermietet werden.",
+     "q": "Es ziehen vor allem Rentner in die Stadt.",
      "tf": true,
      "key": "f",
-     "why": "Ein Drittel."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Im Herbst soll eine neue Buslinie eröffnet werden.",
+     "q": "Sie möchte, dass mehr Menschen bei Entscheidungen mitreden.",
      "tf": true,
      "key": "r",
-     "why": "Industriegebiet."
+     "why": "Richtig."
     },
     {
      "id": "h15",
-     "q": "Sie möchte nicht mehr kandidieren.",
+     "q": "Zu den Bürgerabenden kommen immer sehr viele Menschen.",
      "tf": true,
      "key": "f",
-     "why": "Glaubt ja."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Anmeldungen und Ummeldungen macht man an Schalter fünf.",
+     "q": "Für einen neuen Pass muss man den alten mitbringen.",
      "tf": true,
      "key": "r",
-     "why": "Schalter fünf."
+     "why": "Richtig."
     },
     {
      "id": "h17",
-     "q": "Das Wasser wird den ganzen Tag abgestellt.",
+     "q": "Das Wasser ist nur für wenige Stunden weg.",
      "tf": true,
      "key": "f",
-     "why": "Neun bis dreizehn Uhr."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h18",
-     "q": "Bücher kann man im August nicht zurückgeben.",
+     "q": "Das Büro ist am Montag nicht besetzt.",
      "tf": true,
      "key": "f",
-     "why": "Am Automaten möglich."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h19",
-     "q": "Die Linie sieben fährt heute nur bis zum Rathaus.",
+     "q": "Eine Haltestelle wird heute Abend nicht angefahren.",
      "tf": true,
      "key": "r",
-     "why": "Endet am Rathaus."
+     "why": "Richtig."
     },
     {
      "id": "h20",
-     "q": "Das Fundbüro hat dienstags geöffnet.",
+     "q": "Das Fundbüro hat jeden Tag geöffnet.",
      "tf": true,
      "key": "f",
-     "why": "Mo, Mi, Fr."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das mag ich, weil ich nie allein bin. Nachteil: Es gibt kaum Kultur, ich fahre am Wochenende immer in die nächste Großstadt.</p>"
+     "<p>Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das ist schön, wenn man Hilfe braucht, aber manchmal auch anstrengend, weil alle über einen reden. Ich möchte hier nicht weg.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Die Mieten in meiner Stadt sind unglaublich hoch. Ich zahle fast die Hälfte meines Gehalts. Ich würde gern wegziehen, aber meine Arbeit ist hier. Immerhin gibt es gute Busverbindungen.</p>"
+     "<p>Die Mieten in meiner Stadt sind unglaublich hoch. Für meine kleine Wohnung zahle ich fast die Hälfte meines Gehalts. Ich überlege, aufs Land zu ziehen, aber dort gibt es keine Arbeit für mich.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit, in zwanzig Minuten. Das Auto brauche ich nur zum Einkaufen, und selbst das nicht jede Woche.</p>"
+     "<p>Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit und treffe nach Feierabend Freunde am Fluss. Nur im Winter ist die Stadt grau.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich finde die Stadt zu laut und zu hektisch. Ständig Verkehr, ständig Menschen. Am Wochenende fahre ich zu meinen Eltern aufs Land. Dort kann ich mich wirklich erholen.</p>"
+     "<p>Ich finde die Stadt zu laut und zu hektisch. Überall sind Baustellen, und die Straßenbahn ist immer voll. Wenn ich könnte, würde ich in ein Dorf ziehen. Aber meine Arbeit hält mich hier.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Seit zwei Jahren engagiere ich mich in einer Initiative für einen neuen Spielplatz. Anfangs wollte die Stadt kein Geld geben. Jetzt wird er im Frühling gebaut, und ich bin sehr stolz.</p>"
+     "<p>Seit zwei Jahren engagiere ich mich in einer Bürgerinitiative für mehr Grün in der Stadt. Wir haben schon zwei Spielplätze und einen Gemeinschaftsgarten gebaut. Die Stadtverwaltung hilft uns dabei.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Bürgermeisterin Frau Hoffmann über ihre Stadt",
-   "html": "<div class=\"text\"><p>Frau Hoffmann, Sie sind seit fünf Jahren Bürgermeisterin von Neustadt. Was war Ihr größter Erfolg?</p><p>Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik von den Geschäftsleuten. Heute sagen sie selbst, dass mehr Kunden kommen.</p><p>Und was war ein Misserfolg?</p><p>Das neue Schwimmbad. Wir wollten es in drei Jahren bauen, jetzt sind es schon fünf. Die Baukosten sind gestiegen, und der Gemeinderat musste mehr Geld genehmigen.</p><p>Wie sieht Ihr normaler Arbeitstag aus?</p><p>Um acht Uhr bin ich im Rathaus. Bis mittags habe ich Termine mit Bürgern, am Nachmittag Sitzungen. Abends gehe ich oft zu Veranstaltungen. Ich komme selten vor zehn nach Hause.</p><p>Haben Sie noch Freizeit?</p><p>Wenig. Sonntags gehe ich mit meinem Mann wandern. Das ist mir heilig, da schalte ich das Handy aus.</p><p>Was wünschen sich die Bürger am meisten?</p><p>Bezahlbare Wohnungen. Deshalb hat die Stadt ein Programm gestartet: Wer neu baut, muss ein Drittel der Wohnungen günstig vermieten.</p><p>Gibt es Pläne für die Zukunft?</p><p>Ja, wir wollen im Herbst eine neue Buslinie zum Industriegebiet eröffnen. Viele Menschen arbeiten dort und haben kein Auto.</p><p>Würden Sie noch einmal kandidieren?</p><p>Ich glaube ja. Die Arbeit ist anstrengend, aber sie macht Freude. Man sieht, dass man etwas verändern kann.</p></div>"
+   "html": "<div class=\"text\"><p>Frau Hoffmann, Sie sind seit fünf Jahren Bürgermeisterin von Neustadt. Was war Ihr größter Erfolg?</p><p>Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher.</p><p>Wie finanzieren Sie solche Projekte?</p><p>Zum Teil mit Geld vom Land, zum Teil durch Einsparungen an anderer Stelle. Wir haben zum Beispiel weniger Straßen gebaut und mehr in Radwege investiert. Neue Schulden wollen wir nicht.</p><p>Wie sieht es mit den Wohnungen aus?</p><p>Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert.</p><p>Was kritisieren die Bürger am häufigsten?</p><p>Parkplätze und Baustellen. Das ist überall gleich. Die meisten verstehen aber, dass man für Fortschritt etwas aushalten muss.</p><p>Wie viele Menschen leben in Neustadt?</p><p>Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan.</p><p>Was wünschen Sie sich für die Zukunft?</p><p>Mehr Beteiligung. Wir bieten Bürgerabende an, aber es kommen oft nur zwanzig Leute. Ich möchte, dass sich auch die Jüngeren einmischen.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, nehmen Sie bitte eine Nummer am Automaten und warten Sie im Raum zwei. Für Anmeldungen und Ummeldungen gehen Sie zum Schalter fünf.</p>"
+     "<p>Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage der Stadtwerke. Wegen Wartungsarbeiten wird morgen von neun bis dreizehn Uhr das Wasser in der Nordstadt abgestellt. Bitte füllen Sie rechtzeitig Wasser in Behälter.</p>"
+     "<p>Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Hier spricht der Anrufbeantworter der Stadtbibliothek. Wir haben vom ersten bis zum fünfzehnten August geschlossen. Bücher können in dieser Zeit am Automaten vor dem Eingang zurückgegeben werden.</p>"
+     "<p>Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz endet die Linie sieben heute schon am Rathaus. Bitte benutzen Sie ab dort die Linie zwölf oder gehen Sie zu Fuß.</p>"
+     "<p>Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf geöffnet. Bitte bringen Sie einen Ausweis mit. Fahrräder werden nach sechs Monaten versteigert.</p>"
+     "<p>Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das mag ich, weil ich nie allein bin. Nachteil: Es gibt kaum Kultur, ich fahre am Wochenende immer in die nächste Großstadt.",
+   "t": "Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das ist schön, wenn man Hilfe braucht, aber manchmal auch anstrengend, weil alle über einen reden. Ich möchte hier nicht weg.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Mieten in meiner Stadt sind unglaublich hoch. Ich zahle fast die Hälfte meines Gehalts. Ich würde gern wegziehen, aber meine Arbeit ist hier. Immerhin gibt es gute Busverbindungen.",
+   "t": "Die Mieten in meiner Stadt sind unglaublich hoch. Für meine kleine Wohnung zahle ich fast die Hälfte meines Gehalts. Ich überlege, aufs Land zu ziehen, aber dort gibt es keine Arbeit für mich.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit, in zwanzig Minuten. Das Auto brauche ich nur zum Einkaufen, und selbst das nicht jede Woche.",
+   "t": "Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit und treffe nach Feierabend Freunde am Fluss. Nur im Winter ist die Stadt grau.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich finde die Stadt zu laut und zu hektisch. Ständig Verkehr, ständig Menschen. Am Wochenende fahre ich zu meinen Eltern aufs Land. Dort kann ich mich wirklich erholen.",
+   "t": "Ich finde die Stadt zu laut und zu hektisch. Überall sind Baustellen, und die Straßenbahn ist immer voll. Wenn ich könnte, würde ich in ein Dorf ziehen. Aber meine Arbeit hält mich hier.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Seit zwei Jahren engagiere ich mich in einer Initiative für einen neuen Spielplatz. Anfangs wollte die Stadt kein Geld geben. Jetzt wird er im Frühling gebaut, und ich bin sehr stolz.",
+   "t": "Seit zwei Jahren engagiere ich mich in einer Bürgerinitiative für mehr Grün in der Stadt. Wir haben schon zwei Spielplätze und einen Gemeinschaftsgarten gebaut. Die Stadtverwaltung hilft uns dabei.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,79 +709,67 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik von den Geschäftsleuten. Heute sagen sie selbst, dass mehr Kunden kommen.",
+   "t": "Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was war ein Misserfolg?",
+   "t": "Wie finanzieren Sie solche Projekte?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das neue Schwimmbad. Wir wollten es in drei Jahren bauen, jetzt sind es schon fünf. Die Baukosten sind gestiegen, und der Gemeinderat musste mehr Geld genehmigen.",
+   "t": "Zum Teil mit Geld vom Land, zum Teil durch Einsparungen an anderer Stelle. Wir haben zum Beispiel weniger Straßen gebaut und mehr in Radwege investiert. Neue Schulden wollen wir nicht.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie sieht Ihr normaler Arbeitstag aus?",
+   "t": "Wie sieht es mit den Wohnungen aus?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Um acht Uhr bin ich im Rathaus. Bis mittags habe ich Termine mit Bürgern, am Nachmittag Sitzungen. Abends gehe ich oft zu Veranstaltungen. Ich komme selten vor zehn nach Hause.",
+   "t": "Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie noch Freizeit?",
+   "t": "Was kritisieren die Bürger am häufigsten?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wenig. Sonntags gehe ich mit meinem Mann wandern. Das ist mir heilig, da schalte ich das Handy aus.",
+   "t": "Parkplätze und Baustellen. Das ist überall gleich. Die meisten verstehen aber, dass man für Fortschritt etwas aushalten muss.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was wünschen sich die Bürger am meisten?",
+   "t": "Wie viele Menschen leben in Neustadt?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Bezahlbare Wohnungen. Deshalb hat die Stadt ein Programm gestartet: Wer neu baut, muss ein Drittel der Wohnungen günstig vermieten.",
+   "t": "Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es Pläne für die Zukunft?",
+   "t": "Was wünschen Sie sich für die Zukunft?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ja, wir wollen im Herbst eine neue Buslinie zum Industriegebiet eröffnen. Viele Menschen arbeiten dort und haben kein Auto.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Würden Sie noch einmal kandidieren?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Ich glaube ja. Die Arbeit ist anstrengend, aber sie macht Freude. Man sieht, dass man etwas verändern kann.",
+   "t": "Mehr Beteiligung. Wir bieten Bürgerabende an, aber es kommen oft nur zwanzig Leute. Ich möchte, dass sich auch die Jüngeren einmischen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -799,79 +787,67 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik von den Geschäftsleuten. Heute sagen sie selbst, dass mehr Kunden kommen.",
+   "t": "Wir haben das Zentrum autofrei gemacht. Zuerst gab es viel Kritik, vor allem von den Geschäften. Aber nach einem Jahr sind mehr Kunden gekommen als vorher.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was war ein Misserfolg?",
+   "t": "Wie finanzieren Sie solche Projekte?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das neue Schwimmbad. Wir wollten es in drei Jahren bauen, jetzt sind es schon fünf. Die Baukosten sind gestiegen, und der Gemeinderat musste mehr Geld genehmigen.",
+   "t": "Zum Teil mit Geld vom Land, zum Teil durch Einsparungen an anderer Stelle. Wir haben zum Beispiel weniger Straßen gebaut und mehr in Radwege investiert. Neue Schulden wollen wir nicht.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie sieht Ihr normaler Arbeitstag aus?",
+   "t": "Wie sieht es mit den Wohnungen aus?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Um acht Uhr bin ich im Rathaus. Bis mittags habe ich Termine mit Bürgern, am Nachmittag Sitzungen. Abends gehe ich oft zu Veranstaltungen. Ich komme selten vor zehn nach Hause.",
+   "t": "Das ist unser größtes Problem. Die Mieten steigen schneller als die Gehälter. Wir bauen deshalb 300 neue Wohnungen, ein Drittel davon sozial gefördert.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie noch Freizeit?",
+   "t": "Was kritisieren die Bürger am häufigsten?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wenig. Sonntags gehe ich mit meinem Mann wandern. Das ist mir heilig, da schalte ich das Handy aus.",
+   "t": "Parkplätze und Baustellen. Das ist überall gleich. Die meisten verstehen aber, dass man für Fortschritt etwas aushalten muss.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was wünschen sich die Bürger am meisten?",
+   "t": "Wie viele Menschen leben in Neustadt?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Bezahlbare Wohnungen. Deshalb hat die Stadt ein Programm gestartet: Wer neu baut, muss ein Drittel der Wohnungen günstig vermieten.",
+   "t": "Etwa 65.000, Tendenz steigend. Besonders junge Familien ziehen zu uns, weil die Mieten niedriger sind als in der Großstadt nebenan.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es Pläne für die Zukunft?",
+   "t": "Was wünschen Sie sich für die Zukunft?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ja, wir wollen im Herbst eine neue Buslinie zum Industriegebiet eröffnen. Viele Menschen arbeiten dort und haben kein Auto.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Würden Sie noch einmal kandidieren?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Ich glaube ja. Die Arbeit ist anstrengend, aber sie macht Freude. Man sieht, dass man etwas verändern kann.",
+   "t": "Mehr Beteiligung. Wir bieten Bürgerabende an, aber es kommen oft nur zwanzig Leute. Ich möchte, dass sich auch die Jüngeren einmischen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +871,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, nehmen Sie bitte eine Nummer am Automaten und warten Sie im Raum zwei. Für Anmeldungen und Ummeldungen gehen Sie zum Schalter fünf.",
+   "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.",
    "p": 2,
    "r": "-8%"
   },
@@ -907,13 +883,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, nehmen Sie bitte eine Nummer am Automaten und warten Sie im Raum zwei. Für Anmeldungen und Ummeldungen gehen Sie zum Schalter fünf.",
+   "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Stadtwerke. Wegen Wartungsarbeiten wird morgen von neun bis dreizehn Uhr das Wasser in der Nordstadt abgestellt. Bitte füllen Sie rechtzeitig Wasser in Behälter.",
+   "t": "Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.",
    "p": 2,
    "r": "-8%"
   },
@@ -925,13 +901,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Stadtwerke. Wegen Wartungsarbeiten wird morgen von neun bis dreizehn Uhr das Wasser in der Nordstadt abgestellt. Bitte füllen Sie rechtzeitig Wasser in Behälter.",
+   "t": "Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hier spricht der Anrufbeantworter der Stadtbibliothek. Wir haben vom ersten bis zum fünfzehnten August geschlossen. Bücher können in dieser Zeit am Automaten vor dem Eingang zurückgegeben werden.",
+   "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.",
    "p": 2,
    "r": "-8%"
   },
@@ -943,13 +919,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hier spricht der Anrufbeantworter der Stadtbibliothek. Wir haben vom ersten bis zum fünfzehnten August geschlossen. Bücher können in dieser Zeit am Automaten vor dem Eingang zurückgegeben werden.",
+   "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz endet die Linie sieben heute schon am Rathaus. Bitte benutzen Sie ab dort die Linie zwölf oder gehen Sie zu Fuß.",
+   "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.",
    "p": 2,
    "r": "-8%"
   },
@@ -961,13 +937,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz endet die Linie sieben heute schon am Rathaus. Bitte benutzen Sie ab dort die Linie zwölf oder gehen Sie zu Fuß.",
+   "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf geöffnet. Bitte bringen Sie einen Ausweis mit. Fahrräder werden nach sechs Monaten versteigert.",
+   "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.",
    "p": 2,
    "r": "-8%"
   },
@@ -979,7 +955,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf geöffnet. Bitte bringen Sie einen Ausweis mit. Fahrräder werden nach sechs Monaten versteigert.",
+   "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.",
    "p": 7,
    "r": "-8%"
   },

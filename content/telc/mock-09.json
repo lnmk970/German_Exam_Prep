@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin legt auf Geschenke zu Weihnachten keinen großen Wert.",
+     "q": "Die Sprecherin verbringt das Fest mit ihren Verwandten.",
      "tf": true,
      "key": "r",
-     "why": "Geschenke nicht so wichtig."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher feiert seinen Geburtstag jedes Jahr.",
+     "q": "Der Sprecher lädt jedes Jahr viele Gäste ein.",
      "tf": true,
      "key": "f",
-     "why": "Nie."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin arbeitet in einem Verein am Karneval mit.",
+     "q": "Zum Fest gehört, dass sich Menschen verkleiden.",
      "tf": true,
      "key": "r",
-     "why": "Wagenbau."
+     "why": "Richtig."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher findet Hochzeiten schön und entspannend.",
+     "q": "Der Sprecher geht gern zu Hochzeiten.",
      "tf": true,
      "key": "f",
-     "why": "Anstrengend."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin lernt bei Straßenfesten Nachbarn kennen.",
+     "q": "Das Fest hat das Verhältnis zwischen den Nachbarn verbessert.",
      "tf": true,
      "key": "r",
-     "why": "Neue Leute kennenlernen."
+     "why": "Richtig."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Herr Demir steht um sechs Uhr auf.",
+     "q": "Herr Demir bereitet morgens das Essen für die Kinder vor.",
      "tf": true,
      "key": "r",
-     "why": "Sechs Uhr."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Seine Frau arbeitet in einer Schule.",
+     "q": "Seine Frau bringt die Kinder morgens in die Schule.",
      "tf": true,
      "key": "f",
-     "why": "Im Krankenhaus."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h8",
-     "q": "Die beiden ältesten Kinder bringen die kleinen zur Schule.",
+     "q": "Die Kinder haben feste Aufgaben im Haushalt.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Die Familie fährt im Urlaub gern in Hotels.",
+     "q": "Die älteste Tochter ist schon erwachsen.",
      "tf": true,
      "key": "f",
-     "why": "Mit dem Zelt."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h10",
-     "q": "Herr Demir hat vor der Geburt genau ausgerechnet, was die Kinder kosten.",
+     "q": "Die Familie isst abends meistens getrennt.",
      "tf": true,
      "key": "f",
-     "why": "Nie darüber nachgedacht."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h11",
-     "q": "Am Sonntag besucht die Familie die Großeltern.",
+     "q": "Die Familie spart durch den Kauf gebrauchter Sachen.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h12",
-     "q": "Ein Plan an der Wand hilft, Streit zu vermeiden.",
+     "q": "Sie verbringen ihren Urlaub bei Verwandten.",
      "tf": true,
      "key": "r",
-     "why": "Plan fürs Bad/Fernsehen."
+     "why": "Richtig."
     },
     {
      "id": "h13",
-     "q": "Wenn er Ruhe braucht, geht er joggen.",
+     "q": "Die Reise ins Ausland dauert mit dem Auto mehr als einen Tag.",
      "tf": true,
      "key": "r",
-     "why": "Joggen."
+     "why": "Richtig."
     },
     {
      "id": "h14",
-     "q": "Er rät, alles perfekt zu organisieren.",
+     "q": "Er unternimmt nie etwas allein mit einem einzelnen Kind.",
      "tf": true,
      "key": "f",
-     "why": "Nicht alles perfekt."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h15",
-     "q": "Gemeinsam zu essen findet er wichtig.",
+     "q": "Er ist mit der Größe seiner Familie sehr zufrieden.",
      "tf": true,
      "key": "r",
-     "why": "Gemeinsam essen."
+     "why": "Richtig."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Das Sommerfest endet um fünfzehn Uhr.",
+     "q": "Das Fest beginnt später als geplant.",
      "tf": true,
      "key": "f",
-     "why": "Gegen achtzehn Uhr."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Trauzeugen müssen volljährig sein.",
+     "q": "Die Trauzeugen sollen etwas früher kommen als das Brautpaar.",
      "tf": true,
      "key": "r",
-     "why": "Mindestens 18."
+     "why": "Richtig."
     },
     {
      "id": "h18",
-     "q": "Lena kommt am Sonntag zum Kaffee.",
+     "q": "Lena kommt mit dem Zug zu ihrer Oma.",
      "tf": true,
      "key": "f",
-     "why": "Sie ist krank."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h19",
-     "q": "Erwachsene müssen im Museum vier Euro zahlen.",
+     "q": "Am Familientag kostet der Eintritt nichts.",
      "tf": true,
      "key": "r",
-     "why": "Vier Euro."
+     "why": "Richtig."
     },
     {
      "id": "h20",
-     "q": "Bei Frau Wolff können Gäste eine Heimfahrt bestellen.",
+     "q": "Nach dem Vortrag gibt es etwas zu essen.",
      "tf": true,
      "key": "r",
-     "why": "Melden bei Frau Wolff."
+     "why": "Richtig."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen. Geschenke sind mir nicht so wichtig, ich freue mich auf die Zeit mit den Eltern.</p>"
+     "<p>Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen Lieder. Das Schönste ist, dass alle Zeit füreinander haben.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich feiere meinen Geburtstag nie. Früher habe ich das gern gemacht, aber seit ich viel arbeite, habe ich keine Zeit zum Planen. Meine Kollegen schenken mir manchmal einen Kuchen, das reicht mir.</p>"
+     "<p>Ich feiere meinen Geburtstag nie. Früher habe ich große Partys gemacht, aber das war mir zu viel Stress. Jetzt gehe ich einfach mit meiner Frau essen und schalte das Handy aus.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Bei uns in Köln ist Karneval das schönste Fest des Jahres. Ich bin schon als Kind in der Stadt mitgelaufen. Jetzt bin ich in einem Verein und baue mit Freunden einen Wagen. Das dauert ein halbes Jahr.</p>"
+     "<p>Bei uns in Köln ist Karneval das schönste Fest. Man verkleidet sich, tanzt auf der Straße und spricht mit Fremden, als würde man sie schon ewig kennen. Nur die Preise für Getränke sind in dieser Zeit unglaublich hoch.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Hochzeiten finde ich anstrengend. Man muss immer schick angezogen sein und lange sitzen. Trotzdem gehe ich hin, wenn Freunde heiraten, weil sie sich freuen, wenn ich komme.</p>"
+     "<p>Hochzeiten finde ich anstrengend. Man muss im Anzug stundenlang sitzen, Reden hören und Leute treffen, die man kaum kennt. Aber für meine Schwester war ich natürlich da, und es war am Ende doch ein schöner Tag.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas mit, und wir stellen Tische auf die Straße. Das ist die beste Gelegenheit, neue Leute kennenzulernen.</p>"
+     "<p>Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas zu essen mit, die Kinder spielen auf der gesperrten Straße. Seit dem ersten Fest vor zehn Jahren kennen wir uns viel besser.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Großfamilie. Herr Demir, Vater von fünf Kindern",
-   "html": "<div class=\"text\"><p>Herr Demir, Sie haben fünf Kinder. Wie sieht ein normaler Morgen bei Ihnen aus?</p><p>Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und fängt schon um halb sieben an. Um sieben müssen alle fertig sein.</p><p>Wer hilft Ihnen?</p><p>Die beiden Ältesten, sie sind sechzehn und vierzehn. Sie bringen die Kleinen zur Schule. Ohne sie würde es nicht funktionieren.</p><p>Ist das nicht teuer, so viele Kinder zu haben?</p><p>Natürlich. Wir kaufen Kleidung second hand, und im Urlaub fahren wir mit dem Zelt. Aber ehrlich gesagt: Wir haben nie darüber nachgedacht, was es kostet. Wichtig ist, dass es allen gut geht.</p><p>Was machen Sie am Wochenende?</p><p>Am Samstag räumen wir gemeinsam das Haus auf, danach gehen wir meistens in den Park. Am Sonntag besuchen wir die Großeltern, die zwanzig Minuten entfernt wohnen.</p><p>Gibt es auch Streit?</p><p>Natürlich, vor allem ums Fernsehen und ums Badezimmer. Wir haben einen Plan an der Wand, wer wann dran ist. Das hilft.</p><p>Wünschen Sie sich manchmal mehr Ruhe?</p><p>Manchmal ja. Dann gehe ich eine Stunde allein joggen. Danach bin ich wieder gut gelaunt.</p><p>Was würden Sie anderen Familien raten?</p><p>Nicht alles perfekt machen wollen. Wenn mal die Wäsche liegen bleibt, ist das nicht schlimm. Wichtiger ist, dass man gemeinsam isst und miteinander redet.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Demir, Sie haben fünf Kinder. Wie sieht ein normaler Morgen bei Ihnen aus?</p><p>Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad.</p><p>Wie schaffen Sie das organisatorisch?</p><p>Mit einem großen Wochenplan an der Wand. Jedes Kind hat Aufgaben: Tisch decken, Müll rausbringen, Geschirrspüler ausräumen. Die Älteste, Leyla, ist fünfzehn und hilft bei den Kleinen.</p><p>Wo essen Sie?</p><p>Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern.</p><p>Wie ist das mit dem Geld?</p><p>Es ist nicht leicht. Wir haben ein Haus gemietet, und Kleidung und Schuhe sind teuer. Aber wir kaufen viel gebraucht, und die Älteren geben ihre Sachen an die Jüngeren weiter.</p><p>Und Urlaub?</p><p>Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt.</p><p>Was ist das Schwierigste?</p><p>Zeit für jedes einzelne Kind zu haben. Deshalb mache ich mit jedem einmal im Monat etwas allein, zum Beispiel Eis essen oder ins Kino.</p><p>Würden Sie wieder so viele Kinder wollen?</p><p>Sofort. Es ist laut und anstrengend, aber wenn abends alle am Tisch sitzen und lachen, weiß ich, warum ich das mache.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest statt. Bitte bringen Sie Kuchen oder Salat mit. Das Fest beginnt um fünfzehn Uhr und endet gegen achtzehn Uhr. Bei schlechtem Wetter findet es im Haus statt.</p>"
+     "<p>Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag ist um elf Uhr dreißig. Bitte bringen Sie beide Personalausweise und die Geburtsurkunden mit. Die Trauzeugen müssen mindestens achtzehn Jahre alt sein.</p>"
+     "<p>Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Hallo Oma, hier ist Lena. Ich komme am Sonntag nicht zum Kaffee, weil ich krank bin. Ich habe Fieber und bleibe im Bett. Ich rufe dich am Montag wieder an. Gute Besserung für dich auch!</p>"
+     "<p>Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Das Familienmuseum lädt am ersten Sonntag im Monat zu einem Kinderprogramm ein. Der Eintritt für Kinder ist frei, Erwachsene zahlen vier Euro. Eine Anmeldung ist nicht nötig.</p>"
+     "<p>Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Willkommen beim Seniorennachmittag. Heute zeigen wir einen Film aus den fünfziger Jahren. Danach gibt es Kaffee und Kuchen. Wer nach Hause gefahren werden möchte, meldet sich bitte bei Frau Wolff.</p>"
+     "<p>Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen. Geschenke sind mir nicht so wichtig, ich freue mich auf die Zeit mit den Eltern.",
+   "t": "Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen Lieder. Das Schönste ist, dass alle Zeit füreinander haben.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich feiere meinen Geburtstag nie. Früher habe ich das gern gemacht, aber seit ich viel arbeite, habe ich keine Zeit zum Planen. Meine Kollegen schenken mir manchmal einen Kuchen, das reicht mir.",
+   "t": "Ich feiere meinen Geburtstag nie. Früher habe ich große Partys gemacht, aber das war mir zu viel Stress. Jetzt gehe ich einfach mit meiner Frau essen und schalte das Handy aus.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bei uns in Köln ist Karneval das schönste Fest des Jahres. Ich bin schon als Kind in der Stadt mitgelaufen. Jetzt bin ich in einem Verein und baue mit Freunden einen Wagen. Das dauert ein halbes Jahr.",
+   "t": "Bei uns in Köln ist Karneval das schönste Fest. Man verkleidet sich, tanzt auf der Straße und spricht mit Fremden, als würde man sie schon ewig kennen. Nur die Preise für Getränke sind in dieser Zeit unglaublich hoch.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hochzeiten finde ich anstrengend. Man muss immer schick angezogen sein und lange sitzen. Trotzdem gehe ich hin, wenn Freunde heiraten, weil sie sich freuen, wenn ich komme.",
+   "t": "Hochzeiten finde ich anstrengend. Man muss im Anzug stundenlang sitzen, Reden hören und Leute treffen, die man kaum kennt. Aber für meine Schwester war ich natürlich da, und es war am Ende doch ein schöner Tag.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas mit, und wir stellen Tische auf die Straße. Das ist die beste Gelegenheit, neue Leute kennenzulernen.",
+   "t": "Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas zu essen mit, die Kinder spielen auf der gesperrten Straße. Seit dem ersten Fest vor zehn Jahren kennen wir uns viel besser.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,79 +709,79 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und fängt schon um halb sieben an. Um sieben müssen alle fertig sein.",
+   "t": "Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wer hilft Ihnen?",
+   "t": "Wie schaffen Sie das organisatorisch?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die beiden Ältesten, sie sind sechzehn und vierzehn. Sie bringen die Kleinen zur Schule. Ohne sie würde es nicht funktionieren.",
+   "t": "Mit einem großen Wochenplan an der Wand. Jedes Kind hat Aufgaben: Tisch decken, Müll rausbringen, Geschirrspüler ausräumen. Die Älteste, Leyla, ist fünfzehn und hilft bei den Kleinen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ist das nicht teuer, so viele Kinder zu haben?",
+   "t": "Wo essen Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Wir kaufen Kleidung second hand, und im Urlaub fahren wir mit dem Zelt. Aber ehrlich gesagt: Wir haben nie darüber nachgedacht, was es kostet. Wichtig ist, dass es allen gut geht.",
+   "t": "Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was machen Sie am Wochenende?",
+   "t": "Wie ist das mit dem Geld?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Samstag räumen wir gemeinsam das Haus auf, danach gehen wir meistens in den Park. Am Sonntag besuchen wir die Großeltern, die zwanzig Minuten entfernt wohnen.",
+   "t": "Es ist nicht leicht. Wir haben ein Haus gemietet, und Kleidung und Schuhe sind teuer. Aber wir kaufen viel gebraucht, und die Älteren geben ihre Sachen an die Jüngeren weiter.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es auch Streit?",
+   "t": "Und Urlaub?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Natürlich, vor allem ums Fernsehen und ums Badezimmer. Wir haben einen Plan an der Wand, wer wann dran ist. Das hilft.",
+   "t": "Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wünschen Sie sich manchmal mehr Ruhe?",
+   "t": "Was ist das Schwierigste?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Manchmal ja. Dann gehe ich eine Stunde allein joggen. Danach bin ich wieder gut gelaunt.",
+   "t": "Zeit für jedes einzelne Kind zu haben. Deshalb mache ich mit jedem einmal im Monat etwas allein, zum Beispiel Eis essen oder ins Kino.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was würden Sie anderen Familien raten?",
+   "t": "Würden Sie wieder so viele Kinder wollen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nicht alles perfekt machen wollen. Wenn mal die Wäsche liegen bleibt, ist das nicht schlimm. Wichtiger ist, dass man gemeinsam isst und miteinander redet.",
+   "t": "Sofort. Es ist laut und anstrengend, aber wenn abends alle am Tisch sitzen und lachen, weiß ich, warum ich das mache.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -799,79 +799,79 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und fängt schon um halb sieben an. Um sieben müssen alle fertig sein.",
+   "t": "Chaos! Um sechs Uhr stehe ich auf, mache Frühstück und Pausenbrote. Meine Frau arbeitet im Krankenhaus und muss schon um halb sieben dort sein. Dann wecke ich die Kinder, und ab sieben Uhr beginnt der Kampf um das Bad.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wer hilft Ihnen?",
+   "t": "Wie schaffen Sie das organisatorisch?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die beiden Ältesten, sie sind sechzehn und vierzehn. Sie bringen die Kleinen zur Schule. Ohne sie würde es nicht funktionieren.",
+   "t": "Mit einem großen Wochenplan an der Wand. Jedes Kind hat Aufgaben: Tisch decken, Müll rausbringen, Geschirrspüler ausräumen. Die Älteste, Leyla, ist fünfzehn und hilft bei den Kleinen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ist das nicht teuer, so viele Kinder zu haben?",
+   "t": "Wo essen Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Wir kaufen Kleidung second hand, und im Urlaub fahren wir mit dem Zelt. Aber ehrlich gesagt: Wir haben nie darüber nachgedacht, was es kostet. Wichtig ist, dass es allen gut geht.",
+   "t": "Abends immer zusammen, das ist uns heilig. Dafür kochen wir meistens große Töpfe. Mittags sind die Kinder in der Schule oder bei den Großeltern.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was machen Sie am Wochenende?",
+   "t": "Wie ist das mit dem Geld?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Samstag räumen wir gemeinsam das Haus auf, danach gehen wir meistens in den Park. Am Sonntag besuchen wir die Großeltern, die zwanzig Minuten entfernt wohnen.",
+   "t": "Es ist nicht leicht. Wir haben ein Haus gemietet, und Kleidung und Schuhe sind teuer. Aber wir kaufen viel gebraucht, und die Älteren geben ihre Sachen an die Jüngeren weiter.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es auch Streit?",
+   "t": "Und Urlaub?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Natürlich, vor allem ums Fernsehen und ums Badezimmer. Wir haben einen Plan an der Wand, wer wann dran ist. Das hilft.",
+   "t": "Wir fahren jedes Jahr zu Verwandten in die Türkei. Das ist günstiger als ein Hotel, und die Kinder lieben es, bei der Oma zu sein. Mit dem Auto sind es zwei Tage Fahrt.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wünschen Sie sich manchmal mehr Ruhe?",
+   "t": "Was ist das Schwierigste?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Manchmal ja. Dann gehe ich eine Stunde allein joggen. Danach bin ich wieder gut gelaunt.",
+   "t": "Zeit für jedes einzelne Kind zu haben. Deshalb mache ich mit jedem einmal im Monat etwas allein, zum Beispiel Eis essen oder ins Kino.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was würden Sie anderen Familien raten?",
+   "t": "Würden Sie wieder so viele Kinder wollen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nicht alles perfekt machen wollen. Wenn mal die Wäsche liegen bleibt, ist das nicht schlimm. Wichtiger ist, dass man gemeinsam isst und miteinander redet.",
+   "t": "Sofort. Es ist laut und anstrengend, aber wenn abends alle am Tisch sitzen und lachen, weiß ich, warum ich das mache.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +895,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest statt. Bitte bringen Sie Kuchen oder Salat mit. Das Fest beginnt um fünfzehn Uhr und endet gegen achtzehn Uhr. Bei schlechtem Wetter findet es im Haus statt.",
+   "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
    "p": 2,
    "r": "-8%"
   },
@@ -907,13 +907,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest statt. Bitte bringen Sie Kuchen oder Salat mit. Das Fest beginnt um fünfzehn Uhr und endet gegen achtzehn Uhr. Bei schlechtem Wetter findet es im Haus statt.",
+   "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag ist um elf Uhr dreißig. Bitte bringen Sie beide Personalausweise und die Geburtsurkunden mit. Die Trauzeugen müssen mindestens achtzehn Jahre alt sein.",
+   "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
    "p": 2,
    "r": "-8%"
   },
@@ -925,13 +925,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag ist um elf Uhr dreißig. Bitte bringen Sie beide Personalausweise und die Geburtsurkunden mit. Die Trauzeugen müssen mindestens achtzehn Jahre alt sein.",
+   "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Oma, hier ist Lena. Ich komme am Sonntag nicht zum Kaffee, weil ich krank bin. Ich habe Fieber und bleibe im Bett. Ich rufe dich am Montag wieder an. Gute Besserung für dich auch!",
+   "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.",
    "p": 2,
    "r": "-8%"
   },
@@ -943,13 +943,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hallo Oma, hier ist Lena. Ich komme am Sonntag nicht zum Kaffee, weil ich krank bin. Ich habe Fieber und bleibe im Bett. Ich rufe dich am Montag wieder an. Gute Besserung für dich auch!",
+   "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zu einem Kinderprogramm ein. Der Eintritt für Kinder ist frei, Erwachsene zahlen vier Euro. Eine Anmeldung ist nicht nötig.",
+   "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.",
    "p": 2,
    "r": "-8%"
   },
@@ -961,13 +961,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zu einem Kinderprogramm ein. Der Eintritt für Kinder ist frei, Erwachsene zahlen vier Euro. Eine Anmeldung ist nicht nötig.",
+   "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Seniorennachmittag. Heute zeigen wir einen Film aus den fünfziger Jahren. Danach gibt es Kaffee und Kuchen. Wer nach Hause gefahren werden möchte, meldet sich bitte bei Frau Wolff.",
+   "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.",
    "p": 2,
    "r": "-8%"
   },
@@ -979,7 +979,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Seniorennachmittag. Heute zeigen wir einen Film aus den fünfziger Jahren. Danach gibt es Kaffee und Kuchen. Wer nach Hause gefahren werden möchte, meldet sich bitte bei Frau Wolff.",
+   "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.",
    "p": 7,
    "r": "-8%"
   },

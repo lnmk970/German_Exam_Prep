@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin ist mit ihrer Kursgröße unzufrieden.",
+     "q": "Die Sprecherin lernt auch außerhalb des Kurses.",
      "tf": true,
      "key": "r",
-     "why": "Zwanzig Leute, selten dran."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher lernt am liebsten mit einem Lehrer.",
+     "q": "Der Sprecher kann schon gut sprechen.",
      "tf": true,
      "key": "f",
-     "why": "Er lernt am besten allein."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin und ihr Mann sprechen zu Hause immer Deutsch.",
+     "q": "Das Paar spricht zu Hause meistens Spanisch.",
      "tf": true,
      "key": "f",
-     "why": "Bei Streit wechseln sie zu Spanisch."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher möchte vor allem sprechen üben.",
+     "q": "Der Sprecher muss Englisch für seinen Beruf verbessern.",
      "tf": true,
      "key": "r",
-     "why": "Konversationskurs."
+     "why": "Richtig."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin findet Serien mit Untertiteln zu schwierig.",
+     "q": "Die Sprecherin glaubt, dass Serien alle Bereiche der Sprache abdecken.",
      "tf": true,
      "key": "f",
-     "why": "Anfangs anstrengend, jetzt der leichteste Weg."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Die Zahl der Lernenden ist im letzten Jahr gestiegen.",
+     "q": "Die Zahl der Lernenden ist gestiegen.",
      "tf": true,
      "key": "r",
-     "why": "Etwa tausend mehr."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Englisch ist der größte Bereich an der Volkshochschule.",
+     "q": "Am beliebtesten ist Französisch.",
      "tf": true,
      "key": "f",
-     "why": "Deutsch ist der größte."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h8",
-     "q": "Spanischkurse werden oft von Rentnern besucht.",
+     "q": "Auch ältere Menschen besuchen die Kurse.",
      "tf": true,
      "key": "r",
-     "why": "Rentner, die gern reisen."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Das größte Problem der Teilnehmer ist das Geld.",
+     "q": "Die meisten Teilnehmer sind Studenten.",
      "tf": true,
      "key": "f",
-     "why": "Das größte Problem ist die Zeit."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h10",
-     "q": "Die Online-Kurse dauern mehrere Stunden pro Woche.",
+     "q": "Er hält einen langen Kurs pro Monat für die beste Lösung.",
      "tf": true,
      "key": "f",
-     "why": "Nur eine Stunde."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h11",
-     "q": "Teilnehmer trauen sich zu Hause mehr zu sprechen.",
+     "q": "Apps reichen seiner Meinung nach allein nicht aus.",
      "tf": true,
      "key": "r",
-     "why": "Entspannter, mehr trauen."
+     "why": "Richtig."
     },
     {
      "id": "h12",
-     "q": "Ein Semesterkurs kostet ungefähr hundertzwanzig Euro.",
+     "q": "Für B1 braucht man im Durchschnitt mehr als ein Jahr.",
      "tf": true,
      "key": "r",
-     "why": "Etwa 120 Euro."
+     "why": "Richtig."
     },
     {
      "id": "h13",
-     "q": "Die Ermäßigung gibt es für alle Teilnehmer.",
+     "q": "Mit etwa hundert Stunden erreichen die meisten Lerner B1.",
      "tf": true,
      "key": "f",
-     "why": "Nur für Menschen mit geringem Einkommen, mit Nachweis."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Herr Berger empfiehlt, jeden Tag ein bisschen zu lernen.",
+     "q": "Für bestimmte Gruppen trägt der Staat einen Teil der Kosten.",
      "tf": true,
      "key": "r",
-     "why": "Besser als einmal vier Stunden."
+     "why": "Richtig."
     },
     {
      "id": "h15",
-     "q": "Der Sprachtreff im Café ist kostenpflichtig.",
+     "q": "Bildungsurlaub gibt es in ganz Deutschland.",
      "tf": true,
      "key": "f",
-     "why": "Kostenlos, ohne Anmeldung."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Die neuen Kurse beginnen am zwanzigsten Oktober.",
+     "q": "Die Kurse beginnen früher als geplant.",
      "tf": true,
      "key": "f",
-     "why": "Erst am vierten November."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Die Bibliothek schließt heute früher als normal.",
+     "q": "Die Bibliothek schließt heute früher als sonst.",
      "tf": true,
      "key": "r",
-     "why": "Achtzehn statt zweiundzwanzig Uhr."
+     "why": "Richtig."
     },
     {
      "id": "h18",
-     "q": "Die Haltestelle Schule wird nicht bedient.",
+     "q": "Auf der Umleitung muss man mit Wartezeit rechnen.",
      "tf": true,
      "key": "r",
-     "why": "Nicht angefahren."
+     "why": "Richtig."
     },
     {
      "id": "h19",
-     "q": "Man muss sich für den Treff im Café anmelden.",
+     "q": "Die Teilnahme am Sprachtreff kostet Eintritt.",
      "tf": true,
      "key": "f",
-     "why": "Keine Anmeldung nötig."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h20",
-     "q": "Der Rabatt gilt auch für Chinesisch.",
+     "q": "Der Rabatt gilt noch im Juli.",
      "tf": true,
      "key": "f",
-     "why": "Alle Sprachen außer Chinesisch."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich lerne Deutsch seit einem Jahr im Kurs. Eigentlich habe ich viel Spaß daran, aber das Sprechen fällt mir schwer. Im Kurs sind wir zwanzig Leute, und ich komme selten dran. Deshalb möchte ich eine Lernpartnerin finden.</p>"
+     "<p>Ich lerne Deutsch seit einem Jahr im Kurs. Eigentlich gefällt mir der Unterricht, aber die Gruppe ist groß, und ich spreche selten. Deshalb übe ich zusätzlich mit meiner Nachbarin, die mir viel hilft.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich benutze nur eine App. Zehn Minuten am Tag, im Bus oder in der Mittagspause. Das reicht mir. Ich brauche keine Lehrer, ich lerne am besten allein.</p>"
+     "<p>Ich benutze nur eine App. Zehn Minuten am Tag reichen mir. Einen Kurs besuche ich nicht, weil ich abends müde bin. Mein Wortschatz wächst schnell, aber sprechen kann ich noch nicht gut.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Mein Mann und ich sprechen zu Hause nur Deutsch, obwohl wir beide aus Spanien kommen. Am Anfang war das komisch, aber wir lernen so viel schneller. Nur bei Streit wechseln wir lieber zurück zu Spanisch.</p>"
+     "<p>Mein Mann und ich sprechen zu Hause nur Deutsch, obwohl wir beide aus Spanien kommen. Am Anfang war das komisch, aber jetzt macht es uns Spaß. Unsere Kinder lachen manchmal über unsere Fehler.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich habe in der Schule sechs Jahre Englisch gelernt und kann trotzdem kaum sprechen. Das lag am Unterricht, es ging nur um Grammatik. Deshalb habe ich jetzt einen Konversationskurs gewählt, da wird nur geredet.</p>"
+     "<p>Ich habe in der Schule sechs Jahre Englisch gelernt, aber ich habe fast alles vergessen. Jetzt brauche ich es für die Arbeit und besuche einen Kurs am Abend. Das ist anstrengend, aber ich merke Fortschritte.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Ich schaue abends Serien auf Deutsch, mit deutschen Untertiteln. Zuerst war es anstrengend, aber inzwischen verstehe ich ungefähr achtzig Prozent. Das ist für mich der leichteste Weg.</p>"
+     "<p>Ich schaue abends Serien auf Deutsch, mit deutschen Untertiteln. Das hilft mir beim Hören und beim Lesen. Nur Grammatik lerne ich so nicht, dafür brauche ich ein Buch.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Erwachsene lernen eine neue Sprache. Herr Dr. Berger, Leiter der Volkshochschule",
-   "html": "<div class=\"text\"><p>Herr Berger, wie viele Menschen lernen bei Ihnen Sprachen?</p><p>Im letzten Jahr waren es rund viertausend, etwa tausend mehr als im Jahr davor. Deutsch ist natürlich der größte Bereich, danach folgen Englisch und Spanisch.</p><p>Wer sind die typischen Teilnehmer?</p><p>Das ist gemischt. Bei den Deutschkursen sind viele Berufstätige dabei, die schnell besser werden wollen. Die Spanischkurse besuchen dagegen oft Rentner, die gern reisen.</p><p>Was ist das Hauptproblem der Lernenden?</p><p>Die meisten haben keine Zeit. Sie kommen müde nach der Arbeit, haben Familie und müssen am Wochenende lernen. Deshalb bieten wir jetzt auch kurze Online-Kurse an, nur eine Stunde pro Woche.</p><p>Funktionieren die denn?</p><p>Besser als erwartet. Anfangs hatten wir Zweifel, weil der persönliche Kontakt fehlt. Aber viele sagen, dass sie sich zu Hause entspannter fühlen und mehr trauen zu sprechen.</p><p>Was kostet so ein Kurs?</p><p>Ein Semesterkurs kostet etwa hundertzwanzig Euro. Für Menschen mit geringem Einkommen gibt es dreißig Prozent Ermäßigung. Dafür braucht man nur einen Nachweis.</p><p>Haben Sie einen Tipp für Anfänger?</p><p>Jeden Tag ein bisschen, das ist besser als einmal pro Woche vier Stunden. Und keine Angst vor Fehlern. Die Leute, die am meisten sprechen, machen am schnellsten Fortschritte.</p><p>Und was kommt als Nächstes bei Ihnen?</p><p>Im Herbst starten wir einen Sprachtreff im Café. Einmal pro Woche, ohne Anmeldung und kostenlos. Dort kann man einfach vorbeikommen und reden.</p><p>Wird das Angebot angenommen?</p><p>Wir hoffen es. Das Pilotprojekt im letzten Jahr hatte jedes Mal um die dreißig Gäste, deshalb machen wir es jetzt dauerhaft.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Berger, wie viele Menschen lernen bei Ihnen Sprachen?</p><p>Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch.</p><p>Wer sind Ihre Kursteilnehmer?</p><p>Das Alter reicht von achtzehn bis über achtzig. Viele sind berufstätig und lernen abends. Aber wir haben auch Rentner, die vormittags kommen, weil sie auf Reisen mehr verstehen wollen.</p><p>Wie lernt man am besten?</p><p>Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern.</p><p>Was halten Sie von Lern-Apps?</p><p>Sie sind ein gutes Extra, zum Beispiel für Vokabeln. Aber Apps ersetzen keinen Kurs, weil man dort kaum Gespräche führt.</p><p>Wie lange dauert es bis zum Niveau B1?</p><p>Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre.</p><p>Gibt es Förderung?</p><p>Ja. Für Zugewanderte übernimmt der Staat einen großen Teil der Kosten. Berufstätige können in manchen Bundesländern Bildungsurlaub nehmen, das heißt, sie bekommen dafür bezahlt frei.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am vierten November, nicht wie geplant am zwanzigsten Oktober. Die Anmeldung ist noch bis zum fünfundzwanzigsten Oktober möglich, auch online.</p>"
+     "<p>Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage in der Universitätsbibliothek: Die Bibliothek schließt heute wegen einer Veranstaltung schon um achtzehn Uhr, nicht wie sonst um zweiundzwanzig Uhr. Bitte geben Sie Ihre Bücher bis siebzehn Uhr dreißig zurück.</p>"
+     "<p>Achtung, eine Durchsage in der Universitätsbibliothek: Das Gebäude schließt heute schon um achtzehn Uhr. Bitte bringen Sie Ihre ausgeliehenen Bücher bis siebzehn Uhr dreißig an die Theke.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Und nun die Verkehrsmeldung: Wegen einer Baustelle in der Schillerstraße fahren die Buslinien drei und sieben heute nur bis zum Marktplatz. Die Haltestelle Schule wird nicht angefahren. Es gibt einen Ersatzbus.</p>"
+     "<p>Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Lust auf Sprachen? Im Café Babel treffen sich jeden Donnerstag um neunzehn Uhr Menschen aus aller Welt. Der Eintritt ist frei, und wer möchte, kann ein Getränk bestellen. Eine Anmeldung ist nicht nötig.</p>"
+     "<p>Lust auf Sprachen? Im Café Babel treffen sich jeden Donnerstag ab neunzehn Uhr Menschen aus aller Welt zum Sprachaustausch. Die Teilnahme ist kostenlos, ein Getränk müssen Sie aber bestellen.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Sprachschule Lingua. Sommerangebot: Wer bis Ende Juli einen Kurs bucht, bekommt zehn Prozent Rabatt und ein Wörterbuch gratis. Das Angebot gilt für alle Sprachen außer Chinesisch.</p>"
+     "<p>Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich lerne Deutsch seit einem Jahr im Kurs. Eigentlich habe ich viel Spaß daran, aber das Sprechen fällt mir schwer. Im Kurs sind wir zwanzig Leute, und ich komme selten dran. Deshalb möchte ich eine Lernpartnerin finden.",
+   "t": "Ich lerne Deutsch seit einem Jahr im Kurs. Eigentlich gefällt mir der Unterricht, aber die Gruppe ist groß, und ich spreche selten. Deshalb übe ich zusätzlich mit meiner Nachbarin, die mir viel hilft.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich benutze nur eine App. Zehn Minuten am Tag, im Bus oder in der Mittagspause. Das reicht mir. Ich brauche keine Lehrer, ich lerne am besten allein.",
+   "t": "Ich benutze nur eine App. Zehn Minuten am Tag reichen mir. Einen Kurs besuche ich nicht, weil ich abends müde bin. Mein Wortschatz wächst schnell, aber sprechen kann ich noch nicht gut.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Mein Mann und ich sprechen zu Hause nur Deutsch, obwohl wir beide aus Spanien kommen. Am Anfang war das komisch, aber wir lernen so viel schneller. Nur bei Streit wechseln wir lieber zurück zu Spanisch.",
+   "t": "Mein Mann und ich sprechen zu Hause nur Deutsch, obwohl wir beide aus Spanien kommen. Am Anfang war das komisch, aber jetzt macht es uns Spaß. Unsere Kinder lachen manchmal über unsere Fehler.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe in der Schule sechs Jahre Englisch gelernt und kann trotzdem kaum sprechen. Das lag am Unterricht, es ging nur um Grammatik. Deshalb habe ich jetzt einen Konversationskurs gewählt, da wird nur geredet.",
+   "t": "Ich habe in der Schule sechs Jahre Englisch gelernt, aber ich habe fast alles vergessen. Jetzt brauche ich es für die Arbeit und besuche einen Kurs am Abend. Das ist anstrengend, aber ich merke Fortschritte.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich schaue abends Serien auf Deutsch, mit deutschen Untertiteln. Zuerst war es anstrengend, aber inzwischen verstehe ich ungefähr achtzig Prozent. Das ist für mich der leichteste Weg.",
+   "t": "Ich schaue abends Serien auf Deutsch, mit deutschen Untertiteln. Das hilft mir beim Hören und beim Lesen. Nur Grammatik lerne ich so nicht, dafür brauche ich ein Buch.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,91 +709,67 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Im letzten Jahr waren es rund viertausend, etwa tausend mehr als im Jahr davor. Deutsch ist natürlich der größte Bereich, danach folgen Englisch und Spanisch.",
+   "t": "Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wer sind die typischen Teilnehmer?",
+   "t": "Wer sind Ihre Kursteilnehmer?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist gemischt. Bei den Deutschkursen sind viele Berufstätige dabei, die schnell besser werden wollen. Die Spanischkurse besuchen dagegen oft Rentner, die gern reisen.",
+   "t": "Das Alter reicht von achtzehn bis über achtzig. Viele sind berufstätig und lernen abends. Aber wir haben auch Rentner, die vormittags kommen, weil sie auf Reisen mehr verstehen wollen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was ist das Hauptproblem der Lernenden?",
+   "t": "Wie lernt man am besten?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die meisten haben keine Zeit. Sie kommen müde nach der Arbeit, haben Familie und müssen am Wochenende lernen. Deshalb bieten wir jetzt auch kurze Online-Kurse an, nur eine Stunde pro Woche.",
+   "t": "Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Funktionieren die denn?",
+   "t": "Was halten Sie von Lern-Apps?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Besser als erwartet. Anfangs hatten wir Zweifel, weil der persönliche Kontakt fehlt. Aber viele sagen, dass sie sich zu Hause entspannter fühlen und mehr trauen zu sprechen.",
+   "t": "Sie sind ein gutes Extra, zum Beispiel für Vokabeln. Aber Apps ersetzen keinen Kurs, weil man dort kaum Gespräche führt.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was kostet so ein Kurs?",
+   "t": "Wie lange dauert es bis zum Niveau B1?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ein Semesterkurs kostet etwa hundertzwanzig Euro. Für Menschen mit geringem Einkommen gibt es dreißig Prozent Ermäßigung. Dafür braucht man nur einen Nachweis.",
+   "t": "Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie einen Tipp für Anfänger?",
+   "t": "Gibt es Förderung?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Jeden Tag ein bisschen, das ist besser als einmal pro Woche vier Stunden. Und keine Angst vor Fehlern. Die Leute, die am meisten sprechen, machen am schnellsten Fortschritte.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und was kommt als Nächstes bei Ihnen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Im Herbst starten wir einen Sprachtreff im Café. Einmal pro Woche, ohne Anmeldung und kostenlos. Dort kann man einfach vorbeikommen und reden.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wird das Angebot angenommen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir hoffen es. Das Pilotprojekt im letzten Jahr hatte jedes Mal um die dreißig Gäste, deshalb machen wir es jetzt dauerhaft.",
+   "t": "Ja. Für Zugewanderte übernimmt der Staat einen großen Teil der Kosten. Berufstätige können in manchen Bundesländern Bildungsurlaub nehmen, das heißt, sie bekommen dafür bezahlt frei.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -811,91 +787,67 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Im letzten Jahr waren es rund viertausend, etwa tausend mehr als im Jahr davor. Deutsch ist natürlich der größte Bereich, danach folgen Englisch und Spanisch.",
+   "t": "Im letzten Jahr waren es rund viertausend, etwa tausend mehr als vorher. Besonders gefragt sind Deutsch, Englisch und Spanisch.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wer sind die typischen Teilnehmer?",
+   "t": "Wer sind Ihre Kursteilnehmer?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Das ist gemischt. Bei den Deutschkursen sind viele Berufstätige dabei, die schnell besser werden wollen. Die Spanischkurse besuchen dagegen oft Rentner, die gern reisen.",
+   "t": "Das Alter reicht von achtzehn bis über achtzig. Viele sind berufstätig und lernen abends. Aber wir haben auch Rentner, die vormittags kommen, weil sie auf Reisen mehr verstehen wollen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was ist das Hauptproblem der Lernenden?",
+   "t": "Wie lernt man am besten?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die meisten haben keine Zeit. Sie kommen müde nach der Arbeit, haben Familie und müssen am Wochenende lernen. Deshalb bieten wir jetzt auch kurze Online-Kurse an, nur eine Stunde pro Woche.",
+   "t": "Regelmäßig. Zweimal pro Woche neunzig Minuten bringt mehr als ein Intensivtag im Monat. Und man muss sprechen, so früh wie möglich, auch mit Fehlern.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Funktionieren die denn?",
+   "t": "Was halten Sie von Lern-Apps?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Besser als erwartet. Anfangs hatten wir Zweifel, weil der persönliche Kontakt fehlt. Aber viele sagen, dass sie sich zu Hause entspannter fühlen und mehr trauen zu sprechen.",
+   "t": "Sie sind ein gutes Extra, zum Beispiel für Vokabeln. Aber Apps ersetzen keinen Kurs, weil man dort kaum Gespräche führt.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was kostet so ein Kurs?",
+   "t": "Wie lange dauert es bis zum Niveau B1?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ein Semesterkurs kostet etwa hundertzwanzig Euro. Für Menschen mit geringem Einkommen gibt es dreißig Prozent Ermäßigung. Dafür braucht man nur einen Nachweis.",
+   "t": "Das hängt vom Vorwissen ab. Im Durchschnitt braucht man etwa 350 bis 400 Unterrichtsstunden, also ungefähr ein bis eineinhalb Jahre.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie einen Tipp für Anfänger?",
+   "t": "Gibt es Förderung?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Jeden Tag ein bisschen, das ist besser als einmal pro Woche vier Stunden. Und keine Angst vor Fehlern. Die Leute, die am meisten sprechen, machen am schnellsten Fortschritte.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und was kommt als Nächstes bei Ihnen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Im Herbst starten wir einen Sprachtreff im Café. Einmal pro Woche, ohne Anmeldung und kostenlos. Dort kann man einfach vorbeikommen und reden.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wird das Angebot angenommen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-ConradNeural",
-   "t": "Wir hoffen es. Das Pilotprojekt im letzten Jahr hatte jedes Mal um die dreißig Gäste, deshalb machen wir es jetzt dauerhaft.",
+   "t": "Ja. Für Zugewanderte übernimmt der Staat einen großen Teil der Kosten. Berufstätige können in manchen Bundesländern Bildungsurlaub nehmen, das heißt, sie bekommen dafür bezahlt frei.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -919,7 +871,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am vierten November, nicht wie geplant am zwanzigsten Oktober. Die Anmeldung ist noch bis zum fünfundzwanzigsten Oktober möglich, auch online.",
+   "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich.",
    "p": 2,
    "r": "-8%"
   },
@@ -931,13 +883,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am vierten November, nicht wie geplant am zwanzigsten Oktober. Die Anmeldung ist noch bis zum fünfundzwanzigsten Oktober möglich, auch online.",
+   "t": "Hier ist die Volkshochschule. Wegen der Ferien beginnen die neuen Kurse erst am zweiten Oktober, nicht wie geplant am fünfundzwanzigsten September. Anmeldungen sind weiter online möglich.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage in der Universitätsbibliothek: Die Bibliothek schließt heute wegen einer Veranstaltung schon um achtzehn Uhr, nicht wie sonst um zweiundzwanzig Uhr. Bitte geben Sie Ihre Bücher bis siebzehn Uhr dreißig zurück.",
+   "t": "Achtung, eine Durchsage in der Universitätsbibliothek: Das Gebäude schließt heute schon um achtzehn Uhr. Bitte bringen Sie Ihre ausgeliehenen Bücher bis siebzehn Uhr dreißig an die Theke.",
    "p": 2,
    "r": "-8%"
   },
@@ -949,13 +901,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage in der Universitätsbibliothek: Die Bibliothek schließt heute wegen einer Veranstaltung schon um achtzehn Uhr, nicht wie sonst um zweiundzwanzig Uhr. Bitte geben Sie Ihre Bücher bis siebzehn Uhr dreißig zurück.",
+   "t": "Achtung, eine Durchsage in der Universitätsbibliothek: Das Gebäude schließt heute schon um achtzehn Uhr. Bitte bringen Sie Ihre ausgeliehenen Bücher bis siebzehn Uhr dreißig an die Theke.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle in der Schillerstraße fahren die Buslinien drei und sieben heute nur bis zum Marktplatz. Die Haltestelle Schule wird nicht angefahren. Es gibt einen Ersatzbus.",
+   "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten.",
    "p": 2,
    "r": "-8%"
   },
@@ -967,13 +919,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle in der Schillerstraße fahren die Buslinien drei und sieben heute nur bis zum Marktplatz. Die Haltestelle Schule wird nicht angefahren. Es gibt einen Ersatzbus.",
+   "t": "Und nun die Verkehrsmeldung: Wegen einer Baustelle ist die Hauptstraße zwischen Rathaus und Bahnhof gesperrt. Autofahrer fahren bitte über die Ringstraße. Dort kommt es zu Verzögerungen von etwa zehn Minuten.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Lust auf Sprachen? Im Café Babel treffen sich jeden Donnerstag um neunzehn Uhr Menschen aus aller Welt. Der Eintritt ist frei, und wer möchte, kann ein Getränk bestellen. Eine Anmeldung ist nicht nötig.",
+   "t": "Lust auf Sprachen? Im Café Babel treffen sich jeden Donnerstag ab neunzehn Uhr Menschen aus aller Welt zum Sprachaustausch. Die Teilnahme ist kostenlos, ein Getränk müssen Sie aber bestellen.",
    "p": 2,
    "r": "-8%"
   },
@@ -985,13 +937,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Lust auf Sprachen? Im Café Babel treffen sich jeden Donnerstag um neunzehn Uhr Menschen aus aller Welt. Der Eintritt ist frei, und wer möchte, kann ein Getränk bestellen. Eine Anmeldung ist nicht nötig.",
+   "t": "Lust auf Sprachen? Im Café Babel treffen sich jeden Donnerstag ab neunzehn Uhr Menschen aus aller Welt zum Sprachaustausch. Die Teilnahme ist kostenlos, ein Getränk müssen Sie aber bestellen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sprachschule Lingua. Sommerangebot: Wer bis Ende Juli einen Kurs bucht, bekommt zehn Prozent Rabatt und ein Wörterbuch gratis. Das Angebot gilt für alle Sprachen außer Chinesisch.",
+   "t": "Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis.",
    "p": 2,
    "r": "-8%"
   },
@@ -1003,7 +955,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sprachschule Lingua. Sommerangebot: Wer bis Ende Juli einen Kurs bucht, bekommt zehn Prozent Rabatt und ein Wörterbuch gratis. Das Angebot gilt für alle Sprachen außer Chinesisch.",
+   "t": "Sprachschule Lingua. Sommerangebot: Wer sich bis Ende Juni anmeldet, bekommt zehn Prozent Rabatt auf alle Kurse. Für Freunde, die gemeinsam kommen, gibt es zusätzlich ein Lehrbuch gratis.",
    "p": 7,
    "r": "-8%"
   },

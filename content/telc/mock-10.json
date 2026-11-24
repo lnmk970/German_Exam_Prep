@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin liest keine Zeitung mehr.",
+     "q": "Der Sprecher informiert sich nicht mehr mit gedruckten Zeitungen.",
      "tf": true,
      "key": "r",
-     "why": "Nur noch Handy."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher hat zu Hause schnelles Internet.",
+     "q": "Die Sprecherin informiert sich abends im Fernsehen über das Tagesgeschehen.",
      "tf": true,
      "key": "f",
-     "why": "Nicht einmal WLAN."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin hört Podcasts beim Joggen.",
+     "q": "Der Sprecher lernt beim Hören neue Dinge.",
      "tf": true,
      "key": "r",
-     "why": "Joggen, Kochen, Zug."
+     "why": "Richtig."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher postet keine Fotos im Internet.",
+     "q": "Die Sprecherin nutzt soziale Netzwerke vor allem privat.",
      "tf": true,
      "key": "f",
-     "why": "Er postet sie."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h5",
-     "q": "Die Kinder der Sprecherin spielen jetzt mehr draußen.",
+     "q": "Die Eltern begrenzen die Bildschirmzeit der Kinder.",
      "tf": true,
      "key": "r",
-     "why": "Mehr draußen."
+     "why": "Richtig."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Herr Braun hat sein Smartphone vor zwei Jahren abgegeben.",
+     "q": "Sein Verhalten hat ihn selbst gestört.",
      "tf": true,
      "key": "r",
-     "why": "Seit zwei Jahren."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Er hat sich geärgert, weil das Handy kaputt war.",
+     "q": "Er hat auf Wunsch seines Arbeitgebers auf das Smartphone verzichtet.",
      "tf": true,
      "key": "f",
-     "why": "Ständiger Blick aufs Display."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h8",
-     "q": "Nach etwa vier Wochen wurde es leichter.",
+     "q": "Am Anfang fiel ihm der Verzicht schwer.",
      "tf": true,
      "key": "r",
-     "why": "Vier Wochen."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Seitdem liest er im Zug wieder Bücher.",
+     "q": "Er hat bestimmte Neuigkeiten nicht mehr sofort erfahren.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h10",
-     "q": "Er kann Fahrkarten per App kaufen.",
+     "q": "Er hat weniger Zeit für sich selbst als früher.",
      "tf": true,
      "key": "f",
-     "why": "Kann er nicht."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h11",
-     "q": "Wenn er sich verfährt, fragt er Menschen.",
+     "q": "Er benutzt im Alltag Papier statt digitaler Hilfen.",
      "tf": true,
      "key": "r",
-     "why": "Nach dem Weg."
+     "why": "Richtig."
     },
     {
      "id": "h12",
-     "q": "Seine Schüler haben ihn ausgelacht und sind dabei geblieben.",
+     "q": "Das Parken in der Stadt ist für ihn kein Problem.",
      "tf": true,
      "key": "f",
-     "why": "Jetzt interessiert."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h13",
-     "q": "Er empfiehlt eine Woche Handypause.",
+     "q": "Seine Kollegen müssen sich an seine Erreichbarkeit anpassen.",
      "tf": true,
      "key": "r",
-     "why": "Eine Woche Pause."
+     "why": "Richtig."
     },
     {
      "id": "h14",
-     "q": "Zu Hause benutzt er keinen Computer.",
+     "q": "Alle Schüler halten seinen Verzicht für falsch.",
      "tf": true,
      "key": "f",
-     "why": "Doch."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h15",
-     "q": "Die Fotos der Kinder macht die Familie mit der Kamera.",
+     "q": "Er schließt nicht aus, später wieder ein Smartphone zu benutzen.",
      "tf": true,
      "key": "r",
-     "why": "Kamera."
+     "why": "Richtig."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Bei Fragen zur Rechnung muss man die Zwei drücken.",
+     "q": "Der Kundenservice ist heute ganztägig besetzt.",
      "tf": true,
      "key": "f",
-     "why": "Eins."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Die Lieferung des Fernsehers kostet immer Geld.",
+     "q": "Die Waschmaschine wird am nächsten Tag geliefert.",
      "tf": true,
      "key": "f",
-     "why": "Ab 100 Euro kostenlos."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h18",
-     "q": "Auf der A 3 gibt es einen Stau wegen eines Unfalls.",
+     "q": "Wer die Strecke fährt, muss mit Wartezeit rechnen.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h19",
-     "q": "Man kann sich im Radio ein Lied wünschen.",
+     "q": "Die Hörer können sich an dem Gespräch beteiligen.",
      "tf": true,
      "key": "r",
-     "why": "Wunschkonzert."
+     "why": "Richtig."
     },
     {
      "id": "h20",
-     "q": "Die Praxis hat heute geöffnet.",
+     "q": "Man kann die Bücher in dieser Zeit nicht zurückgeben.",
      "tf": true,
      "key": "f",
-     "why": "Geschlossen."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich lese nur noch Nachrichten am Handy. Eine Zeitung hatte ich seit Jahren nicht mehr in der Hand. Das spart Papier und ist bequem, nur abends tun mir die Augen manchmal weh.</p>"
+     "<p>Ich lese nur noch Nachrichten am Handy. Eine Zeitung habe ich seit Jahren nicht mehr gekauft. Ich finde es praktisch, dass ich unterwegs in der Bahn alles lesen kann. Aber ich weiß, dass ich dadurch oft nur die Überschriften sehe.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich sehe fast jeden Abend fern. Nach der Arbeit will ich nicht mehr nachdenken. Am liebsten sehe ich Krimis. Computer benutze ich nur im Büro, zu Hause habe ich nicht einmal WLAN.</p>"
+     "<p>Ich sehe fast jeden Abend fern. Nach der Arbeit will ich einfach abschalten und mich berieseln lassen. Am liebsten schaue ich Krimis, aber Nachrichten interessieren mich nicht.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen, im Zug. So lerne ich viel, ohne dass ich extra Zeit brauche. Fernsehen finde ich dagegen Zeitverschwendung.</p>"
+     "<p>Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen und im Auto. Dabei lerne ich viel über Geschichte und Wirtschaft. Nur bei sehr langen Folgen schlafe ich manchmal ein.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich bin viel in sozialen Netzwerken unterwegs. Ich poste Fotos von meinem Essen, und meine Freunde schreiben Kommentare. Manchmal vergesse ich dabei, richtig zu essen.</p>"
+     "<p>Ich bin viel in sozialen Netzwerken unterwegs, aber nur beruflich. Privat habe ich keine Profile, weil mir das zu viel Zeit nimmt. Ich telefoniere lieber mit Freunden.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Meine Kinder dürfen nur eine Stunde am Tag an den Computer. Wir haben das gemeinsam beschlossen. Am Anfang gab es Streit, aber jetzt spielen sie wieder mehr draußen.</p>"
+     "<p>Meine Kinder dürfen nur eine Stunde am Tag an den Computer oder das Handy. Anfangs gab es viel Streit, aber inzwischen akzeptieren sie die Regel. Dafür spielen sie mehr draußen und lesen mehr.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Leben ohne Smartphone. Herr Braun, Lehrer",
-   "html": "<div class=\"text\"><p>Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?</p><p>Ich habe gemerkt, dass ich ständig auf das Display schaue, auch wenn ich mit Freunden zusammen bin. Das hat mich gestört. Ich habe das Handy einfach abgegeben und ein altes Tastentelefon gekauft.</p><p>Und wie ist es Ihnen am Anfang gegangen?</p><p>Schwer. Ich habe oft aus Gewohnheit in die Tasche gegriffen. Nach etwa vier Wochen wurde es leichter. Ich konnte plötzlich im Zug wieder ein Buch lesen.</p><p>Gibt es Nachteile?</p><p>Natürlich. Ich habe keine Karte dabei, wenn ich mich verfahre, und ich kann keine Fahrkarten per App kaufen. Dafür frage ich dann Menschen nach dem Weg, das ist oft sehr nett.</p><p>Wie reagieren Ihre Schüler?</p><p>Zuerst haben sie gelacht. Jetzt finden viele es interessant. Ich spreche mit ihnen oft über die Frage, wie viel Zeit sie am Handy verbringen. Manche haben ihre Zeit schon reduziert.</p><p>Würden Sie anderen raten, es auch zu versuchen?</p><p>Nicht unbedingt für immer. Aber ich empfehle eine Woche Pause, zum Beispiel im Urlaub. Danach sieht man die Dinge klarer.</p><p>Benutzen Sie überhaupt keine Technik mehr?</p><p>Doch, am Computer in der Schule und zu Hause. Ich schreibe E-Mails und suche Informationen. Der Unterschied ist: Ich bin nicht mehr ständig erreichbar.</p><p>Und Ihre Familie?</p><p>Meine Frau hat sich daran gewöhnt. Wenn etwas Wichtiges ist, ruft sie mich an. Für Fotos der Kinder benutzen wir die Kamera. Sie macht schönere Bilder als jedes Handy.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?</p><p>Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann.</p><p>Wie haben Sie die erste Zeit erlebt?</p><p>Schwer. In den ersten Wochen habe ich ständig in die Tasche gegriffen. Ich fühlte mich auch abgeschnitten, weil ich im Klassenchat nichts mehr mitbekam. Jetzt weiß ich, dass das nicht so schlimm ist.</p><p>Was gewinnen Sie?</p><p>Zeit. Ich lese wieder Bücher, ich gehe öfter spazieren, und abends bin ich nicht mehr so unruhig. Außerdem sehe ich viel mehr von meiner Umgebung.</p><p>Wie kommen Sie ohne Smartphone zurecht?</p><p>Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier.</p><p>Gibt es auch Nachteile?</p><p>Ja. Manche Dinge gehen nur noch mit App, zum Beispiel das Parken in der Innenstadt. Und die Kollegen sind manchmal genervt, wenn sie mir etwas schicken wollen und ich nicht antworte.</p><p>Was sagen Ihre Schüler dazu?</p><p>Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert.</p><p>Würden Sie wieder ein Smartphone kaufen?</p><p>Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Willkommen beim Kundenservice der Telefongesellschaft FreeCall. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins. Für technische Probleme drücken Sie die Zwei. Unsere Hotline ist montags bis freitags von acht bis zwanzig Uhr erreichbar.</p>"
+     "<p>Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Guten Tag, hier spricht das Elektrogeschäft Kaiser. Ihr Fernseher ist da und kann ab sofort abgeholt werden. Wenn Sie eine Lieferung wünschen, rufen Sie uns bitte bis Freitag an. Die Lieferung ist ab hundert Euro Warenwert kostenlos.</p>"
+     "<p>Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Und nun die Verkehrsmeldungen. Auf der A 3 zwischen Köln und Frankfurt kommt es wegen eines Unfalls zu einem Stau von fünf Kilometern. Autofahrer sollten die Umleitung über Limburg nutzen.</p>"
+     "<p>Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Wunschkonzert. Wenn Sie ein Lied wünschen, schreiben Sie uns eine E-Mail oder rufen Sie während der Sendung an. Die Nummer finden Sie auf unserer Internetseite.</p>"
+     "<p>Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Hier ist der automatische Anrufbeantworter von Dr. Neumann. Die Praxis ist heute geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Notdienst unter der Nummer eins eins sechs, eins eins sieben.</p>"
+     "<p>Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich lese nur noch Nachrichten am Handy. Eine Zeitung hatte ich seit Jahren nicht mehr in der Hand. Das spart Papier und ist bequem, nur abends tun mir die Augen manchmal weh.",
+   "t": "Ich lese nur noch Nachrichten am Handy. Eine Zeitung habe ich seit Jahren nicht mehr gekauft. Ich finde es praktisch, dass ich unterwegs in der Bahn alles lesen kann. Aber ich weiß, dass ich dadurch oft nur die Überschriften sehe.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich sehe fast jeden Abend fern. Nach der Arbeit will ich nicht mehr nachdenken. Am liebsten sehe ich Krimis. Computer benutze ich nur im Büro, zu Hause habe ich nicht einmal WLAN.",
+   "t": "Ich sehe fast jeden Abend fern. Nach der Arbeit will ich einfach abschalten und mich berieseln lassen. Am liebsten schaue ich Krimis, aber Nachrichten interessieren mich nicht.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen, im Zug. So lerne ich viel, ohne dass ich extra Zeit brauche. Fernsehen finde ich dagegen Zeitverschwendung.",
+   "t": "Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen und im Auto. Dabei lerne ich viel über Geschichte und Wirtschaft. Nur bei sehr langen Folgen schlafe ich manchmal ein.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich bin viel in sozialen Netzwerken unterwegs. Ich poste Fotos von meinem Essen, und meine Freunde schreiben Kommentare. Manchmal vergesse ich dabei, richtig zu essen.",
+   "t": "Ich bin viel in sozialen Netzwerken unterwegs, aber nur beruflich. Privat habe ich keine Profile, weil mir das zu viel Zeit nimmt. Ich telefoniere lieber mit Freunden.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Meine Kinder dürfen nur eine Stunde am Tag an den Computer. Wir haben das gemeinsam beschlossen. Am Anfang gab es Streit, aber jetzt spielen sie wieder mehr draußen.",
+   "t": "Meine Kinder dürfen nur eine Stunde am Tag an den Computer oder das Handy. Anfangs gab es viel Streit, aber inzwischen akzeptieren sie die Regel. Dafür spielen sie mehr draußen und lesen mehr.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,79 +709,79 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch wenn ich mit Freunden zusammen bin. Das hat mich gestört. Ich habe das Handy einfach abgegeben und ein altes Tastentelefon gekauft.",
+   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie ist es Ihnen am Anfang gegangen?",
+   "t": "Wie haben Sie die erste Zeit erlebt?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schwer. Ich habe oft aus Gewohnheit in die Tasche gegriffen. Nach etwa vier Wochen wurde es leichter. Ich konnte plötzlich im Zug wieder ein Buch lesen.",
+   "t": "Schwer. In den ersten Wochen habe ich ständig in die Tasche gegriffen. Ich fühlte mich auch abgeschnitten, weil ich im Klassenchat nichts mehr mitbekam. Jetzt weiß ich, dass das nicht so schlimm ist.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es Nachteile?",
+   "t": "Was gewinnen Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Ich habe keine Karte dabei, wenn ich mich verfahre, und ich kann keine Fahrkarten per App kaufen. Dafür frage ich dann Menschen nach dem Weg, das ist oft sehr nett.",
+   "t": "Zeit. Ich lese wieder Bücher, ich gehe öfter spazieren, und abends bin ich nicht mehr so unruhig. Außerdem sehe ich viel mehr von meiner Umgebung.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie reagieren Ihre Schüler?",
+   "t": "Wie kommen Sie ohne Smartphone zurecht?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zuerst haben sie gelacht. Jetzt finden viele es interessant. Ich spreche mit ihnen oft über die Frage, wie viel Zeit sie am Handy verbringen. Manche haben ihre Zeit schon reduziert.",
+   "t": "Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würden Sie anderen raten, es auch zu versuchen?",
+   "t": "Gibt es auch Nachteile?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nicht unbedingt für immer. Aber ich empfehle eine Woche Pause, zum Beispiel im Urlaub. Danach sieht man die Dinge klarer.",
+   "t": "Ja. Manche Dinge gehen nur noch mit App, zum Beispiel das Parken in der Innenstadt. Und die Kollegen sind manchmal genervt, wenn sie mir etwas schicken wollen und ich nicht antworte.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Benutzen Sie überhaupt keine Technik mehr?",
+   "t": "Was sagen Ihre Schüler dazu?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Doch, am Computer in der Schule und zu Hause. Ich schreibe E-Mails und suche Informationen. Der Unterschied ist: Ich bin nicht mehr ständig erreichbar.",
+   "t": "Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und Ihre Familie?",
+   "t": "Würden Sie wieder ein Smartphone kaufen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Meine Frau hat sich daran gewöhnt. Wenn etwas Wichtiges ist, ruft sie mich an. Für Fotos der Kinder benutzen wir die Kamera. Sie macht schönere Bilder als jedes Handy.",
+   "t": "Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -799,79 +799,79 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch wenn ich mit Freunden zusammen bin. Das hat mich gestört. Ich habe das Handy einfach abgegeben und ein altes Tastentelefon gekauft.",
+   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie ist es Ihnen am Anfang gegangen?",
+   "t": "Wie haben Sie die erste Zeit erlebt?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Schwer. Ich habe oft aus Gewohnheit in die Tasche gegriffen. Nach etwa vier Wochen wurde es leichter. Ich konnte plötzlich im Zug wieder ein Buch lesen.",
+   "t": "Schwer. In den ersten Wochen habe ich ständig in die Tasche gegriffen. Ich fühlte mich auch abgeschnitten, weil ich im Klassenchat nichts mehr mitbekam. Jetzt weiß ich, dass das nicht so schlimm ist.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es Nachteile?",
+   "t": "Was gewinnen Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Natürlich. Ich habe keine Karte dabei, wenn ich mich verfahre, und ich kann keine Fahrkarten per App kaufen. Dafür frage ich dann Menschen nach dem Weg, das ist oft sehr nett.",
+   "t": "Zeit. Ich lese wieder Bücher, ich gehe öfter spazieren, und abends bin ich nicht mehr so unruhig. Außerdem sehe ich viel mehr von meiner Umgebung.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie reagieren Ihre Schüler?",
+   "t": "Wie kommen Sie ohne Smartphone zurecht?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zuerst haben sie gelacht. Jetzt finden viele es interessant. Ich spreche mit ihnen oft über die Frage, wie viel Zeit sie am Handy verbringen. Manche haben ihre Zeit schon reduziert.",
+   "t": "Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Würden Sie anderen raten, es auch zu versuchen?",
+   "t": "Gibt es auch Nachteile?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Nicht unbedingt für immer. Aber ich empfehle eine Woche Pause, zum Beispiel im Urlaub. Danach sieht man die Dinge klarer.",
+   "t": "Ja. Manche Dinge gehen nur noch mit App, zum Beispiel das Parken in der Innenstadt. Und die Kollegen sind manchmal genervt, wenn sie mir etwas schicken wollen und ich nicht antworte.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Benutzen Sie überhaupt keine Technik mehr?",
+   "t": "Was sagen Ihre Schüler dazu?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Doch, am Computer in der Schule und zu Hause. Ich schreibe E-Mails und suche Informationen. Der Unterschied ist: Ich bin nicht mehr ständig erreichbar.",
+   "t": "Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und Ihre Familie?",
+   "t": "Würden Sie wieder ein Smartphone kaufen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Meine Frau hat sich daran gewöhnt. Wenn etwas Wichtiges ist, ruft sie mich an. Für Fotos der Kinder benutzen wir die Kamera. Sie macht schönere Bilder als jedes Handy.",
+   "t": "Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +895,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Kundenservice der Telefongesellschaft FreeCall. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins. Für technische Probleme drücken Sie die Zwei. Unsere Hotline ist montags bis freitags von acht bis zwanzig Uhr erreichbar.",
+   "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
    "p": 2,
    "r": "-8%"
   },
@@ -907,13 +907,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen beim Kundenservice der Telefongesellschaft FreeCall. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins. Für technische Probleme drücken Sie die Zwei. Unsere Hotline ist montags bis freitags von acht bis zwanzig Uhr erreichbar.",
+   "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier spricht das Elektrogeschäft Kaiser. Ihr Fernseher ist da und kann ab sofort abgeholt werden. Wenn Sie eine Lieferung wünschen, rufen Sie uns bitte bis Freitag an. Die Lieferung ist ab hundert Euro Warenwert kostenlos.",
+   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
    "p": 2,
    "r": "-8%"
   },
@@ -925,13 +925,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier spricht das Elektrogeschäft Kaiser. Ihr Fernseher ist da und kann ab sofort abgeholt werden. Wenn Sie eine Lieferung wünschen, rufen Sie uns bitte bis Freitag an. Die Lieferung ist ab hundert Euro Warenwert kostenlos.",
+   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun die Verkehrsmeldungen. Auf der A 3 zwischen Köln und Frankfurt kommt es wegen eines Unfalls zu einem Stau von fünf Kilometern. Autofahrer sollten die Umleitung über Limburg nutzen.",
+   "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
    "p": 2,
    "r": "-8%"
   },
@@ -943,13 +943,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun die Verkehrsmeldungen. Auf der A 3 zwischen Köln und Frankfurt kommt es wegen eines Unfalls zu einem Stau von fünf Kilometern. Autofahrer sollten die Umleitung über Limburg nutzen.",
+   "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Wunschkonzert. Wenn Sie ein Lied wünschen, schreiben Sie uns eine E-Mail oder rufen Sie während der Sendung an. Die Nummer finden Sie auf unserer Internetseite.",
+   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
    "p": 2,
    "r": "-8%"
   },
@@ -961,13 +961,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Wunschkonzert. Wenn Sie ein Lied wünschen, schreiben Sie uns eine E-Mail oder rufen Sie während der Sendung an. Die Nummer finden Sie auf unserer Internetseite.",
+   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist der automatische Anrufbeantworter von Dr. Neumann. Die Praxis ist heute geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Notdienst unter der Nummer eins eins sechs, eins eins sieben.",
+   "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
    "p": 2,
    "r": "-8%"
   },
@@ -979,7 +979,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist der automatische Anrufbeantworter von Dr. Neumann. Die Praxis ist heute geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Notdienst unter der Nummer eins eins sechs, eins eins sieben.",
+   "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
    "p": 7,
    "r": "-8%"
   },

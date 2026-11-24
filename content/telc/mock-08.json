@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin ärgert sich, wenn der Zug zu spät kommt.",
+     "q": "Die Sprecherin nutzt die Reisezeit sinnvoll.",
      "tf": true,
      "key": "r",
-     "why": "Nur bei Verspätung ärgert sie sich."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher benutzt im Urlaub niemals das Auto.",
+     "q": "Der Sprecher fährt lieber mit dem Bus als mit dem Auto.",
      "tf": true,
      "key": "f",
-     "why": "Im Urlaub fährt er auch mit dem Auto."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin fliegt, weil sie wenig Urlaub hat.",
+     "q": "Der Sprecher bemüht sich, nicht für jede Reise das Flugzeug zu nehmen.",
      "tf": true,
      "key": "r",
-     "why": "Nur zwei Wochen Urlaub."
+     "why": "Richtig."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher findet Radfahren in den Ferien zu anstrengend.",
+     "q": "Die Sprecherin fährt in den Urlaub meistens mit dem Auto.",
      "tf": true,
      "key": "f",
-     "why": "Anstrengend, aber er lernt viel kennen."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin reist gern in ferne Länder.",
+     "q": "Der Sprecher reist gern.",
      "tf": true,
      "key": "f",
-     "why": "Weite Reisen machen sie nervös."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Frau Lindner hat ihren Blog zuerst für ihre Freunde geschrieben.",
+     "q": "Sie hat ihre Berichte zunächst nur für Bekannte geschrieben.",
      "tf": true,
      "key": "r",
-     "why": "Tagebuch für Freunde."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Sie lebt seit drei Jahren vom Reisebloggen.",
+     "q": "Sie wollte schon immer Bloggerin werden.",
      "tf": true,
      "key": "f",
-     "why": "Seit einem Jahr."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h8",
-     "q": "Sie übernachtet meistens in Hostels.",
+     "q": "Sie verdient ihr Geld auf verschiedene Weise.",
      "tf": true,
      "key": "r",
-     "why": "Hostels."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Ein Zehn-Tage-Ticket in Portugal kostet hundertzwanzig Euro.",
+     "q": "Sie führt ein sparsames Leben.",
      "tf": true,
      "key": "r",
-     "why": "120 Euro."
+     "why": "Richtig."
     },
     {
      "id": "h10",
-     "q": "Die Fahrt durch Indien war sehr entspannt.",
+     "q": "Sie übernachtet am liebsten in Hotels.",
      "tf": true,
      "key": "f",
-     "why": "Sie wurde krank."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h11",
-     "q": "Seit der Indienreise plant sie mehr Zeit pro Ort ein.",
+     "q": "Sie empfiehlt, nicht jeden Tag der Reise zu planen.",
      "tf": true,
      "key": "r",
-     "why": "Mehr Zeit für jeden Ort."
+     "why": "Richtig."
     },
     {
      "id": "h12",
-     "q": "Sie empfiehlt, möglichst viel Gepäck mitzunehmen.",
+     "q": "Ihr wurde in Peru etwas gestohlen.",
      "tf": true,
      "key": "f",
-     "why": "Nicht zu viel Gepäck."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h13",
-     "q": "Sie plant ihre Reisen vollständig zu Hause.",
+     "q": "Die Botschaft konnte ihr nicht helfen.",
      "tf": true,
      "key": "f",
-     "why": "Nur die Grobplanung."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Nach Asien reist sie mit dem Zug.",
+     "q": "Sie reist hauptsächlich, um sich zu erholen.",
      "tf": true,
      "key": "f",
-     "why": "Keine gute Alternative zum Flug."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h15",
-     "q": "Die Norwegenreise macht sie zum ersten Mal seit Indien in Begleitung.",
+     "q": "Sie hat vor, später ein Buch zu veröffentlichen.",
      "tf": true,
      "key": "r",
-     "why": "Mit der Schwester."
+     "why": "Richtig."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Der Zug fährt von Gleis acht.",
+     "q": "Der Zug fährt vom gleichen Gleis wie sonst ab.",
      "tf": true,
      "key": "f",
-     "why": "Gleis zwölf."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Die Zufahrt zu Terminal zwei ist gesperrt.",
+     "q": "Es gibt Ersatz für den gesperrten Parkplatz.",
      "tf": true,
      "key": "r",
-     "why": "Bauarbeiten."
+     "why": "Richtig."
     },
     {
      "id": "h18",
-     "q": "Die Stornierung der Taxifahrt ist immer kostenlos.",
+     "q": "Das Taxi kommt um sechs Uhr.",
      "tf": true,
      "key": "f",
-     "why": "Nach heute Abend fünf Euro."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h19",
-     "q": "Das Frühstück gibt es bis zehn Uhr.",
+     "q": "Hotelgäste sind abends zu einem Getränk eingeladen.",
      "tf": true,
      "key": "r",
-     "why": "Sieben bis zehn."
+     "why": "Richtig."
     },
     {
      "id": "h20",
-     "q": "Am Sonntag regnet es im Norden.",
+     "q": "Am Samstag regnet es im Norden.",
      "tf": true,
      "key": "f",
-     "why": "Im Norden wird es trocken."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich fahre immer mit dem Zug, auch wenn es manchmal länger dauert. Ich kann lesen oder arbeiten und muss mich nicht auf die Straße konzentrieren. Nur wenn die Bahn Verspätung hat, ärgere ich mich.</p>"
+     "<p>Ich fahre immer mit dem Zug, auch wenn es manchmal länger dauert. Ich kann lesen oder arbeiten, und ich muss mich nicht über Staus ärgern. Nur wenn der Zug Verspätung hat, bin ich genervt.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ohne Auto geht bei uns auf dem Land nichts. Der nächste Bahnhof ist zwanzig Kilometer entfernt. Im Urlaub fahre ich aber auch mit dem Auto, weil ich dann Kinder und Gepäck problemlos mitnehmen kann.</p>"
+     "<p>Ohne Auto geht bei uns auf dem Land nichts. Der Bus fährt nur zweimal am Tag, und der Bahnhof ist zwanzig Kilometer entfernt. Ich würde gern öfter Zug fahren, aber es ist zu umständlich.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich fliege gern, auch wenn ich weiß, dass es nicht umweltfreundlich ist. Ich habe nur zwei Wochen Urlaub und möchte möglichst viel erleben. Mit dem Zug würde ich zu viel Zeit verlieren.</p>"
+     "<p>Ich fliege gern, auch wenn ich weiß, dass es schlecht für die Umwelt ist. Für Reisen nach Südamerika gibt es keine Alternative. Ich versuche, bei anderen Reisen auf das Flugzeug zu verzichten.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Seit fünf Jahren fahre ich nur mit dem Fahrrad, auch in den Ferien. Ich habe schon halb Europa gesehen. Das ist anstrengend, aber man lernt Land und Leute viel besser kennen.</p>"
+     "<p>Seit fünf Jahren fahre ich nur mit dem Fahrrad in den Urlaub. Letztes Jahr bin ich in drei Wochen bis nach Dänemark gekommen. Nur bei Regen ist es unangenehm, aber ich habe gute Kleidung.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Ich bin nicht gern unterwegs. Am liebsten bleibe ich zu Hause oder fahre mit dem Bus in die Nachbarstadt. Weite Reisen machen mich nervös, ich habe auch Angst vor dem Fliegen.</p>"
+     "<p>Ich bin nicht gern unterwegs. Am liebsten bleibe ich zu Hause und mache es mir gemütlich. Meine Familie will jedes Jahr ans Meer, deshalb fahre ich mit, aber ich freue mich schon auf den Heimweg.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Reisen mit kleinem Budget. Frau Lindner, Reisebloggerin",
-   "html": "<div class=\"text\"><p>Frau Lindner, Sie sind seit drei Jahren als Reisebloggerin unterwegs. Wie kommt man zu so einem Beruf?</p><p>Durch Zufall. Ich habe nach dem Studium eine Weltreise gemacht und für Freunde ein Tagebuch im Internet geführt. Plötzlich hatte ich tausend Leser.</p><p>Und davon können Sie leben?</p><p>Seit einem Jahr. Ich bekomme Geld von Werbepartnern und schreibe Artikel für Zeitungen. Aber reich wird man damit nicht, ich übernachte meistens in Hostels.</p><p>Welche Reise war die schönste?</p><p>Die Reise durch Portugal mit dem Zug. Das Land ist klein, die Verbindungen sind gut, und ein Zehn-Tage-Ticket kostet nur hundertzwanzig Euro. Man trifft unterwegs viele Menschen.</p><p>Was war die schwierigste Reise?</p><p>Eine Fahrt durch Indien. Ich hatte mir zu viel vorgenommen, jede Nacht in einer anderen Stadt, und wurde nach zwei Wochen krank. Seitdem plane ich viel mehr Zeit für jeden Ort ein.</p><p>Haben Sie Tipps für Anfänger?</p><p>Erstens: nicht zu viel Gepäck. Mit einem kleinen Rucksack ist man viel flexibler. Zweitens: ein paar Wörter in der Landessprache lernen, das öffnet Türen.</p><p>Wie planen Sie Ihre Reisen?</p><p>Die Grobplanung mache ich zu Hause: Route, erste Unterkunft. Alles andere entscheide ich vor Ort. Die besten Tipps bekommt man von Einheimischen, nicht aus dem Reiseführer.</p><p>Was ist mit der Umwelt? Fliegen Sie viel?</p><p>Weniger als früher. Nach Europa fahre ich fast immer mit Bus oder Bahn. Für Reisen nach Asien gibt es leider keine gute Alternative, aber ich bleibe dann länger.</p><p>Und wohin soll es als Nächstes gehen?</p><p>Im Herbst reise ich mit meiner Schwester nach Norwegen. Wir wollen dort zwei Wochen wandern. Das ist nach Indien das erste Mal, dass ich nicht allein unterwegs bin.</p></div>"
+   "html": "<div class=\"text\"><p>Frau Lindner, Sie sind seit drei Jahren als Reisebloggerin unterwegs. Wie kommt man zu so einem Beruf?</p><p>Durch Zufall. Ich habe nach dem Studium eine Weltreise gemacht und meiner Familie Berichte geschickt. Irgendwann haben Fremde meine Texte gelesen, und eine Reisefirma hat mich gefragt, ob ich für sie schreiben möchte.</p><p>Wie finanzieren Sie das?</p><p>Mit Werbung, Texten für Firmen und Vorträgen. Reich wird man nicht, aber ich komme gut zurecht, weil ich sehr sparsam lebe.</p><p>Wie reisen Sie mit kleinem Budget?</p><p>Ich übernachte in Hostels oder bei Einheimischen und fahre mit dem Bus. In vielen Ländern kostet ein Zimmer nur zehn Euro. Essen kaufe ich auf dem Markt, das ist viel billiger als im Restaurant.</p><p>Haben Sie einen Tipp für die Vorbereitung?</p><p>Nicht zu viel planen. Ein Plan für die ersten Tage reicht. Die besten Erlebnisse entstehen, wenn man sich auf Zufälle einlässt.</p><p>Gab es gefährliche Situationen?</p><p>Einmal wurde mir in Bolivien die Tasche gestohlen, mit Pass und Handy. Ich habe zum Glück Kopien aller Papiere in der Cloud. Die Botschaft hat mir schnell geholfen.</p><p>Was bedeutet Reisen für Sie?</p><p>Neugier. Ich möchte verstehen, wie andere Menschen leben. Und ich merke, wie wenig ich brauche, um glücklich zu sein.</p><p>Planen Sie, bald sesshaft zu werden?</p><p>Vielleicht in ein paar Jahren. Im Moment fehlt mir die Ruhe. Aber ich möchte irgendwann ein Buch schreiben, und dazu braucht man einen festen Platz.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Hier ist die Bahn-Hotline. Ihr Zug nach München fährt heute nicht von Gleis acht, sondern von Gleis zwölf. Die Abfahrt bleibt bei vierzehn Uhr zwanzig. Wegen starker Nachfrage empfehlen wir Ihnen, Ihren Sitzplatz zu reservieren.</p>"
+     "<p>Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Willkommen am Flughafen Köln. Wegen Bauarbeiten ist die Zufahrt zu Terminal zwei heute gesperrt. Fluggäste werden gebeten, über Terminal eins zu fahren. Der Weg ist ausgeschildert. Die Parkgebühr bleibt unverändert.</p>"
+     "<p>Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Der Fahrer wartet vor dem Haus. Wenn Sie die Fahrt stornieren möchten, sagen Sie bitte bis heute Abend Bescheid, sonst müssen wir fünf Euro berechnen.</p>"
+     "<p>Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Das Taxi wartet vor dem Haus. Bitte seien Sie pünktlich, die Wartezeit ist auf fünf Minuten begrenzt.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Liebe Gäste, das Hotel Seeblick heißt Sie willkommen. Das Frühstück wird von sieben bis zehn Uhr im Restaurant serviert. Am Mittwoch ist die Sauna geschlossen. Die Schlüssel geben Sie bitte beim Abreisen an der Rezeption ab.</p>"
+     "<p>Liebe Gäste, das Hotel Seeblick heißt Sie herzlich willkommen. Das Frühstück gibt es von sieben bis zehn Uhr im Wintergarten. Am Abend sind Sie zu einem Glas Wein auf der Terrasse eingeladen.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Und nun der Wetterbericht für das Wochenende: Am Samstag ist es im Süden sonnig, im Norden regnet es. Am Sonntag zieht der Regen in den Süden, im Norden wird es trocken. Die Höchstwerte liegen bei achtzehn Grad.</p>"
+     "<p>Und nun der Wetterbericht für das Wochenende. Am Samstag scheint überall die Sonne, am Sonntag ziehen im Norden Wolken auf. Die Temperaturen steigen bis auf achtundzwanzig Grad.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich fahre immer mit dem Zug, auch wenn es manchmal länger dauert. Ich kann lesen oder arbeiten und muss mich nicht auf die Straße konzentrieren. Nur wenn die Bahn Verspätung hat, ärgere ich mich.",
+   "t": "Ich fahre immer mit dem Zug, auch wenn es manchmal länger dauert. Ich kann lesen oder arbeiten, und ich muss mich nicht über Staus ärgern. Nur wenn der Zug Verspätung hat, bin ich genervt.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ohne Auto geht bei uns auf dem Land nichts. Der nächste Bahnhof ist zwanzig Kilometer entfernt. Im Urlaub fahre ich aber auch mit dem Auto, weil ich dann Kinder und Gepäck problemlos mitnehmen kann.",
+   "t": "Ohne Auto geht bei uns auf dem Land nichts. Der Bus fährt nur zweimal am Tag, und der Bahnhof ist zwanzig Kilometer entfernt. Ich würde gern öfter Zug fahren, aber es ist zu umständlich.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich fliege gern, auch wenn ich weiß, dass es nicht umweltfreundlich ist. Ich habe nur zwei Wochen Urlaub und möchte möglichst viel erleben. Mit dem Zug würde ich zu viel Zeit verlieren.",
+   "t": "Ich fliege gern, auch wenn ich weiß, dass es schlecht für die Umwelt ist. Für Reisen nach Südamerika gibt es keine Alternative. Ich versuche, bei anderen Reisen auf das Flugzeug zu verzichten.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Seit fünf Jahren fahre ich nur mit dem Fahrrad, auch in den Ferien. Ich habe schon halb Europa gesehen. Das ist anstrengend, aber man lernt Land und Leute viel besser kennen.",
+   "t": "Seit fünf Jahren fahre ich nur mit dem Fahrrad in den Urlaub. Letztes Jahr bin ich in drei Wochen bis nach Dänemark gekommen. Nur bei Regen ist es unangenehm, aber ich habe gute Kleidung.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich bin nicht gern unterwegs. Am liebsten bleibe ich zu Hause oder fahre mit dem Bus in die Nachbarstadt. Weite Reisen machen mich nervös, ich habe auch Angst vor dem Fliegen.",
+   "t": "Ich bin nicht gern unterwegs. Am liebsten bleibe ich zu Hause und mache es mir gemütlich. Meine Familie will jedes Jahr ans Meer, deshalb fahre ich mit, aber ich freue mich schon auf den Heimweg.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,91 +709,79 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Durch Zufall. Ich habe nach dem Studium eine Weltreise gemacht und für Freunde ein Tagebuch im Internet geführt. Plötzlich hatte ich tausend Leser.",
+   "t": "Durch Zufall. Ich habe nach dem Studium eine Weltreise gemacht und meiner Familie Berichte geschickt. Irgendwann haben Fremde meine Texte gelesen, und eine Reisefirma hat mich gefragt, ob ich für sie schreiben möchte.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und davon können Sie leben?",
+   "t": "Wie finanzieren Sie das?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Seit einem Jahr. Ich bekomme Geld von Werbepartnern und schreibe Artikel für Zeitungen. Aber reich wird man damit nicht, ich übernachte meistens in Hostels.",
+   "t": "Mit Werbung, Texten für Firmen und Vorträgen. Reich wird man nicht, aber ich komme gut zurecht, weil ich sehr sparsam lebe.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Welche Reise war die schönste?",
+   "t": "Wie reisen Sie mit kleinem Budget?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Reise durch Portugal mit dem Zug. Das Land ist klein, die Verbindungen sind gut, und ein Zehn-Tage-Ticket kostet nur hundertzwanzig Euro. Man trifft unterwegs viele Menschen.",
+   "t": "Ich übernachte in Hostels oder bei Einheimischen und fahre mit dem Bus. In vielen Ländern kostet ein Zimmer nur zehn Euro. Essen kaufe ich auf dem Markt, das ist viel billiger als im Restaurant.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was war die schwierigste Reise?",
+   "t": "Haben Sie einen Tipp für die Vorbereitung?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Eine Fahrt durch Indien. Ich hatte mir zu viel vorgenommen, jede Nacht in einer anderen Stadt, und wurde nach zwei Wochen krank. Seitdem plane ich viel mehr Zeit für jeden Ort ein.",
+   "t": "Nicht zu viel planen. Ein Plan für die ersten Tage reicht. Die besten Erlebnisse entstehen, wenn man sich auf Zufälle einlässt.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie Tipps für Anfänger?",
+   "t": "Gab es gefährliche Situationen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Erstens: nicht zu viel Gepäck. Mit einem kleinen Rucksack ist man viel flexibler. Zweitens: ein paar Wörter in der Landessprache lernen, das öffnet Türen.",
+   "t": "Einmal wurde mir in Bolivien die Tasche gestohlen, mit Pass und Handy. Ich habe zum Glück Kopien aller Papiere in der Cloud. Die Botschaft hat mir schnell geholfen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie planen Sie Ihre Reisen?",
+   "t": "Was bedeutet Reisen für Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Grobplanung mache ich zu Hause: Route, erste Unterkunft. Alles andere entscheide ich vor Ort. Die besten Tipps bekommt man von Einheimischen, nicht aus dem Reiseführer.",
+   "t": "Neugier. Ich möchte verstehen, wie andere Menschen leben. Und ich merke, wie wenig ich brauche, um glücklich zu sein.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was ist mit der Umwelt? Fliegen Sie viel?",
+   "t": "Planen Sie, bald sesshaft zu werden?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Weniger als früher. Nach Europa fahre ich fast immer mit Bus oder Bahn. Für Reisen nach Asien gibt es leider keine gute Alternative, aber ich bleibe dann länger.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wohin soll es als Nächstes gehen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Im Herbst reise ich mit meiner Schwester nach Norwegen. Wir wollen dort zwei Wochen wandern. Das ist nach Indien das erste Mal, dass ich nicht allein unterwegs bin.",
+   "t": "Vielleicht in ein paar Jahren. Im Moment fehlt mir die Ruhe. Aber ich möchte irgendwann ein Buch schreiben, und dazu braucht man einen festen Platz.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -811,91 +799,79 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Durch Zufall. Ich habe nach dem Studium eine Weltreise gemacht und für Freunde ein Tagebuch im Internet geführt. Plötzlich hatte ich tausend Leser.",
+   "t": "Durch Zufall. Ich habe nach dem Studium eine Weltreise gemacht und meiner Familie Berichte geschickt. Irgendwann haben Fremde meine Texte gelesen, und eine Reisefirma hat mich gefragt, ob ich für sie schreiben möchte.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und davon können Sie leben?",
+   "t": "Wie finanzieren Sie das?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Seit einem Jahr. Ich bekomme Geld von Werbepartnern und schreibe Artikel für Zeitungen. Aber reich wird man damit nicht, ich übernachte meistens in Hostels.",
+   "t": "Mit Werbung, Texten für Firmen und Vorträgen. Reich wird man nicht, aber ich komme gut zurecht, weil ich sehr sparsam lebe.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Welche Reise war die schönste?",
+   "t": "Wie reisen Sie mit kleinem Budget?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Reise durch Portugal mit dem Zug. Das Land ist klein, die Verbindungen sind gut, und ein Zehn-Tage-Ticket kostet nur hundertzwanzig Euro. Man trifft unterwegs viele Menschen.",
+   "t": "Ich übernachte in Hostels oder bei Einheimischen und fahre mit dem Bus. In vielen Ländern kostet ein Zimmer nur zehn Euro. Essen kaufe ich auf dem Markt, das ist viel billiger als im Restaurant.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was war die schwierigste Reise?",
+   "t": "Haben Sie einen Tipp für die Vorbereitung?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Eine Fahrt durch Indien. Ich hatte mir zu viel vorgenommen, jede Nacht in einer anderen Stadt, und wurde nach zwei Wochen krank. Seitdem plane ich viel mehr Zeit für jeden Ort ein.",
+   "t": "Nicht zu viel planen. Ein Plan für die ersten Tage reicht. Die besten Erlebnisse entstehen, wenn man sich auf Zufälle einlässt.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie Tipps für Anfänger?",
+   "t": "Gab es gefährliche Situationen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Erstens: nicht zu viel Gepäck. Mit einem kleinen Rucksack ist man viel flexibler. Zweitens: ein paar Wörter in der Landessprache lernen, das öffnet Türen.",
+   "t": "Einmal wurde mir in Bolivien die Tasche gestohlen, mit Pass und Handy. Ich habe zum Glück Kopien aller Papiere in der Cloud. Die Botschaft hat mir schnell geholfen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie planen Sie Ihre Reisen?",
+   "t": "Was bedeutet Reisen für Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Grobplanung mache ich zu Hause: Route, erste Unterkunft. Alles andere entscheide ich vor Ort. Die besten Tipps bekommt man von Einheimischen, nicht aus dem Reiseführer.",
+   "t": "Neugier. Ich möchte verstehen, wie andere Menschen leben. Und ich merke, wie wenig ich brauche, um glücklich zu sein.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was ist mit der Umwelt? Fliegen Sie viel?",
+   "t": "Planen Sie, bald sesshaft zu werden?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Weniger als früher. Nach Europa fahre ich fast immer mit Bus oder Bahn. Für Reisen nach Asien gibt es leider keine gute Alternative, aber ich bleibe dann länger.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Und wohin soll es als Nächstes gehen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Im Herbst reise ich mit meiner Schwester nach Norwegen. Wir wollen dort zwei Wochen wandern. Das ist nach Indien das erste Mal, dass ich nicht allein unterwegs bin.",
+   "t": "Vielleicht in ein paar Jahren. Im Moment fehlt mir die Ruhe. Aber ich möchte irgendwann ein Buch schreiben, und dazu braucht man einen festen Platz.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -919,7 +895,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Bahn-Hotline. Ihr Zug nach München fährt heute nicht von Gleis acht, sondern von Gleis zwölf. Die Abfahrt bleibt bei vierzehn Uhr zwanzig. Wegen starker Nachfrage empfehlen wir Ihnen, Ihren Sitzplatz zu reservieren.",
+   "t": "Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.",
    "p": 2,
    "r": "-8%"
   },
@@ -931,13 +907,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Bahn-Hotline. Ihr Zug nach München fährt heute nicht von Gleis acht, sondern von Gleis zwölf. Die Abfahrt bleibt bei vierzehn Uhr zwanzig. Wegen starker Nachfrage empfehlen wir Ihnen, Ihren Sitzplatz zu reservieren.",
+   "t": "Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist die Zufahrt zu Terminal zwei heute gesperrt. Fluggäste werden gebeten, über Terminal eins zu fahren. Der Weg ist ausgeschildert. Die Parkgebühr bleibt unverändert.",
+   "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.",
    "p": 2,
    "r": "-8%"
   },
@@ -949,13 +925,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist die Zufahrt zu Terminal zwei heute gesperrt. Fluggäste werden gebeten, über Terminal eins zu fahren. Der Weg ist ausgeschildert. Die Parkgebühr bleibt unverändert.",
+   "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Der Fahrer wartet vor dem Haus. Wenn Sie die Fahrt stornieren möchten, sagen Sie bitte bis heute Abend Bescheid, sonst müssen wir fünf Euro berechnen.",
+   "t": "Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Das Taxi wartet vor dem Haus. Bitte seien Sie pünktlich, die Wartezeit ist auf fünf Minuten begrenzt.",
    "p": 2,
    "r": "-8%"
   },
@@ -967,13 +943,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Der Fahrer wartet vor dem Haus. Wenn Sie die Fahrt stornieren möchten, sagen Sie bitte bis heute Abend Bescheid, sonst müssen wir fünf Euro berechnen.",
+   "t": "Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Das Taxi wartet vor dem Haus. Bitte seien Sie pünktlich, die Wartezeit ist auf fünf Minuten begrenzt.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Gäste, das Hotel Seeblick heißt Sie willkommen. Das Frühstück wird von sieben bis zehn Uhr im Restaurant serviert. Am Mittwoch ist die Sauna geschlossen. Die Schlüssel geben Sie bitte beim Abreisen an der Rezeption ab.",
+   "t": "Liebe Gäste, das Hotel Seeblick heißt Sie herzlich willkommen. Das Frühstück gibt es von sieben bis zehn Uhr im Wintergarten. Am Abend sind Sie zu einem Glas Wein auf der Terrasse eingeladen.",
    "p": 2,
    "r": "-8%"
   },
@@ -985,13 +961,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Gäste, das Hotel Seeblick heißt Sie willkommen. Das Frühstück wird von sieben bis zehn Uhr im Restaurant serviert. Am Mittwoch ist die Sauna geschlossen. Die Schlüssel geben Sie bitte beim Abreisen an der Rezeption ab.",
+   "t": "Liebe Gäste, das Hotel Seeblick heißt Sie herzlich willkommen. Das Frühstück gibt es von sieben bis zehn Uhr im Wintergarten. Am Abend sind Sie zu einem Glas Wein auf der Terrasse eingeladen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und nun der Wetterbericht für das Wochenende: Am Samstag ist es im Süden sonnig, im Norden regnet es. Am Sonntag zieht der Regen in den Süden, im Norden wird es trocken. Die Höchstwerte liegen bei achtzehn Grad.",
+   "t": "Und nun der Wetterbericht für das Wochenende. Am Samstag scheint überall die Sonne, am Sonntag ziehen im Norden Wolken auf. Die Temperaturen steigen bis auf achtundzwanzig Grad.",
    "p": 2,
    "r": "-8%"
   },
@@ -1003,7 +979,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und nun der Wetterbericht für das Wochenende: Am Samstag ist es im Süden sonnig, im Norden regnet es. Am Sonntag zieht der Regen in den Süden, im Norden wird es trocken. Die Höchstwerte liegen bei achtzehn Grad.",
+   "t": "Und nun der Wetterbericht für das Wochenende. Am Samstag scheint überall die Sonne, am Sonntag ziehen im Norden Wolken auf. Die Temperaturen steigen bis auf achtundzwanzig Grad.",
    "p": 7,
    "r": "-8%"
   },

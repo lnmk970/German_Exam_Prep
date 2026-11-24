@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin geht jeden Mittwoch ins Kino.",
+     "q": "Die Sprecherin und ihre Freundin sehen sich regelmäßig Filme an.",
      "tf": true,
      "key": "r",
-     "why": "Mittwoch."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher findet Gartenarbeit anstrengender als Fitness.",
+     "q": "Der Sprecher verbringt seine Freizeit meistens in der Stadt.",
      "tf": true,
      "key": "f",
-     "why": "Besser als Fitnessstudio."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin spielt dreimal im Jahr Konzerte.",
+     "q": "Die Sprecherin hat sich an das Spielen vor Publikum gewöhnt.",
      "tf": true,
      "key": "r",
-     "why": "Dreimal."
+     "why": "Richtig."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher hat viele Hobbys.",
+     "q": "Der Sprecher hat viel Zeit für Hobbys.",
      "tf": true,
      "key": "f",
-     "why": "Keine Energie."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin besucht Museen oft am Monatsanfang.",
+     "q": "Die Sprecherin schätzt es, ihr Tempo selbst zu bestimmen.",
      "tf": true,
      "key": "r",
-     "why": "Eintritt frei."
+     "why": "Richtig."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Herr Vogel trainiert seit zwanzig Jahren Kinder.",
+     "q": "Er hat sich selbst für die Aufgabe angeboten.",
      "tf": true,
      "key": "r",
-     "why": "Zwanzig Jahre."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Er wollte ursprünglich nur ein Jahr bleiben.",
+     "q": "Seine Mannschaft besteht aus jungen Kindern.",
      "tf": true,
      "key": "r",
-     "why": "Für ein Jahr."
+     "why": "Richtig."
     },
     {
      "id": "h8",
-     "q": "Er findet es schön, wie die Kinder sich entwickeln.",
+     "q": "Die Kinder trainieren mehr als einmal pro Woche.",
      "tf": true,
      "key": "r",
-     "why": "Größer werden."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Die größte Schwierigkeit sind die Kinder.",
+     "q": "Er bekommt für die Arbeit ein festes Gehalt.",
      "tf": true,
      "key": "f",
-     "why": "Die Eltern."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h10",
-     "q": "Im Kinderfußball geht es vor allem um Siege.",
+     "q": "Die Kinder verursachen die meisten Probleme.",
      "tf": true,
      "key": "f",
-     "why": "Spaß und Zusammenhalt."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h11",
-     "q": "Er trainiert insgesamt etwa acht Stunden pro Woche.",
+     "q": "Der Sport hilft Kindern, die neu im Land sind.",
      "tf": true,
      "key": "r",
-     "why": "Acht Stunden."
+     "why": "Richtig."
     },
     {
      "id": "h12",
-     "q": "Er bekommt ein Gehalt vom Verein.",
+     "q": "Im Verein gibt es genug Trainer.",
      "tf": true,
      "key": "f",
-     "why": "Nur Fahrtkosten."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h13",
-     "q": "Der Verein hat genug Trainer.",
+     "q": "Der Verein hat schon mehrere Mannschaften aufgelöst.",
      "tf": true,
      "key": "f",
-     "why": "Nachwuchs gesucht."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Man muss früher ein guter Spieler gewesen sein.",
+     "q": "Er will wegen eines Streits aufhören.",
      "tf": true,
      "key": "f",
-     "why": "Nicht nötig."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h15",
-     "q": "Er möchte vielleicht aufhören, wenn es einen Nachfolger gibt.",
+     "q": "Er denkt daran, die Aufgabe später an einen Jüngeren zu übergeben.",
      "tf": true,
      "key": "r",
-     "why": "Vielleicht."
+     "why": "Richtig."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Im Theater darf man fotografieren.",
+     "q": "Das Spiel beginnt früher als geplant.",
      "tf": true,
      "key": "f",
-     "why": "Nicht erlaubt."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Das Freibad ist heute bis sechzehn Uhr offen.",
+     "q": "Das Bad ist wegen des Wetters heute zu.",
      "tf": true,
      "key": "r",
-     "why": "Bis 16 Uhr."
+     "why": "Richtig."
     },
     {
      "id": "h18",
-     "q": "Das Handballspiel beginnt um fünfzehn Uhr.",
+     "q": "Der Platz ist nur eine Woche gesperrt.",
      "tf": true,
      "key": "f",
-     "why": "14:30."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h19",
-     "q": "Die englische Führung kostet extra.",
+     "q": "Wer reserviert hat, braucht für die Führung keine Eintrittskarte.",
      "tf": true,
      "key": "r",
-     "why": "Zwei Euro."
+     "why": "Richtig."
     },
     {
      "id": "h20",
-     "q": "Am Sonntag scheint die Sonne.",
+     "q": "Am Sonntagabend kann es regnen.",
      "tf": true,
      "key": "r",
-     "why": "Viel Sonne."
+     "why": "Richtig."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich gehe jeden Mittwoch mit meiner Freundin ins Kino. Seit zehn Jahren machen wir das. Der Film ist egal, wichtig ist, dass wir danach noch einen Tee trinken und darüber reden.</p>"
+     "<p>Ich gehe jeden Mittwoch mit meiner Freundin ins Kino. Das ist unser fester Termin, seit zehn Jahren. Wir sehen alles, Komödien, Dramen oder auch mal einen Krimi, und danach reden wir bei einem Glas Wein stundenlang darüber.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Am Wochenende bin ich im Garten. Ich baue Gemüse an, Tomaten, Bohnen, Kartoffeln. Das ist besser als jedes Fitnessstudio. Und im Herbst ernte ich, was ich selbst gesät habe.</p>"
+     "<p>Am Wochenende bin ich im Garten. Ich baue Gemüse an und repariere im Sommer den Zaun. Ins Kino gehe ich nie, weil mir das zu laut ist. Aber ich liebe es, abends draußen zu sitzen.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich spiele Geige in einem kleinen Orchester. Wir proben zweimal in der Woche und geben dreimal im Jahr ein Konzert. Mein Beruf ist sehr stressig, bei der Musik kann ich abschalten.</p>"
+     "<p>Ich spiele Geige in einem kleinen Orchester. Wir proben zweimal pro Woche und geben im Jahr drei Konzerte. Am Anfang war ich nervös, aber inzwischen freue ich mich auf jeden Auftritt.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich habe nicht viel Freizeit, weil ich zwei Jobs habe. Wenn ich frei habe, schlafe ich lange und sehe fern. Für Hobbys fehlt mir momentan die Energie.</p>"
+     "<p>Ich habe nicht viel Freizeit, weil ich zwei Jobs habe. Wenn ich mal einen freien Abend habe, bin ich meistens so müde, dass ich nur noch auf dem Sofa liege. Ich träume von einem langen Urlaub.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Ich gehe gern ins Museum. Besonders mag ich moderne Kunst. Am Anfang des Monats ist der Eintritt frei, dann gehe ich mit meinen Kindern. Danach gibt es immer Eis.</p>"
+     "<p>Ich gehe gern ins Museum. Besonders mag ich moderne Kunst, auch wenn ich nicht immer alles verstehe. Am liebsten gehe ich allein, damit ich so lange vor einem Bild stehen kann, wie ich will.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Der Ehrenamtliche Herr Vogel, Fußballtrainer",
-   "html": "<div class=\"text\"><p>Herr Vogel, Sie trainieren seit zwanzig Jahren Kinder im Fußballverein. Wie sind Sie dazu gekommen?</p><p>Mein Sohn wollte Fußball spielen, und der Verein suchte einen Trainer. Ich habe gesagt: Ich probiere es für ein Jahr. Daraus sind zwanzig geworden.</p><p>Was gefällt Ihnen daran?</p><p>Die Kinder. Man sieht, wie sie größer werden, nicht nur körperlich. Manche waren am Anfang schüchtern und sind jetzt Mannschaftskapitäne.</p><p>Was ist die größte Schwierigkeit?</p><p>Die Eltern. Manche erwarten, dass ihr Kind immer spielt. Aber im Kinderfußball geht es nicht um Siege, sondern um Spaß und Zusammenhalt.</p><p>Wie viel Zeit investieren Sie?</p><p>Zweimal Training pro Woche, dazu am Samstag das Spiel. Das sind etwa acht Stunden. Ich bekomme dafür kein Geld, nur die Kosten für Fahrten werden erstattet.</p><p>Gibt es genug Trainer im Verein?</p><p>Leider nicht. Wir suchen dringend Nachwuchs. Viele junge Leute haben keine Zeit oder wollen sich nicht binden.</p><p>Was würden Sie jemandem sagen, der überlegt, Trainer zu werden?</p><p>Einfach probieren. Man muss kein guter Spieler gewesen sein. Wichtiger ist, dass man Geduld hat und die Kinder mag.</p><p>Und wie lange machen Sie noch weiter?</p><p>Solange die Knie halten. Im Ernst: Wenn ein Nachfolger da ist, höre ich vielleicht auf. Aber ganz ohne Fußball könnte ich nicht leben.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Vogel, Sie trainieren seit zwanzig Jahren Kinder im Fußballverein. Wie sind Sie dazu gekommen?</p><p>Mein Sohn wollte Fußball spielen, und der Verein suchte einen Trainer. Ich war selbst nie gut, aber ich habe Spaß am Spiel. Also habe ich mich gemeldet und einen Kurs gemacht.</p><p>Wie viele Kinder trainieren Sie?</p><p>Im Moment zwanzig, zwischen acht und zehn Jahren. Wir trainieren zweimal pro Woche und spielen am Samstag.</p><p>Verdienen Sie damit etwas?</p><p>Nein, es ist ehrenamtlich. Der Verein zahlt nur die Fahrtkosten und eine kleine Pauschale im Jahr. Ich mache das aus Freude.</p><p>Was ist das Schwierigste?</p><p>Mit den Eltern. Manche glauben, ihr Kind sei der nächste Weltmeister, und rufen vom Rand rein. Mit den Kindern ist es einfacher.</p><p>Was lernen die Kinder außer Fußball?</p><p>Zusammenarbeit, Verlieren und Gewinnen. Bei uns spielen auch Kinder aus Familien, die erst seit kurzem in Deutschland leben, und der Sport hilft ihnen, Freunde zu finden.</p><p>Gibt es genug Trainer?</p><p>Leider nicht. Viele Eltern haben keine Zeit oder keine Lust. Wir suchen immer Leute, und ohne Trainer müssten Mannschaften aufgelöst werden.</p><p>Hatten Sie schon einmal Streit mit dem Verein?</p><p>Einmal, wegen der Sportplatzzeiten. Aber das haben wir schnell geklärt. Insgesamt ist es ein guter Verein, und ich bin mit der Zusammenarbeit zufrieden.</p><p>Wie lange machen Sie weiter?</p><p>Solange es meine Knie erlauben. Vielleicht noch fünf Jahre. Dann hoffe ich, dass einer von den älteren Jungs den Job übernimmt.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Liebe Gäste, herzlich willkommen im Stadttheater. Die Vorstellung beginnt in fünf Minuten. Bitte schalten Sie jetzt Ihre Mobiltelefone aus. Fotografieren ist während der Vorstellung nicht erlaubt. Nach dem ersten Akt gibt es eine Pause von zwanzig Minuten.</p>"
+     "<p>Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Hier ist das Freibad am See. Wegen des schlechten Wetters ist das Bad heute nur bis sechzehn Uhr geöffnet. Die Sauna bleibt geschlossen. Morgen ab zehn Uhr haben wir wieder normal geöffnet.</p>"
+     "<p>Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Und jetzt eine Information für alle Sportfreunde: Das Handballspiel am Samstag beginnt nicht um fünfzehn, sondern schon um vierzehn Uhr dreißig. Die Halle öffnet eine Stunde vorher. Karten gibt es nur an der Tageskasse.</p>"
+     "<p>Und jetzt eine Information für alle Sportler: Der Sportplatz an der Schillerstraße wird ab Montag renoviert und ist bis Ende des Monats gesperrt. Das Training der Fußballmannschaften findet in dieser Zeit in der Halle an der Bahnhofstraße statt.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Museum für Moderne Kunst. Unsere Führung in englischer Sprache beginnt jeden Samstag um elf Uhr. Treffpunkt ist an der Kasse. Die Teilnahme kostet zusätzlich zwei Euro pro Person.</p>"
+     "<p>Museum für Moderne Kunst. Unsere Führung am Samstag beginnt um vierzehn Uhr und dauert eine Stunde. Teilnehmer zahlen keinen Eintritt, wenn sie vorher einen Platz reservieren. Treffpunkt ist an der Kasse.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Das war die Wettervorhersage. Für das Wochenende gilt: Samstag bewölkt, bis zu zwanzig Grad. Sonntag viel Sonne, bis zu vierundzwanzig Grad. Ein guter Tag für Wanderungen und Ausflüge.</p>"
+     "<p>Das war die Wettervorhersage. Für das Wochenende rechnen wir mit viel Sonne und Temperaturen bis zu siebenundzwanzig Grad. Am Sonntagabend ist ein Gewitter möglich.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich gehe jeden Mittwoch mit meiner Freundin ins Kino. Seit zehn Jahren machen wir das. Der Film ist egal, wichtig ist, dass wir danach noch einen Tee trinken und darüber reden.",
+   "t": "Ich gehe jeden Mittwoch mit meiner Freundin ins Kino. Das ist unser fester Termin, seit zehn Jahren. Wir sehen alles, Komödien, Dramen oder auch mal einen Krimi, und danach reden wir bei einem Glas Wein stundenlang darüber.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Am Wochenende bin ich im Garten. Ich baue Gemüse an, Tomaten, Bohnen, Kartoffeln. Das ist besser als jedes Fitnessstudio. Und im Herbst ernte ich, was ich selbst gesät habe.",
+   "t": "Am Wochenende bin ich im Garten. Ich baue Gemüse an und repariere im Sommer den Zaun. Ins Kino gehe ich nie, weil mir das zu laut ist. Aber ich liebe es, abends draußen zu sitzen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich spiele Geige in einem kleinen Orchester. Wir proben zweimal in der Woche und geben dreimal im Jahr ein Konzert. Mein Beruf ist sehr stressig, bei der Musik kann ich abschalten.",
+   "t": "Ich spiele Geige in einem kleinen Orchester. Wir proben zweimal pro Woche und geben im Jahr drei Konzerte. Am Anfang war ich nervös, aber inzwischen freue ich mich auf jeden Auftritt.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe nicht viel Freizeit, weil ich zwei Jobs habe. Wenn ich frei habe, schlafe ich lange und sehe fern. Für Hobbys fehlt mir momentan die Energie.",
+   "t": "Ich habe nicht viel Freizeit, weil ich zwei Jobs habe. Wenn ich mal einen freien Abend habe, bin ich meistens so müde, dass ich nur noch auf dem Sofa liege. Ich träume von einem langen Urlaub.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich gehe gern ins Museum. Besonders mag ich moderne Kunst. Am Anfang des Monats ist der Eintritt frei, dann gehe ich mit meinen Kindern. Danach gibt es immer Eis.",
+   "t": "Ich gehe gern ins Museum. Besonders mag ich moderne Kunst, auch wenn ich nicht immer alles verstehe. Am liebsten gehe ich allein, damit ich so lange vor einem Bild stehen kann, wie ich will.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,79 +709,91 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mein Sohn wollte Fußball spielen, und der Verein suchte einen Trainer. Ich habe gesagt: Ich probiere es für ein Jahr. Daraus sind zwanzig geworden.",
+   "t": "Mein Sohn wollte Fußball spielen, und der Verein suchte einen Trainer. Ich war selbst nie gut, aber ich habe Spaß am Spiel. Also habe ich mich gemeldet und einen Kurs gemacht.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was gefällt Ihnen daran?",
+   "t": "Wie viele Kinder trainieren Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Kinder. Man sieht, wie sie größer werden, nicht nur körperlich. Manche waren am Anfang schüchtern und sind jetzt Mannschaftskapitäne.",
+   "t": "Im Moment zwanzig, zwischen acht und zehn Jahren. Wir trainieren zweimal pro Woche und spielen am Samstag.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was ist die größte Schwierigkeit?",
+   "t": "Verdienen Sie damit etwas?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Eltern. Manche erwarten, dass ihr Kind immer spielt. Aber im Kinderfußball geht es nicht um Siege, sondern um Spaß und Zusammenhalt.",
+   "t": "Nein, es ist ehrenamtlich. Der Verein zahlt nur die Fahrtkosten und eine kleine Pauschale im Jahr. Ich mache das aus Freude.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viel Zeit investieren Sie?",
+   "t": "Was ist das Schwierigste?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zweimal Training pro Woche, dazu am Samstag das Spiel. Das sind etwa acht Stunden. Ich bekomme dafür kein Geld, nur die Kosten für Fahrten werden erstattet.",
+   "t": "Mit den Eltern. Manche glauben, ihr Kind sei der nächste Weltmeister, und rufen vom Rand rein. Mit den Kindern ist es einfacher.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es genug Trainer im Verein?",
+   "t": "Was lernen die Kinder außer Fußball?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Leider nicht. Wir suchen dringend Nachwuchs. Viele junge Leute haben keine Zeit oder wollen sich nicht binden.",
+   "t": "Zusammenarbeit, Verlieren und Gewinnen. Bei uns spielen auch Kinder aus Familien, die erst seit kurzem in Deutschland leben, und der Sport hilft ihnen, Freunde zu finden.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was würden Sie jemandem sagen, der überlegt, Trainer zu werden?",
+   "t": "Gibt es genug Trainer?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einfach probieren. Man muss kein guter Spieler gewesen sein. Wichtiger ist, dass man Geduld hat und die Kinder mag.",
+   "t": "Leider nicht. Viele Eltern haben keine Zeit oder keine Lust. Wir suchen immer Leute, und ohne Trainer müssten Mannschaften aufgelöst werden.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie lange machen Sie noch weiter?",
+   "t": "Hatten Sie schon einmal Streit mit dem Verein?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Solange die Knie halten. Im Ernst: Wenn ein Nachfolger da ist, höre ich vielleicht auf. Aber ganz ohne Fußball könnte ich nicht leben.",
+   "t": "Einmal, wegen der Sportplatzzeiten. Aber das haben wir schnell geklärt. Insgesamt ist es ein guter Verein, und ich bin mit der Zusammenarbeit zufrieden.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange machen Sie weiter?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Solange es meine Knie erlauben. Vielleicht noch fünf Jahre. Dann hoffe ich, dass einer von den älteren Jungs den Job übernimmt.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -799,79 +811,91 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mein Sohn wollte Fußball spielen, und der Verein suchte einen Trainer. Ich habe gesagt: Ich probiere es für ein Jahr. Daraus sind zwanzig geworden.",
+   "t": "Mein Sohn wollte Fußball spielen, und der Verein suchte einen Trainer. Ich war selbst nie gut, aber ich habe Spaß am Spiel. Also habe ich mich gemeldet und einen Kurs gemacht.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was gefällt Ihnen daran?",
+   "t": "Wie viele Kinder trainieren Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Kinder. Man sieht, wie sie größer werden, nicht nur körperlich. Manche waren am Anfang schüchtern und sind jetzt Mannschaftskapitäne.",
+   "t": "Im Moment zwanzig, zwischen acht und zehn Jahren. Wir trainieren zweimal pro Woche und spielen am Samstag.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was ist die größte Schwierigkeit?",
+   "t": "Verdienen Sie damit etwas?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Die Eltern. Manche erwarten, dass ihr Kind immer spielt. Aber im Kinderfußball geht es nicht um Siege, sondern um Spaß und Zusammenhalt.",
+   "t": "Nein, es ist ehrenamtlich. Der Verein zahlt nur die Fahrtkosten und eine kleine Pauschale im Jahr. Ich mache das aus Freude.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie viel Zeit investieren Sie?",
+   "t": "Was ist das Schwierigste?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Zweimal Training pro Woche, dazu am Samstag das Spiel. Das sind etwa acht Stunden. Ich bekomme dafür kein Geld, nur die Kosten für Fahrten werden erstattet.",
+   "t": "Mit den Eltern. Manche glauben, ihr Kind sei der nächste Weltmeister, und rufen vom Rand rein. Mit den Kindern ist es einfacher.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es genug Trainer im Verein?",
+   "t": "Was lernen die Kinder außer Fußball?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Leider nicht. Wir suchen dringend Nachwuchs. Viele junge Leute haben keine Zeit oder wollen sich nicht binden.",
+   "t": "Zusammenarbeit, Verlieren und Gewinnen. Bei uns spielen auch Kinder aus Familien, die erst seit kurzem in Deutschland leben, und der Sport hilft ihnen, Freunde zu finden.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was würden Sie jemandem sagen, der überlegt, Trainer zu werden?",
+   "t": "Gibt es genug Trainer?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Einfach probieren. Man muss kein guter Spieler gewesen sein. Wichtiger ist, dass man Geduld hat und die Kinder mag.",
+   "t": "Leider nicht. Viele Eltern haben keine Zeit oder keine Lust. Wir suchen immer Leute, und ohne Trainer müssten Mannschaften aufgelöst werden.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie lange machen Sie noch weiter?",
+   "t": "Hatten Sie schon einmal Streit mit dem Verein?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Solange die Knie halten. Im Ernst: Wenn ein Nachfolger da ist, höre ich vielleicht auf. Aber ganz ohne Fußball könnte ich nicht leben.",
+   "t": "Einmal, wegen der Sportplatzzeiten. Aber das haben wir schnell geklärt. Insgesamt ist es ein guter Verein, und ich bin mit der Zusammenarbeit zufrieden.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie lange machen Sie weiter?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Solange es meine Knie erlauben. Vielleicht noch fünf Jahre. Dann hoffe ich, dass einer von den älteren Jungs den Job übernimmt.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +919,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Gäste, herzlich willkommen im Stadttheater. Die Vorstellung beginnt in fünf Minuten. Bitte schalten Sie jetzt Ihre Mobiltelefone aus. Fotografieren ist während der Vorstellung nicht erlaubt. Nach dem ersten Akt gibt es eine Pause von zwanzig Minuten.",
+   "t": "Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit.",
    "p": 2,
    "r": "-8%"
   },
@@ -907,13 +931,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Gäste, herzlich willkommen im Stadttheater. Die Vorstellung beginnt in fünf Minuten. Bitte schalten Sie jetzt Ihre Mobiltelefone aus. Fotografieren ist während der Vorstellung nicht erlaubt. Nach dem ersten Akt gibt es eine Pause von zwanzig Minuten.",
+   "t": "Liebe Gäste, herzlich willkommen im Stadion. Das Spiel beginnt heute nicht um fünfzehn Uhr, sondern erst um sechzehn Uhr dreißig. Die Tore öffnen um fünfzehn Uhr. Bitte halten Sie Ihre Eintrittskarten bereit.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist das Freibad am See. Wegen des schlechten Wetters ist das Bad heute nur bis sechzehn Uhr geöffnet. Die Sauna bleibt geschlossen. Morgen ab zehn Uhr haben wir wieder normal geöffnet.",
+   "t": "Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten.",
    "p": 2,
    "r": "-8%"
   },
@@ -925,13 +949,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist das Freibad am See. Wegen des schlechten Wetters ist das Bad heute nur bis sechzehn Uhr geöffnet. Die Sauna bleibt geschlossen. Morgen ab zehn Uhr haben wir wieder normal geöffnet.",
+   "t": "Hier ist das Freibad am See. Wegen des schlechten Wetters bleibt das Bad heute geschlossen. Morgen öffnen wir wieder ab zehn Uhr. Jahreskarten behalten ihre Gültigkeit, ein Ersatztag wird nicht angeboten.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und jetzt eine Information für alle Sportfreunde: Das Handballspiel am Samstag beginnt nicht um fünfzehn, sondern schon um vierzehn Uhr dreißig. Die Halle öffnet eine Stunde vorher. Karten gibt es nur an der Tageskasse.",
+   "t": "Und jetzt eine Information für alle Sportler: Der Sportplatz an der Schillerstraße wird ab Montag renoviert und ist bis Ende des Monats gesperrt. Das Training der Fußballmannschaften findet in dieser Zeit in der Halle an der Bahnhofstraße statt.",
    "p": 2,
    "r": "-8%"
   },
@@ -943,13 +967,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und jetzt eine Information für alle Sportfreunde: Das Handballspiel am Samstag beginnt nicht um fünfzehn, sondern schon um vierzehn Uhr dreißig. Die Halle öffnet eine Stunde vorher. Karten gibt es nur an der Tageskasse.",
+   "t": "Und jetzt eine Information für alle Sportler: Der Sportplatz an der Schillerstraße wird ab Montag renoviert und ist bis Ende des Monats gesperrt. Das Training der Fußballmannschaften findet in dieser Zeit in der Halle an der Bahnhofstraße statt.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Museum für Moderne Kunst. Unsere Führung in englischer Sprache beginnt jeden Samstag um elf Uhr. Treffpunkt ist an der Kasse. Die Teilnahme kostet zusätzlich zwei Euro pro Person.",
+   "t": "Museum für Moderne Kunst. Unsere Führung am Samstag beginnt um vierzehn Uhr und dauert eine Stunde. Teilnehmer zahlen keinen Eintritt, wenn sie vorher einen Platz reservieren. Treffpunkt ist an der Kasse.",
    "p": 2,
    "r": "-8%"
   },
@@ -961,13 +985,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Museum für Moderne Kunst. Unsere Führung in englischer Sprache beginnt jeden Samstag um elf Uhr. Treffpunkt ist an der Kasse. Die Teilnahme kostet zusätzlich zwei Euro pro Person.",
+   "t": "Museum für Moderne Kunst. Unsere Führung am Samstag beginnt um vierzehn Uhr und dauert eine Stunde. Teilnehmer zahlen keinen Eintritt, wenn sie vorher einen Platz reservieren. Treffpunkt ist an der Kasse.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das war die Wettervorhersage. Für das Wochenende gilt: Samstag bewölkt, bis zu zwanzig Grad. Sonntag viel Sonne, bis zu vierundzwanzig Grad. Ein guter Tag für Wanderungen und Ausflüge.",
+   "t": "Das war die Wettervorhersage. Für das Wochenende rechnen wir mit viel Sonne und Temperaturen bis zu siebenundzwanzig Grad. Am Sonntagabend ist ein Gewitter möglich.",
    "p": 2,
    "r": "-8%"
   },
@@ -979,7 +1003,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Das war die Wettervorhersage. Für das Wochenende gilt: Samstag bewölkt, bis zu zwanzig Grad. Sonntag viel Sonne, bis zu vierundzwanzig Grad. Ein guter Tag für Wanderungen und Ausflüge.",
+   "t": "Das war die Wettervorhersage. Für das Wochenende rechnen wir mit viel Sonne und Temperaturen bis zu siebenundzwanzig Grad. Am Sonntagabend ist ein Gewitter möglich.",
    "p": 7,
    "r": "-8%"
   },

@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Krankenschwester hat unter der Woche manchmal frei.",
+     "q": "Die Sprecherin schätzt, dass sie Erledigungen machen kann, wenn andere Menschen arbeiten müssen.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Selbstständige arbeitet nie am Abend.",
+     "q": "Der Sprecher arbeitet ausschließlich tagsüber.",
      "tf": true,
      "key": "f",
-     "why": "Bis in die Nacht."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin im Büro ist mit den Aufgaben ganz zufrieden.",
+     "q": "Die Sprecherin findet ihre Aufgaben abwechslungsreich.",
      "tf": true,
      "key": "f",
-     "why": "Immer gleich."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h4",
-     "q": "Der Busfahrer findet seine Wochenenddienste schwierig für die Familie.",
+     "q": "Der Sprecher mag seinen Beruf, aber die Arbeitszeiten belasten sein Familienleben.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin sucht Arbeit, weil die Firma geschlossen hat.",
+     "q": "Die Sprecherin sucht eine Stelle, weil ihr Betrieb nicht mehr existiert.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Frau Koch wollte schon als Kind Tischlerin werden.",
+     "q": "Frau Koch hatte schon als Kind den Wunsch, Tischlerin zu werden.",
      "tf": true,
      "key": "f",
-     "why": "Mit sechzehn."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h7",
-     "q": "Ihr Vater war über ihre Entscheidung zuerst überrascht.",
+     "q": "Ihr Vater fand ihre Entscheidung am Anfang unerwartet.",
      "tf": true,
      "key": "r",
-     "why": "Zuerst überrascht."
+     "why": "Richtig."
     },
     {
      "id": "h8",
-     "q": "Sie war in der Berufsschule das einzige Mädchen.",
+     "q": "In ihrer Klasse war sie die einzige Frau unter den Auszubildenden.",
      "tf": true,
      "key": "r",
-     "why": "Einzige."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Die Kollegen haben sie von Anfang an respektiert.",
+     "q": "Die Männer im Betrieb haben sie von Anfang an ernst genommen.",
      "tf": true,
      "key": "f",
-     "why": "Nach einem Jahr."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h10",
-     "q": "Ihr gefällt, dass man das Ergebnis der Arbeit sieht.",
+     "q": "Sie freut sich über sichtbare Ergebnisse ihrer Arbeit.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h11",
-     "q": "Staub ist kein Problem in der Werkstatt.",
+     "q": "In der Werkstatt gibt es keine Probleme mit Staub.",
      "tf": true,
      "key": "f",
-     "why": "Nicht gesund."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h12",
-     "q": "Sie hat acht Mitarbeiter.",
+     "q": "Zu ihrem Team gehören auch zwei junge Leute in der Ausbildung.",
      "tf": true,
      "key": "r",
-     "why": "Acht."
+     "why": "Richtig."
     },
     {
      "id": "h13",
-     "q": "Es gibt viele Bewerber für die Ausbildung.",
+     "q": "Für freie Ausbildungsplätze melden sich sehr viele Interessenten.",
      "tf": true,
      "key": "f",
-     "why": "Kaum Bewerber."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Sie empfiehlt ein Praktikum.",
+     "q": "Sie empfiehlt, den Beruf zuerst auszuprobieren.",
      "tf": true,
      "key": "r",
-     "why": "Praktikum."
+     "why": "Richtig."
     },
     {
      "id": "h15",
-     "q": "Ihr Neffe könnte die Werkstatt übernehmen.",
+     "q": "Ein Verwandter von ihr könnte später die Firma weiterführen.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Die Personalabteilung ist im August zwei Wochen nicht erreichbar.",
+     "q": "Im Sommer ist die Personalabteilung zwei Wochen lang nicht zu sprechen.",
      "tf": true,
      "key": "r",
-     "why": "10.–24. August."
+     "why": "Richtig."
     },
     {
      "id": "h17",
-     "q": "Die Versammlung beginnt um halb zwölf.",
+     "q": "Der Film beginnt später als sonst.",
      "tf": true,
      "key": "f",
-     "why": "13 Uhr."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h18",
-     "q": "Der Termin bei der Arbeitsagentur wird auf Donnerstag verschoben.",
+     "q": "Die Anruferin schlägt einen anderen Tag für das Gespräch vor.",
      "tf": true,
      "key": "r",
-     "why": "Donnerstag."
+     "why": "Richtig."
     },
     {
      "id": "h19",
-     "q": "Im Seminar übt man nach der Pause Vorstellungsgespräche.",
+     "q": "Am Samstag ist das Wetter im Süden besser als im Norden.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h20",
-     "q": "Herr Schulte soll heute noch zurückrufen.",
+     "q": "Herr Schulte soll noch am selben Tag zurückrufen.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich arbeite als Krankenschwester im Schichtdienst. Das ist anstrengend, aber ich habe oft unter der Woche frei. Dann gehe ich in Ruhe einkaufen, wenn die anderen arbeiten.</p>"
+     "<p>Ich arbeite als Krankenschwester im Schichtdienst. Das ist anstrengend, vor allem die Nachtschichten. Dafür habe ich oft unter der Woche frei und kann in Ruhe einkaufen oder zum Arzt gehen, wenn die anderen arbeiten. Mit meinen Kollegen verstehe ich mich sehr gut, wir helfen uns gegenseitig.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich bin selbstständig und arbeite zu Hause am Computer. Niemand sagt mir, wann ich aufstehen muss. Aber manchmal arbeite ich bis in die Nacht, weil ich Aufträge nicht ablehnen will.</p>"
+     "<p>Ich bin selbstständig und arbeite zu Hause am Computer. Niemand sagt mir, wann ich aufstehen muss, das ist ein großer Vorteil. Aber ich kann Aufträge schlecht ablehnen, deshalb sitze ich manchmal bis in die Nacht am Schreibtisch. Am Wochenende versuche ich, nicht zu arbeiten.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich arbeite in einem Büro. Der Job ist sicher, die Kollegen sind nett, aber die Aufgaben sind immer gleich. Ich überlege, ob ich noch einmal etwas Neues ausprobieren sollte.</p>"
+     "<p>Ich arbeite seit zehn Jahren in einem Büro. Der Job ist sicher, und die Kollegen sind nett. Aber ehrlich gesagt sind die Aufgaben immer die gleichen, und ich fühle mich nicht mehr gefordert. Ich überlege, ob ich noch einmal etwas ganz Neues ausprobieren sollte.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich bin Busfahrer und liebe meinen Beruf. Ich sehe jeden Tag viele Menschen und bin immer in Bewegung. Nur die Wochenenddienste sind für meine Familie nicht einfach.</p>"
+     "<p>Ich bin Busfahrer und liebe meinen Beruf. Ich sehe jeden Tag viele Menschen und bin immer in Bewegung, das wäre im Büro nichts für mich. Nur die Dienste am Wochenende sind für meine Familie nicht einfach, weil meine Kinder dann gern etwas mit mir unternehmen würden.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Ich habe vor kurzem meine Stelle verloren. Die Firma hat geschlossen. Im Moment schreibe ich viele Bewerbungen, aber es ist schwierig, etwas zu finden. Das Arbeitsamt hilft mir dabei.</p>"
+     "<p>Ich habe vor kurzem meine Stelle verloren, weil die Firma geschlossen hat. Im Moment schreibe ich viele Bewerbungen, aber es ist schwierig, etwas Passendes zu finden. Das Arbeitsamt unterstützt mich dabei und hat mir einen Kurs angeboten.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Ausbildung im Handwerk. Frau Koch, Tischlermeisterin",
-   "html": "<div class=\"text\"><p>Frau Koch, Sie sind Tischlermeisterin. Das ist ein Beruf, den eher Männer wählen. Wie kamen Sie dazu?</p><p>Mein Vater hatte eine Werkstatt. Als Kind habe ich dort gespielt. Mit sechzehn habe ich gesagt: Ich werde Tischlerin. Mein Vater war zuerst überrascht, dann sehr stolz.</p><p>Wie war die Ausbildung?</p><p>Drei Jahre, in Betrieb und Berufsschule. Ich war das einzige Mädchen in der Klasse. Manche Kollegen haben Witze gemacht, aber nach einem Jahr hatten sie Respekt.</p><p>Was gefällt Ihnen an der Arbeit?</p><p>Dass man am Ende des Tages sieht, was man gemacht hat. Ein Schrank, ein Tisch, eine Treppe. Das ist ein tolles Gefühl.</p><p>Gibt es auch Nachteile?</p><p>Die Arbeit ist körperlich hart. Auch der Staub ist nicht gesund, deshalb tragen wir Masken. Und die Auftragslage schwankt: Manchmal haben wir zu viel zu tun, manchmal zu wenig.</p><p>Wie viele Mitarbeiter haben Sie?</p><p>Acht, davon zwei Auszubildende. Wir suchen immer gute Leute, aber es gibt kaum Bewerber. Viele junge Leute wollen lieber ins Büro.</p><p>Was würden Sie jungen Menschen raten?</p><p>Ein Praktikum machen. Dann sieht man, ob einem die Arbeit liegt. Handwerk hat Zukunft, wir verdienen gut und haben sichere Jobs.</p><p>Planen Sie, Ihren Betrieb irgendwann zu übergeben?</p><p>Ja, in zehn Jahren vielleicht. Mein Neffe lernt gerade bei mir. Wenn er gut ist, übernimmt er die Werkstatt.</p></div>"
+   "html": "<div class=\"text\"><p>Frau Koch, Sie sind Tischlermeisterin. Das ist ein Beruf, den eher Männer wählen. Wie kamen Sie dazu?</p><p>Mein Vater hatte eine Werkstatt, und als Kind habe ich dort viel Zeit verbracht. Aber ich wollte eigentlich Lehrerin werden. Erst mit sechzehn habe ich gesagt: Ich werde Tischlerin. Mein Vater war zuerst überrascht, dann sehr stolz.</p><p>Wie war die Ausbildung?</p><p>Drei Jahre, im Betrieb und in der Berufsschule. Ich war das einzige Mädchen in der Klasse. Manche Kollegen haben Witze gemacht, aber nach einem Jahr hatten sie Respekt vor mir.</p><p>Was gefällt Ihnen an der Arbeit?</p><p>Dass man am Ende des Tages sieht, was man gemacht hat. Ein Schrank, ein Tisch, eine Treppe. Das ist ein tolles Gefühl.</p><p>Gibt es auch Nachteile?</p><p>Die Arbeit ist körperlich hart. Auch der Staub ist nicht gesund, deshalb tragen wir Masken. Und die Auftragslage schwankt: Manchmal haben wir zu viel zu tun, manchmal zu wenig.</p><p>Wie viele Mitarbeiter haben Sie?</p><p>Acht, davon zwei Auszubildende. Wir suchen immer gute Leute, aber es gibt kaum Bewerber. Viele junge Leute wollen lieber ins Büro.</p><p>Was würden Sie jungen Menschen raten?</p><p>Ein Praktikum zu machen. Dann sieht man, ob einem die Arbeit liegt. Handwerk hat Zukunft, wir verdienen gut und haben sichere Jobs.</p><p>Planen Sie, Ihren Betrieb irgendwann zu übergeben?</p><p>Ja, in zehn Jahren vielleicht. Mein Neffe lernt gerade bei mir. Wenn er gut ist, übernimmt er die Werkstatt.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken.</p>"
+     "<p>Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken, wir antworten dann ab dem fünfundzwanzigsten August.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage für alle Mitarbeiter. Das Mittagessen in der Kantine ist heute wegen einer Betriebsversammlung schon um halb zwölf. Die Versammlung beginnt um dreizehn Uhr im großen Saal.</p>"
+     "<p>Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie den Termin telefonisch.</p>"
+     "<p>Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie diesen Termin telefonisch bis morgen zwölf Uhr, sonst vergeben wir ihn an andere Kunden.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Willkommen zum Seminar „Erfolgreich bewerben“. Heute lernen Sie, wie man einen Lebenslauf schreibt. Nach der Pause üben wir Vorstellungsgespräche. Bitte schalten Sie Ihre Handys aus.</p>"
+     "<p>Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück.</p>"
+     "<p>Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück, ich bin bis siebzehn Uhr im Büro.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich arbeite als Krankenschwester im Schichtdienst. Das ist anstrengend, aber ich habe oft unter der Woche frei. Dann gehe ich in Ruhe einkaufen, wenn die anderen arbeiten.",
+   "t": "Ich arbeite als Krankenschwester im Schichtdienst. Das ist anstrengend, vor allem die Nachtschichten. Dafür habe ich oft unter der Woche frei und kann in Ruhe einkaufen oder zum Arzt gehen, wenn die anderen arbeiten. Mit meinen Kollegen verstehe ich mich sehr gut, wir helfen uns gegenseitig.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich bin selbstständig und arbeite zu Hause am Computer. Niemand sagt mir, wann ich aufstehen muss. Aber manchmal arbeite ich bis in die Nacht, weil ich Aufträge nicht ablehnen will.",
+   "t": "Ich bin selbstständig und arbeite zu Hause am Computer. Niemand sagt mir, wann ich aufstehen muss, das ist ein großer Vorteil. Aber ich kann Aufträge schlecht ablehnen, deshalb sitze ich manchmal bis in die Nacht am Schreibtisch. Am Wochenende versuche ich, nicht zu arbeiten.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich arbeite in einem Büro. Der Job ist sicher, die Kollegen sind nett, aber die Aufgaben sind immer gleich. Ich überlege, ob ich noch einmal etwas Neues ausprobieren sollte.",
+   "t": "Ich arbeite seit zehn Jahren in einem Büro. Der Job ist sicher, und die Kollegen sind nett. Aber ehrlich gesagt sind die Aufgaben immer die gleichen, und ich fühle mich nicht mehr gefordert. Ich überlege, ob ich noch einmal etwas ganz Neues ausprobieren sollte.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich bin Busfahrer und liebe meinen Beruf. Ich sehe jeden Tag viele Menschen und bin immer in Bewegung. Nur die Wochenenddienste sind für meine Familie nicht einfach.",
+   "t": "Ich bin Busfahrer und liebe meinen Beruf. Ich sehe jeden Tag viele Menschen und bin immer in Bewegung, das wäre im Büro nichts für mich. Nur die Dienste am Wochenende sind für meine Familie nicht einfach, weil meine Kinder dann gern etwas mit mir unternehmen würden.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe vor kurzem meine Stelle verloren. Die Firma hat geschlossen. Im Moment schreibe ich viele Bewerbungen, aber es ist schwierig, etwas zu finden. Das Arbeitsamt hilft mir dabei.",
+   "t": "Ich habe vor kurzem meine Stelle verloren, weil die Firma geschlossen hat. Im Moment schreibe ich viele Bewerbungen, aber es ist schwierig, etwas Passendes zu finden. Das Arbeitsamt unterstützt mich dabei und hat mir einen Kurs angeboten.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,7 +709,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Mein Vater hatte eine Werkstatt. Als Kind habe ich dort gespielt. Mit sechzehn habe ich gesagt: Ich werde Tischlerin. Mein Vater war zuerst überrascht, dann sehr stolz.",
+   "t": "Mein Vater hatte eine Werkstatt, und als Kind habe ich dort viel Zeit verbracht. Aber ich wollte eigentlich Lehrerin werden. Erst mit sechzehn habe ich gesagt: Ich werde Tischlerin. Mein Vater war zuerst überrascht, dann sehr stolz.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -721,7 +721,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Drei Jahre, in Betrieb und Berufsschule. Ich war das einzige Mädchen in der Klasse. Manche Kollegen haben Witze gemacht, aber nach einem Jahr hatten sie Respekt.",
+   "t": "Drei Jahre, im Betrieb und in der Berufsschule. Ich war das einzige Mädchen in der Klasse. Manche Kollegen haben Witze gemacht, aber nach einem Jahr hatten sie Respekt vor mir.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -769,7 +769,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ein Praktikum machen. Dann sieht man, ob einem die Arbeit liegt. Handwerk hat Zukunft, wir verdienen gut und haben sichere Jobs.",
+   "t": "Ein Praktikum zu machen. Dann sieht man, ob einem die Arbeit liegt. Handwerk hat Zukunft, wir verdienen gut und haben sichere Jobs.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -799,7 +799,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Mein Vater hatte eine Werkstatt. Als Kind habe ich dort gespielt. Mit sechzehn habe ich gesagt: Ich werde Tischlerin. Mein Vater war zuerst überrascht, dann sehr stolz.",
+   "t": "Mein Vater hatte eine Werkstatt, und als Kind habe ich dort viel Zeit verbracht. Aber ich wollte eigentlich Lehrerin werden. Erst mit sechzehn habe ich gesagt: Ich werde Tischlerin. Mein Vater war zuerst überrascht, dann sehr stolz.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -811,7 +811,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Drei Jahre, in Betrieb und Berufsschule. Ich war das einzige Mädchen in der Klasse. Manche Kollegen haben Witze gemacht, aber nach einem Jahr hatten sie Respekt.",
+   "t": "Drei Jahre, im Betrieb und in der Berufsschule. Ich war das einzige Mädchen in der Klasse. Manche Kollegen haben Witze gemacht, aber nach einem Jahr hatten sie Respekt vor mir.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -859,7 +859,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ein Praktikum machen. Dann sieht man, ob einem die Arbeit liegt. Handwerk hat Zukunft, wir verdienen gut und haben sichere Jobs.",
+   "t": "Ein Praktikum zu machen. Dann sieht man, ob einem die Arbeit liegt. Handwerk hat Zukunft, wir verdienen gut und haben sichere Jobs.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +895,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken.",
+   "t": "Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken, wir antworten dann ab dem fünfundzwanzigsten August.",
    "p": 2,
    "r": "-8%"
   },
@@ -907,13 +907,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken.",
+   "t": "Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken, wir antworten dann ab dem fünfundzwanzigsten August.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage für alle Mitarbeiter. Das Mittagessen in der Kantine ist heute wegen einer Betriebsversammlung schon um halb zwölf. Die Versammlung beginnt um dreizehn Uhr im großen Saal.",
+   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
    "p": 2,
    "r": "-8%"
   },
@@ -925,13 +925,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage für alle Mitarbeiter. Das Mittagessen in der Kantine ist heute wegen einer Betriebsversammlung schon um halb zwölf. Die Versammlung beginnt um dreizehn Uhr im großen Saal.",
+   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie den Termin telefonisch.",
+   "t": "Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie diesen Termin telefonisch bis morgen zwölf Uhr, sonst vergeben wir ihn an andere Kunden.",
    "p": 2,
    "r": "-8%"
   },
@@ -943,13 +943,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie den Termin telefonisch.",
+   "t": "Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie diesen Termin telefonisch bis morgen zwölf Uhr, sonst vergeben wir ihn an andere Kunden.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Willkommen zum Seminar „Erfolgreich bewerben“. Heute lernen Sie, wie man einen Lebenslauf schreibt. Nach der Pause üben wir Vorstellungsgespräche. Bitte schalten Sie Ihre Handys aus.",
+   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
    "p": 2,
    "r": "-8%"
   },
@@ -961,13 +961,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Willkommen zum Seminar „Erfolgreich bewerben“. Heute lernen Sie, wie man einen Lebenslauf schreibt. Nach der Pause üben wir Vorstellungsgespräche. Bitte schalten Sie Ihre Handys aus.",
+   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück.",
+   "t": "Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück, ich bin bis siebzehn Uhr im Büro.",
    "p": 2,
    "r": "-8%"
   },
@@ -979,7 +979,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück.",
+   "t": "Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück, ich bin bis siebzehn Uhr im Büro.",
    "p": 7,
    "r": "-8%"
   },

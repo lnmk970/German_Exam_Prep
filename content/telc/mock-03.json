@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin hat durch ihr neues Einkaufsverhalten weniger Plastikmüll.",
+     "q": "Die Sprecherin verursacht wenig Verpackungsabfall.",
      "tf": true,
      "key": "r",
-     "why": "Lose Ware, fast kein Plastikmüll mehr."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher trennt seinen Müll nicht.",
+     "q": "Der Sprecher bemüht sich sehr, Abfall zu vermeiden.",
      "tf": true,
      "key": "f",
-     "why": "Er trennt zwar den Müll, macht aber nicht mehr."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin ist verärgert über die Kontrollen ihrer Kinder.",
+     "q": "Die Eltern haben ihre Kinder auf das Thema aufmerksam gemacht.",
      "tf": true,
      "key": "f",
-     "why": "Es nervt manchmal, aber sie ist stolz."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher fährt mit dem Rad, weil es ihn weniger kostet und fit hält.",
+     "q": "Der Sprecher benutzt kein Auto mehr.",
      "tf": true,
      "key": "r",
-     "why": "Billiger und fitter."
+     "why": "Richtig."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin meint, dass die Bürger das Müllproblem allein lösen können.",
+     "q": "Die Sprecherin glaubt, dass jeder Einzelne das Problem lösen kann.",
      "tf": true,
      "key": "f",
-     "why": "Sie sagt das Gegenteil: Die Politik muss mehr tun."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Frau Hartmann glaubt, dass die Stadt in fünf Jahren völlig ohne Müll sein wird.",
+     "q": "Die Initiative will erreichen, dass es in der Stadt überhaupt keinen Abfall mehr gibt.",
      "tf": true,
      "key": "f",
-     "why": "Sie will den Restmüll halbieren."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h7",
-     "q": "Die Initiative hat fast achthundert freiwillige Helfer.",
+     "q": "Sie hat früher in einem Betrieb gearbeitet, der Verpackungen herstellt.",
      "tf": true,
      "key": "r",
-     "why": "Fast achthundert Freiwillige."
+     "why": "Richtig."
     },
     {
      "id": "h8",
-     "q": "Frau Hartmann hat ihre Idee in der Schule bekommen.",
+     "q": "Die Freiwilligen treffen sich jeden Tag im Park.",
      "tf": true,
      "key": "f",
-     "why": "Sie arbeitete in einer Verpackungsfirma."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h9",
-     "q": "In den Reparatur-Cafés werden kaputte Geräte gemeinsam repariert.",
+     "q": "Die Stadtverwaltung unterstützt die Initiative.",
      "tf": true,
      "key": "r",
-     "why": "Gemeinsam reparieren statt wegwerfen."
+     "why": "Richtig."
     },
     {
      "id": "h10",
-     "q": "Die Stadt hat die Initiative bisher nicht unterstützt.",
+     "q": "Nach ihrer Meinung ist Recycling der wichtigste Schritt.",
      "tf": true,
      "key": "f",
-     "why": "Sie stellt einen Raum und zahlt die Miete."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h11",
-     "q": "Die Stadt will sofort ein Pfandsystem für Einwegbecher einführen.",
+     "q": "Mehrwegbecher gibt es nur in wenigen Cafés.",
      "tf": true,
      "key": "f",
-     "why": "Sie will erst eine Studie abwarten."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h12",
-     "q": "Frau Hartmann empfiehlt, zuerst weniger zu kaufen.",
+     "q": "Die Initiative hat ein Geschäft ohne Verpackungen gegründet.",
      "tf": true,
      "key": "r",
-     "why": "Das wirkt am stärksten."
+     "why": "Richtig."
     },
     {
      "id": "h13",
-     "q": "In Aachen werden täglich etwa zweitausend Einwegbecher weggeworfen.",
+     "q": "Das Geschäft hat Schwierigkeiten, Kunden zu finden.",
      "tf": true,
      "key": "f",
-     "why": "Über zwanzigtausend."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Der verpackungsfreie Laden hat inzwischen Erfolg.",
+     "q": "Sie hofft auf mehr Unterricht zu diesem Thema in Schulen.",
      "tf": true,
      "key": "r",
-     "why": "Er läuft gut, drei Mitarbeiter."
+     "why": "Richtig."
     },
     {
      "id": "h15",
-     "q": "Frau Hartmann möchte das Thema aus den Schulen heraushalten.",
+     "q": "Sie möchte vor allem Erwachsene erreichen und nicht Kinder.",
      "tf": true,
      "key": "f",
-     "why": "Sie wünscht sich, dass Schulen es stärker aufgreifen."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Die Praxis ist morgen geöffnet.",
+     "q": "Das Büro liegt noch immer in der Marktstraße.",
      "tf": true,
      "key": "f",
-     "why": "Sie bleibt morgen geschlossen."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Im Schwimmbad können Kinder heute schwimmen.",
+     "q": "Ein Teil des Bades ist für kurze Zeit nicht benutzbar.",
      "tf": true,
      "key": "r",
-     "why": "Das Kinderbecken ist geöffnet."
+     "why": "Richtig."
     },
     {
      "id": "h18",
-     "q": "Am Sonntag wird es wärmer als heute.",
+     "q": "Morgen wird es nicht regnen.",
      "tf": true,
      "key": "r",
-     "why": "Bis zu achtzehn Grad statt zwölf."
+     "why": "Richtig."
     },
     {
      "id": "h19",
-     "q": "Man kann die Theaterkarten im Voraus kaufen.",
+     "q": "Studenten zahlen den gleichen Preis wie alle anderen.",
      "tf": true,
      "key": "f",
-     "why": "Nur Abendkasse."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h20",
-     "q": "Das Angebot gilt auch für Bestellungen im Internet.",
+     "q": "Auch Sportjacken sind um zwanzig Prozent billiger.",
      "tf": true,
      "key": "f",
-     "why": "Nicht für Online-Bestellungen."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich kaufe seit zwei Jahren nur noch lose Ware auf dem Markt. Eigentlich war das am Anfang umständlich, weil ich ständig Stoffbeutel mitnehmen musste. Aber heute habe ich fast keinen Plastikmüll mehr, und das Gemüse schmeckt auch besser.</p>"
+     "<p>Ich kaufe seit zwei Jahren nur noch lose Ware auf dem Markt oder im Unverpacktladen. Das ist ein bisschen teurer und dauert länger, aber ich habe kaum noch Plastikmüll. Meine gelbe Tonne ist fast immer leer.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Mir ist das alles zu viel Aufwand. Ich trenne zwar den Müll, aber mehr mache ich nicht. Ich arbeite zehn Stunden am Tag, und wenn ich abends nach Hause komme, will ich nicht noch überlegen, in welche Tonne die Verpackung gehört.</p>"
+     "<p>Mir ist das alles zu viel Aufwand. Ich trenne zwar den Müll, aber mehr mache ich nicht. Ich habe Arbeit und Familie, da habe ich keine Lust, jede Verpackung zu prüfen. Außerdem ist der Unterschied sowieso klein.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Bei uns in der Familie sind die Kinder die Fachleute. Seit sie in der Schule über Müll gesprochen haben, kontrollieren sie jeden Abend, ob wir richtig trennen. Manchmal nervt das, aber ich bin eigentlich stolz auf sie.</p>"
+     "<p>Bei uns in der Familie sind die Kinder die Fachleute. Sie lernen in der Schule viel über Umwelt und erklären uns, was wir falsch machen. Seitdem benutzen wir Stoffbeutel und kaufen weniger Fertiggerichte.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich fahre jeden Tag mit dem Rad zur Arbeit und habe mein Auto verkauft. Ich vermisse es überhaupt nicht. Es ist billiger, und ich bin viel fitter. Nur im Winter ist es manchmal unangenehm, wenn es regnet.</p>"
+     "<p>Ich fahre jeden Tag mit dem Rad zur Arbeit und habe mein Auto verkauft. Im Winter ist das manchmal anstrengend, aber ich spare Geld und bleibe fit. Ich vermisse das Auto nur selten, zum Beispiel beim Großeinkauf.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Ich finde, die Politik muss mehr tun. Wir Bürger können nicht alles allein lösen. Wenn Verpackungen teurer wären, würden die Firmen weniger davon produzieren. Mit freiwilligen Tipps ändert sich nichts.</p>"
+     "<p>Ich finde, die Politik muss mehr tun. Wir Bürger können nur wenig ändern, solange Firmen so viel Plastik herstellen. Es müsste Verbote geben und höhere Preise für Einwegverpackungen.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Eine Stadt ohne Müll? Frau Hartmann von der Umweltinitiative „Sauberes Aachen“",
-   "html": "<div class=\"text\"><p>Frau Hartmann, Ihre Initiative will die Stadt in fünf Jahren müllfrei machen. Ist das nicht ein bisschen zu optimistisch?</p><p>Müllfrei im Sinne von „null Abfall“ wird es wohl nie geben. Unser Ziel ist, den Restmüll zu halbieren. Dafür haben wir im Moment fast achthundert Freiwillige.</p><p>Wie sind Sie auf die Idee gekommen?</p><p>Ich habe nach dem Studium zwei Jahre in einer Verpackungsfirma gearbeitet und gesehen, wie viel unnötiges Material produziert wird. Das hat mich nicht mehr losgelassen.</p><p>Was machen Ihre Freiwilligen konkret?</p><p>Jedes Wochenende sammeln wir Müll im Stadtpark. Außerdem organisieren wir Reparatur-Cafés, in denen man kaputte Geräte nicht wegwirft, sondern gemeinsam repariert. Das ist sehr beliebt, vor allem bei älteren Leuten.</p><p>Und wie reagiert die Stadt?</p><p>Sehr offen. Die Stadt hat uns einen Raum zur Verfügung gestellt und zahlt die Miete. Beim Thema Pfand für Einwegbecher sind wir uns aber noch nicht einig. Die Stadt möchte erst die Ergebnisse einer Studie abwarten.</p><p>Was kann denn jeder Einzelne tun?</p><p>Als Erstes weniger kaufen. Das klingt banal, aber es wirkt am stärksten. Danach: Dinge reparieren, tauschen, leihen. Wer einen Bohrer nur zweimal im Jahr braucht, muss ihn nicht kaufen.</p><p>Haben Sie auch einen Tipp für den Alltag?</p><p>Ja, einen eigenen Becher mitnehmen. In Aachen werden täglich über zwanzigtausend Einwegbecher weggeworfen. Mit einem eigenen Becher bekommt man in vielen Cafés sogar zehn Cent Rabatt.</p><p>Was war Ihr größter Erfolg bisher?</p><p>Im letzten Herbst haben wir den ersten verpackungsfreien Laden der Stadt eröffnet. Anfangs hatten wir Zweifel, ob er sich trägt, aber er läuft inzwischen gut und beschäftigt drei Mitarbeiter.</p><p>Und was wünschen Sie sich für die Zukunft?</p><p>Dass Schulen das Thema stärker aufgreifen. Kinder sind die besten Botschafter, sie überzeugen ihre Eltern oft schneller als jede Kampagne.</p></div>"
+   "html": "<div class=\"text\"><p>Frau Hartmann, Ihre Initiative will die Stadt in fünf Jahren müllfrei machen. Ist das nicht unrealistisch?</p><p>Müllfrei im Sinne von „null Abfall“ wird es wohl nie geben. Aber wir wollen den Müll in der Stadt halbieren. Das ist ein Ziel, das man erreichen kann.</p><p>Wie sind Sie auf die Idee gekommen?</p><p>Ich habe nach dem Studium zwei Jahre in einer Verpackungsfirma gearbeitet. Dort habe ich gesehen, wie viel unnötig eingepackt wird. Irgendwann konnte ich das nicht mehr mit meinem Gewissen vereinbaren.</p><p>Was machen Ihre Freiwilligen konkret?</p><p>Jedes Wochenende sammeln wir Müll im Stadtpark. Außerdem geben wir Kurse in Schulen und organisieren einmal im Monat einen Tauschmarkt für gebrauchte Sachen.</p><p>Und wie reagiert die Stadt?</p><p>Sehr offen. Die Stadt hat uns einen Raum zur Verfügung gestellt und bezahlt einen Teil der Kosten. Der Bürgermeister war sogar schon bei einer Aktion dabei.</p><p>Was kann denn jeder Einzelne tun?</p><p>Als Erstes weniger kaufen. Das klingt banal, aber der meiste Müll entsteht gar nicht erst, wenn man etwas nicht kauft. Danach kommt das Reparieren und erst am Ende das Recyceln.</p><p>Haben Sie auch einen Tipp für den Alltag?</p><p>Ja, einen eigenen Becher mitnehmen. In Aachen werden jeden Tag Zehntausende Kaffeebecher weggeworfen. Mit einem Mehrwegbecher bekommt man in vielen Cafés außerdem zwanzig Cent Rabatt.</p><p>Was war Ihr größter Erfolg bisher?</p><p>Im letzten Herbst haben wir den ersten verpackungsfreien Laden der Stadt eröffnet. Er läuft besser, als wir gedacht haben, und beschäftigt inzwischen drei Mitarbeiter.</p><p>Und was wünschen Sie sich für die Zukunft?</p><p>Dass Schulen das Thema stärker aufgreifen. Kinder lernen schnell und tragen es in die Familien. Außerdem hoffe ich, dass bald alle großen Supermärkte Mehrwegsysteme anbieten.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Hier ist die Praxis Doktor Lenz. Wegen eines Todesfalls in der Familie bleibt die Praxis morgen geschlossen. In dringenden Fällen wenden Sie sich bitte an den Notdienst unter der Nummer eins sechs vier eins sieben. Ab übermorgen sind wir wieder für Sie da.</p>"
+     "<p>Hier ist das Reisebüro Sonnenschein. Unsere Filiale in der Marktstraße ist umgezogen und befindet sich jetzt in der Schillerstraße, direkt neben der Post. Die Öffnungszeiten sind unverändert: Montag bis Freitag von neun bis achtzehn Uhr.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist wegen einer technischen Störung bis fünfzehn Uhr gesperrt. Das Kinderbecken und die Sauna sind geöffnet. Eintrittskarten behalten ihre Gültigkeit.</p>"
+     "<p>Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Und nun das Wetter. Heute zieht von Westen Regen auf, die Temperaturen erreichen höchstens zwölf Grad. Am Wochenende wird es freundlicher, am Sonntag sind bis zu achtzehn Grad möglich.</p>"
+     "<p>Und nun das Wetter. Heute zieht von Westen Regen auf, im Laufe des Nachmittags erreicht er die Mitte des Landes. Morgen wird es trocken, aber windig, bei Temperaturen um zwölf Grad.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Nachbar“. Karten gibt es an der Abendkasse für fünfzehn Euro, Studenten zahlen die Hälfte. Vorverkauf ist nicht möglich.</p>"
+     "<p>Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Willkommen bei Sport Meier. Nur diese Woche: Alle Laufschuhe zwanzig Prozent günstiger. Wer drei Paar Socken kauft, bekommt das vierte Paar gratis dazu. Das Angebot gilt nicht für Online-Bestellungen.</p>"
+     "<p>Willkommen bei Sport Meier. Nur diese Woche: Alle Laufschuhe sind um zwanzig Prozent reduziert, Sportjacken sogar um dreißig Prozent. Außerdem erhalten Sie beim Kauf von zwei Paar Schuhen eine Trinkflasche gratis.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich kaufe seit zwei Jahren nur noch lose Ware auf dem Markt. Eigentlich war das am Anfang umständlich, weil ich ständig Stoffbeutel mitnehmen musste. Aber heute habe ich fast keinen Plastikmüll mehr, und das Gemüse schmeckt auch besser.",
+   "t": "Ich kaufe seit zwei Jahren nur noch lose Ware auf dem Markt oder im Unverpacktladen. Das ist ein bisschen teurer und dauert länger, aber ich habe kaum noch Plastikmüll. Meine gelbe Tonne ist fast immer leer.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Mir ist das alles zu viel Aufwand. Ich trenne zwar den Müll, aber mehr mache ich nicht. Ich arbeite zehn Stunden am Tag, und wenn ich abends nach Hause komme, will ich nicht noch überlegen, in welche Tonne die Verpackung gehört.",
+   "t": "Mir ist das alles zu viel Aufwand. Ich trenne zwar den Müll, aber mehr mache ich nicht. Ich habe Arbeit und Familie, da habe ich keine Lust, jede Verpackung zu prüfen. Außerdem ist der Unterschied sowieso klein.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Bei uns in der Familie sind die Kinder die Fachleute. Seit sie in der Schule über Müll gesprochen haben, kontrollieren sie jeden Abend, ob wir richtig trennen. Manchmal nervt das, aber ich bin eigentlich stolz auf sie.",
+   "t": "Bei uns in der Familie sind die Kinder die Fachleute. Sie lernen in der Schule viel über Umwelt und erklären uns, was wir falsch machen. Seitdem benutzen wir Stoffbeutel und kaufen weniger Fertiggerichte.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich fahre jeden Tag mit dem Rad zur Arbeit und habe mein Auto verkauft. Ich vermisse es überhaupt nicht. Es ist billiger, und ich bin viel fitter. Nur im Winter ist es manchmal unangenehm, wenn es regnet.",
+   "t": "Ich fahre jeden Tag mit dem Rad zur Arbeit und habe mein Auto verkauft. Im Winter ist das manchmal anstrengend, aber ich spare Geld und bleibe fit. Ich vermisse das Auto nur selten, zum Beispiel beim Großeinkauf.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich finde, die Politik muss mehr tun. Wir Bürger können nicht alles allein lösen. Wenn Verpackungen teurer wären, würden die Firmen weniger davon produzieren. Mit freiwilligen Tipps ändert sich nichts.",
+   "t": "Ich finde, die Politik muss mehr tun. Wir Bürger können nur wenig ändern, solange Firmen so viel Plastik herstellen. Es müsste Verbote geben und höhere Preise für Einwegverpackungen.",
    "p": 7,
    "r": "-8%"
   },
@@ -703,13 +703,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Frau Hartmann, Ihre Initiative will die Stadt in fünf Jahren müllfrei machen. Ist das nicht ein bisschen zu optimistisch?",
+   "t": "Frau Hartmann, Ihre Initiative will die Stadt in fünf Jahren müllfrei machen. Ist das nicht unrealistisch?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Müllfrei im Sinne von „null Abfall“ wird es wohl nie geben. Unser Ziel ist, den Restmüll zu halbieren. Dafür haben wir im Moment fast achthundert Freiwillige.",
+   "t": "Müllfrei im Sinne von „null Abfall“ wird es wohl nie geben. Aber wir wollen den Müll in der Stadt halbieren. Das ist ein Ziel, das man erreichen kann.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -721,7 +721,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe nach dem Studium zwei Jahre in einer Verpackungsfirma gearbeitet und gesehen, wie viel unnötiges Material produziert wird. Das hat mich nicht mehr losgelassen.",
+   "t": "Ich habe nach dem Studium zwei Jahre in einer Verpackungsfirma gearbeitet. Dort habe ich gesehen, wie viel unnötig eingepackt wird. Irgendwann konnte ich das nicht mehr mit meinem Gewissen vereinbaren.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -733,7 +733,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Jedes Wochenende sammeln wir Müll im Stadtpark. Außerdem organisieren wir Reparatur-Cafés, in denen man kaputte Geräte nicht wegwirft, sondern gemeinsam repariert. Das ist sehr beliebt, vor allem bei älteren Leuten.",
+   "t": "Jedes Wochenende sammeln wir Müll im Stadtpark. Außerdem geben wir Kurse in Schulen und organisieren einmal im Monat einen Tauschmarkt für gebrauchte Sachen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -745,7 +745,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Sehr offen. Die Stadt hat uns einen Raum zur Verfügung gestellt und zahlt die Miete. Beim Thema Pfand für Einwegbecher sind wir uns aber noch nicht einig. Die Stadt möchte erst die Ergebnisse einer Studie abwarten.",
+   "t": "Sehr offen. Die Stadt hat uns einen Raum zur Verfügung gestellt und bezahlt einen Teil der Kosten. Der Bürgermeister war sogar schon bei einer Aktion dabei.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -757,7 +757,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Als Erstes weniger kaufen. Das klingt banal, aber es wirkt am stärksten. Danach: Dinge reparieren, tauschen, leihen. Wer einen Bohrer nur zweimal im Jahr braucht, muss ihn nicht kaufen.",
+   "t": "Als Erstes weniger kaufen. Das klingt banal, aber der meiste Müll entsteht gar nicht erst, wenn man etwas nicht kauft. Danach kommt das Reparieren und erst am Ende das Recyceln.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -769,7 +769,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ja, einen eigenen Becher mitnehmen. In Aachen werden täglich über zwanzigtausend Einwegbecher weggeworfen. Mit einem eigenen Becher bekommt man in vielen Cafés sogar zehn Cent Rabatt.",
+   "t": "Ja, einen eigenen Becher mitnehmen. In Aachen werden jeden Tag Zehntausende Kaffeebecher weggeworfen. Mit einem Mehrwegbecher bekommt man in vielen Cafés außerdem zwanzig Cent Rabatt.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -781,7 +781,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Im letzten Herbst haben wir den ersten verpackungsfreien Laden der Stadt eröffnet. Anfangs hatten wir Zweifel, ob er sich trägt, aber er läuft inzwischen gut und beschäftigt drei Mitarbeiter.",
+   "t": "Im letzten Herbst haben wir den ersten verpackungsfreien Laden der Stadt eröffnet. Er läuft besser, als wir gedacht haben, und beschäftigt inzwischen drei Mitarbeiter.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -793,7 +793,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Dass Schulen das Thema stärker aufgreifen. Kinder sind die besten Botschafter, sie überzeugen ihre Eltern oft schneller als jede Kampagne.",
+   "t": "Dass Schulen das Thema stärker aufgreifen. Kinder lernen schnell und tragen es in die Familien. Außerdem hoffe ich, dass bald alle großen Supermärkte Mehrwegsysteme anbieten.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -805,13 +805,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Frau Hartmann, Ihre Initiative will die Stadt in fünf Jahren müllfrei machen. Ist das nicht ein bisschen zu optimistisch?",
+   "t": "Frau Hartmann, Ihre Initiative will die Stadt in fünf Jahren müllfrei machen. Ist das nicht unrealistisch?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Müllfrei im Sinne von „null Abfall“ wird es wohl nie geben. Unser Ziel ist, den Restmüll zu halbieren. Dafür haben wir im Moment fast achthundert Freiwillige.",
+   "t": "Müllfrei im Sinne von „null Abfall“ wird es wohl nie geben. Aber wir wollen den Müll in der Stadt halbieren. Das ist ein Ziel, das man erreichen kann.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -823,7 +823,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe nach dem Studium zwei Jahre in einer Verpackungsfirma gearbeitet und gesehen, wie viel unnötiges Material produziert wird. Das hat mich nicht mehr losgelassen.",
+   "t": "Ich habe nach dem Studium zwei Jahre in einer Verpackungsfirma gearbeitet. Dort habe ich gesehen, wie viel unnötig eingepackt wird. Irgendwann konnte ich das nicht mehr mit meinem Gewissen vereinbaren.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -835,7 +835,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Jedes Wochenende sammeln wir Müll im Stadtpark. Außerdem organisieren wir Reparatur-Cafés, in denen man kaputte Geräte nicht wegwirft, sondern gemeinsam repariert. Das ist sehr beliebt, vor allem bei älteren Leuten.",
+   "t": "Jedes Wochenende sammeln wir Müll im Stadtpark. Außerdem geben wir Kurse in Schulen und organisieren einmal im Monat einen Tauschmarkt für gebrauchte Sachen.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -847,7 +847,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Sehr offen. Die Stadt hat uns einen Raum zur Verfügung gestellt und zahlt die Miete. Beim Thema Pfand für Einwegbecher sind wir uns aber noch nicht einig. Die Stadt möchte erst die Ergebnisse einer Studie abwarten.",
+   "t": "Sehr offen. Die Stadt hat uns einen Raum zur Verfügung gestellt und bezahlt einen Teil der Kosten. Der Bürgermeister war sogar schon bei einer Aktion dabei.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -859,7 +859,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Als Erstes weniger kaufen. Das klingt banal, aber es wirkt am stärksten. Danach: Dinge reparieren, tauschen, leihen. Wer einen Bohrer nur zweimal im Jahr braucht, muss ihn nicht kaufen.",
+   "t": "Als Erstes weniger kaufen. Das klingt banal, aber der meiste Müll entsteht gar nicht erst, wenn man etwas nicht kauft. Danach kommt das Reparieren und erst am Ende das Recyceln.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -871,7 +871,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ja, einen eigenen Becher mitnehmen. In Aachen werden täglich über zwanzigtausend Einwegbecher weggeworfen. Mit einem eigenen Becher bekommt man in vielen Cafés sogar zehn Cent Rabatt.",
+   "t": "Ja, einen eigenen Becher mitnehmen. In Aachen werden jeden Tag Zehntausende Kaffeebecher weggeworfen. Mit einem Mehrwegbecher bekommt man in vielen Cafés außerdem zwanzig Cent Rabatt.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -883,7 +883,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Im letzten Herbst haben wir den ersten verpackungsfreien Laden der Stadt eröffnet. Anfangs hatten wir Zweifel, ob er sich trägt, aber er läuft inzwischen gut und beschäftigt drei Mitarbeiter.",
+   "t": "Im letzten Herbst haben wir den ersten verpackungsfreien Laden der Stadt eröffnet. Er läuft besser, als wir gedacht haben, und beschäftigt inzwischen drei Mitarbeiter.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +895,7 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Dass Schulen das Thema stärker aufgreifen. Kinder sind die besten Botschafter, sie überzeugen ihre Eltern oft schneller als jede Kampagne.",
+   "t": "Dass Schulen das Thema stärker aufgreifen. Kinder lernen schnell und tragen es in die Familien. Außerdem hoffe ich, dass bald alle großen Supermärkte Mehrwegsysteme anbieten.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -919,7 +919,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Praxis Doktor Lenz. Wegen eines Todesfalls in der Familie bleibt die Praxis morgen geschlossen. In dringenden Fällen wenden Sie sich bitte an den Notdienst unter der Nummer eins sechs vier eins sieben. Ab übermorgen sind wir wieder für Sie da.",
+   "t": "Hier ist das Reisebüro Sonnenschein. Unsere Filiale in der Marktstraße ist umgezogen und befindet sich jetzt in der Schillerstraße, direkt neben der Post. Die Öffnungszeiten sind unverändert: Montag bis Freitag von neun bis achtzehn Uhr.",
    "p": 2,
    "r": "-8%"
   },
@@ -931,13 +931,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Praxis Doktor Lenz. Wegen eines Todesfalls in der Familie bleibt die Praxis morgen geschlossen. In dringenden Fällen wenden Sie sich bitte an den Notdienst unter der Nummer eins sechs vier eins sieben. Ab übermorgen sind wir wieder für Sie da.",
+   "t": "Hier ist das Reisebüro Sonnenschein. Unsere Filiale in der Marktstraße ist umgezogen und befindet sich jetzt in der Schillerstraße, direkt neben der Post. Die Öffnungszeiten sind unverändert: Montag bis Freitag von neun bis achtzehn Uhr.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist wegen einer technischen Störung bis fünfzehn Uhr gesperrt. Das Kinderbecken und die Sauna sind geöffnet. Eintrittskarten behalten ihre Gültigkeit.",
+   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.",
    "p": 2,
    "r": "-8%"
   },
@@ -949,13 +949,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist wegen einer technischen Störung bis fünfzehn Uhr gesperrt. Das Kinderbecken und die Sauna sind geöffnet. Eintrittskarten behalten ihre Gültigkeit.",
+   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun das Wetter. Heute zieht von Westen Regen auf, die Temperaturen erreichen höchstens zwölf Grad. Am Wochenende wird es freundlicher, am Sonntag sind bis zu achtzehn Grad möglich.",
+   "t": "Und nun das Wetter. Heute zieht von Westen Regen auf, im Laufe des Nachmittags erreicht er die Mitte des Landes. Morgen wird es trocken, aber windig, bei Temperaturen um zwölf Grad.",
    "p": 2,
    "r": "-8%"
   },
@@ -967,13 +967,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Und nun das Wetter. Heute zieht von Westen Regen auf, die Temperaturen erreichen höchstens zwölf Grad. Am Wochenende wird es freundlicher, am Sonntag sind bis zu achtzehn Grad möglich.",
+   "t": "Und nun das Wetter. Heute zieht von Westen Regen auf, im Laufe des Nachmittags erreicht er die Mitte des Landes. Morgen wird es trocken, aber windig, bei Temperaturen um zwölf Grad.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Nachbar“. Karten gibt es an der Abendkasse für fünfzehn Euro, Studenten zahlen die Hälfte. Vorverkauf ist nicht möglich.",
+   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.",
    "p": 2,
    "r": "-8%"
   },
@@ -985,13 +985,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Nachbar“. Karten gibt es an der Abendkasse für fünfzehn Euro, Studenten zahlen die Hälfte. Vorverkauf ist nicht möglich.",
+   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen bei Sport Meier. Nur diese Woche: Alle Laufschuhe zwanzig Prozent günstiger. Wer drei Paar Socken kauft, bekommt das vierte Paar gratis dazu. Das Angebot gilt nicht für Online-Bestellungen.",
+   "t": "Willkommen bei Sport Meier. Nur diese Woche: Alle Laufschuhe sind um zwanzig Prozent reduziert, Sportjacken sogar um dreißig Prozent. Außerdem erhalten Sie beim Kauf von zwei Paar Schuhen eine Trinkflasche gratis.",
    "p": 2,
    "r": "-8%"
   },
@@ -1003,7 +1003,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Willkommen bei Sport Meier. Nur diese Woche: Alle Laufschuhe zwanzig Prozent günstiger. Wer drei Paar Socken kauft, bekommt das vierte Paar gratis dazu. Das Angebot gilt nicht für Online-Bestellungen.",
+   "t": "Willkommen bei Sport Meier. Nur diese Woche: Alle Laufschuhe sind um zwanzig Prozent reduziert, Sportjacken sogar um dreißig Prozent. Außerdem erhalten Sie beim Kauf von zwei Paar Schuhen eine Trinkflasche gratis.",
    "p": 7,
    "r": "-8%"
   },

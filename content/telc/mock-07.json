@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin vermisst im Homeoffice manchmal ihre Kollegen.",
+     "q": "Der Sprecher arbeitet gern zu Hause.",
      "tf": true,
      "key": "r",
-     "why": "Die Kollegen fehlen manchmal."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher arbeitet immer am selben Ort.",
+     "q": "Der Sprecher würde gern im Homeoffice arbeiten.",
      "tf": true,
      "key": "f",
-     "why": "Jeden Tag woanders."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin verdient in der neuen Firma weniger.",
+     "q": "Der Sprecher bekommt in der neuen Firma mehr Geld.",
      "tf": true,
      "key": "f",
-     "why": "Besser bezahlt."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher bereut seine Selbstständigkeit.",
+     "q": "Der Sprecher hat jeden Monat gleich viele Aufträge.",
      "tf": true,
      "key": "f",
-     "why": "Er möchte nicht zurück zu Chefs."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin würde für mehr Geld die Arbeitsstelle wechseln.",
+     "q": "Die Sprecherin findet ein hohes Gehalt am wichtigsten.",
      "tf": true,
      "key": "f",
-     "why": "Ein gutes Team ist wichtiger."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Herr Weber erwartet, dass Lücken im Lebenslauf erklärt werden.",
+     "q": "Bei einer Bewerbung ist eine Lücke im Lebenslauf nicht automatisch ein Nachteil.",
      "tf": true,
      "key": "r",
-     "why": "Nicht schlimm, aber erklären."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Das Anschreiben sollte mehr als eine Seite lang sein.",
+     "q": "Rechtschreibfehler sind für ihn kein Problem.",
      "tf": true,
      "key": "f",
-     "why": "Eine Seite, nicht mehr."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h8",
-     "q": "Herr Weber erkennt Standardtexte schnell.",
+     "q": "Das Anschreiben soll nicht länger als eine Seite sein.",
      "tf": true,
      "key": "r",
-     "why": "Er erkennt sie sofort."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Das Vorstellungsgespräch dauert zwei Stunden.",
+     "q": "Man sollte alle Zeugnisse beilegen, die man hat.",
      "tf": true,
      "key": "f",
-     "why": "Etwa eine Stunde, die Probearbeit zwei."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h10",
-     "q": "Am Ende des Gesprächs gibt es eine Probearbeit.",
+     "q": "Wer sich vorher informiert, wirkt besser.",
      "tf": true,
      "key": "r",
-     "why": "Zwei Stunden Probearbeit."
+     "why": "Richtig."
     },
     {
      "id": "h11",
-     "q": "Ein häufiger Fehler der Bewerber ist, zu spät zu kommen.",
+     "q": "Er will mit seinen Fragen auch Schwächen kennenlernen.",
      "tf": true,
      "key": "r",
-     "why": "Leider häufig."
+     "why": "Richtig."
     },
     {
      "id": "h12",
-     "q": "Fragen zum Team gefallen Herrn Weber nicht.",
+     "q": "Der Kuchen hat dem Bewerber geholfen, die Stelle zu bekommen.",
      "tf": true,
      "key": "f",
-     "why": "Fragen überzeugen ihn."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h13",
-     "q": "Herr Weber stellt nur Bewerber mit sehr guten Noten ein.",
+     "q": "Bei einer Absage meldet sich die Firma nicht.",
      "tf": true,
      "key": "f",
-     "why": "Auch durchschnittliche Noten, wenn Motivation da ist."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Die Bewerber erfahren innerhalb einer Woche das Ergebnis.",
+     "q": "Er empfiehlt Berufsanfängern, Praktika zu machen.",
      "tf": true,
      "key": "r",
-     "why": "Innerhalb einer Woche."
+     "why": "Richtig."
     },
     {
      "id": "h15",
-     "q": "Der Betrieb bezahlt keine Sprachkurse für ausländische Mitarbeiter.",
+     "q": "Über das Gehalt kann man erst nach drei Jahren sprechen.",
      "tf": true,
      "key": "f",
-     "why": "Er bezahlt sogar einen Sprachkurs."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Der Termin bei der Agentur findet am Mittwoch statt.",
+     "q": "Der Termin ist im selben Raum wie zuletzt.",
      "tf": true,
      "key": "f",
-     "why": "Verschoben auf Donnerstag."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Die Betriebsversammlung beginnt eine Stunde früher als geplant.",
+     "q": "Die Beschäftigten sollen vorübergehend nach draußen gehen.",
      "tf": true,
      "key": "r",
-     "why": "Vierzehn statt fünfzehn Uhr."
+     "why": "Richtig."
     },
     {
      "id": "h18",
-     "q": "Im Bürocenter sind Internet und Kaffee im Preis enthalten.",
+     "q": "Man bezahlt dort nach Nutzungsdauer.",
      "tf": true,
      "key": "r",
-     "why": "Inklusive."
+     "why": "Richtig."
     },
     {
      "id": "h19",
-     "q": "Frau Lange ist die ganze Woche im Urlaub.",
+     "q": "Frau Lange ist bis Freitag nicht im Büro.",
      "tf": true,
      "key": "f",
-     "why": "Zwei Tage Fortbildung."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h20",
-     "q": "Die Straßenbahnen fahren morgen nicht.",
+     "q": "Alle Busse fahren wie gewohnt.",
      "tf": true,
      "key": "f",
-     "why": "Nicht betroffen."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich arbeite seit drei Jahren im Homeoffice und möchte nicht mehr ins Büro. Ich spare zwei Stunden Fahrt pro Tag und kann mir meine Zeit besser einteilen. Nur die Kollegen fehlen mir manchmal.</p>"
+     "<p>Ich arbeite seit drei Jahren im Homeoffice und möchte nie wieder ins Büro. Ich spare die Zeit für den Weg und kann mir meine Arbeit einteilen. Nur manchmal vermisse ich die Kollegen.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich arbeite auf Baustellen, jeden Tag woanders. Das gefällt mir, weil es nie langweilig wird, aber im Winter ist es hart.</p>"
+     "<p>Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich bin den ganzen Tag bei Kunden unterwegs. Das gefällt mir, aber die Arbeit ist körperlich anstrengend, und im Winter ist es oft kalt.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich wechsle gerade den Job. In meiner alten Firma gab es keine Aufstiegsmöglichkeiten, und ich habe nach vier Jahren immer noch dasselbe verdient. Die neue Stelle ist besser bezahlt, aber der Weg ist länger.</p>"
+     "<p>Ich wechsle gerade den Job. In meiner alten Firma gab es keine Perspektive, mein Chef hat mich nie gelobt. Die neue Stelle bringt weniger Gehalt, aber dafür mehr Verantwortung.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich bin selbstständig als Grafiker. Ich verdiene nicht immer gleich viel, aber ich entscheide selbst, was ich mache. Den Stress mit Chefs möchte ich nicht mehr zurück.</p>"
+     "<p>Ich bin selbstständig als Grafiker. Ich verdiene nicht schlecht, aber die Aufträge schwanken. In manchen Monaten habe ich kaum Zeit, in anderen fast nichts zu tun. Eine feste Stelle wäre sicherer, aber ich bin lieber mein eigener Chef.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Für mich ist ein gutes Team wichtiger als das Gehalt. Ich arbeite in einer Bäckerei, wir verstehen uns alle sehr gut. Ich hatte früher mehr Geld, aber auch eine schlechte Stimmung.</p>"
+     "<p>Für mich ist ein gutes Team wichtiger als das Gehalt. In meiner letzten Firma habe ich viel verdient, aber die Stimmung war schlecht. Jetzt verdiene ich weniger, gehe aber gern jeden Morgen zur Arbeit.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Bewerbung und Vorstellungsgespräch. Herr Weber, Personalleiter eines Handwerksbetriebs",
-   "html": "<div class=\"text\"><p>Herr Weber, Sie lesen jede Woche viele Bewerbungen. Was ist Ihnen am wichtigsten?</p><p>Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücken sehe, ist das nicht schlimm, aber man muss es erklären. Und Tippfehler im Anschreiben sind für mich ein schlechtes Zeichen.</p><p>Wie lang sollte ein Anschreiben sein?</p><p>Eine Seite, nicht mehr. Ich möchte wissen, warum jemand gerade bei uns arbeiten will. Standardtexte erkenne ich sofort, die wirken uninteressiert.</p><p>Wie läuft ein Vorstellungsgespräch bei Ihnen ab?</p><p>Es dauert etwa eine Stunde. Zuerst stelle ich den Betrieb vor, dann darf der Bewerber über sich erzählen. Am Schluss gibt es immer eine Probearbeit von zwei Stunden, damit wir sehen, wie jemand wirklich arbeitet.</p><p>Welche Fehler machen Bewerber am häufigsten?</p><p>Zu spät kommen, das ist leider häufig. Und manche haben sich vorher nicht informiert und wissen nicht, was wir überhaupt machen. Das merkt man sofort.</p><p>Und was überzeugt Sie?</p><p>Wenn jemand Fragen stellt. Zum Beispiel nach dem Team oder nach Weiterbildung. Dann sehe ich, dass es ihm ernst ist. Wer nur nach Urlaub und Gehalt fragt, hat es schwerer.</p><p>Wie wichtig sind Zeugnisse?</p><p>Sie sind eine Grundlage, aber nicht alles. Ich nehme auch Leute mit durchschnittlichen Noten, wenn sie Motivation zeigen. Ein guter Handwerker braucht vor allem praktisches Geschick.</p><p>Wie schnell melden Sie sich nach dem Gespräch?</p><p>Innerhalb von einer Woche. Das ist mir wichtig, weil Warten für Bewerber unangenehm ist. Auch Absagen bekommen eine persönliche Antwort, nicht nur eine Standard-E-Mail.</p><p>Haben Sie einen Rat für Menschen, die aus dem Ausland kommen?</p><p>Ja: Nicht entmutigen lassen. Wenn die Deutschkenntnisse noch nicht perfekt sind, aber die Fachkenntnisse stimmen, bilden wir gern weiter. Wir bezahlen sogar einen Sprachkurs.</p></div>"
+   "html": "<div class=\"text\"><p>Herr Weber, Sie lesen jede Woche viele Bewerbungen. Was ist Ihnen am wichtigsten?</p><p>Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen.</p><p>Wie lang sollte eine Bewerbung sein?</p><p>Ein Anschreiben, eine Seite, dazu ein Lebenslauf mit zwei Seiten. Mehr liest niemand. Wichtig sind Zeugnisse und Nachweise, aber bitte nur die relevanten.</p><p>Und das Vorstellungsgespräch?</p><p>Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck.</p><p>Welche Fragen stellen Sie?</p><p>Warum diese Stelle, warum unsere Firma, wo sehen Sie sich in fünf Jahren? Und ich frage nach Schwächen: Was können Sie nicht so gut? Da hört man, ob jemand ehrlich ist.</p><p>Was war Ihre seltsamste Bewerbung?</p><p>Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben.</p><p>Wie lange dauert der Prozess?</p><p>Von der Anzeige bis zur Zusage im Durchschnitt sechs Wochen. Wir antworten aber immer, auch bei Absagen. Das ist uns wichtig.</p><p>Was raten Sie Berufsanfängern?</p><p>Ein Praktikum, am besten mehrere. Und keine Angst vor dem Gehalt: Nach der Probezeit kann man verhandeln.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Hier ist die Agentur für Arbeit. Ihr Termin am Mittwoch um zehn Uhr wurde verschoben. Der neue Termin ist am Donnerstag um vierzehn Uhr dreißig im Zimmer zweihundertzwölf. Bitte bringen Sie Ihre Unterlagen mit.</p>"
+     "<p>Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage der Firma Technik Müller: Die Betriebsversammlung findet nicht um fünfzehn, sondern schon um vierzehn Uhr statt. Treffpunkt ist die Kantine. Die Teilnahme ist für alle Mitarbeiter verpflichtend.</p>"
+     "<p>Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Das Bürocenter Nord bietet ab sofort Arbeitsplätze zum Mieten an. Ein Platz kostet hundertachtzig Euro im Monat, Kaffee und Internet sind inklusive. Besichtigungen sind täglich möglich.</p>"
+     "<p>Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Hier ist die Mailbox von Frau Lange. Ich bin heute und morgen auf einer Fortbildung und lese meine Mails nur abends. Für dringende Fragen erreichen Sie meine Kollegin Frau Braun.</p>"
+     "<p>Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Liebe Fahrgäste, wegen eines Streiks fahren morgen alle Busse nur im Stundentakt. Die Straßenbahnen sind nicht betroffen. Nutzen Sie bitte wenn möglich die Bahn.</p>"
+     "<p>Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich arbeite seit drei Jahren im Homeoffice und möchte nicht mehr ins Büro. Ich spare zwei Stunden Fahrt pro Tag und kann mir meine Zeit besser einteilen. Nur die Kollegen fehlen mir manchmal.",
+   "t": "Ich arbeite seit drei Jahren im Homeoffice und möchte nie wieder ins Büro. Ich spare die Zeit für den Weg und kann mir meine Arbeit einteilen. Nur manchmal vermisse ich die Kollegen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich arbeite auf Baustellen, jeden Tag woanders. Das gefällt mir, weil es nie langweilig wird, aber im Winter ist es hart.",
+   "t": "Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich bin den ganzen Tag bei Kunden unterwegs. Das gefällt mir, aber die Arbeit ist körperlich anstrengend, und im Winter ist es oft kalt.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich wechsle gerade den Job. In meiner alten Firma gab es keine Aufstiegsmöglichkeiten, und ich habe nach vier Jahren immer noch dasselbe verdient. Die neue Stelle ist besser bezahlt, aber der Weg ist länger.",
+   "t": "Ich wechsle gerade den Job. In meiner alten Firma gab es keine Perspektive, mein Chef hat mich nie gelobt. Die neue Stelle bringt weniger Gehalt, aber dafür mehr Verantwortung.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich bin selbstständig als Grafiker. Ich verdiene nicht immer gleich viel, aber ich entscheide selbst, was ich mache. Den Stress mit Chefs möchte ich nicht mehr zurück.",
+   "t": "Ich bin selbstständig als Grafiker. Ich verdiene nicht schlecht, aber die Aufträge schwanken. In manchen Monaten habe ich kaum Zeit, in anderen fast nichts zu tun. Eine feste Stelle wäre sicherer, aber ich bin lieber mein eigener Chef.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Für mich ist ein gutes Team wichtiger als das Gehalt. Ich arbeite in einer Bäckerei, wir verstehen uns alle sehr gut. Ich hatte früher mehr Geld, aber auch eine schlechte Stimmung.",
+   "t": "Für mich ist ein gutes Team wichtiger als das Gehalt. In meiner letzten Firma habe ich viel verdient, aber die Stimmung war schlecht. Jetzt verdiene ich weniger, gehe aber gern jeden Morgen zur Arbeit.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,91 +709,79 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücken sehe, ist das nicht schlimm, aber man muss es erklären. Und Tippfehler im Anschreiben sind für mich ein schlechtes Zeichen.",
+   "t": "Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lang sollte ein Anschreiben sein?",
+   "t": "Wie lang sollte eine Bewerbung sein?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Eine Seite, nicht mehr. Ich möchte wissen, warum jemand gerade bei uns arbeiten will. Standardtexte erkenne ich sofort, die wirken uninteressiert.",
+   "t": "Ein Anschreiben, eine Seite, dazu ein Lebenslauf mit zwei Seiten. Mehr liest niemand. Wichtig sind Zeugnisse und Nachweise, aber bitte nur die relevanten.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie läuft ein Vorstellungsgespräch bei Ihnen ab?",
+   "t": "Und das Vorstellungsgespräch?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Es dauert etwa eine Stunde. Zuerst stelle ich den Betrieb vor, dann darf der Bewerber über sich erzählen. Am Schluss gibt es immer eine Probearbeit von zwei Stunden, damit wir sehen, wie jemand wirklich arbeitet.",
+   "t": "Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Welche Fehler machen Bewerber am häufigsten?",
+   "t": "Welche Fragen stellen Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Zu spät kommen, das ist leider häufig. Und manche haben sich vorher nicht informiert und wissen nicht, was wir überhaupt machen. Das merkt man sofort.",
+   "t": "Warum diese Stelle, warum unsere Firma, wo sehen Sie sich in fünf Jahren? Und ich frage nach Schwächen: Was können Sie nicht so gut? Da hört man, ob jemand ehrlich ist.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was überzeugt Sie?",
+   "t": "Was war Ihre seltsamste Bewerbung?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Wenn jemand Fragen stellt. Zum Beispiel nach dem Team oder nach Weiterbildung. Dann sehe ich, dass es ihm ernst ist. Wer nur nach Urlaub und Gehalt fragt, hat es schwerer.",
+   "t": "Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie wichtig sind Zeugnisse?",
+   "t": "Wie lange dauert der Prozess?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Sie sind eine Grundlage, aber nicht alles. Ich nehme auch Leute mit durchschnittlichen Noten, wenn sie Motivation zeigen. Ein guter Handwerker braucht vor allem praktisches Geschick.",
+   "t": "Von der Anzeige bis zur Zusage im Durchschnitt sechs Wochen. Wir antworten aber immer, auch bei Absagen. Das ist uns wichtig.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie schnell melden Sie sich nach dem Gespräch?",
+   "t": "Was raten Sie Berufsanfängern?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Innerhalb von einer Woche. Das ist mir wichtig, weil Warten für Bewerber unangenehm ist. Auch Absagen bekommen eine persönliche Antwort, nicht nur eine Standard-E-Mail.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie einen Rat für Menschen, die aus dem Ausland kommen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Ja: Nicht entmutigen lassen. Wenn die Deutschkenntnisse noch nicht perfekt sind, aber die Fachkenntnisse stimmen, bilden wir gern weiter. Wir bezahlen sogar einen Sprachkurs.",
+   "t": "Ein Praktikum, am besten mehrere. Und keine Angst vor dem Gehalt: Nach der Probezeit kann man verhandeln.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -811,91 +799,79 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücken sehe, ist das nicht schlimm, aber man muss es erklären. Und Tippfehler im Anschreiben sind für mich ein schlechtes Zeichen.",
+   "t": "Ehrlichkeit und Ordnung. Wenn ich einen Lebenslauf mit Lücke sehe, frage ich nach, aber ich erwarte eine ehrliche Antwort. Fehler im Anschreiben sind dagegen ein schlechtes Zeichen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie lang sollte ein Anschreiben sein?",
+   "t": "Wie lang sollte eine Bewerbung sein?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Eine Seite, nicht mehr. Ich möchte wissen, warum jemand gerade bei uns arbeiten will. Standardtexte erkenne ich sofort, die wirken uninteressiert.",
+   "t": "Ein Anschreiben, eine Seite, dazu ein Lebenslauf mit zwei Seiten. Mehr liest niemand. Wichtig sind Zeugnisse und Nachweise, aber bitte nur die relevanten.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie läuft ein Vorstellungsgespräch bei Ihnen ab?",
+   "t": "Und das Vorstellungsgespräch?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Es dauert etwa eine Stunde. Zuerst stelle ich den Betrieb vor, dann darf der Bewerber über sich erzählen. Am Schluss gibt es immer eine Probearbeit von zwei Stunden, damit wir sehen, wie jemand wirklich arbeitet.",
+   "t": "Pünktlich sein, ordentlich gekleidet, und sich vorher über die Firma informieren. Wer nichts über uns weiß, macht keinen guten Eindruck.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Welche Fehler machen Bewerber am häufigsten?",
+   "t": "Welche Fragen stellen Sie?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Zu spät kommen, das ist leider häufig. Und manche haben sich vorher nicht informiert und wissen nicht, was wir überhaupt machen. Das merkt man sofort.",
+   "t": "Warum diese Stelle, warum unsere Firma, wo sehen Sie sich in fünf Jahren? Und ich frage nach Schwächen: Was können Sie nicht so gut? Da hört man, ob jemand ehrlich ist.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und was überzeugt Sie?",
+   "t": "Was war Ihre seltsamste Bewerbung?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Wenn jemand Fragen stellt. Zum Beispiel nach dem Team oder nach Weiterbildung. Dann sehe ich, dass es ihm ernst ist. Wer nur nach Urlaub und Gehalt fragt, hat es schwerer.",
+   "t": "Ein Bewerber hat uns einen Kuchen geschickt. Er war gut, aber den Job hat er nicht bekommen, weil die Zeugnisse nicht gepasst haben.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie wichtig sind Zeugnisse?",
+   "t": "Wie lange dauert der Prozess?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Sie sind eine Grundlage, aber nicht alles. Ich nehme auch Leute mit durchschnittlichen Noten, wenn sie Motivation zeigen. Ein guter Handwerker braucht vor allem praktisches Geschick.",
+   "t": "Von der Anzeige bis zur Zusage im Durchschnitt sechs Wochen. Wir antworten aber immer, auch bei Absagen. Das ist uns wichtig.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie schnell melden Sie sich nach dem Gespräch?",
+   "t": "Was raten Sie Berufsanfängern?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Innerhalb von einer Woche. Das ist mir wichtig, weil Warten für Bewerber unangenehm ist. Auch Absagen bekommen eine persönliche Antwort, nicht nur eine Standard-E-Mail.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Haben Sie einen Rat für Menschen, die aus dem Ausland kommen?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KillianNeural",
-   "t": "Ja: Nicht entmutigen lassen. Wenn die Deutschkenntnisse noch nicht perfekt sind, aber die Fachkenntnisse stimmen, bilden wir gern weiter. Wir bezahlen sogar einen Sprachkurs.",
+   "t": "Ein Praktikum, am besten mehrere. Und keine Angst vor dem Gehalt: Nach der Probezeit kann man verhandeln.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -919,7 +895,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Mittwoch um zehn Uhr wurde verschoben. Der neue Termin ist am Donnerstag um vierzehn Uhr dreißig im Zimmer zweihundertzwölf. Bitte bringen Sie Ihre Unterlagen mit.",
+   "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.",
    "p": 2,
    "r": "-8%"
   },
@@ -931,13 +907,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Mittwoch um zehn Uhr wurde verschoben. Der neue Termin ist am Donnerstag um vierzehn Uhr dreißig im Zimmer zweihundertzwölf. Bitte bringen Sie Ihre Unterlagen mit.",
+   "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Firma Technik Müller: Die Betriebsversammlung findet nicht um fünfzehn, sondern schon um vierzehn Uhr statt. Treffpunkt ist die Kantine. Die Teilnahme ist für alle Mitarbeiter verpflichtend.",
+   "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.",
    "p": 2,
    "r": "-8%"
   },
@@ -949,13 +925,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Firma Technik Müller: Die Betriebsversammlung findet nicht um fünfzehn, sondern schon um vierzehn Uhr statt. Treffpunkt ist die Kantine. Die Teilnahme ist für alle Mitarbeiter verpflichtend.",
+   "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze zum Mieten an. Ein Platz kostet hundertachtzig Euro im Monat, Kaffee und Internet sind inklusive. Besichtigungen sind täglich möglich.",
+   "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.",
    "p": 2,
    "r": "-8%"
   },
@@ -967,13 +943,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze zum Mieten an. Ein Platz kostet hundertachtzig Euro im Monat, Kaffee und Internet sind inklusive. Besichtigungen sind täglich möglich.",
+   "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Mailbox von Frau Lange. Ich bin heute und morgen auf einer Fortbildung und lese meine Mails nur abends. Für dringende Fragen erreichen Sie meine Kollegin Frau Braun.",
+   "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.",
    "p": 2,
    "r": "-8%"
   },
@@ -985,13 +961,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Mailbox von Frau Lange. Ich bin heute und morgen auf einer Fortbildung und lese meine Mails nur abends. Für dringende Fragen erreichen Sie meine Kollegin Frau Braun.",
+   "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen alle Busse nur im Stundentakt. Die Straßenbahnen sind nicht betroffen. Nutzen Sie bitte wenn möglich die Bahn.",
+   "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.",
    "p": 2,
    "r": "-8%"
   },
@@ -1003,7 +979,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen alle Busse nur im Stundentakt. Die Straßenbahnen sind nicht betroffen. Nutzen Sie bitte wenn möglich die Bahn.",
+   "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.",
    "p": 7,
    "r": "-8%"
   },

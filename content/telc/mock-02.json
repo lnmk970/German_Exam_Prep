@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin findet es abends in ihrer Wohnung ruhig.",
+     "q": "Die Sprecherin findet ihre Wohngegend ruhig.",
      "tf": true,
      "key": "f",
-     "why": "Laut."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher muss täglich in die Stadt fahren.",
+     "q": "Der Sprecher braucht für den Weg zur Arbeit relativ viel Zeit.",
      "tf": true,
      "key": "r",
-     "why": "Jeden Tag."
+     "why": "Richtig."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin findet die WG immer ordentlich.",
+     "q": "Die Sprecherin hat mit ihren Mitbewohnern nie Probleme.",
      "tf": true,
      "key": "f",
-     "why": "Chaotisch."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher spart für eine eigene Wohnung.",
+     "q": "Der Sprecher möchte in Zukunft nicht mehr bei seiner Familie leben.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin im Altenheim braucht ständig Hilfe.",
+     "q": "Die Sprecherin hat ihre Wohnung gemietet.",
      "tf": true,
      "key": "f",
-     "why": "Nur wenn nötig."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Frau Ivanova hat sieben Monate nach einer Wohnung gesucht.",
+     "q": "Die Suche nach einer Wohnung dauerte mehr als ein halbes Jahr.",
      "tf": true,
      "key": "r",
-     "why": "Sieben."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Sie wurde zu hundert Besichtigungen eingeladen.",
+     "q": "Auf ihre Anfragen haben die meisten Vermieter schnell geantwortet.",
      "tf": true,
      "key": "f",
-     "why": "Nur drei."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h8",
-     "q": "Als Studentin hat sie wenig Einkommen.",
+     "q": "Sie hat während der Suche in einer Unterkunft für Reisende gewohnt.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Ihre Eltern haben für sie gebürgt.",
+     "q": "Die vorübergehende Unterkunft war nicht billig.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h10",
-     "q": "Das Zimmer kostet 580 Euro.",
+     "q": "Bei Besichtigungen war sie nie allein.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h11",
-     "q": "Die Wohnung liegt nah an der Uni.",
+     "q": "Sie hat ihr Zimmer über das Studentenwerk bekommen.",
      "tf": true,
      "key": "f",
-     "why": "Eine Stunde."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h12",
-     "q": "Sie hat die Wohnung über ein Internetportal gefunden.",
+     "q": "Sie zahlt mehr als 600 Euro Miete.",
      "tf": true,
      "key": "f",
-     "why": "Über Freunde."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h13",
-     "q": "Sie rät, nur Internetportale zu nutzen.",
+     "q": "Sie teilt die Wohnung mit nur einer Person.",
      "tf": true,
      "key": "f",
-     "why": "Auch persönliche Kontakte."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Jetzt kann sie sich wieder auf das Studium konzentrieren.",
+     "q": "Sie empfiehlt, früh mit der Suche zu beginnen.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h15",
-     "q": "Nach dem Studium will sie in München bleiben.",
+     "q": "Sie rät dazu, mit der Wohnungssuche bis zum Semesterbeginn zu warten.",
      "tf": true,
      "key": "f",
-     "why": "Eher nicht."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Das Wasser wird am Donnerstag den ganzen Tag abgestellt.",
+     "q": "Das Wasser wird den ganzen Tag nicht funktionieren.",
      "tf": true,
      "key": "f",
-     "why": "Neun bis zwölf."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Die Löwen-Apotheke ist nachts bis sieben Uhr geöffnet.",
+     "q": "Die Apotheke ist auch nachts erreichbar.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h18",
-     "q": "Nachmittagstermine bekommt man nur während der Sprechzeiten.",
+     "q": "Wer dringend Hilfe braucht, soll eine andere Telefonnummer wählen.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     },
     {
      "id": "h19",
-     "q": "Die Miete muss am Monatsende überwiesen sein.",
+     "q": "Die Miete wird um fünfzig Euro teurer.",
      "tf": true,
      "key": "f",
-     "why": "Dritter Werktag."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h20",
-     "q": "Dreißig Minuten Spaziergang pro Tag sind gesund.",
+     "q": "Im Westen ist das Wetter schlechter als im Osten.",
      "tf": true,
      "key": "r",
-     "why": "Ja."
+     "why": "Richtig."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe, Supermarkt, Arzt, Bahnhof. Allerdings ist es abends laut, und ich habe keinen Balkon.</p>"
+     "<p>Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe: Supermarkt, Arzt, Café. Dafür ist es laut, und die Miete ist hoch. Einen Balkon habe ich nicht, aber das stört mich nicht, weil ich ohnehin viel unterwegs bin.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal. Dafür müssen wir jeden Tag mit dem Auto in die Stadt, und die Heizkosten sind im Winter sehr hoch.</p>"
+     "<p>Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal, sie können draußen spielen. Aber ich muss jeden Morgen eine Dreiviertelstunde zur Arbeit fahren, und abends gibt es kaum Busse. Ohne Auto geht es nicht.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Die Miete ist günstig, und es ist immer jemand da. Manchmal geht es mir aber zu chaotisch zu, besonders in der Küche.</p>"
+     "<p>Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Wir teilen uns Küche und Bad, das spart Geld. Meistens verstehen wir uns gut, nur beim Putzen gibt es manchmal Streit. Später möchte ich trotzdem allein wohnen.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich wohne bei meinen Eltern, obwohl ich schon 32 bin. Die Mieten sind so hoch, und ich spare für eine eigene Wohnung. Meine Mutter kocht gut, das ist natürlich ein Vorteil.</p>"
+     "<p>Ich wohne bei meinen Eltern, obwohl ich schon 28 bin. Das ist bequem, meine Mutter kocht, und ich zahle kaum Miete. Aber ich möchte unabhängiger sein und suche seit Monaten eine kleine Wohnung, bisher ohne Erfolg.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Ich habe vor einem Jahr eine Wohnung im Altenheim bezogen. Dort kann ich selbstständig leben, aber es gibt Hilfe, wenn ich sie brauche. Ich bin sehr zufrieden.</p>"
+     "<p>Ich habe vor einem Jahr eine Wohnung im Altbau gekauft. Hohe Decken und ein alter Holzboden, das gefällt mir sehr. Die Heizkosten sind allerdings hoch. Ich würde trotzdem sofort wieder so eine Wohnung nehmen.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Wohnungssuche in der Großstadt. Frau Ivanova, Studentin",
-   "html": "<div class=\"text\"><p>Frau Ivanova, Sie haben gerade eine Wohnung in München gefunden. Wie lange haben Sie gesucht?</p><p>Fast sieben Monate. Ich habe über hundert E-Mails geschrieben, aber nur zu drei Besichtigungen wurde ich eingeladen.</p><p>Warum ist es so schwierig?</p><p>Die Mieten sind sehr hoch, und es gibt viele Bewerber. Als Studentin ohne festes Einkommen hat man schlechte Karten. Meine Eltern mussten für mich bürgen.</p><p>Was haben Sie schließlich gefunden?</p><p>Ein Zimmer in einer Zweier-WG. Es kostet 580 Euro warm. Das ist für München günstig, aber es liegt weit draußen. Ich brauche eine Stunde zur Uni.</p><p>Wie haben Sie die Wohnung am Ende bekommen?</p><p>Über Freunde. Eine Kommilitonin hat erzählt, dass ihre Mitbewohnerin auszieht. Ich habe mich sofort gemeldet und durfte am nächsten Tag vorbeikommen.</p><p>Was würden Sie anderen Suchenden raten?</p><p>Persönliche Kontakte nutzen und nicht nur Internetportale. Außerdem eine ordentliche Mappe mit Schufa-Auskunft und Bürgschaft vorbereiten.</p><p>Und wie fühlen Sie sich jetzt?</p><p>Erleichtert. Die Suche hat mich viel Energie gekostet. Jetzt kann ich mich endlich wieder aufs Studium konzentrieren.</p><p>Planen Sie, später in München zu bleiben?</p><p>Eher nicht. Die Stadt ist wunderschön, aber zu teuer. Nach dem Studium suche ich eine Stelle in einer kleineren Stadt.</p></div>"
+   "html": "<div class=\"text\"><p>Frau Ivanova, Sie haben gerade eine Wohnung in München gefunden. Wie lange haben Sie gesucht?</p><p>Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort.</p><p>Wo haben Sie in dieser Zeit gewohnt?</p><p>Zuerst bei einer Freundin, später in einem Hostel. Das war teuer, fast 600 Euro im Monat für ein Bett im Mehrbettzimmer.</p><p>Was war das größte Problem?</p><p>Dass so viele Leute gleichzeitig suchen. Bei einer Besichtigung standen fünfzig Personen im Treppenhaus. Am Ende bekommt jemand mit festem Einkommen die Wohnung, und als Studentin hat man schlechte Chancen.</p><p>Wie haben Sie dann doch ein Zimmer gefunden?</p><p>Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten.</p><p>Wie groß ist das Zimmer, und was kostet es?</p><p>Es hat 14 Quadratmeter und kostet 480 Euro warm. Bad und Küche teile ich mit zwei anderen Frauen. Das ist für München eigentlich günstig.</p><p>Was raten Sie anderen Studenten?</p><p>Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Liebe Mieter, im Namen der Hausverwaltung informieren wir Sie, dass das Wasser am Donnerstag von neun bis zwölf Uhr abgestellt wird. Es werden Rohre repariert. Bitte entschuldigen Sie die Unannehmlichkeiten.</p>"
+     "<p>Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Bitte klingeln Sie an der Tür.</p>"
+     "<p>Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Guten Tag, Sie sind verbunden mit der Praxis Dr. Becker. Die Sprechzeiten sind montags bis freitags von acht bis zwölf Uhr. Für Termine am Nachmittag rufen Sie bitte während der Sprechzeiten an.</p>"
+     "<p>Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Hier ist Herr Lang, Ihr Vermieter. Ich möchte Sie darauf hinweisen, dass die Miete bis zum dritten Werktag des Monats auf meinem Konto sein muss. Bei Rückfragen erreichen Sie mich abends.</p>"
+     "<p>Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Sie hören die Gesundheitssendung. Heute geht es um Bewegung im Alltag. Schon dreißig Minuten Spaziergang pro Tag senken das Risiko für Herzkrankheiten. Nehmen Sie ruhig öfter die Treppe statt des Aufzugs.</p>"
+     "<p>Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe, Supermarkt, Arzt, Bahnhof. Allerdings ist es abends laut, und ich habe keinen Balkon.",
+   "t": "Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe: Supermarkt, Arzt, Café. Dafür ist es laut, und die Miete ist hoch. Einen Balkon habe ich nicht, aber das stört mich nicht, weil ich ohnehin viel unterwegs bin.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal. Dafür müssen wir jeden Tag mit dem Auto in die Stadt, und die Heizkosten sind im Winter sehr hoch.",
+   "t": "Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal, sie können draußen spielen. Aber ich muss jeden Morgen eine Dreiviertelstunde zur Arbeit fahren, und abends gibt es kaum Busse. Ohne Auto geht es nicht.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Die Miete ist günstig, und es ist immer jemand da. Manchmal geht es mir aber zu chaotisch zu, besonders in der Küche.",
+   "t": "Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Wir teilen uns Küche und Bad, das spart Geld. Meistens verstehen wir uns gut, nur beim Putzen gibt es manchmal Streit. Später möchte ich trotzdem allein wohnen.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich wohne bei meinen Eltern, obwohl ich schon 32 bin. Die Mieten sind so hoch, und ich spare für eine eigene Wohnung. Meine Mutter kocht gut, das ist natürlich ein Vorteil.",
+   "t": "Ich wohne bei meinen Eltern, obwohl ich schon 28 bin. Das ist bequem, meine Mutter kocht, und ich zahle kaum Miete. Aber ich möchte unabhängiger sein und suche seit Monaten eine kleine Wohnung, bisher ohne Erfolg.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich habe vor einem Jahr eine Wohnung im Altenheim bezogen. Dort kann ich selbstständig leben, aber es gibt Hilfe, wenn ich sie brauche. Ich bin sehr zufrieden.",
+   "t": "Ich habe vor einem Jahr eine Wohnung im Altbau gekauft. Hohe Decken und ein alter Holzboden, das gefällt mir sehr. Die Heizkosten sind allerdings hoch. Ich würde trotzdem sofort wieder so eine Wohnung nehmen.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,79 +709,67 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Fast sieben Monate. Ich habe über hundert E-Mails geschrieben, aber nur zu drei Besichtigungen wurde ich eingeladen.",
+   "t": "Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Warum ist es so schwierig?",
+   "t": "Wo haben Sie in dieser Zeit gewohnt?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Mieten sind sehr hoch, und es gibt viele Bewerber. Als Studentin ohne festes Einkommen hat man schlechte Karten. Meine Eltern mussten für mich bürgen.",
+   "t": "Zuerst bei einer Freundin, später in einem Hostel. Das war teuer, fast 600 Euro im Monat für ein Bett im Mehrbettzimmer.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was haben Sie schließlich gefunden?",
+   "t": "Was war das größte Problem?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ein Zimmer in einer Zweier-WG. Es kostet 580 Euro warm. Das ist für München günstig, aber es liegt weit draußen. Ich brauche eine Stunde zur Uni.",
+   "t": "Dass so viele Leute gleichzeitig suchen. Bei einer Besichtigung standen fünfzig Personen im Treppenhaus. Am Ende bekommt jemand mit festem Einkommen die Wohnung, und als Studentin hat man schlechte Chancen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie haben Sie die Wohnung am Ende bekommen?",
+   "t": "Wie haben Sie dann doch ein Zimmer gefunden?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Über Freunde. Eine Kommilitonin hat erzählt, dass ihre Mitbewohnerin auszieht. Ich habe mich sofort gemeldet und durfte am nächsten Tag vorbeikommen.",
+   "t": "Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was würden Sie anderen Suchenden raten?",
+   "t": "Wie groß ist das Zimmer, und was kostet es?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Persönliche Kontakte nutzen und nicht nur Internetportale. Außerdem eine ordentliche Mappe mit Schufa-Auskunft und Bürgschaft vorbereiten.",
+   "t": "Es hat 14 Quadratmeter und kostet 480 Euro warm. Bad und Küche teile ich mit zwei anderen Frauen. Das ist für München eigentlich günstig.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie fühlen Sie sich jetzt?",
+   "t": "Was raten Sie anderen Studenten?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Erleichtert. Die Suche hat mich viel Energie gekostet. Jetzt kann ich mich endlich wieder aufs Studium konzentrieren.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Planen Sie, später in München zu bleiben?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Eher nicht. Die Stadt ist wunderschön, aber zu teuer. Nach dem Studium suche ich eine Stelle in einer kleineren Stadt.",
+   "t": "Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -799,79 +787,67 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Fast sieben Monate. Ich habe über hundert E-Mails geschrieben, aber nur zu drei Besichtigungen wurde ich eingeladen.",
+   "t": "Fast sieben Monate. Ich habe über hundert E-Mails geschrieben und zwölf Wohnungen besichtigt. Meistens kam gar keine Antwort.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Warum ist es so schwierig?",
+   "t": "Wo haben Sie in dieser Zeit gewohnt?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Die Mieten sind sehr hoch, und es gibt viele Bewerber. Als Studentin ohne festes Einkommen hat man schlechte Karten. Meine Eltern mussten für mich bürgen.",
+   "t": "Zuerst bei einer Freundin, später in einem Hostel. Das war teuer, fast 600 Euro im Monat für ein Bett im Mehrbettzimmer.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was haben Sie schließlich gefunden?",
+   "t": "Was war das größte Problem?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ein Zimmer in einer Zweier-WG. Es kostet 580 Euro warm. Das ist für München günstig, aber es liegt weit draußen. Ich brauche eine Stunde zur Uni.",
+   "t": "Dass so viele Leute gleichzeitig suchen. Bei einer Besichtigung standen fünfzig Personen im Treppenhaus. Am Ende bekommt jemand mit festem Einkommen die Wohnung, und als Studentin hat man schlechte Chancen.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wie haben Sie die Wohnung am Ende bekommen?",
+   "t": "Wie haben Sie dann doch ein Zimmer gefunden?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Über Freunde. Eine Kommilitonin hat erzählt, dass ihre Mitbewohnerin auszieht. Ich habe mich sofort gemeldet und durfte am nächsten Tag vorbeikommen.",
+   "t": "Über einen Aushang in der Mensa. Eine Studentin, die ins Ausland geht, hat jemanden für ihr Zimmer gesucht. Das Studentenwerk hatte mir nur einen Platz auf der Warteliste angeboten.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was würden Sie anderen Suchenden raten?",
+   "t": "Wie groß ist das Zimmer, und was kostet es?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Persönliche Kontakte nutzen und nicht nur Internetportale. Außerdem eine ordentliche Mappe mit Schufa-Auskunft und Bürgschaft vorbereiten.",
+   "t": "Es hat 14 Quadratmeter und kostet 480 Euro warm. Bad und Küche teile ich mit zwei anderen Frauen. Das ist für München eigentlich günstig.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und wie fühlen Sie sich jetzt?",
+   "t": "Was raten Sie anderen Studenten?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Erleichtert. Die Suche hat mich viel Energie gekostet. Jetzt kann ich mich endlich wieder aufs Studium konzentrieren.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Planen Sie, später in München zu bleiben?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Eher nicht. Die Stadt ist wunderschön, aber zu teuer. Nach dem Studium suche ich eine Stelle in einer kleineren Stadt.",
+   "t": "Früh anfangen, am besten drei Monate vor dem Semester. Und nicht aufgeben. Außerdem sollte man Eltern oder Freunde bitten, eine Bürgschaft zu geben.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -895,7 +871,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Mieter, im Namen der Hausverwaltung informieren wir Sie, dass das Wasser am Donnerstag von neun bis zwölf Uhr abgestellt wird. Es werden Rohre repariert. Bitte entschuldigen Sie die Unannehmlichkeiten.",
+   "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.",
    "p": 2,
    "r": "-8%"
   },
@@ -907,13 +883,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Mieter, im Namen der Hausverwaltung informieren wir Sie, dass das Wasser am Donnerstag von neun bis zwölf Uhr abgestellt wird. Es werden Rohre repariert. Bitte entschuldigen Sie die Unannehmlichkeiten.",
+   "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Bitte klingeln Sie an der Tür.",
+   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
    "p": 2,
    "r": "-8%"
   },
@@ -925,13 +901,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Bitte klingeln Sie an der Tür.",
+   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Guten Tag, Sie sind verbunden mit der Praxis Dr. Becker. Die Sprechzeiten sind montags bis freitags von acht bis zwölf Uhr. Für Termine am Nachmittag rufen Sie bitte während der Sprechzeiten an.",
+   "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.",
    "p": 2,
    "r": "-8%"
   },
@@ -943,13 +919,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Guten Tag, Sie sind verbunden mit der Praxis Dr. Becker. Die Sprechzeiten sind montags bis freitags von acht bis zwölf Uhr. Für Termine am Nachmittag rufen Sie bitte während der Sprechzeiten an.",
+   "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Sie darauf hinweisen, dass die Miete bis zum dritten Werktag des Monats auf meinem Konto sein muss. Bei Rückfragen erreichen Sie mich abends.",
+   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
    "p": 2,
    "r": "-8%"
   },
@@ -961,13 +937,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Sie darauf hinweisen, dass die Miete bis zum dritten Werktag des Monats auf meinem Konto sein muss. Bei Rückfragen erreichen Sie mich abends.",
+   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sie hören die Gesundheitssendung. Heute geht es um Bewegung im Alltag. Schon dreißig Minuten Spaziergang pro Tag senken das Risiko für Herzkrankheiten. Nehmen Sie ruhig öfter die Treppe statt des Aufzugs.",
+   "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.",
    "p": 2,
    "r": "-8%"
   },
@@ -979,7 +955,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Sie hören die Gesundheitssendung. Heute geht es um Bewegung im Alltag. Schon dreißig Minuten Spaziergang pro Tag senken das Risiko für Herzkrankheiten. Nehmen Sie ruhig öfter die Treppe statt des Aufzugs.",
+   "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.",
    "p": 7,
    "r": "-8%"
   },

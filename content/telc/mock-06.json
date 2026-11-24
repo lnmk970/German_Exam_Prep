@@ -386,38 +386,38 @@
    "items": [
     {
      "id": "h1",
-     "q": "Die Sprecherin hat die Heizung kälter gestellt und dadurch Geld gespart.",
+     "q": "Die Familie spart Geld, weil sie weniger heizt.",
      "tf": true,
      "key": "r",
-     "why": "Um zwei Grad, fast 150 Euro."
+     "why": "Richtig."
     },
     {
      "id": "h2",
-     "q": "Der Sprecher kann an seiner Wohnung nichts ändern.",
+     "q": "Der Sprecher hat nur begrenzte Möglichkeiten zum Energiesparen.",
      "tf": true,
      "key": "r",
-     "why": "Er wohnt zur Miete."
+     "why": "Richtig."
     },
     {
      "id": "h3",
-     "q": "Die Sprecherin glaubt, dass die Solaranlage sich bald bezahlt macht.",
+     "q": "Die Anlage hat sich schon nach einem Jahr bezahlt gemacht.",
      "tf": true,
      "key": "f",
-     "why": "Erst in zehn Jahren."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h4",
-     "q": "Der Sprecher hat durch LED-Lampen die Hälfte seiner Stromkosten gespart.",
+     "q": "Die Stromrechnung des Sprechers ist deutlich niedriger geworden.",
      "tf": true,
      "key": "f",
-     "why": "Ein Fünftel."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h5",
-     "q": "Die Sprecherin macht sich viele Gedanken über das Energiesparen.",
+     "q": "Die Sprecherin möchte ihr Verhalten ändern.",
      "tf": true,
      "key": "f",
-     "why": "Sie macht sich keine Gedanken."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -428,73 +428,73 @@
    "items": [
     {
      "id": "h6",
-     "q": "Schlecht gedämmte Dächer verursachen große Wärmeverluste.",
+     "q": "Ein großer Teil der Wärme geht durch das Dach verloren.",
      "tf": true,
      "key": "r",
-     "why": "Bis zu dreißig Prozent."
+     "why": "Richtig."
     },
     {
      "id": "h7",
-     "q": "Frau Köhler empfiehlt, zuerst die Fassade zu dämmen.",
+     "q": "Die Heizung ist das Hauptproblem in Altbauten.",
      "tf": true,
      "key": "f",
-     "why": "Zuerst das Dach."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h8",
-     "q": "Die Dämmung des Daches ist die günstigste und wirksamste Maßnahme.",
+     "q": "Der Staat unterstützt Beratungen zum Thema.",
      "tf": true,
      "key": "r",
-     "why": "Am wenigsten Kosten, am meisten Nutzen."
+     "why": "Richtig."
     },
     {
      "id": "h9",
-     "q": "Der Staat bezahlt die gesamte Dachdämmung.",
+     "q": "Neue Fenster sind der erste Schritt.",
      "tf": true,
      "key": "f",
-     "why": "Bis zu zwanzig Prozent."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h10",
-     "q": "Mieter können nichts zum Energiesparen beitragen.",
+     "q": "Das Dämmen des Dachs ist besonders teuer.",
      "tf": true,
      "key": "f",
-     "why": "Richtig lüften spart bis zu zehn Prozent."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h11",
-     "q": "Man sollte das Fenster dauerhaft kippen.",
+     "q": "Eine Solaranlage ist im Altbau nie möglich.",
      "tf": true,
      "key": "f",
-     "why": "Besser kurz stoßlüften."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h12",
-     "q": "Smarte Thermostate helfen besonders Menschen, die tagsüber nicht zu Hause sind.",
+     "q": "Nach einer gründlichen Sanierung zahlt man deutlich weniger fürs Heizen.",
      "tf": true,
      "key": "r",
-     "why": "Wer den ganzen Tag arbeitet, spart am meisten."
+     "why": "Richtig."
     },
     {
      "id": "h13",
-     "q": "Selten benutzte Räume sollte man gar nicht heizen.",
+     "q": "Die Kosten sind meist schon nach zwei Jahren zurückgezahlt.",
      "tf": true,
      "key": "f",
-     "why": "Sonst entsteht Schimmel, besser 15 Grad."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h14",
-     "q": "Eine Dachdämmung zahlt sich nach etwa zehn bis fünfzehn Jahren aus.",
+     "q": "Auch ohne Umbau kann man Energie sparen.",
      "tf": true,
      "key": "r",
-     "why": "Zehn bis fünfzehn Jahre."
+     "why": "Richtig."
     },
     {
      "id": "h15",
-     "q": "Die Energieberatung der Verbraucherzentrale ist teuer.",
+     "q": "Mieter sollten die Fenster den ganzen Tag gekippt lassen.",
      "tf": true,
      "key": "f",
-     "why": "Nur dreißig Euro."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   },
@@ -505,38 +505,38 @@
    "items": [
     {
      "id": "h16",
-     "q": "Das Warmwasser ist morgen am Vormittag abgestellt.",
+     "q": "Der Aufzug fällt für kurze Zeit aus.",
      "tf": true,
      "key": "r",
-     "why": "Von neun bis zwölf Uhr."
+     "why": "Richtig."
     },
     {
      "id": "h17",
-     "q": "Der Strom wird am Donnerstag für den ganzen Tag abgeschaltet.",
+     "q": "Der Strom fällt am Vormittag aus.",
      "tf": true,
      "key": "f",
-     "why": "Nur von dreizehn bis sechzehn Uhr."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h18",
-     "q": "Der Aufbau der Küche ist für Kunden gratis.",
+     "q": "Die Küchen sind in dieser Woche günstiger.",
      "tf": true,
      "key": "r",
-     "why": "Bis Ende des Monats."
+     "why": "Richtig."
     },
     {
      "id": "h19",
-     "q": "Herr Schulte ist diese Woche im Büro.",
+     "q": "Herr Schulte ist nur eine Woche weg.",
      "tf": true,
      "key": "f",
-     "why": "Urlaub bis nächsten Mittwoch."
+     "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h20",
-     "q": "Auch die Restmülltonne wird später geleert.",
+     "q": "Die Papiertonne wird am Donnerstag geleert.",
      "tf": true,
      "key": "f",
-     "why": "Nicht betroffen."
+     "why": "Falsch: im Text steht etwas anderes."
     }
    ]
   }
@@ -590,52 +590,52 @@
    "texts": [
     [
      "Sprecher 1",
-     "<p>Wir haben im Winter die Heizung um zwei Grad heruntergedreht. Zuerst haben wir gefroren, aber nach einer Woche war es normal. Im Jahr sparen wir dadurch fast hundertfünfzig Euro.</p>"
+     "<p>Wir haben im Winter die Heizung um zwei Grad gesenkt und tragen zu Hause dickere Pullover. Dadurch sparen wir etwa zehn Prozent. Am Anfang war uns kalt, aber jetzt haben wir uns daran gewöhnt.</p>"
     ],
     [
      "Sprecher 2",
-     "<p>Ich wohne zur Miete und kann an der Wohnung nichts ändern. Der Vermieter will keine neuen Fenster einbauen, obwohl es zieht. Also kann ich nur Decken kaufen und viel Tee trinken.</p>"
+     "<p>Ich wohne zur Miete und kann an der Wohnung nichts ändern. Die Fenster sind alt, und es zieht. Ich kann nur Strom sparen, zum Beispiel durch das Ausschalten von Geräten. Der Vermieter will nicht investieren.</p>"
     ],
     [
      "Sprecher 3",
-     "<p>Wir haben vor einem Jahr eine Solaranlage auf dem Dach installiert. Sie hat achttausend Euro gekostet, aber wir rechnen damit, dass sie sich in zehn Jahren bezahlt macht. Und wir fühlen uns unabhängiger.</p>"
+     "<p>Wir haben vor einem Jahr eine Solaranlage auf das Dach gebaut. Sie war teuer, aber wir erzeugen jetzt fast den ganzen Strom selbst. Die Kosten haben wir nach etwa zehn Jahren wieder drin.</p>"
     ],
     [
      "Sprecher 4",
-     "<p>Ich habe alle Lampen gegen LED getauscht und einen Zeitschalter für den Fernseher gekauft. Das klingt klein, aber meine Stromrechnung ist um ein Fünftel gesunken. Das hat mich selbst überrascht.</p>"
+     "<p>Ich habe alle Lampen gegen LED getauscht und die alte Waschmaschine gegen eine sparsame ersetzt. Das hat nicht viel gebracht, meine Stromrechnung ist nur ein wenig gesunken. Trotzdem fühle ich mich besser.</p>"
     ],
     [
      "Sprecher 5",
-     "<p>Mich nervt das Thema, ehrlich gesagt. Immer soll man sparen und verzichten. Ich zahle meine Rechnung und mache mir keine Gedanken. Wenn das Klima wirklich in Gefahr wäre, müsste der Staat handeln.</p>"
+     "<p>Mich nervt das Thema, ehrlich gesagt. Immer soll man sparen, aber die Preise steigen trotzdem. Ich dusche so lange, wie ich will, und lasse mir das nicht verbieten.</p>"
     ]
    ]
   },
   {
    "title": "Hören Teil 2 · Interview: Energiesparen im Altbau. Frau Köhler, Architektin und Energieberaterin",
-   "html": "<div class=\"text\"><p>Frau Köhler, viele Menschen in Altbauten haben hohe Heizkosten. Woran liegt das?</p><p>Meistens an der Dämmung. Durch ein schlecht gedämmtes Dach gehen bis zu dreißig Prozent der Wärme verloren. Auch alte Fenster sind ein großes Problem.</p><p>Was sollte man zuerst machen?</p><p>Immer zuerst das Dach, weil es am wenigsten kostet und am meisten bringt. Danach die Fenster, und erst am Ende die Fassade, das ist die teuerste Variante.</p><p>Was kostet so eine Maßnahme?</p><p>Für ein normales Einfamilienhaus liegt eine Dachdämmung bei etwa zehntausend Euro. Der Staat übernimmt unter Umständen bis zu zwanzig Prozent, das lohnt sich zu prüfen.</p><p>Und für Mieter? Die können ja nicht selbst umbauen.</p><p>Stimmt. Aber Mieter können viel richtig machen: richtig lüften, also mehrmals am Tag kurz stoßlüften, statt das Fenster dauerhaft zu kippen. Das spart bis zu zehn Prozent.</p><p>Was halten Sie von smarten Thermostaten?</p><p>Ich finde sie sinnvoll, aber nicht ein Wundermittel. Sie helfen vor allem Leuten, die oft nicht zu Hause sind. Wer den ganzen Tag arbeitet, spart damit am meisten.</p><p>Gibt es auch Fehler, die man vermeiden sollte?</p><p>Der häufigste Fehler: Räume, die man selten nutzt, gar nicht zu heizen. Dann wird es feucht, und es entsteht Schimmel. Besser ist es, sie auf fünfzehn Grad zu halten.</p><p>Wie lange dauert es, bis sich eine Sanierung bezahlt macht?</p><p>Das ist sehr unterschiedlich. Bei einer Dachdämmung rechnet man mit etwa zehn bis fünfzehn Jahren. Bei neuen Fenstern dauert es länger, oft über zwanzig Jahre.</p><p>Was raten Sie jemandem, der am Anfang steht?</p><p>Eine unabhängige Beratung. Die Energieberatung der Verbraucherzentrale kostet nur dreißig Euro, und man bekommt einen konkreten Plan.</p></div>"
+   "html": "<div class=\"text\"><p>Frau Köhler, viele Menschen in Altbauten haben hohe Heizkosten. Woran liegt das?</p><p>Meistens an der Dämmung. Durch ein schlecht gedämmtes Dach gehen bis zu dreißig Prozent der Wärme verloren, durch alte Fenster noch einmal zwanzig Prozent. Die Heizung selbst ist selten das Problem.</p><p>Was ist die erste Maßnahme, die Sie empfehlen?</p><p>Eine Energieberatung. Sie kostet oft nur wenige hundert Euro, und der Staat zahlt einen Teil. Danach weiß man genau, wo man anfangen sollte.</p><p>Und dann?</p><p>Meistens das Dach oder die oberste Geschossdecke. Das ist günstig und bringt viel. Neue Fenster sind teuer, deshalb machen wir sie später.</p><p>Lohnt sich eine Solaranlage im Altbau?</p><p>Meistens ja, wenn das Dach nach Süden zeigt. Bei Denkmalschutz ist es manchmal schwierig, dann braucht man eine Genehmigung.</p><p>Wie viel Geld spart man mit solchen Maßnahmen?</p><p>Bei einer guten Sanierung kann man die Heizkosten halbieren. Die Investition zahlt sich in etwa zwölf bis fünfzehn Jahren aus.</p><p>Was können Mieter tun?</p><p>Heizkörper nicht zustellen, richtig lüften, also kurz und kräftig, und die Temperatur im Schlafzimmer niedriger halten. Und mit dem Vermieter sprechen. Die Fenster den ganzen Tag gekippt zu lassen, ist dagegen keine gute Idee.</p></div>"
   },
   {
    "title": "Hören Teil 3",
    "texts": [
     [
      "Ansage 1",
-     "<p>Hier ist die Hausverwaltung Maier. Wegen Wartungsarbeiten an der Heizung wird morgen zwischen neun und zwölf Uhr das Warmwasser abgestellt. Die Heizkörper bleiben in Betrieb. Wir bitten um Verständnis.</p>"
+     "<p>Hier ist die Hausverwaltung Maier. Wegen Wartungsarbeiten wird am Dienstag zwischen neun und elf Uhr der Aufzug nicht funktionieren. Bitte planen Sie mehr Zeit ein. Wir entschuldigen uns für die Unannehmlichkeiten.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird in der Bergstraße der Strom von dreizehn bis sechzehn Uhr abgeschaltet. Betroffen sind die Hausnummern eins bis dreißig. Bitte planen Sie das ein.</p>"
+     "<p>Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird der Strom in der Altstadt von dreizehn bis fünfzehn Uhr abgeschaltet. Betroffen sind die Straßen rund um den Marktplatz.</p>"
     ],
     [
      "Ansage 3",
-     "<p>Das Möbelhaus Wohnwelt lädt ein zur Küchenwoche: Auf alle Küchen gibt es zehn Prozent Rabatt. Die Beratung ist kostenlos, und der Aufbau ist für Kunden bis Ende des Monats gratis.</p>"
+     "<p>Das Möbelhaus Wohnwelt lädt ein zur Küchenwoche. Alle Küchen sind bis zu vierzig Prozent reduziert, die Planung ist kostenlos. Am Samstag gibt es außerdem eine Vorführung moderner Kochgeräte.</p>"
     ],
     [
      "Ansage 4",
-     "<p>Hier ist die Mailbox von Herrn Schulte. Ich bin bis nächsten Mittwoch im Urlaub. Wegen der Mietangelegenheit rufen Sie bitte meine Kollegin an, Frau Krämer, unter der Nummer zwei sieben vier.</p>"
+     "<p>Hier ist die Mailbox von Herrn Schulte. Ich bin bis zum fünfzehnten Mai im Urlaub und danach wieder erreichbar. In dringenden Fällen wenden Sie sich bitte an meine Kollegin Frau Weiß.</p>"
     ],
     [
      "Ansage 5",
-     "<p>Die Müllabfuhr informiert: Wegen des Feiertags wird die Biotonne diese Woche nicht am Donnerstag, sondern erst am Freitag geleert. Die Restmülltonne ist nicht betroffen.</p>"
+     "<p>Die Müllabfuhr informiert: Wegen des Feiertags am Donnerstag verschiebt sich die Abholung der Papiertonne auf Freitag. Die Biotonne wird wie gewohnt abgeholt.</p>"
     ]
    ]
   }
@@ -655,31 +655,31 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Wir haben im Winter die Heizung um zwei Grad heruntergedreht. Zuerst haben wir gefroren, aber nach einer Woche war es normal. Im Jahr sparen wir dadurch fast hundertfünfzig Euro.",
+   "t": "Wir haben im Winter die Heizung um zwei Grad gesenkt und tragen zu Hause dickere Pullover. Dadurch sparen wir etwa zehn Prozent. Am Anfang war uns kalt, aber jetzt haben wir uns daran gewöhnt.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Ich wohne zur Miete und kann an der Wohnung nichts ändern. Der Vermieter will keine neuen Fenster einbauen, obwohl es zieht. Also kann ich nur Decken kaufen und viel Tee trinken.",
+   "t": "Ich wohne zur Miete und kann an der Wohnung nichts ändern. Die Fenster sind alt, und es zieht. Ich kann nur Strom sparen, zum Beispiel durch das Ausschalten von Geräten. Der Vermieter will nicht investieren.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Wir haben vor einem Jahr eine Solaranlage auf dem Dach installiert. Sie hat achttausend Euro gekostet, aber wir rechnen damit, dass sie sich in zehn Jahren bezahlt macht. Und wir fühlen uns unabhängiger.",
+   "t": "Wir haben vor einem Jahr eine Solaranlage auf das Dach gebaut. Sie war teuer, aber wir erzeugen jetzt fast den ganzen Strom selbst. Die Kosten haben wir nach etwa zehn Jahren wieder drin.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Ich habe alle Lampen gegen LED getauscht und einen Zeitschalter für den Fernseher gekauft. Das klingt klein, aber meine Stromrechnung ist um ein Fünftel gesunken. Das hat mich selbst überrascht.",
+   "t": "Ich habe alle Lampen gegen LED getauscht und die alte Waschmaschine gegen eine sparsame ersetzt. Das hat nicht viel gebracht, meine Stromrechnung ist nur ein wenig gesunken. Trotzdem fühle ich mich besser.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Mich nervt das Thema, ehrlich gesagt. Immer soll man sparen und verzichten. Ich zahle meine Rechnung und mache mir keine Gedanken. Wenn das Klima wirklich in Gefahr wäre, müsste der Staat handeln.",
+   "t": "Mich nervt das Thema, ehrlich gesagt. Immer soll man sparen, aber die Preise steigen trotzdem. Ich dusche so lange, wie ich will, und lasse mir das nicht verbieten.",
    "p": 7,
    "r": "-8%"
   },
@@ -709,91 +709,67 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Meistens an der Dämmung. Durch ein schlecht gedämmtes Dach gehen bis zu dreißig Prozent der Wärme verloren. Auch alte Fenster sind ein großes Problem.",
+   "t": "Meistens an der Dämmung. Durch ein schlecht gedämmtes Dach gehen bis zu dreißig Prozent der Wärme verloren, durch alte Fenster noch einmal zwanzig Prozent. Die Heizung selbst ist selten das Problem.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was sollte man zuerst machen?",
+   "t": "Was ist die erste Maßnahme, die Sie empfehlen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Immer zuerst das Dach, weil es am wenigsten kostet und am meisten bringt. Danach die Fenster, und erst am Ende die Fassade, das ist die teuerste Variante.",
+   "t": "Eine Energieberatung. Sie kostet oft nur wenige hundert Euro, und der Staat zahlt einen Teil. Danach weiß man genau, wo man anfangen sollte.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was kostet so eine Maßnahme?",
+   "t": "Und dann?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Für ein normales Einfamilienhaus liegt eine Dachdämmung bei etwa zehntausend Euro. Der Staat übernimmt unter Umständen bis zu zwanzig Prozent, das lohnt sich zu prüfen.",
+   "t": "Meistens das Dach oder die oberste Geschossdecke. Das ist günstig und bringt viel. Neue Fenster sind teuer, deshalb machen wir sie später.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und für Mieter? Die können ja nicht selbst umbauen.",
+   "t": "Lohnt sich eine Solaranlage im Altbau?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Stimmt. Aber Mieter können viel richtig machen: richtig lüften, also mehrmals am Tag kurz stoßlüften, statt das Fenster dauerhaft zu kippen. Das spart bis zu zehn Prozent.",
+   "t": "Meistens ja, wenn das Dach nach Süden zeigt. Bei Denkmalschutz ist es manchmal schwierig, dann braucht man eine Genehmigung.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was halten Sie von smarten Thermostaten?",
+   "t": "Wie viel Geld spart man mit solchen Maßnahmen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich finde sie sinnvoll, aber nicht ein Wundermittel. Sie helfen vor allem Leuten, die oft nicht zu Hause sind. Wer den ganzen Tag arbeitet, spart damit am meisten.",
+   "t": "Bei einer guten Sanierung kann man die Heizkosten halbieren. Die Investition zahlt sich in etwa zwölf bis fünfzehn Jahren aus.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es auch Fehler, die man vermeiden sollte?",
+   "t": "Was können Mieter tun?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der häufigste Fehler: Räume, die man selten nutzt, gar nicht zu heizen. Dann wird es feucht, und es entsteht Schimmel. Besser ist es, sie auf fünfzehn Grad zu halten.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie lange dauert es, bis sich eine Sanierung bezahlt macht?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist sehr unterschiedlich. Bei einer Dachdämmung rechnet man mit etwa zehn bis fünfzehn Jahren. Bei neuen Fenstern dauert es länger, oft über zwanzig Jahre.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was raten Sie jemandem, der am Anfang steht?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Eine unabhängige Beratung. Die Energieberatung der Verbraucherzentrale kostet nur dreißig Euro, und man bekommt einen konkreten Plan.",
+   "t": "Heizkörper nicht zustellen, richtig lüften, also kurz und kräftig, und die Temperatur im Schlafzimmer niedriger halten. Und mit dem Vermieter sprechen. Die Fenster den ganzen Tag gekippt zu lassen, ist dagegen keine gute Idee.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -811,91 +787,67 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Meistens an der Dämmung. Durch ein schlecht gedämmtes Dach gehen bis zu dreißig Prozent der Wärme verloren. Auch alte Fenster sind ein großes Problem.",
+   "t": "Meistens an der Dämmung. Durch ein schlecht gedämmtes Dach gehen bis zu dreißig Prozent der Wärme verloren, durch alte Fenster noch einmal zwanzig Prozent. Die Heizung selbst ist selten das Problem.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was sollte man zuerst machen?",
+   "t": "Was ist die erste Maßnahme, die Sie empfehlen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Immer zuerst das Dach, weil es am wenigsten kostet und am meisten bringt. Danach die Fenster, und erst am Ende die Fassade, das ist die teuerste Variante.",
+   "t": "Eine Energieberatung. Sie kostet oft nur wenige hundert Euro, und der Staat zahlt einen Teil. Danach weiß man genau, wo man anfangen sollte.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was kostet so eine Maßnahme?",
+   "t": "Und dann?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Für ein normales Einfamilienhaus liegt eine Dachdämmung bei etwa zehntausend Euro. Der Staat übernimmt unter Umständen bis zu zwanzig Prozent, das lohnt sich zu prüfen.",
+   "t": "Meistens das Dach oder die oberste Geschossdecke. Das ist günstig und bringt viel. Neue Fenster sind teuer, deshalb machen wir sie später.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Und für Mieter? Die können ja nicht selbst umbauen.",
+   "t": "Lohnt sich eine Solaranlage im Altbau?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Stimmt. Aber Mieter können viel richtig machen: richtig lüften, also mehrmals am Tag kurz stoßlüften, statt das Fenster dauerhaft zu kippen. Das spart bis zu zehn Prozent.",
+   "t": "Meistens ja, wenn das Dach nach Süden zeigt. Bei Denkmalschutz ist es manchmal schwierig, dann braucht man eine Genehmigung.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Was halten Sie von smarten Thermostaten?",
+   "t": "Wie viel Geld spart man mit solchen Maßnahmen?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Ich finde sie sinnvoll, aber nicht ein Wundermittel. Sie helfen vor allem Leuten, die oft nicht zu Hause sind. Wer den ganzen Tag arbeitet, spart damit am meisten.",
+   "t": "Bei einer guten Sanierung kann man die Heizkosten halbieren. Die Investition zahlt sich in etwa zwölf bis fünfzehn Jahren aus.",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Gibt es auch Fehler, die man vermeiden sollte?",
+   "t": "Was können Mieter tun?",
    "p": 0.6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Der häufigste Fehler: Räume, die man selten nutzt, gar nicht zu heizen. Dann wird es feucht, und es entsteht Schimmel. Besser ist es, sie auf fünfzehn Grad zu halten.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Wie lange dauert es, bis sich eine Sanierung bezahlt macht?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Das ist sehr unterschiedlich. Bei einer Dachdämmung rechnet man mit etwa zehn bis fünfzehn Jahren. Bei neuen Fenstern dauert es länger, oft über zwanzig Jahre.",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-KatjaNeural",
-   "t": "Was raten Sie jemandem, der am Anfang steht?",
-   "p": 0.6,
-   "r": "-8%"
-  },
-  {
-   "v": "de-DE-AmalaNeural",
-   "t": "Eine unabhängige Beratung. Die Energieberatung der Verbraucherzentrale kostet nur dreißig Euro, und man bekommt einen konkreten Plan.",
+   "t": "Heizkörper nicht zustellen, richtig lüften, also kurz und kräftig, und die Temperatur im Schlafzimmer niedriger halten. Und mit dem Vermieter sprechen. Die Fenster den ganzen Tag gekippt zu lassen, ist dagegen keine gute Idee.",
    "p": 0.6,
    "r": "-8%"
   },
@@ -919,7 +871,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Hausverwaltung Maier. Wegen Wartungsarbeiten an der Heizung wird morgen zwischen neun und zwölf Uhr das Warmwasser abgestellt. Die Heizkörper bleiben in Betrieb. Wir bitten um Verständnis.",
+   "t": "Hier ist die Hausverwaltung Maier. Wegen Wartungsarbeiten wird am Dienstag zwischen neun und elf Uhr der Aufzug nicht funktionieren. Bitte planen Sie mehr Zeit ein. Wir entschuldigen uns für die Unannehmlichkeiten.",
    "p": 2,
    "r": "-8%"
   },
@@ -931,13 +883,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Hier ist die Hausverwaltung Maier. Wegen Wartungsarbeiten an der Heizung wird morgen zwischen neun und zwölf Uhr das Warmwasser abgestellt. Die Heizkörper bleiben in Betrieb. Wir bitten um Verständnis.",
+   "t": "Hier ist die Hausverwaltung Maier. Wegen Wartungsarbeiten wird am Dienstag zwischen neun und elf Uhr der Aufzug nicht funktionieren. Bitte planen Sie mehr Zeit ein. Wir entschuldigen uns für die Unannehmlichkeiten.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird in der Bergstraße der Strom von dreizehn bis sechzehn Uhr abgeschaltet. Betroffen sind die Hausnummern eins bis dreißig. Bitte planen Sie das ein.",
+   "t": "Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird der Strom in der Altstadt von dreizehn bis fünfzehn Uhr abgeschaltet. Betroffen sind die Straßen rund um den Marktplatz.",
    "p": 2,
    "r": "-8%"
   },
@@ -949,13 +901,13 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird in der Bergstraße der Strom von dreizehn bis sechzehn Uhr abgeschaltet. Betroffen sind die Hausnummern eins bis dreißig. Bitte planen Sie das ein.",
+   "t": "Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird der Strom in der Altstadt von dreizehn bis fünfzehn Uhr abgeschaltet. Betroffen sind die Straßen rund um den Marktplatz.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Möbelhaus Wohnwelt lädt ein zur Küchenwoche: Auf alle Küchen gibt es zehn Prozent Rabatt. Die Beratung ist kostenlos, und der Aufbau ist für Kunden bis Ende des Monats gratis.",
+   "t": "Das Möbelhaus Wohnwelt lädt ein zur Küchenwoche. Alle Küchen sind bis zu vierzig Prozent reduziert, die Planung ist kostenlos. Am Samstag gibt es außerdem eine Vorführung moderner Kochgeräte.",
    "p": 2,
    "r": "-8%"
   },
@@ -967,13 +919,13 @@
   },
   {
    "v": "de-DE-AmalaNeural",
-   "t": "Das Möbelhaus Wohnwelt lädt ein zur Küchenwoche: Auf alle Küchen gibt es zehn Prozent Rabatt. Die Beratung ist kostenlos, und der Aufbau ist für Kunden bis Ende des Monats gratis.",
+   "t": "Das Möbelhaus Wohnwelt lädt ein zur Küchenwoche. Alle Küchen sind bis zu vierzig Prozent reduziert, die Planung ist kostenlos. Am Samstag gibt es außerdem eine Vorführung moderner Kochgeräte.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Mailbox von Herrn Schulte. Ich bin bis nächsten Mittwoch im Urlaub. Wegen der Mietangelegenheit rufen Sie bitte meine Kollegin an, Frau Krämer, unter der Nummer zwei sieben vier.",
+   "t": "Hier ist die Mailbox von Herrn Schulte. Ich bin bis zum fünfzehnten Mai im Urlaub und danach wieder erreichbar. In dringenden Fällen wenden Sie sich bitte an meine Kollegin Frau Weiß.",
    "p": 2,
    "r": "-8%"
   },
@@ -985,13 +937,13 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Mailbox von Herrn Schulte. Ich bin bis nächsten Mittwoch im Urlaub. Wegen der Mietangelegenheit rufen Sie bitte meine Kollegin an, Frau Krämer, unter der Nummer zwei sieben vier.",
+   "t": "Hier ist die Mailbox von Herrn Schulte. Ich bin bis zum fünfzehnten Mai im Urlaub und danach wieder erreichbar. In dringenden Fällen wenden Sie sich bitte an meine Kollegin Frau Weiß.",
    "p": 7,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Müllabfuhr informiert: Wegen des Feiertags wird die Biotonne diese Woche nicht am Donnerstag, sondern erst am Freitag geleert. Die Restmülltonne ist nicht betroffen.",
+   "t": "Die Müllabfuhr informiert: Wegen des Feiertags am Donnerstag verschiebt sich die Abholung der Papiertonne auf Freitag. Die Biotonne wird wie gewohnt abgeholt.",
    "p": 2,
    "r": "-8%"
   },
@@ -1003,7 +955,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Die Müllabfuhr informiert: Wegen des Feiertags wird die Biotonne diese Woche nicht am Donnerstag, sondern erst am Freitag geleert. Die Restmülltonne ist nicht betroffen.",
+   "t": "Die Müllabfuhr informiert: Wegen des Feiertags am Donnerstag verschiebt sich die Abholung der Papiertonne auf Freitag. Die Biotonne wird wie gewohnt abgeholt.",
    "p": 7,
    "r": "-8%"
   },
