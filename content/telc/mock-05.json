@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Gasthaus Alte Post: Saal für Feiern bis 40 Personen, auch am Wochenende. Reservierung unter 0241 555 66.</p><p><b>b</b>&nbsp; Backhaus Müller: Frisches Brot und Brötchen täglich bis 20 Uhr. Sonntag geschlossen.</p><p><b>c</b>&nbsp; Grüne Küche: Vegetarisches und veganes Essen, über 30 Gerichte. Mittagstisch ab 6,90 Euro.</p><p><b>d</b>&nbsp; Online-Supermarkt Schnell: Wir liefern Obst, Gemüse, Getränke und Haushaltswaren bis zur Haustür. Ab 20 Euro kostenlos.</p><p><b>e</b>&nbsp; Konditorei Zuckerwerk: Backkurs „Torten für Anfänger“, samstags, 3 Stunden. Alle Zutaten inklusive.</p><p><b>f</b>&nbsp; Familienrestaurant Sonnenhof: Sonntags großes Buffet, Kinder essen für die Hälfte. Großer Spielplatz im Garten.</p><p><b>g</b>&nbsp; Flohmarkt Schlossplatz: Jeden Samstag von 8 bis 14 Uhr. Gebrauchte Küchengeräte, Geschirr, Bücher.</p><p><b>h</b>&nbsp; Café Lesezeichen: Gratis-WLAN, ruhige Ecken, Frühstück bis 12 Uhr. Montag bis Freitag ab 8 Uhr.</p><p><b>i</b>&nbsp; Fischhandel am Hafen: Fangfrisch jeden Morgen von 6 bis 12 Uhr. Auch Räucherfisch zum Mitnehmen.</p><p><b>j</b>&nbsp; Pizzeria Napoli: Lieferservice bis 23 Uhr. Pizza ab 7 Euro.</p><p><b>k</b>&nbsp; Gemüsekiste Bio: Abholung jeden Freitag im Hofladen. Regional und saisonal.</p><p><b>l</b>&nbsp; Sporthalle Nord: Kurse für Erwachsene, Anmeldung im Büro.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Gasthof Zur Post: Unser Saal bietet Platz für bis zu 40 Gäste. Feiern am Samstagabend mit Buffet oder Menü, Beratung durch den Wirt persönlich.</p><p><b>b</b>&nbsp; Bäckerei Abendbrot: Frisches Brot, Brötchen und Kuchen bis 20 Uhr. Am Nachmittag wird noch einmal gebacken.</p><p><b>c</b>&nbsp; Restaurant Grüner Garten: Fleischlose Küche mit mehr als 30 Gerichten, von Suppen bis Pasta. Täglich von 11 bis 22 Uhr.</p><p><b>d</b>&nbsp; Bio-Lieferdienst Frisch ins Haus: Obst, Gemüse und Milchprodukte werden zweimal pro Woche bis vor die Wohnungstür gebracht. Mindestbestellwert 20 Euro.</p><p><b>e</b>&nbsp; Backschule Süßes Handwerk: Im Wochenendkurs lernen Sie Torten, Plätzchen und Kleingebäck. Zutaten und Rezepte sind im Preis enthalten.</p><p><b>f</b>&nbsp; Gasthaus Zum Löwen: Sonntagsbuffet von 11.30 bis 14.30 Uhr, Kinder bis 6 Jahre essen kostenlos. Spielecke für die Kleinen.</p><p><b>g</b>&nbsp; Second-Hand-Küche: Gebrauchte Küchengeräte, Töpfe und Geschirr zu kleinen Preisen. Alle Geräte wurden geprüft.</p><p><b>h</b>&nbsp; Café Netz: Gemütliches Café mit kostenlosem WLAN und Steckdosen an den Tischen. Geöffnet ab 8 Uhr.</p><p><b>i</b>&nbsp; Fischhalle am Hafen: Frischer Fisch direkt von den Fischerbooten, jeden Morgen ab 6 Uhr.</p><p><b>j</b>&nbsp; Pizzeria Napoli: Lieferservice bis 23 Uhr. Pizza ab 7 Euro, Salate und Nachtisch.</p><p><b>k</b>&nbsp; Gemüsekiste Bio: Abholung jeden Freitag im Hofladen. Regionales Gemüse der Saison, ab 12 Euro pro Kiste.</p><p><b>l</b>&nbsp; Sporthalle Nord: Kurse für Erwachsene, Anmeldung im Büro. Ballspiele, Gymnastik und Tanzen.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie sind Vegetarier und suchen ein Restaurant mit großer Auswahl.",
+     "q": "Sie essen kein Fleisch und möchten abends mit Freunden essen gehen, wo es viele Möglichkeiten für Sie gibt.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Vegetarisch mit großer Auswahl → c („über 30 Gerichte“)."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l12",
-     "q": "Sie suchen am Sonntagmittag ein günstiges Restaurant für die ganze Familie mit Kinderspielplatz.",
+     "q": "Sie möchten am Sonntag mit Ihren kleinen Kindern essen gehen und wollen nicht viel bezahlen.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Sonntag, Familie, Spielplatz → f („Kinder essen für die Hälfte“)."
+     "why": "Passt zu Anzeige f."
     },
     {
      "id": "l13",
-     "q": "Sie suchen ein Lokal für eine Geburtstagsfeier mit 20 Personen am Samstagabend.",
+     "q": "Ihre Mutter wird 60. Sie möchten am Samstagabend mit vielen Verwandten in einem Lokal feiern.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Feier mit 20 Personen → a („Saal bis 40 Personen“, auch am Wochenende)."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l14",
-     "q": "Sie suchen ein Café mit WLAN, in dem Sie am Vormittag arbeiten können.",
+     "q": "Sie sind Student und möchten vormittags in einem Café an Ihrer Arbeit schreiben. Sie brauchen Internet.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "WLAN und Vormittag → h („Gratis-WLAN“, ab 8 Uhr)."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l15",
-     "q": "Sie möchten lernen, Kuchen und Torten zu backen.",
+     "q": "Sie möchten lernen, wie man feine Gebäcke für Feste herstellt.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Backen lernen → e („Backkurs“)."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l16",
-     "q": "Sie suchen einen Nebenjob als Kellner am Wochenende.",
+     "q": "Sie suchen einen Job als Kellner, den Sie am Wochenende machen können.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Keine Anzeige bietet Arbeit an: Pizzeria (j) liefert nur Pizza, Sporthalle (l) bietet Kurse. Also x."
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l17",
-     "q": "Sie möchten frisches Brot kaufen, aber erst nach der Arbeit gegen 19 Uhr.",
+     "q": "Sie kommen erst um 19 Uhr von der Arbeit und möchten trotzdem noch Brot kaufen.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Brot gegen 19 Uhr → b („bis 20 Uhr“). Sonntag spielt hier keine Rolle."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l18",
-     "q": "Sie möchten Fisch direkt am Hafen kaufen.",
+     "q": "Sie fahren ans Meer und möchten dort frischen Fisch von den Fischern kaufen.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Fisch am Hafen → i („fangfrisch“ am Hafen)."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l19",
-     "q": "Sie möchten Ihre Lebensmittel nach Hause liefern lassen, weil Sie kein Auto haben.",
+     "q": "Sie haben kein Auto und möchten Obst und Gemüse nicht selbst schleppen.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Lebensmittel liefern lassen → d. Bei k muss man die Kiste selbst abholen."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l20",
-     "q": "Sie möchten einen gebrauchten Mixer günstig kaufen.",
+     "q": "Sie ziehen in Ihre erste eigene Wohnung und brauchen günstige Haushaltsgeräte, die schon benutzt sind.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Gebrauchte Küchengeräte → g (Flohmarkt)."
+     "why": "Passt zu Anzeige g."
     }
    ]
   },

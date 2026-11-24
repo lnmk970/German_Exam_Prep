@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Musikschule Harmonie: Gitarrenkurs für Erwachsene ohne Vorkenntnisse. Mittwochs, 19 bis 20.30 Uhr. Gitarren können geliehen werden.</p><p><b>b</b>&nbsp; Nachhilfe vor Ort: Unsere Lehrer kommen zu Ihnen nach Hause. Mathe, Englisch, Deutsch. Erste Stunde kostenlos.</p><p><b>c</b>&nbsp; Familienzentrum Mitte: Kinderbetreuung für Kinder ab zwei Jahren, während Sie an Kursen teilnehmen. Vormittags, auch kurzfristig.</p><p><b>d</b>&nbsp; Sprachschule Lingua: Kurs „Deutsch im Beruf“, 8 Wochen, abends. Am Ende gibt es ein Zertifikat.</p><p><b>e</b>&nbsp; Stadtbibliothek: Lernräume mit Steckdosen und WLAN. Montag bis Samstag bis 22 Uhr geöffnet. Keine Gebühr.</p><p><b>f</b>&nbsp; Second-Hand-Technik Peters: Geprüfte Laptops ab 180 Euro. Ein Jahr Garantie. Montag bis Freitag.</p><p><b>g</b>&nbsp; Fotoclub Lichtblick: Einsteigerkurs Fotografie, 6 Abende. Zum Abschluss Ausstellung im Rathaus.</p><p><b>h</b>&nbsp; Online-Akademie Zeitfrei: Kurse für Computer, Marketing und Sprachen. Starten Sie jederzeit, lernen Sie, wann Sie wollen.</p><p><b>i</b>&nbsp; Ferienprogramm der Stadt: Betreuung von 8 bis 16 Uhr, Sport, Schwimmen, Basteln. Anmeldung bis 1. Juni.</p><p><b>j</b>&nbsp; Tanzschule Takt: Anfängerkurs Standardtänze, dienstags abends. Paare willkommen.</p><p><b>k</b>&nbsp; Computerkurs für Senioren: Grundlagen für Einsteiger ab 60 Jahren, vormittags im Seniorenzentrum.</p><p><b>l</b>&nbsp; Schwimmbad Wellenreich: Frühschwimmer-Tarif ab 6 Uhr. Wassergymnastik für alle.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Musikschule Harmonie: Gitarre, Klavier und Gesang für Erwachsene. Anfängerkurse montags und donnerstags ab 19 Uhr, Instrument zum Ausleihen.</p><p><b>b</b>&nbsp; Studienhilfe Zuhause: Unsere Lehrer kommen zu Ihnen nach Hause und üben mit Ihrem Kind Mathematik, Englisch oder Deutsch. Probestunde kostenlos.</p><p><b>c</b>&nbsp; Kinderinsel: Betreuung für Kinder von 1 bis 3 Jahren, stundenweise buchbar. Ideal für Eltern, die einen Kurs oder Termin haben.</p><p><b>d</b>&nbsp; Deutsch im Beruf: Sprachkurs für Berufstätige mit Zertifikat am Ende. Abendkurse, Prüfung bei der Industrie- und Handelskammer.</p><p><b>e</b>&nbsp; Stadtbibliothek: Neue Öffnungszeiten ab Montag: 10 bis 21 Uhr. Ruhige Lernplätze im ersten Stock, Steckdosen und WLAN an allen Tischen.</p><p><b>f</b>&nbsp; Computerbörse Gebraucht: Laptops und Tablets, geprüft und mit einem Jahr Garantie, schon ab 150 Euro. Ideal für Schüler und Studenten.</p><p><b>g</b>&nbsp; Fotoclub Blende: Kurs für Anfänger und Fortgeschrittene in den Räumen der Volkshochschule. Am Ende des Jahres zeigen die Teilnehmer ihre Bilder in einer Ausstellung.</p><p><b>h</b>&nbsp; Online-Akademie Frei: Kurse im Internet, die Sie jederzeit beginnen, pausieren und wieder aufnehmen können. Monatlich kündbar.</p><p><b>i</b>&nbsp; Ferienspaß Sportzentrum: Programm für Kinder von 6 bis 12 Jahren in den Sommerferien, täglich von 8 bis 16 Uhr, mit Schwimmen, Fußball und Basteln.</p><p><b>j</b>&nbsp; Tanzschule Takt: Anfängerkurs Standardtänze, dienstags von 19 bis 20.30 Uhr. Für Paare und Einzelpersonen.</p><p><b>k</b>&nbsp; Computerkurs für Senioren: Grundlagen für Einsteiger ab 60 Jahren, donnerstags am Vormittag.</p><p><b>l</b>&nbsp; Schwimmbad Wellenreich: Frühschwimmer-Tarif ab 6 Uhr. Wasser 28 Grad, Sauna ab 10 Uhr.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie suchen einen ruhigen Ort zum Lernen für die Prüfung, möglichst bis spät abends.",
+     "q": "Sie schreiben bald eine wichtige Prüfung und finden zu Hause keine Ruhe. Sie möchten auch abends noch weiterlernen können.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Lernraum bis spät → e (bis 22 Uhr)."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l12",
-     "q": "Sie möchten abends Gitarre lernen, haben aber noch nie gespielt.",
+     "q": "Sie haben Lust auf ein Instrument, haben aber nie Musikunterricht gehabt und arbeiten tagsüber.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Gitarre für Anfänger am Abend → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l13",
-     "q": "Sie möchten Ihre Kinder in den Ferien tagsüber betreuen lassen, mit Sport und Spielen.",
+     "q": "Ihre Kinder sind sieben und zehn Jahre alt. In den Ferien brauchen sie einen Ort, an dem sie den ganzen Tag beschäftigt sind.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Ferienbetreuung mit Sport → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l14",
-     "q": "Sie suchen einen Platz, wo Ihr zweijähriges Kind betreut wird, während Sie einen Kurs besuchen.",
+     "q": "Ihre Tochter ist zwei Jahre alt. Sie möchten einen Kurs besuchen und suchen für ein paar Stunden jemanden, der auf sie aufpasst.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Betreuung für das Kleinkind während des Kurses → c."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l15",
-     "q": "Sie möchten einen Tanzkurs für Anfänger am Wochenende besuchen.",
+     "q": "Sie möchten Walzer lernen und haben nur am Samstag oder Sonntag Zeit.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Tanzkurs für Anfänger am Wochenende → keine Anzeige passt (j gilt nur dienstags). Also x."
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l16",
-     "q": "Sie möchten in einem Kurs Fotografieren lernen und Ihre Fotos später ausstellen.",
+     "q": "Sie fotografieren gern und möchten mehr darüber lernen. Am Ende würden Sie Ihre besten Bilder gern anderen zeigen.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Fotografie mit Ausstellung → g."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l17",
-     "q": "Ihr Sohn braucht Nachhilfe in Mathematik, am liebsten bei Ihnen zu Hause.",
+     "q": "Ihr Sohn ist in Mathe schwach. Sie möchten, dass jemand in Ihrer Wohnung mit ihm übt.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Nachhilfe zu Hause → b."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l18",
-     "q": "Sie interessieren sich für einen Online-Kurs, den Sie zeitlich frei einteilen können.",
+     "q": "Sie möchten etwas Neues lernen, aber Ihr Dienstplan ändert sich ständig.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "Online-Kurs mit freier Zeiteinteilung → h."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l19",
-     "q": "Sie möchten Ihr Deutsch für den Beruf verbessern und brauchen eine Bescheinigung.",
+     "q": "Sie sind berufstätig, möchten besser Deutsch sprechen und brauchen am Ende ein Papier für Ihren Chef.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Deutsch für den Beruf mit Bescheinigung → d (Zertifikat)."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l20",
-     "q": "Sie wollen einen gebrauchten Laptop für das Studium kaufen.",
+     "q": "Sie brauchen für das Studium einen Computer, haben aber nur wenig Geld.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Gebrauchter Laptop → f."
+     "why": "Passt zu Anzeige f."
     }
    ]
   },

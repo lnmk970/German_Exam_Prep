@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Apotheke am Markt: Beratung und Medikamente. Lieferservice für ältere Menschen kostenlos.</p><p><b>b</b>&nbsp; Physiopraxis Bewegung: Massagen und Krankengymnastik. Termine auch am Samstag.</p><p><b>c</b>&nbsp; Zahnarztpraxis Dr. Fröhlich: Neue Patienten willkommen. Notdienst am Wochenende unter Telefon 123.</p><p><b>d</b>&nbsp; Fitness 50plus: Sport und Gymnastik für Menschen ab 50. Kurse am Vormittag.</p><p><b>e</b>&nbsp; Reformhaus Natur: Bio-Lebensmittel, Tees und Nahrungsergänzung. Ernährungsberatung dienstags.</p><p><b>f</b>&nbsp; Möbelhaus Wohnglück: Betten, Matratzen und Schränke. Lieferung und Aufbau am nächsten Tag.</p><p><b>g</b>&nbsp; Heizung Wärme: Reparatur und Wartung von Heizungen. Notdienst rund um die Uhr.</p><p><b>h</b>&nbsp; Maler Bunt: Wohnungen streichen, tapezieren, Fassaden. Kostenvoranschlag gratis.</p><p><b>i</b>&nbsp; Umzugskartons24: Stabile Kartons, Packpapier und Klebeband. Online bestellen, nächster Tag geliefert.</p><p><b>j</b>&nbsp; Augenoptiker Klar: Sehtest kostenlos. Brillen ab 49 Euro, Kontaktlinsen auf Wunsch.</p><p><b>k</b>&nbsp; Hausverwaltung Dach: Wohnungen zur Miete in der Altstadt, 1 bis 3 Zimmer. Besichtigung jeden Samstag.</p><p><b>l</b>&nbsp; Yoga-Studio Ruhe: Kurse für Anfänger und Fortgeschrittene. Probestunde gratis.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Apotheke Rosen: Wir liefern verschreibungspflichtige Medikamente kostenlos bis an die Haustür, auch für ältere Menschen. Bestellung per Telefon bis 15 Uhr.</p><p><b>b</b>&nbsp; Physiotherapie Kraft: Behandlung bei Rücken- und Nackenschmerzen. Termine auch samstags von 8 bis 13 Uhr.</p><p><b>c</b>&nbsp; Zahnärztlicher Notdienst: An Wochenenden und Feiertagen von 10 bis 14 Uhr erreichbar. Bitte vorher telefonisch anmelden.</p><p><b>d</b>&nbsp; Seniorensport im Park: Sanfte Gymnastik für Menschen ab 60, dienstags und donnerstags um 9.30 Uhr im Stadtpark. Der Einstieg ist jederzeit möglich.</p><p><b>e</b>&nbsp; Reformhaus Natur: Bio-Lebensmittel, Tees und Vitaminpräparate. Persönliche Beratung von Montag bis Samstag.</p><p><b>f</b>&nbsp; Möbelhaus Wohnglück: Betten, Matratzen und Schränke zu günstigen Preisen. Lieferung und Aufbau am nächsten Tag.</p><p><b>g</b>&nbsp; Notdienst Heizung & Sanitär: 24 Stunden täglich erreichbar. Wir reparieren Heizungen und Rohre sofort, auch nachts und am Wochenende.</p><p><b>h</b>&nbsp; Malerbetrieb Farbe: Wir streichen Wohnungen und Treppenhäuser. Besichtigung und Kostenvoranschlag sind kostenlos.</p><p><b>i</b>&nbsp; Umzugsmarkt Karton: Stabile Kartons, Packpapier und Klebeband in vielen Größen. Abholung im Lager oder Lieferung innerhalb eines Tages.</p><p><b>j</b>&nbsp; Optiker Klarblick: Kostenloser Sehtest, danach Beratung zu Brillen und Kontaktlinsen. Montags bis freitags von 9 bis 18 Uhr.</p><p><b>k</b>&nbsp; Wohnungsbörse Altstadt: Kleine Wohnungen und Apartments im Zentrum, ab 450 Euro warm. Besichtigungen nach Vereinbarung.</p><p><b>l</b>&nbsp; Yoga-Studio Ruhe: Kurse für Anfänger und Fortgeschrittene. Probestunde kostenlos.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie haben am Sonntag Zahnschmerzen.",
+     "q": "Es ist Sonntagmorgen, und Sie haben starke Schmerzen an einem Zahn.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Notdienst am Wochenende → c."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l12",
-     "q": "Ihre Heizung ist im Winter nachts ausgefallen.",
+     "q": "Mitten in der Nacht wird es in Ihrer Wohnung kalt, weil die Heizung nicht mehr funktioniert.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Notdienst rund um die Uhr → g."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l13",
-     "q": "Sie suchen eine kleine Wohnung in der Altstadt.",
+     "q": "Sie möchten allein wohnen und suchen im Stadtzentrum eine Wohnung mit niedriger Miete.",
      "letters": "abcdefghijklx",
      "key": "k",
-     "why": "Hausverwaltung → k."
+     "why": "Passt zu Anzeige k."
     },
     {
      "id": "l14",
-     "q": "Sie möchten Ihre Wohnung neu streichen lassen und wollen die Kosten wissen.",
+     "q": "Die Wände in Ihrer Wohnung sind alt und fleckig. Bevor Sie jemanden beauftragen, möchten Sie wissen, was es kostet.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "Maler, gratis Kostenvoranschlag → h."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l15",
-     "q": "Sie sind 60 und möchten sich vormittags bewegen.",
+     "q": "Sie sind im Ruhestand und möchten sich morgens in Gesellschaft bewegen, aber nichts Anstrengendes machen.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Fitness 50plus → d."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l16",
-     "q": "Sie haben Rückenschmerzen und möchten am Samstag zur Behandlung.",
+     "q": "Ihr Rücken tut weh, aber unter der Woche haben Sie keine Zeit für einen Termin.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Physio, Samstag → b."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l17",
-     "q": "Ihre Oma kann das Haus nicht mehr verlassen und braucht Medikamente.",
+     "q": "Ihre Großmutter ist krank und kann nicht in die Stadt. Sie braucht dringend ihre Tabletten.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Lieferservice → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l18",
-     "q": "Sie brauchen eine neue Brille, möchten aber zuerst die Augen testen lassen.",
+     "q": "Sie sehen schlecht und wissen nicht, ob Sie eine neue Brille brauchen.",
      "letters": "abcdefghijklx",
      "key": "j",
-     "why": "Sehtest → j."
+     "why": "Passt zu Anzeige j."
     },
     {
      "id": "l19",
-     "q": "Sie ziehen um und brauchen Verpackungsmaterial.",
+     "q": "Am Wochenende ziehen Sie in eine neue Wohnung und müssen Ihre Sachen verpacken.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Umzugskartons → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l20",
-     "q": "Sie möchten Ihr Auto reparieren lassen.",
+     "q": "Sie suchen ein Geschäft, in dem Sie ein Fahrrad reparieren lassen können.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Kein Angebot → x."
+     "why": "Keine Anzeige passt → x."
     }
    ]
   },

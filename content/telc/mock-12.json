@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Fitnessstudio Power: Probetraining gratis. Mitgliedschaft ab 19 Euro im Monat, monatlich kündbar.</p><p><b>b</b>&nbsp; Tanzclub Rhythmus: Salsa, Hip-Hop und Standard. Kurse für Anfänger donnerstags, 19 Uhr.</p><p><b>c</b>&nbsp; Kunstverein Pinsel: Malkurse für Erwachsene und Kinder, Material inklusive. Ausstellung am 20. Juni.</p><p><b>d</b>&nbsp; Kino Odeon: Neuer Film jede Woche. Montags alle Plätze für 6 Euro. Online-Reservierung möglich.</p><p><b>e</b>&nbsp; Schachclub Läufer: Wir suchen Spieler jeden Alters. Spieleabend freitags ab 18 Uhr im Vereinsheim.</p><p><b>f</b>&nbsp; Reitstall Sonnenhof: Reitstunden für Kinder, Ausritte für Erwachsene. Pferde vorhanden, Helme werden geliehen.</p><p><b>g</b>&nbsp; Buchclub Leseratten: Wir treffen uns jeden zweiten Dienstag im Café und sprechen über ein gemeinsames Buch.</p><p><b>h</b>&nbsp; Angelverein Forelle: Gemeinsames Angeln am Wochenende, Anfänger willkommen. Fischereischein erforderlich.</p><p><b>i</b>&nbsp; Wanderverein Bergfreunde: Jeden Sonntag eine neue Tour, 10 bis 20 Kilometer. Gäste sind willkommen.</p><p><b>j</b>&nbsp; Musikschule Klangwelt: Unterricht für Klavier, Geige und Gitarre. Instrumente zum Ausleihen.</p><p><b>k</b>&nbsp; Schwimmverein Delfin: Schwimmkurse für Kinder ab 5 Jahren. Frühschwimmer-Training ab 6 Uhr.</p><p><b>l</b>&nbsp; Theatergruppe Maske: Neue Mitspieler gesucht. Proben dienstags, Aufführung im Dezember.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Fitnessstudio Aktiv: Zwei Wochen kostenlos testen, ohne Vertrag. Geräte, Kurse und Sauna inklusive.</p><p><b>b</b>&nbsp; Tanzschule Salsa Latina: Anfängerkurs für Salsa und Bachata, mittwochs um 19 Uhr. Kein Partner und keine Vorkenntnisse nötig.</p><p><b>c</b>&nbsp; Offenes Atelier Pinsel: Malen und Zeichnen in der Gruppe. Farben, Leinwände und Staffeleien stehen bereit. Donnerstags von 17 bis 20 Uhr.</p><p><b>d</b>&nbsp; Programmkino Odeon: Montags kostet jeder Film nur 5 Euro. Beginn um 18 und 20.30 Uhr.</p><p><b>e</b>&nbsp; Schachclub Springer: Jeden Montag treffen sich Spieler jeden Alters zu Turnieren und Training. Anfänger werden betreut.</p><p><b>f</b>&nbsp; Reitstall Sonnenhof: Reitstunden für Kinder, Ausritte für Erwachsene.</p><p><b>g</b>&nbsp; Leseclub Seitenweise: Einmal im Monat sprechen wir über ein Buch. Neue Mitglieder sind willkommen, die Bücher findet man in der Bibliothek.</p><p><b>h</b>&nbsp; Angelverein Forelle: Gemeinsames Angeln am Wochenende, Anfänger willkommen.</p><p><b>i</b>&nbsp; Wanderverein Eifel: Sonntags Touren in der Natur. Gäste dürfen kostenlos mitwandern. Treffpunkt: 9 Uhr, Parkplatz Waldeck.</p><p><b>j</b>&nbsp; Musikladen Saitenklang: Gitarren zum Mieten ab 10 Euro im Monat, dazu Gruppenunterricht für Einsteiger.</p><p><b>k</b>&nbsp; Schwimmschule Delfin: Kinderkurse für 5- bis 8-Jährige, samstags um 10 Uhr, in kleinen Gruppen. Beginn jeweils am 1. des Monats.</p><p><b>l</b>&nbsp; Laienbühne Rampenlicht: Neue Mitspieler für das Winterstück gesucht. Proben dienstags und freitags, Anmeldung per E-Mail.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie möchten Salsa tanzen, haben aber noch nie getanzt.",
+     "q": "Sie möchten lateinamerikanische Tänze lernen, haben aber nie getanzt und keinen Partner.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Anfänger donnerstags → b."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l12",
-     "q": "Sie möchten Ihre Tochter (6) das Schwimmen lernen lassen.",
+     "q": "Ihre sechsjährige Tochter soll im Wasser sicher werden.",
      "letters": "abcdefghijklx",
      "key": "k",
-     "why": "Kinderkurse ab 5 → k."
+     "why": "Passt zu Anzeige k."
     },
     {
      "id": "l13",
-     "q": "Sie suchen einen Verein, in dem man sich über Bücher unterhält.",
+     "q": "Sie lesen gern und möchten sich mit anderen über Bücher austauschen.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Buchclub → g."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l14",
-     "q": "Sie möchten ein Fitnessstudio ausprobieren, ohne zu zahlen.",
+     "q": "Sie möchten zwei Wochen ein Sportstudio testen, bevor Sie einen Vertrag unterschreiben.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Probetraining gratis → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l15",
-     "q": "Sie möchten am Sonntag in der Natur wandern, auch mit Gästen.",
+     "q": "Am Sonntag haben Sie Besuch aus Polen und möchten mit ihm in der Natur unterwegs sein, ohne viel Geld auszugeben.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Wanderverein → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l16",
-     "q": "Sie möchten Gitarre lernen, besitzen aber keine.",
+     "q": "Sie möchten ein Saiteninstrument lernen, besitzen aber keines.",
      "letters": "abcdefghijklx",
      "key": "j",
-     "why": "Instrumente leihen → j."
+     "why": "Passt zu Anzeige j."
     },
     {
      "id": "l17",
-     "q": "Sie möchten ein Instrument im Verein spielen, sind aber lieber leise und logisch.",
+     "q": "Sie möchten in Ihrer Freizeit das logische Denken trainieren und dabei neue Leute kennenlernen.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Schach → e."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l18",
-     "q": "Sie spielen gern Theater und möchten im Winter auf der Bühne stehen.",
+     "q": "Sie haben Spaß am Schauspielen und möchten in den kalten Monaten bei einer Aufführung mitmachen.",
      "letters": "abcdefghijklx",
      "key": "l",
-     "why": "Theatergruppe → l."
+     "why": "Passt zu Anzeige l."
     },
     {
      "id": "l19",
-     "q": "Sie möchten malen und brauchen kein eigenes Material.",
+     "q": "Sie möchten malen, besitzen aber weder Farben noch Leinwand.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Material inklusive → c."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l20",
-     "q": "Sie möchten sich am Montag einen günstigen Film ansehen.",
+     "q": "Sie möchten am Montagabend preiswert ins Kino.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Montags 6 Euro → d."
+     "why": "Passt zu Anzeige d."
     }
    ]
   },

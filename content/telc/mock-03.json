@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Rückenschule an der VHS: Übungen gegen Verspannungen, Montag und Mittwoch um 18 Uhr. Anmeldung ab sofort.</p><p><b>b</b>&nbsp; „Digital hilft“: Wir sammeln gebrauchte Computer und Handys und geben sie an Schulen weiter. Abgabe jeden Dienstag.</p><p><b>c</b>&nbsp; Praxis Dr. Keller: Hausarzt mit Samstagssprechstunde von 9 bis 12 Uhr. Termine online buchen.</p><p><b>d</b>&nbsp; Wanderverein Eifelblick: Jeden zweiten Sonntag Tour in der Umgebung. Gäste sind willkommen.</p><p><b>e</b>&nbsp; Nachhilfe-Institut Mathe-Meister: Einzelunterricht in Mathematik für Klasse 5–10, auch am Wochenende.</p><p><b>f</b>&nbsp; Hofladen Berger: Obst und Gemüse aus eigenem Anbau, dazu frische Eier. Dienstag bis Samstag.</p><p><b>g</b>&nbsp; Pension „Zur Linde“: Einzelzimmer ab 38 Euro, Frühstück inklusive, zentral gelegen.</p><p><b>h</b>&nbsp; Open-Air-Konzerte im Stadtpark: Karten ab 15 Euro im Vorverkauf. Bei Regen im Festzelt.</p><p><b>i</b>&nbsp; Tierheim Sonnenhof: Wir suchen ehrenamtliche Helfer zum Gassigehen und Füttern. Einfach vorbeikommen!</p><p><b>j</b>&nbsp; Autohaus Weber: Winterreifen im Angebot, Montage inklusive. Nur bis Ende November.</p><p><b>k</b>&nbsp; Fitnessstudio Aktiv: 3 Monate zum Preis von 2. Neue Abendkurse.</p><p><b>l</b>&nbsp; Bäckerei Lindner: Frische Brötchen ab 6 Uhr, Frühstück am Wochenende.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Rückenschule Gesund: Kurs mit Gymnastik und Übungen gegen Rückenschmerzen. Acht Termine mittwochs um 18 Uhr, die Krankenkasse übernimmt oft die Kosten.</p><p><b>b</b>&nbsp; Computerspende e. V.: Wir nehmen funktionierende alte Computer und Laptops an, richten sie her und geben sie an Schulen weiter. Abgabe montags bis freitags im Büro.</p><p><b>c</b>&nbsp; Ärztehaus am Markt: Allgemeinmedizin mit Sprechstunde auch samstags von 9 bis 12 Uhr. Termine telefonisch oder online.</p><p><b>d</b>&nbsp; Wanderverein Heide: Jeden Sonntag geführte Touren über 10 bis 15 Kilometer. Gäste sind willkommen, Treffpunkt ist um 9 Uhr am Bahnhof.</p><p><b>e</b>&nbsp; Nachhilfe Plus: Einzel- und Gruppenunterricht in Mathematik, Englisch und Deutsch für die Klassen 5 bis 10. Die erste Stunde ist gratis.</p><p><b>f</b>&nbsp; Hofladen Bergmann: Gemüse, Obst und Eier aus eigenem Anbau. Verkauf mittwochs und freitags von 14 bis 18 Uhr direkt auf dem Hof.</p><p><b>g</b>&nbsp; Pension Sonnenblick: Gemütliche Zimmer ab 35 Euro pro Nacht, Frühstück inklusive, nur zehn Minuten vom Bahnhof entfernt.</p><p><b>h</b>&nbsp; Kulturverein Sommerbühne: Konzerte im Schlossgarten im Juli und August. Karten im Vorverkauf in der Touristeninformation.</p><p><b>i</b>&nbsp; Tierheim Pfötchen: Wir suchen Helferinnen und Helfer, die mit Hunden spazieren gehen oder Katzen versorgen. Zeit nach Absprache, auch am Wochenende.</p><p><b>j</b>&nbsp; Autohaus Weber: Winterreifen im Angebot, Montage inklusive. Termine auch ohne Anmeldung.</p><p><b>k</b>&nbsp; Fitnessstudio Aktiv: Drei Monate zum Preis von zwei. Neue Abendkurse für Anfänger.</p><p><b>l</b>&nbsp; Bäckerei Lindner: Frische Brötchen ab 6 Uhr, Frühstück am Wochenende bis 12 Uhr.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie möchten in Ihrer Freizeit Tieren helfen.",
+     "q": "Sie lieben Tiere und möchten sich in Ihrer freien Zeit für sie engagieren.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Tieren helfen → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l12",
-     "q": "Sie suchen einen Platz, wo Sie Ihr Auto selbst waschen können.",
+     "q": "Sie suchen einen Platz, an dem Sie Ihr Auto selbst waschen und saugen können.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Auto selbst waschen: keine Anzeige passt → x. Das Autohaus verkauft Reifen."
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l13",
-     "q": "Sie möchten Ihren alten Computer spenden.",
+     "q": "Ihr Laptop ist alt, aber er läuft noch. Statt ihn wegzuwerfen, möchten Sie ihn anderen Menschen geben.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Computer spenden → b."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l14",
-     "q": "Sie möchten am Wochenende wandern und suchen eine Gruppe.",
+     "q": "Sie sind neu in der Stadt und möchten sonntags in der Natur unterwegs sein, am liebsten mit anderen.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Wandergruppe → d."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l15",
-     "q": "Sie suchen einen Arzt, der auch am Samstag Termine hat.",
+     "q": "Sie arbeiten unter der Woche bis spät und brauchen einen Arzttermin, der am Wochenende möglich ist.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Arzt am Samstag → c."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l16",
-     "q": "Sie suchen für Ihren Besuch aus dem Ausland ein günstiges Zimmer.",
+     "q": "Ihre Eltern besuchen Sie im Mai für drei Tage. In Ihrer Wohnung ist nicht genug Platz, und sie möchten nicht viel ausgeben.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Günstiges Zimmer → g."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l17",
-     "q": "Sie haben Rückenschmerzen und suchen einen Kurs, der Ihnen hilft.",
+     "q": "Sie sitzen den ganzen Tag am Schreibtisch und haben seit Wochen Schmerzen im Kreuz. Sie möchten etwas dagegen tun.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Rückenschmerzen → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l18",
-     "q": "Sie suchen frisches Gemüse direkt vom Bauern.",
+     "q": "Sie möchten Gemüse kaufen, das aus der Region kommt und nicht aus dem Supermarkt.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Gemüse vom Bauern → f."
+     "why": "Passt zu Anzeige f."
     },
     {
      "id": "l19",
-     "q": "Sie möchten Karten für ein Konzert unter freiem Himmel kaufen.",
+     "q": "Sie möchten Ihrer Frau zum Geburtstag Eintrittskarten für Musik im Freien schenken.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "Open-Air-Konzert → h."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l20",
-     "q": "Ihr Sohn braucht Nachhilfe in Mathematik.",
+     "q": "Ihre Tochter hat in der Schule Probleme mit Zahlen und Gleichungen.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Nachhilfe Mathe → e."
+     "why": "Passt zu Anzeige e."
     }
    ]
   },

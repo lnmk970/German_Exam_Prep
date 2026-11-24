@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Sprachschule Lingua: Berufsbezogenes Deutsch für Pflege, Handwerk und Büro. Kurse am Abend.</p><p><b>b</b>&nbsp; Zeitarbeit Schnell: Jobs sofort, auch ohne Berufserfahrung. Bezahlung nach Tarif.</p><p><b>c</b>&nbsp; Übersetzungsbüro Wort: Beglaubigte Übersetzungen von Zeugnissen und Urkunden in 3 Tagen.</p><p><b>d</b>&nbsp; Bewerbungshilfe Karriere: Lebenslauf, Anschreiben, Vorstellungsgespräch. Erstberatung gratis.</p><p><b>e</b>&nbsp; Büromöbel Ergo: Höhenverstellbare Tische und Stühle für Ihr Homeoffice. Lieferung in 2 Tagen.</p><p><b>f</b>&nbsp; Gründerzentrum Start: Beratung für Existenzgründer. Büroräume ab 99 Euro im Monat.</p><p><b>g</b>&nbsp; Steuerberater Lehmann: Hilfe bei Steuererklärung und Lohnabrechnung für Angestellte und Selbstständige.</p><p><b>h</b>&nbsp; Kita Zwergenland: Betreuung von 6 bis 18 Uhr für Kinder von 1 bis 6 Jahren. Freie Plätze ab Mai.</p><p><b>i</b>&nbsp; Weiterbildung Digital: Excel, Programmieren und Webdesign. Online-Kurse mit Zertifikat.</p><p><b>j</b>&nbsp; Handwerkskammer: Informationen zu Ausbildung und Meisterprüfung. Sprechstunde dienstags.</p><p><b>k</b>&nbsp; Umschulung Pflege: Werden Sie Altenpfleger/in! Schule und Praktikum, Bezahlung während der Ausbildung.</p><p><b>l</b>&nbsp; Jobbörse Online: Über 10.000 Stellenangebote in Ihrer Region. Täglich neu.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Sprachschule Lingua: Deutsch für den Arbeitsalltag in Pflege, Handwerk und Büro. Kurse montags und mittwochs ab 18.30 Uhr, Prüfung inklusive.</p><p><b>b</b>&nbsp; Zeitarbeit Schnell: Wir vermitteln Aushilfen für Lager und Produktion, auch ohne Erfahrung. Tarifliche Bezahlung, Arbeitsbeginn schon nächste Woche möglich.</p><p><b>c</b>&nbsp; Übersetzungsbüro Wort: Zeugnisse, Urkunden und Verträge werden von vereidigten Übersetzern bearbeitet und amtlich beglaubigt. Fertig in drei Werktagen.</p><p><b>d</b>&nbsp; Bewerbungshilfe Karriere: Wir prüfen Ihre Unterlagen und üben mit Ihnen das Gespräch mit dem Personalchef. Das erste Treffen ist kostenlos.</p><p><b>e</b>&nbsp; Büromöbel Ergo: Rückenfreundliche Stühle und elektrisch verstellbare Schreibtische für den Arbeitsplatz zu Hause. Lieferung innerhalb von zwei Tagen.</p><p><b>f</b>&nbsp; Gründerzentrum Start: Wir beraten Sie auf dem Weg in die eigene Firma. Büros und Werkstätten mieten Sie ab 99 Euro pro Monat, Internet inklusive.</p><p><b>g</b>&nbsp; Steuerberater Lehmann: Wir erledigen Ihre Steuererklärung und die Lohnabrechnung, für Angestellte, Rentner und Freiberufler. Erstgespräch kostenlos.</p><p><b>h</b>&nbsp; Kita Zwergenland: Kinder von 1 bis 6 Jahren werden bei uns von 6 bis 18 Uhr betreut. Ab Mai gibt es noch freie Plätze.</p><p><b>i</b>&nbsp; Weiterbildung Digital: Online-Kurse zu Excel, Programmieren und Gestaltung von Internetseiten. Man lernt, wann man will, und erhält ein Zertifikat.</p><p><b>j</b>&nbsp; Handwerkskammer: Beratung zu Lehrstellen und zur Meisterprüfung im Handwerk. Sprechstunde jeden Dienstag von 9 bis 12 Uhr.</p><p><b>k</b>&nbsp; Umschulung Pflege: Eine neue Karriere in der Altenpflege! Unterricht in der Schule und Praxis im Heim. Schon während der Ausbildung gibt es Gehalt.</p><p><b>l</b>&nbsp; Jobbörse Online: Mehr als 10.000 Stellenangebote aus Ihrer Umgebung, jeden Tag aktualisiert. Registrierung kostenlos.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie möchten Ihr Zeugnis aus dem Ausland in Deutschland vorlegen.",
+     "q": "Sie haben Ihren Schulabschluss in Brasilien gemacht. Das Amt verlangt eine Fassung auf Deutsch, die offiziell bestätigt ist.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Beglaubigte Übersetzung → c."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l12",
-     "q": "Sie haben Ihr Büro zu Hause und brauchen einen guten Stuhl.",
+     "q": "Sie arbeiten seit einem Jahr zu Hause am Computer und haben oft Schmerzen im Kreuz.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Büromöbel → e."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l13",
-     "q": "Sie möchten sich selbstständig machen und suchen Büroräume.",
+     "q": "Sie planen ein eigenes Unternehmen und brauchen für den Anfang günstige Räume und Rat vom Fachmann.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Gründerzentrum → f."
+     "why": "Passt zu Anzeige f."
     },
     {
      "id": "l14",
-     "q": "Sie haben zwei kleine Kinder und möchten bald wieder arbeiten.",
+     "q": "Ihr Sohn ist zwei und Ihre Tochter vier. Sie möchten im Mai wieder ganztags arbeiten und brauchen jemanden, der die Kinder betreut.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "Kita ab Mai → h."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l15",
-     "q": "Sie möchten lernen, wie man Webseiten baut.",
+     "q": "Sie möchten Ihr Wissen über die Gestaltung von Internetseiten erweitern, können aber nur nachts lernen.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Webdesign → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l16",
-     "q": "Sie brauchen Hilfe bei der Steuererklärung.",
+     "q": "Sie haben ein kleines Nebengeschäft und wissen nicht, wie Sie Ihre Einnahmen beim Finanzamt angeben sollen.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Steuerberater → g."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l17",
-     "q": "Sie möchten Ihren Lebenslauf verbessern und üben das Vorstellungsgespräch.",
+     "q": "Sie sind nervös vor einem Termin bei einer Firma und möchten vorher üben, wie man sich vorstellt, und Ihre Papiere kontrollieren lassen.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Bewerbungshilfe → d."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l18",
-     "q": "Sie möchten Altenpfleger werden und dabei Geld verdienen.",
+     "q": "Sie möchten in der Betreuung alter Menschen arbeiten und können nicht ohne Einkommen lernen.",
      "letters": "abcdefghijklx",
      "key": "k",
-     "why": "Umschulung Pflege → k."
+     "why": "Passt zu Anzeige k."
     },
     {
      "id": "l19",
-     "q": "Sie suchen eine Stelle in Ihrer Region.",
+     "q": "Sie suchen einen neuen Job in der Nähe Ihres Wohnorts und möchten selbst nach Angeboten suchen.",
      "letters": "abcdefghijklx",
      "key": "l",
-     "why": "Jobbörse → l."
+     "why": "Passt zu Anzeige l."
     },
     {
      "id": "l20",
-     "q": "Sie möchten Ihren Führerschein verlängern lassen.",
+     "q": "Sie möchten nach einem Unfall prüfen lassen, ob Ihnen Schadenersatz zusteht.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Kein Angebot → x."
+     "why": "Keine Anzeige passt → x."
     }
    ]
   },

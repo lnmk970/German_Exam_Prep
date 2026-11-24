@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Bäckerei Hoffmann: Verkäuferin oder Verkäufer für Samstag und Sonntag gesucht, 12 Euro pro Stunde.</p><p><b>b</b>&nbsp; Fotostudio Blick: Bewerbungsfotos ab 25 Euro, auch ohne Termin.</p><p><b>c</b>&nbsp; Schreibservice Klartext: Wir prüfen Ihre Bewerbung und verbessern Lebenslauf und Anschreiben. Erste Beratung kostenlos.</p><p><b>d</b>&nbsp; Abendschule Technik: Excel und Word für den Beruf, dienstags und donnerstags, 18 bis 20 Uhr.</p><p><b>e</b>&nbsp; Kita Regenbogen: Plätze für Kinder von 1 bis 6 Jahren, ab 7 Uhr geöffnet.</p><p><b>f</b>&nbsp; Gründerzentrum: Kostenlose Beratung für alle, die sich selbstständig machen wollen. Termin nach Vereinbarung.</p><p><b>g</b>&nbsp; Versicherung Nordstern sucht Bürokraft in Teilzeit (20 Stunden pro Woche). Bewerbung online.</p><p><b>h</b>&nbsp; Verkehrsverbund: Jobticket und Monatskarte, Rabatt für Arbeitnehmer und Auszubildende.</p><p><b>i</b>&nbsp; Arbeitsschutz Becker: Sicherheitsschuhe und Arbeitskleidung, 20 Prozent Rabatt für Neukunden.</p><p><b>j</b>&nbsp; Taxi-Zentrale Köln: Fahrer gesucht, Vollzeit oder Teilzeit. Personenbeförderungsschein erforderlich.</p><p><b>k</b>&nbsp; Fahrschule Mobil: Führerschein Klasse B, Intensivkurs in zwei Wochen.</p><p><b>l</b>&nbsp; Autohaus Weber: Gebrauchtwagen mit Garantie, Finanzierung möglich.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Supermarkt Kauf-Mit: Wir suchen Verkäufer für Samstag und Sonntag auf 450-Euro-Basis. Bewerbung bei der Marktleitung.</p><p><b>b</b>&nbsp; Fotostudio Moment: Bewerbungsfotos in 15 Minuten, ab 12 Euro. Auch ohne Termin, montags bis freitags.</p><p><b>c</b>&nbsp; Lektorat Textwerk: Wir korrigieren Anschreiben, Lebensläufe und Briefe. Rückmeldung innerhalb von 24 Stunden, Preis ab 15 Euro.</p><p><b>d</b>&nbsp; Abendschule Technik: Computerkurse für Berufstätige, zweimal pro Woche abends. Grund- und Aufbaukurse mit Prüfung.</p><p><b>e</b>&nbsp; Kita Regenbogen: Plätze für Kinder ab 2 Jahren, Betreuung ganztags. Aufnahme ab sofort möglich.</p><p><b>f</b>&nbsp; Gründungsberatung Mittelstand: Wir helfen bei Plan, Förderung und Anmeldung Ihrer Firma. Erstgespräch kostenlos.</p><p><b>g</b>&nbsp; Bürojobs Teilzeit: Sekretärinnen und Assistenten für Firmen in der Region, 20 bis 30 Stunden pro Woche. Einstieg ab sofort.</p><p><b>h</b>&nbsp; Verkehrsverbund: Monatskarte für Berufspendler im Abo, 20 Prozent günstiger als die Einzelkarte. Online bestellen.</p><p><b>i</b>&nbsp; Arbeitsschutz Sicher: Sicherheitsschuhe, Helme und Handschuhe für Betriebe und Privatpersonen. 10 Prozent Rabatt ab 50 Euro.</p><p><b>j</b>&nbsp; Taxi-Zentrale Köln: Fahrer gesucht, in Vollzeit oder Teilzeit. Personenbeförderungsschein wird bezahlt.</p><p><b>k</b>&nbsp; Fahrschule Mobil: Führerschein Klasse B, Intensivkurs in zwei Wochen. Anmeldung jederzeit.</p><p><b>l</b>&nbsp; Autohaus Weber: Gebrauchtwagen mit Garantie, Finanzierung möglich. Probefahrt am Wochenende.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie suchen einen Arbeitsplatz in Teilzeit im Büro.",
+     "q": "Sie möchten nur halbtags arbeiten und haben Erfahrung mit Büroarbeit.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Teilzeit im Büro → g (Bürokraft, 20 Stunden)."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l12",
-     "q": "Sie brauchen jemanden, der Ihren Lebenslauf und Ihr Anschreiben korrigiert.",
+     "q": "Ihr Deutsch ist gut, aber Sie sind unsicher, ob in Ihrem Bewerbungsschreiben alles richtig ist.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Lebenslauf verbessern → c (Schreibservice)."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l13",
-     "q": "Sie möchten Ihre Sicherheitsschuhe für die Arbeit günstig kaufen.",
+     "q": "Für Ihren neuen Job auf der Baustelle brauchen Sie feste Schuhe und möchten nicht zu viel zahlen.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Arbeitsschuhe günstig → i (20 Prozent Rabatt)."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l14",
-     "q": "Sie suchen einen Minijob am Wochenende im Verkauf.",
+     "q": "Sie sind Schüler und wollen an den Wochenenden etwas Geld verdienen.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Wochenende, Verkauf → a (Samstag und Sonntag)."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l15",
      "q": "Sie suchen eine Stelle als Taxifahrer in Hamburg.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Die Taxi-Zentrale (j) sucht Fahrer in Köln, nicht in Hamburg. Keine Anzeige passt: x."
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l16",
-     "q": "Sie möchten wieder arbeiten und suchen einen Platz in der Kita für Ihr dreijähriges Kind.",
+     "q": "Sie möchten Ihre dreijährige Tochter tagsüber gut betreut wissen, damit Sie wieder arbeiten können.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Kita-Platz für ein Kind → e (Kinder von 1 bis 6 Jahren)."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l17",
-     "q": "Sie möchten Fotos für Ihre Bewerbung machen lassen.",
+     "q": "Für Ihre Bewerbung brauchen Sie heute noch ein Bild von sich.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Bewerbungsfotos → b."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l18",
-     "q": "Sie suchen eine günstige Monatskarte für den Weg zur Arbeit.",
+     "q": "Sie fahren jeden Tag mit Bus und Bahn zur Arbeit und wollen weniger bezahlen.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "Fahrkarte für den Arbeitsweg → h (Jobticket)."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l19",
-     "q": "Sie möchten abends einen Computerkurs für den Beruf besuchen.",
+     "q": "Sie wollen nach der Arbeit Ihre Kenntnisse im Umgang mit dem Computer verbessern.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Abendkurs für den Beruf → d (Excel und Word, abends)."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l20",
-     "q": "Sie möchten sich selbstständig machen und suchen Beratung.",
+     "q": "Sie haben eine Geschäftsidee und wissen nicht, wie Sie anfangen sollen.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Selbstständig machen → f (Gründerzentrum)."
+     "why": "Passt zu Anzeige f."
     }
    ]
   },

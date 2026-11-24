@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Fahrradladen Speiche: Reparaturen in 24 Stunden, Leihräder für Touristen ab 10 Euro pro Tag.</p><p><b>b</b>&nbsp; Mietwagen Sonne: Kleinwagen ab 29 Euro pro Tag, Kindersitze kostenlos, Abholung am Flughafen.</p><p><b>c</b>&nbsp; Reisebüro Weitblick: Last-Minute-Reisen nach Spanien, Griechenland und in die Türkei. Beratung auch am Samstag.</p><p><b>d</b>&nbsp; Fahrschule Sicher: Führerschein Klasse B, Intensivkurs in zwei Wochen, auch auf Englisch.</p><p><b>e</b>&nbsp; Taxi Müller: Flughafentransfer rund um die Uhr, Festpreis 45 Euro, Vorbestellung online möglich.</p><p><b>f</b>&nbsp; Koffer & Taschen Reisefreund: Koffer, Rucksäcke und Reiseadapter. Heute 20 Prozent auf alles.</p><p><b>g</b>&nbsp; Sprachreisen International: Deutsch in Wien, Englisch in London. Gruppenreisen für Jugendliche, Unterkunft in Gastfamilien.</p><p><b>h</b>&nbsp; Bahnhofsbuchhandlung: Reiseführer, Landkarten und Zeitungen aus aller Welt, täglich von 6 bis 22 Uhr.</p><p><b>i</b>&nbsp; Reiseversicherung Safe: Schutz bei Krankheit und Gepäckverlust im Ausland. Ab 19 Euro pro Reise.</p><p><b>j</b>&nbsp; Hotel am See: Familienzimmer mit Frühstück, Kinder bis 6 Jahre kostenlos. Direkt am Strand.</p><p><b>k</b>&nbsp; Busreisen Fischer: Tagesausflüge zum Schloss und in die Berge, Abfahrt jeden Sonntag um 8 Uhr.</p><p><b>l</b>&nbsp; Campingplatz Waldblick: Stellplätze für Zelt und Wohnwagen, Duschen und Restaurant vorhanden. Von Mai bis September geöffnet.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Fahrradservice Speiche: Reparatur an einem Tag. Wer sein Rad bis 9 Uhr bringt, bekommt es abends zurück. Leihräder für die Wartezeit gratis.</p><p><b>b</b>&nbsp; Mietwagen Sonne: Kleinwagen ab 29 Euro pro Tag, Kindersitze kostenlos.</p><p><b>c</b>&nbsp; Reisebüro Weitblick: Last-Minute-Reisen nach Spanien und Griechenland, Beratung ohne Termin.</p><p><b>d</b>&nbsp; Fahrschule Global: Führerschein-Ausbildung in Englisch, Türkisch und Russisch. Theorie in der eigenen Sprache.</p><p><b>e</b>&nbsp; Flughafen-Shuttle Nacht: Rund um die Uhr zum Festpreis vom Flughafen zu jeder Adresse in der Stadt. Buchung nicht nötig.</p><p><b>f</b>&nbsp; Kofferfabrik Outlet: Reisetaschen und Koffer aus der letzten Saison, bis zu 50 Prozent reduziert.</p><p><b>g</b>&nbsp; Sprachreisen Jugend: Zwei oder vier Wochen England, Unterkunft in einer Gastfamilie, mit Betreuung. Für Jugendliche von 14 bis 17 Jahren.</p><p><b>h</b>&nbsp; Bahnhofsbuchhandlung: Reiseführer, Landkarten und Zeitungen, täglich bis 22 Uhr.</p><p><b>i</b>&nbsp; Reiseversicherung Sicher Reisen: Krankenschutz im Ausland, ab 15 Euro pro Reise. Abschluss auch online.</p><p><b>j</b>&nbsp; Ferienhäuser Nordsee: Kleine Häuser direkt am Strand mit Platz für vier bis sechs Personen. Spielplatz und Kinderbetten vorhanden.</p><p><b>k</b>&nbsp; Bergbus Express: Sonntags Fahrten in die Alpen, Abfahrt 8 Uhr am Hauptbahnhof, Rückkehr gegen 19 Uhr. Preis 25 Euro.</p><p><b>l</b>&nbsp; Campingplatz Waldsee: Stellplätze für Zelte und Wohnmobile, Sanitär und Café am Platz. Ab 12 Euro pro Nacht.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie wollen mit der Familie in den Ferien am Meer wohnen, Ihre Kinder sind vier und sieben.",
+     "q": "Sie möchten mit Ihren zwei kleinen Kindern Urlaub am Strand machen und suchen dafür ein ganzes Haus.",
      "letters": "abcdefghijklx",
      "key": "j",
-     "why": "Familie, Kinder, Strand → j (Hotel am See)."
+     "why": "Passt zu Anzeige j."
     },
     {
      "id": "l12",
-     "q": "Sie landen nachts am Flughafen und brauchen eine Fahrt in die Stadt.",
+     "q": "Ihr Flugzeug landet um zwei Uhr morgens, und öffentliche Verkehrsmittel fahren dann nicht mehr.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Flughafentransfer rund um die Uhr → e."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l13",
-     "q": "Ihr Fahrrad ist kaputt, und Sie brauchen es schnell wieder.",
+     "q": "Ihr Rad hat einen Platten. Sie brauchen es morgen früh für die Arbeit.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Reparatur in 24 Stunden → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l14",
-     "q": "Sie möchten Ihre Tochter (16) für zwei Wochen zum Deutschlernen ins Ausland schicken.",
+     "q": "Ihre 16-jährige Tochter soll im Sommer ihr Englisch verbessern und in einer Familie wohnen.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Sprachreise für Jugendliche → g."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l15",
-     "q": "Sie fahren im Sommer in ein fremdes Land und möchten sich gegen Krankheit absichern.",
+     "q": "Sie reisen nächsten Monat nach Südamerika und haben Angst, im Ausland krank zu werden.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Reiseversicherung → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l16",
-     "q": "Sie möchten am Sonntag einen Ausflug in die Berge machen, haben aber kein Auto.",
+     "q": "Sie möchten am Wochenende die Berge sehen, aber Sie besitzen kein Auto.",
      "letters": "abcdefghijklx",
      "key": "k",
-     "why": "Busreise sonntags → k."
+     "why": "Passt zu Anzeige k."
     },
     {
      "id": "l17",
-     "q": "Sie brauchen für Ihre Reise einen neuen Koffer und möchten sparen.",
+     "q": "Ihre Reisetasche ist kaputt gegangen, und Sie wollen für eine neue nicht viel Geld ausgeben.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Koffer, 20 Prozent → f."
+     "why": "Passt zu Anzeige f."
     },
     {
      "id": "l18",
-     "q": "Sie möchten mit dem Zelt in den Urlaub fahren und suchen einen Platz.",
+     "q": "Sie fahren im Sommer mit Ihrem Zelt an einen See und brauchen einen Übernachtungsplatz.",
      "letters": "abcdefghijklx",
      "key": "l",
-     "why": "Campingplatz → l."
+     "why": "Passt zu Anzeige l."
     },
     {
      "id": "l19",
-     "q": "Sie möchten Ihren Führerschein in einer Fremdsprache machen.",
+     "q": "Sie sind aus Russland und möchten die Fahrprüfung in Ihrer Muttersprache vorbereiten.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Fahrschule, auch auf Englisch → d."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l20",
-     "q": "Sie suchen für den Winter einen Skiurlaub in den Alpen.",
+     "q": "Sie suchen für den Winter ein Hotel in den Bergen zum Skifahren.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Kein Skiangebot → x."
+     "why": "Keine Anzeige passt → x."
     }
    ]
   },

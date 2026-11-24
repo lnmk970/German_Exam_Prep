@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Handyshop Connect: Reparatur von Displays in 30 Minuten. Neue Handys ab 99 Euro, auch ohne Vertrag.</p><p><b>b</b>&nbsp; Computerhilfe Müller: Wir kommen zu Ihnen nach Hause! Hilfe bei Internet, Drucker und E-Mail. 25 Euro pro Stunde.</p><p><b>c</b>&nbsp; Buchhandlung Seitenweise: Bücher, Hörbücher und E-Reader. Lesungen jeden ersten Donnerstag im Monat.</p><p><b>d</b>&nbsp; Elektro Kaiser: Fernseher, Waschmaschinen und Kühlschränke. Lieferung und Aufbau kostenlos.</p><p><b>e</b>&nbsp; Foto Express: Fotos in einer Stunde, auch vom Smartphone. Fotobücher und Kalender zum Selbstgestalten.</p><p><b>f</b>&nbsp; Internetcafé Netz: Surfen für 2 Euro pro Stunde, Drucken und Scannen möglich. Geöffnet bis Mitternacht.</p><p><b>g</b>&nbsp; Radio Rhein: Das beste Programm für Ihre Stadt. Hören Sie uns jetzt auch als App.</p><p><b>h</b>&nbsp; Medienschule Klick: Kurse in Videoschnitt, Fotografie und Webdesign. Abendkurse ab 6 Personen.</p><p><b>i</b>&nbsp; Telefonanbieter FreeCall: Handytarif mit 10 GB für 9,99 Euro im Monat. Monatlich kündbar.</p><p><b>j</b>&nbsp; Gebrauchtmarkt Technik24: Gebrauchte Laptops mit einem Jahr Garantie. Ankauf Ihrer alten Geräte.</p><p><b>k</b>&nbsp; Kino Lichtblick: Aktuelle Filme, jeden Dienstag Kinotag. Kartenvorbestellung online.</p><p><b>l</b>&nbsp; Büro Fix: Druckerpatronen, Papier und Büromöbel. Online-Bestellung, Lieferung am nächsten Tag.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Handy-Reparatur Schnell: Display, Akku und Wasserschäden. Reparatur meist in 30 Minuten, ohne Termin.</p><p><b>b</b>&nbsp; Technikhilfe für Senioren: Wir kommen zu Ihnen nach Hause und helfen bei Computer, Drucker und Fernseher. Stundenpreis 25 Euro.</p><p><b>c</b>&nbsp; Hörbuchladen Ohrenschmaus: Tausende Titel zum Download oder auf CD, auch Klassiker und Krimis. Probehören im Laden.</p><p><b>d</b>&nbsp; Elektro-Markt Haushalt: Waschmaschinen und Trockner, Lieferung und Anschluss inklusive. Alte Geräte nehmen wir kostenlos mit.</p><p><b>e</b>&nbsp; Fotodruck Express: Ihr Urlaubsalbum als Buch mit festem Einband, in drei Tagen bei Ihnen. Bilder einfach im Internet hochladen.</p><p><b>f</b>&nbsp; Internetcafé Webpoint: Computer, Drucker und Scanner für 2 Euro pro Stunde. Täglich von 9 bis 21 Uhr geöffnet.</p><p><b>g</b>&nbsp; Radio Rhein: Das beste Programm für Ihre Stadt. Nachrichten, Verkehr und Musik rund um die Uhr.</p><p><b>h</b>&nbsp; Videoschnitt-Kurs: Wir zeigen, wie man Urlaubsvideos am Computer schneidet, mit Musik und Titel. Vier Abende, Programme sind vorhanden.</p><p><b>i</b>&nbsp; Prepaid-Tarif Mobil: Monatlich kündbar, ohne Vertragsbindung. Ab 9 Euro, mit Datenvolumen.</p><p><b>j</b>&nbsp; Computer-Börse Gebraucht: Laptops von Firmen, überprüft und mit sechs Monaten Garantie. Ab 120 Euro.</p><p><b>k</b>&nbsp; Kino Lichtblick: Aktuelle Filme, jeden Dienstag Kinotag, Karten online.</p><p><b>l</b>&nbsp; Büro Fix: Druckerpatronen, Papier und Büromöbel. Online-Bestellung, Lieferung am nächsten Tag.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Das Display Ihres Smartphones ist gebrochen, Sie brauchen es heute noch.",
+     "q": "Ihr Telefon ist Ihnen heruntergefallen, und der Bildschirm ist kaputt. Sie brauchen es noch am gleichen Tag.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Reparatur in 30 Minuten → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l12",
-     "q": "Ihr Opa hat Probleme mit seinem Drucker und kann nicht zu Ihnen kommen.",
+     "q": "Ihr Großvater kann seinen Fernseher und Drucker nicht bedienen, und er kann nicht ausgehen.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Hilfe zu Hause → b."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l13",
-     "q": "Sie möchten gern ein altes, aber funktionierendes Laptop günstig kaufen.",
+     "q": "Sie haben wenig Geld und brauchen einen Rechner, der auch gebraucht sein darf.",
      "letters": "abcdefghijklx",
      "key": "j",
-     "why": "Gebrauchte Laptops → j."
+     "why": "Passt zu Anzeige j."
     },
     {
      "id": "l14",
-     "q": "Sie möchten lernen, wie man Filme am Computer schneidet.",
+     "q": "Sie haben viele Aufnahmen von Ihrer Reise und möchten daraus einen kurzen Film machen.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "Videoschnitt → h."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l15",
-     "q": "Sie haben kein Internet zu Hause und müssen dringend eine Bewerbung ausdrucken.",
+     "q": "Zu Hause haben Sie keinen Internetzugang, aber Sie müssen noch heute Unterlagen ausdrucken.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Internetcafé → f."
+     "why": "Passt zu Anzeige f."
     },
     {
      "id": "l16",
-     "q": "Sie suchen einen günstigen Handytarif, den Sie schnell wieder kündigen können.",
+     "q": "Sie sind nur vier Monate in Deutschland und wollen einen Mobilfunkvertrag ohne lange Bindung.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Monatlich kündbar → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l17",
-     "q": "Sie möchten eine neue Waschmaschine, die zu Ihnen gebracht wird.",
+     "q": "Ihre Waschmaschine ist kaputt. Sie möchten ein neues Gerät, das Ihnen jemand anschließt.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Lieferung kostenlos → d."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l18",
-     "q": "Sie möchten Fotos von Ihrem Urlaub als Buch drucken.",
+     "q": "Sie haben hunderte Bilder aus dem Urlaub und möchten sie in gedruckter Form behalten.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Fotobücher → e."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l19",
-     "q": "Sie möchten Ihr Lieblingsbuch als Hörbuch kaufen.",
+     "q": "Sie lesen nicht gern, möchten aber Ihre Lieblingsgeschichte hören.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Hörbücher → c."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l20",
      "q": "Sie möchten Ihre alte Schreibmaschine verkaufen.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Nur Ankauf von Geräten, nicht Schreibmaschine; kein Angebot → x."
+     "why": "Keine Anzeige passt → x."
     }
    ]
   },

@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Helle 2-Zimmer-Wohnung mit Balkon, U-Bahn in drei Minuten zu Fuß, ab 1. März frei.</p><p><b>b</b>&nbsp; Umzugsteam Flink: Transporter mit zwei Helfern, auch samstags. Festpreis nach Besichtigung.</p><p><b>c</b>&nbsp; Sanitär-Notdienst Lenz: Rohrbruch, tropfende Wasserhähne, verstopfte Abflüsse. 24 Stunden, auch sonntags.</p><p><b>d</b>&nbsp; Sperrmüll-Abholung der Stadt: Wir holen Möbel und Geräte direkt vor der Haustür ab. Anmeldung online.</p><p><b>e</b>&nbsp; Möbelbörse Neu-Alt: Gebrauchte Möbel in gutem Zustand, Sofas ab 40 Euro. Lieferung möglich.</p><p><b>f</b>&nbsp; Garage zu vermieten, Bahnhofstraße 5, 60 Euro im Monat. Sofort frei.</p><p><b>g</b>&nbsp; Mieterverein: Beratung zu Mietvertrag, Nebenkosten und Kündigung. Dienstag und Donnerstag, für Mitglieder kostenlos.</p><p><b>h</b>&nbsp; Gemeinschaftsgarten „Grüne Hände“: Beete zu vergeben, Werkzeug vorhanden. Infos im Stadtteilzentrum.</p><p><b>i</b>&nbsp; Energieberatung der Stadtwerke: Kostenlose Tipps zum Heizen und Lüften, telefonisch oder vor Ort.</p><p><b>j</b>&nbsp; Hotel am See: Zimmer ab 59 Euro, Frühstück inklusive. Ruhige Lage.</p><p><b>k</b>&nbsp; Reisebüro Sonne: Flugreisen und Kreuzfahrten ab 199 Euro.</p><p><b>l</b>&nbsp; Baumarkt Heimwerker: Farben, Werkzeug, Gartengeräte. Montag bis Samstag 8 bis 20 Uhr.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Wohnungen am Stadtbahnhof: Zwei-Zimmer-Wohnungen mit Balkon, nur drei Minuten zur U-Bahn. Ab 650 Euro kalt, Einzug ab 1. Juli.</p><p><b>b</b>&nbsp; Umzug & Transport Schnell: Wir bringen Ihre Möbel mit Transporter und zwei Helfern ans Ziel. Auch am Wochenende, Festpreis ab 120 Euro.</p><p><b>c</b>&nbsp; Installateur Brandt: Rohre, Armaturen und Heizungen. Notdienst auch am Wochenende, Anfahrt in unter einer Stunde.</p><p><b>d</b>&nbsp; Sperrmüll-Abholung Stadtreinigung: Alte Möbel und Geräte werden kostenlos von Ihrer Wohnung abgeholt. Anmeldung online oder telefonisch.</p><p><b>e</b>&nbsp; Sozialkaufhaus Zweite Chance: Gut erhaltene gebrauchte Möbel und Hausrat schon ab 5 Euro. Lieferung gegen kleine Gebühr.</p><p><b>f</b>&nbsp; Parkhaus Hauptbahnhof: Tag und Nacht geöffnet. Für Pendler gibt es eine Monatskarte für 60 Euro, direkt am Bahnhof.</p><p><b>g</b>&nbsp; Mieterschutzverein: Wir prüfen Mietverträge und Nebenkostenabrechnungen. Beratung für Mitglieder kostenlos, Mitgliedschaft 5 Euro im Monat.</p><p><b>h</b>&nbsp; Gartenverein Grünes Eck: Hobbygärtner mieten bei uns kleine Beete und Gartenparzellen. Gemeinsames Gärtnern, Geräte sind vorhanden.</p><p><b>i</b>&nbsp; Energieberatung Stadtwerke: Wir zeigen Ihnen, wie Sie Heizkosten sparen, und prüfen Fenster und Heizung. Beratung für Mieter und Eigentümer kostenlos.</p><p><b>j</b>&nbsp; Hotel am See: Zimmer ab 59 Euro, Frühstück inklusive. Ruhige Lage, Terrasse mit Seeblick.</p><p><b>k</b>&nbsp; Reisebüro Sonne: Flugreisen und Kreuzfahrten ab 199 Euro, Beratung auch am Samstagvormittag.</p><p><b>l</b>&nbsp; Baumarkt Heimwerker: Farben, Werkzeug, Gartengeräte. Montag bis Samstag von 8 bis 20 Uhr.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie möchten im Garten Gemüse anbauen, haben aber selbst keinen Garten.",
+     "q": "Sie wohnen im vierten Stock und möchten trotzdem eigenes Gemüse und Kräuter anbauen.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "Gemüse anbauen ohne eigenen Garten → h (Gemeinschaftsgarten, Beete zu vergeben)."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l12",
-     "q": "Der Wasserhahn in Ihrer Küche tropft stark. Sie brauchen schnell einen Handwerker, auch am Sonntag.",
+     "q": "In Ihrer Küche läuft ständig Wasser aus dem Hahn. Sie brauchen jemanden, der heute noch kommt.",
      "letters": "abcdefghijklx",
      "key": "c",
-     "why": "Handwerker am Sonntag → c („24 Stunden, auch sonntags“)."
+     "why": "Passt zu Anzeige c."
     },
     {
      "id": "l13",
-     "q": "Sie suchen eine Wohnung mit Balkon in der Nähe der U-Bahn.",
+     "q": "Sie suchen eine neue Wohnung mit einem kleinen Außenbereich, von der Sie schnell in die Innenstadt kommen.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Balkon und U-Bahn → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l14",
-     "q": "Sie suchen eine Ferienwohnung am Meer für eine Woche im Sommer.",
+     "q": "Sie möchten für eine Woche im Sommer eine Ferienwohnung mit Küche am Meer mieten und selbst kochen.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Keine Anzeige bietet eine Ferienwohnung am Meer an: j ist ein Hotel am See, k ein Reisebüro. Also x."
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l15",
-     "q": "Sie suchen günstige gebrauchte Möbel für Ihre erste Wohnung.",
+     "q": "Sie ziehen zum ersten Mal von zu Hause aus und haben nur wenig Geld für Möbel.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Gebrauchte Möbel günstig → e („Sofas ab 40 Euro“)."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l16",
-     "q": "Sie möchten Ihren Mietvertrag von einem Fachmann prüfen lassen.",
+     "q": "Sie haben einen neuen Mietvertrag bekommen und sind nicht sicher, ob alle Punkte in Ordnung sind.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Mietvertrag prüfen lassen → g (Beratung zum Mietvertrag)."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l17",
-     "q": "Sie brauchen am Samstag zwei Umzugshelfer mit einem Transporter.",
+     "q": "Am Samstag zieht Ihre Schwester um. Sie brauchen Leute, die tragen, und ein Fahrzeug.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Umzug am Samstag → b (Transporter mit zwei Helfern, auch samstags)."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l18",
-     "q": "Ihre Wohnung ist im Winter zu kalt, und Sie möchten mehr über Energiesparen erfahren.",
+     "q": "Ihre Heizkosten sind sehr hoch. Sie wollen wissen, wie Sie in Ihrer Mietwohnung Geld sparen können.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Heizen und Energiesparen → i (Energieberatung, Tipps zum Heizen und Lüften)."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l19",
-     "q": "Sie möchten alte Möbel loswerden, haben aber kein Auto.",
+     "q": "Sie haben einen alten Schrank und ein Sofa, die Sie nicht mehr brauchen. Zum Entsorgen haben Sie keinen Wagen.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Möbel abholen lassen → d. Bei e werden Möbel verkauft, nicht abgeholt."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l20",
-     "q": "Sie suchen einen Parkplatz in der Nähe des Bahnhofs für Ihr Auto.",
+     "q": "Sie fahren jeden Tag mit dem Zug zur Arbeit und suchen für Ihr Auto einen Stellplatz in Bahnhofsnähe.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Parkplatz am Bahnhof → f (Garage in der Bahnhofstraße)."
+     "why": "Passt zu Anzeige f."
     }
    ]
   },

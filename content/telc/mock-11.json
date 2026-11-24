@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Umzugsservice Fix: Wir packen, laden und fahren. Festpreis ab 199 Euro. Auch am Wochenende.</p><p><b>b</b>&nbsp; Schlüsseldienst Rapid: Tag und Nacht für Sie da. Türen öffnen ab 59 Euro. Anfahrt kostenlos.</p><p><b>c</b>&nbsp; Stadtbibliothek: Neue Öffnungszeiten ab Montag: 10 bis 19 Uhr. Kinderlesen jeden Mittwoch.</p><p><b>d</b>&nbsp; Friseur Kamm: Herren ab 15 Euro, Damen ab 25 Euro. Ohne Termin von Dienstag bis Donnerstag.</p><p><b>e</b>&nbsp; Rechtsberatung Stein: Hilfe bei Mietproblemen, Arbeitsrecht und Verkehrsunfällen. Erstgespräch kostenlos.</p><p><b>f</b>&nbsp; Reinigung Frisch: Hemden, Anzüge, Gardinen. Abholung und Lieferung zu Ihnen nach Hause.</p><p><b>g</b>&nbsp; Immobilien Heim: Wohnungen in Neustadt, 2 bis 4 Zimmer, ab 650 Euro kalt. Besichtigung nach Termin.</p><p><b>h</b>&nbsp; Fahrradwerkstatt Kette: Inspektion für 29 Euro, Ersatzteile für alle Marken. Leihräder für Gäste.</p><p><b>i</b>&nbsp; Nachbarschaftshilfe Neustadt: Wir helfen älteren Menschen beim Einkaufen und bei Behördengängen. Kostenlos, ehrenamtlich.</p><p><b>j</b>&nbsp; Kfz-Werkstatt Auto-Doktor: TÜV, Ölwechsel, Reifenwechsel. Kostenvoranschlag am Telefon.</p><p><b>k</b>&nbsp; Deutsch-Kurse VHS: Integrationskurse und Prüfungsvorbereitung für Telc B1. Anmeldung bis 15. des Monats.</p><p><b>l</b>&nbsp; Hundeschule Pfote: Welpen- und Erwachsenenkurse am Wochenende. Probestunde gratis.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Möbeltaxi Schnell: Umzüge am Wochenende mit Transporter und zwei Trägern. Festpreise, Angebot in fünf Minuten am Telefon.</p><p><b>b</b>&nbsp; Schlüsseldienst Tag & Nacht: Wir öffnen Türen sofort, rund um die Uhr und ohne Schaden. Festpreis 79 Euro.</p><p><b>c</b>&nbsp; Stadtbibliothek: Neue Öffnungszeiten ab Montag: 10 bis 19 Uhr. Samstags bis 14 Uhr.</p><p><b>d</b>&nbsp; Friseur Schnittpunkt: Mittwochs ohne Termin, Haarschnitt 15 Euro, von 9 bis 18 Uhr.</p><p><b>e</b>&nbsp; Rechtsberatung Mieter: Streit mit dem Vermieter? Unsere Anwälte beraten Sie in der ersten halben Stunde kostenlos.</p><p><b>f</b>&nbsp; Reinigung Sauber & Schnell: Hemden und Anzüge werden abgeholt und am nächsten Tag zurückgebracht. Abholservice kostenlos ab 15 Euro.</p><p><b>g</b>&nbsp; Wohnungsgenossenschaft: Drei-Zimmer-Wohnungen für Familien, ab 780 Euro warm. Mitglied werden und sich bewerben.</p><p><b>h</b>&nbsp; Fahrradwerkstatt Kette: Inspektion für 29 Euro, Ersatzteile vorrätig.</p><p><b>i</b>&nbsp; Seniorenbegleitung Hand in Hand: Wir begleiten ältere Menschen zu Ämtern, Ärzten und Einkäufen. Stundenweise buchbar.</p><p><b>j</b>&nbsp; TÜV-Prüfstelle: Hauptuntersuchung für Autos und Motorräder. Termine montags bis samstags, auch ohne Voranmeldung möglich.</p><p><b>k</b>&nbsp; Sprachinstitut Prüfung: Vorbereitungskurse auf die B1-Prüfung. Probeprüfungen und Beratung zur Anmeldung.</p><p><b>l</b>&nbsp; Hundeschule Pfote: Welpen- und Erwachsenenkurse am Wochenende.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie ziehen am Wochenende um und haben viele Möbel.",
+     "q": "Am Samstag ziehen Sie um und besitzen ein großes Sofa und einen schweren Schrank.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Umzugsservice → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l12",
-     "q": "Sie haben sich ausgesperrt, es ist zwei Uhr nachts.",
+     "q": "Es ist zwei Uhr nachts, der Schlüssel liegt in Ihrer Wohnung, und Sie stehen draußen.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Schlüsseldienst → b."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l13",
-     "q": "Sie haben Streit mit Ihrem Vermieter und brauchen juristischen Rat.",
+     "q": "Ihr Vermieter will Ihnen die Miete erhöhen, und Sie sind nicht sicher, ob er das darf.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Rechtsberatung → e."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l14",
-     "q": "Sie suchen eine Wohnung mit drei Zimmern.",
+     "q": "Sie sind mit Frau und Kind in eine zu kleine Wohnung gezogen und suchen mehr Platz.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Immobilien → g."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l15",
-     "q": "Ihre Oma ist 82 und kann nicht mehr allein zur Behörde.",
+     "q": "Ihre Großmutter ist 82 und kann Ämter nicht mehr allein besuchen.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "Nachbarschaftshilfe → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l16",
-     "q": "Sie möchten sich auf die B1-Prüfung vorbereiten.",
+     "q": "Sie möchten Ihr Deutsch auf B1-Niveau prüfen lassen und möchten vorher üben.",
      "letters": "abcdefghijklx",
      "key": "k",
-     "why": "VHS-Deutschkurse → k."
+     "why": "Passt zu Anzeige k."
     },
     {
      "id": "l17",
-     "q": "Ihr Auto muss zum TÜV.",
+     "q": "Ihr Wagen muss zur Hauptuntersuchung, und Sie haben keinen Termin vereinbart.",
      "letters": "abcdefghijklx",
      "key": "j",
-     "why": "Kfz-Werkstatt → j."
+     "why": "Passt zu Anzeige j."
     },
     {
      "id": "l18",
-     "q": "Sie möchten Ihre Anzüge reinigen lassen, haben aber keine Zeit.",
+     "q": "Sie arbeiten viel und haben keine Zeit, Ihre Hemden zur Reinigung zu bringen.",
      "letters": "abcdefghijklx",
      "key": "f",
-     "why": "Abholung und Lieferung → f."
+     "why": "Passt zu Anzeige f."
     },
     {
      "id": "l19",
-     "q": "Sie möchten einen Haarschnitt ohne Termin am Mittwoch.",
+     "q": "Sie brauchen am Mittwoch einen neuen Haarschnitt, haben aber nicht gebucht.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Ohne Termin Di–Do → d."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l20",
      "q": "Sie suchen einen Kurs für Ihre Katze.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Nur Hundeschule → x."
+     "why": "Keine Anzeige passt → x."
     }
    ]
   },

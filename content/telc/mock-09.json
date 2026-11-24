@@ -109,77 +109,77 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Blumen Rose: Hochzeitsschmuck, Tischdekoration und Brautsträuße. Lieferung und Aufbau am Festtag.</p><p><b>b</b>&nbsp; Partyservice Lecker: Buffet für Geburtstage und Feiern ab 20 Personen. Auf Wunsch auch vegetarisch.</p><p><b>c</b>&nbsp; Fotostudio Moment: Familienfotos, Passbilder, Hochzeitsreportagen. Termin auch am Wochenende.</p><p><b>d</b>&nbsp; Babysitter-Vermittlung Kinderfreund: Geprüfte Betreuer für den Abend, auch kurzfristig. Ab 12 Euro pro Stunde.</p><p><b>e</b>&nbsp; Tanzschule Takt: Hochzeitskurs für Paare, Walzer und Discofox. Beginn jeden ersten Montag im Monat.</p><p><b>f</b>&nbsp; Geschenke & mehr: Karten, Geschenkpapier und kleine Aufmerksamkeiten zu jedem Anlass. Auch Gravuren.</p><p><b>g</b>&nbsp; Zimmer frei bei Familie Koch: Gästezimmer für Verwandte und Freunde, Frühstück inklusive, in der Altstadt.</p><p><b>h</b>&nbsp; Musik für Ihr Fest: DJ Alex spielt Pop, Schlager und Klassiker. Anlage und Licht inklusive.</p><p><b>i</b>&nbsp; Konditorei Süß: Torten für jeden Anlass, auch glutenfrei. Bestellung bitte drei Tage vorher.</p><p><b>j</b>&nbsp; Kostümverleih Maske: Kostüme für Karneval, Mottopartys und Theater. Für Kinder und Erwachsene.</p><p><b>k</b>&nbsp; Seniorentreff Sonnenschein: Kaffeenachmittage, Spielenachmittage und Ausflüge für Menschen ab 65.</p><p><b>l</b>&nbsp; Ferienlager am Waldsee: Zwei Wochen Natur und Sport für Kinder von 8 bis 14 Jahren. Betreuung rund um die Uhr.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Blumen Rosengarten: Hochzeitsschmuck, Tischgestecke und Brautsträuße. Unverbindliche Beratung in unserem Geschäft.</p><p><b>b</b>&nbsp; Catering Lecker: Buffets und Menüs für Familienfeiern ab 10 Personen. Wir liefern, bauen auf und räumen wieder ab.</p><p><b>c</b>&nbsp; Fotostudio Moment: Familienfotos, Passbilder und Hochzeitsreportagen, auch am Wochenende.</p><p><b>d</b>&nbsp; Kinderglück Vermittlung: Geprüfte Betreuer für den Abend oder das Wochenende, auch kurzfristig. Anruf bis 16 Uhr genügt.</p><p><b>e</b>&nbsp; Tanzschule Rhythmus: Hochzeitskurs für Paare an vier Samstagen. Walzer, Foxtrott und Discofox.</p><p><b>f</b>&nbsp; Geschenke & mehr: Karten, Geschenkpapier und kleine Aufmerksamkeiten für jeden Anlass.</p><p><b>g</b>&nbsp; Gästehaus Linde: Zimmer für Hochzeitsgäste und Familienbesuch, Frühstück inklusive. Zwei Gehminuten bis zum Festsaal.</p><p><b>h</b>&nbsp; DJ Partymix: Musik für Feste im Saal oder im Garten, mit eigener Anlage und Mikrofon. Preis ab 250 Euro.</p><p><b>i</b>&nbsp; Konditorei Sonnenschein: Torten für alle Gelegenheiten, auch glutenfrei und ohne Milch. Bestellung drei Tage vorher.</p><p><b>j</b>&nbsp; Kostümverleih Maske: Kostüme für Karneval, Mottopartys und Theater.</p><p><b>k</b>&nbsp; Seniorentreff Mittendrin: Jeden Donnerstag Kaffee, Spiele und Ausflüge für Menschen ab 65. Neue Gäste sind herzlich willkommen.</p><p><b>l</b>&nbsp; Sportlager Adler: Ferienfreizeit für Kinder von 9 bis 13 Jahren, eine Woche mit Fußball, Schwimmen und Klettern. Übernachtung im Zelt.</p></div>",
    "items": [
     {
      "id": "l11",
-     "q": "Sie heiraten im Sommer und möchten den Saal mit Blumen schmücken.",
+     "q": "Ihre Hochzeit ist im Juli. Der Festsaal soll mit frischen Pflanzen dekoriert werden.",
      "letters": "abcdefghijklx",
      "key": "a",
-     "why": "Hochzeitsschmuck → a."
+     "why": "Passt zu Anzeige a."
     },
     {
      "id": "l12",
-     "q": "Sie möchten für Ihren 40. Geburtstag das Essen nicht selbst kochen.",
+     "q": "Zu Ihrem runden Geburtstag kommen 30 Gäste, aber Sie haben keine Lust, selbst am Herd zu stehen.",
      "letters": "abcdefghijklx",
      "key": "b",
-     "why": "Partyservice → b."
+     "why": "Passt zu Anzeige b."
     },
     {
      "id": "l13",
-     "q": "Sie brauchen für Samstagabend schnell jemanden für die Kinder.",
+     "q": "Sie haben für Samstag spontan eine Einladung bekommen, und niemand kann auf Ihre Kinder aufpassen.",
      "letters": "abcdefghijklx",
      "key": "d",
-     "why": "Kurzfristige Betreuer → d."
+     "why": "Passt zu Anzeige d."
     },
     {
      "id": "l14",
-     "q": "Ihre Eltern sind 70 und möchten mehr Kontakt zu anderen Menschen.",
+     "q": "Ihre Eltern sind im Ruhestand und fühlen sich oft einsam.",
      "letters": "abcdefghijklx",
      "key": "k",
-     "why": "Seniorentreff → k."
+     "why": "Passt zu Anzeige k."
     },
     {
      "id": "l15",
-     "q": "Sie suchen einen Tanzkurs für Ihre Hochzeit.",
+     "q": "Ihr Hochzeitstag steht bevor, und Sie wollen mit Ihrem Partner dafür die Schritte lernen.",
      "letters": "abcdefghijklx",
      "key": "e",
-     "why": "Hochzeitskurs → e."
+     "why": "Passt zu Anzeige e."
     },
     {
      "id": "l16",
-     "q": "Ihre Tante kommt zur Feier aus dem Ausland und braucht eine Übernachtung.",
+     "q": "Verwandte aus Spanien reisen für die Feier an. Sie brauchen für sie ein Zimmer in der Nähe.",
      "letters": "abcdefghijklx",
      "key": "g",
-     "why": "Gästezimmer → g."
+     "why": "Passt zu Anzeige g."
     },
     {
      "id": "l17",
-     "q": "Sie möchten Ihr Kind (11) in den Ferien in ein Sportlager schicken.",
+     "q": "Ihr Sohn ist zehn und soll in den Sommerferien eine Woche lang Sport machen und mit anderen Kindern zusammen sein.",
      "letters": "abcdefghijklx",
      "key": "l",
-     "why": "Ferienlager → l."
+     "why": "Passt zu Anzeige l."
     },
     {
      "id": "l18",
-     "q": "Sie suchen eine Torte für Ihre Tochter, die kein Gluten verträgt.",
+     "q": "Ihre Tochter hat Geburtstag, darf aber kein Mehl aus Weizen essen.",
      "letters": "abcdefghijklx",
      "key": "i",
-     "why": "glutenfrei → i."
+     "why": "Passt zu Anzeige i."
     },
     {
      "id": "l19",
-     "q": "Sie brauchen Musik für Ihre Feier im Garten.",
+     "q": "Für Ihr Gartenfest am Abend fehlen noch Lautsprecher und jemand, der die Lieder aussucht.",
      "letters": "abcdefghijklx",
      "key": "h",
-     "why": "DJ → h."
+     "why": "Passt zu Anzeige h."
     },
     {
      "id": "l20",
-     "q": "Sie möchten einen Umzugswagen für das Wochenende mieten.",
+     "q": "Sie suchen einen Transporter, den Sie am Wochenende ausleihen können.",
      "letters": "abcdefghijklx",
      "key": "x",
-     "why": "Kein Umzugsangebot → x."
+     "why": "Keine Anzeige passt → x."
     }
    ]
   },
