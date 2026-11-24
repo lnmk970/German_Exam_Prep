@@ -1,1 +1,352 @@
-{"hoeren.mp3": [{"v": "de-DE-AmalaNeural", "t": "Teil eins. Sie hören jetzt fünf Personen, die ihre Meinung zu einem Thema sagen. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.", "p": 0.5, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "", "p": 30, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "Ich lese nur noch Nachrichten am Handy. Eine Zeitung hatte ich seit Jahren nicht mehr in der Hand. Das spart Papier und ist bequem, nur abends tun mir die Augen manchmal weh.", "p": 7, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Ich sehe fast jeden Abend fern. Nach der Arbeit will ich nicht mehr nachdenken. Am liebsten sehe ich Krimis. Computer benutze ich nur im Büro, zu Hause habe ich nicht einmal WLAN.", "p": 7, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen, im Zug. So lerne ich viel, ohne dass ich extra Zeit brauche. Fernsehen finde ich dagegen Zeitverschwendung.", "p": 7, "r": "-8%"}, {"v": "de-DE-KillianNeural", "t": "Ich bin viel in sozialen Netzwerken unterwegs. Ich poste Fotos von meinem Essen, und meine Freunde schreiben Kommentare. Manchmal vergesse ich dabei, richtig zu essen.", "p": 7, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Meine Kinder dürfen nur eine Stunde am Tag an den Computer. Wir haben das gemeinsam beschlossen. Am Anfang gab es Streit, aber jetzt spielen sie wieder mehr draußen.", "p": 7, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Das ist das Ende des Teils.", "p": 3.0, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "Teil zwei. Sie hören jetzt ein Interview. Sie hören den Text zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.", "p": 0.5, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "", "p": 60, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch wenn ich mit Freunden zusammen bin. Das hat mich gestört. Ich habe das Handy einfach abgegeben und ein altes Tastentelefon gekauft.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Und wie ist es Ihnen am Anfang gegangen?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Schwer. Ich habe oft aus Gewohnheit in die Tasche gegriffen. Nach etwa vier Wochen wurde es leichter. Ich konnte plötzlich im Zug wieder ein Buch lesen.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Gibt es Nachteile?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Natürlich. Ich habe keine Karte dabei, wenn ich mich verfahre, und ich kann keine Fahrkarten per App kaufen. Dafür frage ich dann Menschen nach dem Weg, das ist oft sehr nett.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Wie reagieren Ihre Schüler?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Zuerst haben sie gelacht. Jetzt finden viele es interessant. Ich spreche mit ihnen oft über die Frage, wie viel Zeit sie am Handy verbringen. Manche haben ihre Zeit schon reduziert.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Würden Sie anderen raten, es auch zu versuchen?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Nicht unbedingt für immer. Aber ich empfehle eine Woche Pause, zum Beispiel im Urlaub. Danach sieht man die Dinge klarer.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Benutzen Sie überhaupt keine Technik mehr?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Doch, am Computer in der Schule und zu Hause. Ich schreibe E-Mails und suche Informationen. Der Unterschied ist: Ich bin nicht mehr ständig erreichbar.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Und Ihre Familie?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Meine Frau hat sich daran gewöhnt. Wenn etwas Wichtiges ist, ruft sie mich an. Für Fotos der Kinder benutzen wir die Kamera. Sie macht schönere Bilder als jedes Handy.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1.5, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch wenn ich mit Freunden zusammen bin. Das hat mich gestört. Ich habe das Handy einfach abgegeben und ein altes Tastentelefon gekauft.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Und wie ist es Ihnen am Anfang gegangen?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Schwer. Ich habe oft aus Gewohnheit in die Tasche gegriffen. Nach etwa vier Wochen wurde es leichter. Ich konnte plötzlich im Zug wieder ein Buch lesen.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Gibt es Nachteile?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Natürlich. Ich habe keine Karte dabei, wenn ich mich verfahre, und ich kann keine Fahrkarten per App kaufen. Dafür frage ich dann Menschen nach dem Weg, das ist oft sehr nett.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Wie reagieren Ihre Schüler?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Zuerst haben sie gelacht. Jetzt finden viele es interessant. Ich spreche mit ihnen oft über die Frage, wie viel Zeit sie am Handy verbringen. Manche haben ihre Zeit schon reduziert.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Würden Sie anderen raten, es auch zu versuchen?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Nicht unbedingt für immer. Aber ich empfehle eine Woche Pause, zum Beispiel im Urlaub. Danach sieht man die Dinge klarer.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Benutzen Sie überhaupt keine Technik mehr?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Doch, am Computer in der Schule und zu Hause. Ich schreibe E-Mails und suche Informationen. Der Unterschied ist: Ich bin nicht mehr ständig erreichbar.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Und Ihre Familie?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Meine Frau hat sich daran gewöhnt. Wenn etwas Wichtiges ist, ruft sie mich an. Für Fotos der Kinder benutzen wir die Kamera. Sie macht schönere Bilder als jedes Handy.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Das ist das Ende des Teils.", "p": 3.0, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "Teil drei. Sie hören jetzt fünf kurze Ansagen. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.", "p": 0.5, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "", "p": 30, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Willkommen beim Kundenservice der Telefongesellschaft FreeCall. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins. Für technische Probleme drücken Sie die Zwei. Unsere Hotline ist montags bis freitags von acht bis zwanzig Uhr erreichbar.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Willkommen beim Kundenservice der Telefongesellschaft FreeCall. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins. Für technische Probleme drücken Sie die Zwei. Unsere Hotline ist montags bis freitags von acht bis zwanzig Uhr erreichbar.", "p": 7, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Guten Tag, hier spricht das Elektrogeschäft Kaiser. Ihr Fernseher ist da und kann ab sofort abgeholt werden. Wenn Sie eine Lieferung wünschen, rufen Sie uns bitte bis Freitag an. Die Lieferung ist ab hundert Euro Warenwert kostenlos.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-ConradNeural", "t": "Guten Tag, hier spricht das Elektrogeschäft Kaiser. Ihr Fernseher ist da und kann ab sofort abgeholt werden. Wenn Sie eine Lieferung wünschen, rufen Sie uns bitte bis Freitag an. Die Lieferung ist ab hundert Euro Warenwert kostenlos.", "p": 7, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Und nun die Verkehrsmeldungen. Auf der A 3 zwischen Köln und Frankfurt kommt es wegen eines Unfalls zu einem Stau von fünf Kilometern. Autofahrer sollten die Umleitung über Limburg nutzen.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "Und nun die Verkehrsmeldungen. Auf der A 3 zwischen Köln und Frankfurt kommt es wegen eines Unfalls zu einem Stau von fünf Kilometern. Autofahrer sollten die Umleitung über Limburg nutzen.", "p": 7, "r": "-8%"}, {"v": "de-DE-KillianNeural", "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Wunschkonzert. Wenn Sie ein Lied wünschen, schreiben Sie uns eine E-Mail oder rufen Sie während der Sendung an. Die Nummer finden Sie auf unserer Internetseite.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-KillianNeural", "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Wunschkonzert. Wenn Sie ein Lied wünschen, schreiben Sie uns eine E-Mail oder rufen Sie während der Sendung an. Die Nummer finden Sie auf unserer Internetseite.", "p": 7, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Hier ist der automatische Anrufbeantworter von Dr. Neumann. Die Praxis ist heute geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Notdienst unter der Nummer eins eins sechs, eins eins sieben.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Hier ist der automatische Anrufbeantworter von Dr. Neumann. Die Praxis ist heute geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Notdienst unter der Nummer eins eins sechs, eins eins sieben.", "p": 7, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Ende des Hörverstehens.", "p": 0.5, "r": "+0%"}], "hoeren_t1.mp3": [{"v": "de-DE-AmalaNeural", "t": "Teil eins. Sie hören jetzt fünf Personen, die ihre Meinung zu einem Thema sagen. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.", "p": 0.5, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "", "p": 30, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "Ich lese nur noch Nachrichten am Handy. Eine Zeitung hatte ich seit Jahren nicht mehr in der Hand. Das spart Papier und ist bequem, nur abends tun mir die Augen manchmal weh.", "p": 7, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Ich sehe fast jeden Abend fern. Nach der Arbeit will ich nicht mehr nachdenken. Am liebsten sehe ich Krimis. Computer benutze ich nur im Büro, zu Hause habe ich nicht einmal WLAN.", "p": 7, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen, im Zug. So lerne ich viel, ohne dass ich extra Zeit brauche. Fernsehen finde ich dagegen Zeitverschwendung.", "p": 7, "r": "-8%"}, {"v": "de-DE-KillianNeural", "t": "Ich bin viel in sozialen Netzwerken unterwegs. Ich poste Fotos von meinem Essen, und meine Freunde schreiben Kommentare. Manchmal vergesse ich dabei, richtig zu essen.", "p": 7, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Meine Kinder dürfen nur eine Stunde am Tag an den Computer. Wir haben das gemeinsam beschlossen. Am Anfang gab es Streit, aber jetzt spielen sie wieder mehr draußen.", "p": 7, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Das ist das Ende des Teils.", "p": 3.0, "r": "+0%"}], "hoeren_t2.mp3": [{"v": "de-DE-AmalaNeural", "t": "Teil zwei. Sie hören jetzt ein Interview. Sie hören den Text zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.", "p": 0.5, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "", "p": 60, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch wenn ich mit Freunden zusammen bin. Das hat mich gestört. Ich habe das Handy einfach abgegeben und ein altes Tastentelefon gekauft.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Und wie ist es Ihnen am Anfang gegangen?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Schwer. Ich habe oft aus Gewohnheit in die Tasche gegriffen. Nach etwa vier Wochen wurde es leichter. Ich konnte plötzlich im Zug wieder ein Buch lesen.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Gibt es Nachteile?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Natürlich. Ich habe keine Karte dabei, wenn ich mich verfahre, und ich kann keine Fahrkarten per App kaufen. Dafür frage ich dann Menschen nach dem Weg, das ist oft sehr nett.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Wie reagieren Ihre Schüler?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Zuerst haben sie gelacht. Jetzt finden viele es interessant. Ich spreche mit ihnen oft über die Frage, wie viel Zeit sie am Handy verbringen. Manche haben ihre Zeit schon reduziert.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Würden Sie anderen raten, es auch zu versuchen?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Nicht unbedingt für immer. Aber ich empfehle eine Woche Pause, zum Beispiel im Urlaub. Danach sieht man die Dinge klarer.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Benutzen Sie überhaupt keine Technik mehr?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Doch, am Computer in der Schule und zu Hause. Ich schreibe E-Mails und suche Informationen. Der Unterschied ist: Ich bin nicht mehr ständig erreichbar.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Und Ihre Familie?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Meine Frau hat sich daran gewöhnt. Wenn etwas Wichtiges ist, ruft sie mich an. Für Fotos der Kinder benutzen wir die Kamera. Sie macht schönere Bilder als jedes Handy.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1.5, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch wenn ich mit Freunden zusammen bin. Das hat mich gestört. Ich habe das Handy einfach abgegeben und ein altes Tastentelefon gekauft.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Und wie ist es Ihnen am Anfang gegangen?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Schwer. Ich habe oft aus Gewohnheit in die Tasche gegriffen. Nach etwa vier Wochen wurde es leichter. Ich konnte plötzlich im Zug wieder ein Buch lesen.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Gibt es Nachteile?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Natürlich. Ich habe keine Karte dabei, wenn ich mich verfahre, und ich kann keine Fahrkarten per App kaufen. Dafür frage ich dann Menschen nach dem Weg, das ist oft sehr nett.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Wie reagieren Ihre Schüler?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Zuerst haben sie gelacht. Jetzt finden viele es interessant. Ich spreche mit ihnen oft über die Frage, wie viel Zeit sie am Handy verbringen. Manche haben ihre Zeit schon reduziert.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Würden Sie anderen raten, es auch zu versuchen?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Nicht unbedingt für immer. Aber ich empfehle eine Woche Pause, zum Beispiel im Urlaub. Danach sieht man die Dinge klarer.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Benutzen Sie überhaupt keine Technik mehr?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Doch, am Computer in der Schule und zu Hause. Ich schreibe E-Mails und suche Informationen. Der Unterschied ist: Ich bin nicht mehr ständig erreichbar.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Und Ihre Familie?", "p": 0.6, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Meine Frau hat sich daran gewöhnt. Wenn etwas Wichtiges ist, ruft sie mich an. Für Fotos der Kinder benutzen wir die Kamera. Sie macht schönere Bilder als jedes Handy.", "p": 0.6, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Das ist das Ende des Teils.", "p": 3.0, "r": "+0%"}], "hoeren_t3.mp3": [{"v": "de-DE-AmalaNeural", "t": "Teil drei. Sie hören jetzt fünf kurze Ansagen. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.", "p": 0.5, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "", "p": 30, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Willkommen beim Kundenservice der Telefongesellschaft FreeCall. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins. Für technische Probleme drücken Sie die Zwei. Unsere Hotline ist montags bis freitags von acht bis zwanzig Uhr erreichbar.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Willkommen beim Kundenservice der Telefongesellschaft FreeCall. Wenn Sie Fragen zu Ihrer Rechnung haben, drücken Sie die Eins. Für technische Probleme drücken Sie die Zwei. Unsere Hotline ist montags bis freitags von acht bis zwanzig Uhr erreichbar.", "p": 7, "r": "-8%"}, {"v": "de-DE-ConradNeural", "t": "Guten Tag, hier spricht das Elektrogeschäft Kaiser. Ihr Fernseher ist da und kann ab sofort abgeholt werden. Wenn Sie eine Lieferung wünschen, rufen Sie uns bitte bis Freitag an. Die Lieferung ist ab hundert Euro Warenwert kostenlos.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-ConradNeural", "t": "Guten Tag, hier spricht das Elektrogeschäft Kaiser. Ihr Fernseher ist da und kann ab sofort abgeholt werden. Wenn Sie eine Lieferung wünschen, rufen Sie uns bitte bis Freitag an. Die Lieferung ist ab hundert Euro Warenwert kostenlos.", "p": 7, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Und nun die Verkehrsmeldungen. Auf der A 3 zwischen Köln und Frankfurt kommt es wegen eines Unfalls zu einem Stau von fünf Kilometern. Autofahrer sollten die Umleitung über Limburg nutzen.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-AmalaNeural", "t": "Und nun die Verkehrsmeldungen. Auf der A 3 zwischen Köln und Frankfurt kommt es wegen eines Unfalls zu einem Stau von fünf Kilometern. Autofahrer sollten die Umleitung über Limburg nutzen.", "p": 7, "r": "-8%"}, {"v": "de-DE-KillianNeural", "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Wunschkonzert. Wenn Sie ein Lied wünschen, schreiben Sie uns eine E-Mail oder rufen Sie während der Sendung an. Die Nummer finden Sie auf unserer Internetseite.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-KillianNeural", "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Wunschkonzert. Wenn Sie ein Lied wünschen, schreiben Sie uns eine E-Mail oder rufen Sie während der Sendung an. Die Nummer finden Sie auf unserer Internetseite.", "p": 7, "r": "-8%"}, {"v": "de-DE-KatjaNeural", "t": "Hier ist der automatische Anrufbeantworter von Dr. Neumann. Die Praxis ist heute geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Notdienst unter der Nummer eins eins sechs, eins eins sieben.", "p": 2, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Sie hören den Text noch einmal.", "p": 1, "r": "+0%"}, {"v": "de-DE-KatjaNeural", "t": "Hier ist der automatische Anrufbeantworter von Dr. Neumann. Die Praxis ist heute geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Notdienst unter der Nummer eins eins sechs, eins eins sieben.", "p": 7, "r": "-8%"}, {"v": "de-DE-AmalaNeural", "t": "Ende des Hörverstehens.", "p": 0.5, "r": "+0%"}]}
+{
+ "hoeren.mp3": [
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil eins. Sie hören jetzt fünf Personen, die ihre Meinung zu einem Thema sagen. Sie hören jeden Text einmal. Lesen Sie zuerst die Aufgaben eins bis fünf. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ich lese nur noch Nachrichten am Handy. Eine Zeitung habe ich seit Jahren nicht mehr gekauft. Ich finde es praktisch, dass ich unterwegs in der Bahn alles lesen kann. Aber ich weiß, dass ich dadurch oft nur die Überschriften sehe.",
+   "p": 16,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich sehe fast jeden Abend fern. Nach der Arbeit will ich einfach abschalten und mich berieseln lassen. Am liebsten schaue ich Krimis, aber Nachrichten interessieren mich nicht.",
+   "p": 16,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen und im Auto. Dabei lerne ich viel über Geschichte und Wirtschaft. Nur bei sehr langen Folgen schlafe ich manchmal ein.",
+   "p": 16,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Ich bin viel in sozialen Netzwerken unterwegs, aber nur beruflich. Privat habe ich keine Profile, weil mir das zu viel Zeit nimmt. Ich telefoniere lieber mit Freunden.",
+   "p": 16,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Meine Kinder dürfen nur eine Stunde am Tag an den Computer oder das Handy. Anfangs gab es viel Streit, aber inzwischen akzeptieren sie die Regel. Dafür spielen sie mehr draußen und lesen mehr.",
+   "p": 16,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil zwei. Sie hören jetzt ein Interview. Sie hören den Text zweimal. Lesen Sie zuerst die Aufgaben sechs bis fünfzehn. Dafür haben Sie eine Minute.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 60,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie haben Sie die erste Zeit erlebt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Schwer. In den ersten Wochen habe ich ständig in die Tasche gegriffen. Ich fühlte mich auch abgeschnitten, weil ich im Klassenchat nichts mehr mitbekam. Jetzt weiß ich, dass das nicht so schlimm ist.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was gewinnen Sie?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zeit. Ich lese wieder Bücher, ich gehe öfter spazieren, und abends bin ich nicht mehr so unruhig. Außerdem sehe ich viel mehr von meiner Umgebung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie kommen Sie ohne Smartphone zurecht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es auch Nachteile?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja. Manche Dinge gehen nur noch mit App, zum Beispiel das Parken in der Innenstadt. Und die Kollegen sind manchmal genervt, wenn sie mir etwas schicken wollen und ich nicht antworte.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was sagen Ihre Schüler dazu?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würden Sie wieder ein Smartphone kaufen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 1.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Herr Braun, Sie haben seit zwei Jahren kein Smartphone mehr. Wie kam es dazu?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ich habe gemerkt, dass ich ständig auf das Display schaue, auch beim Essen mit der Familie. Meine Tochter hat gesagt: Papa, du bist nie da. Das hat mich getroffen. Also habe ich mir ein einfaches Handy gekauft, mit dem man nur telefonieren kann.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie haben Sie die erste Zeit erlebt?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Schwer. In den ersten Wochen habe ich ständig in die Tasche gegriffen. Ich fühlte mich auch abgeschnitten, weil ich im Klassenchat nichts mehr mitbekam. Jetzt weiß ich, dass das nicht so schlimm ist.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was gewinnen Sie?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Zeit. Ich lese wieder Bücher, ich gehe öfter spazieren, und abends bin ich nicht mehr so unruhig. Außerdem sehe ich viel mehr von meiner Umgebung.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Wie kommen Sie ohne Smartphone zurecht?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Besser, als ich dachte. Für die Navigation benutze ich eine Karte oder frage Passanten. Fahrkarten kaufe ich am Automaten, und Termine schreibe ich in einen Kalender aus Papier.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Gibt es auch Nachteile?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Ja. Manche Dinge gehen nur noch mit App, zum Beispiel das Parken in der Innenstadt. Und die Kollegen sind manchmal genervt, wenn sie mir etwas schicken wollen und ich nicht antworte.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Was sagen Ihre Schüler dazu?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Sie finden es komisch, aber auch interessant. Manche haben mich gefragt, ob sie es auch versuchen können. Zwei Schüler haben es tatsächlich eine Woche lang probiert.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Würden Sie wieder ein Smartphone kaufen?",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Wahrscheinlich irgendwann, wenn es für den Alltag nötig wird. Aber dann würde ich klare Regeln aufstellen: keine Nutzung beim Essen und im Schlafzimmer.",
+   "p": 0.6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Das ist das Ende des Teils.",
+   "p": 3.0,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Teil drei. Sie hören jetzt fünf kurze Ansagen. Sie hören jeden Text zweimal. Lesen Sie zuerst die Aufgaben sechzehn bis zwanzig. Dafür haben Sie dreißig Sekunden.",
+   "p": 0.5,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "",
+   "p": 30,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
+   "p": 5,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 1,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
+   "p": 6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
+   "p": 5,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 1,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-ConradNeural",
+   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
+   "p": 6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
+   "p": 5,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 1,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
+   "p": 6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
+   "p": 5,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 1,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KillianNeural",
+   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
+   "p": 6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
+   "p": 5,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Sie hören den Text noch einmal.",
+   "p": 1,
+   "r": "+0%"
+  },
+  {
+   "v": "de-DE-KatjaNeural",
+   "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
+   "p": 6,
+   "r": "-8%"
+  },
+  {
+   "v": "de-DE-AmalaNeural",
+   "t": "Ende des Hörverstehens.",
+   "p": 0.5,
+   "r": "+0%"
+  }
+ ]
+}
