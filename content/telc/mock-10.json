@@ -5,7 +5,7 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Wegen einer technischen Störung können viele Kunden seit gestern Abend nicht ins Internet. Betroffen sind vor allem die Stadtteile im Norden. Techniker arbeiten an der Reparatur, eine genaue Zeit für das Ende der Probleme gibt es noch nicht. Der Anbieter bittet um Geduld und empfiehlt, bei dringenden Anliegen die Hotline anzurufen, die rund um die Uhr erreichbar ist.</p><p><b>2</b>&nbsp; Mit der neuen App können Sie Ihre Fahrkarte auf dem Smartphone kaufen und müssen nicht mehr am Automaten anstehen. Die App zeigt die nächsten Abfahrten an und rechnet den günstigsten Preis aus. Bezahlt wird per Kreditkarte oder Lastschrift. Der Kontrolleur scannt einfach den Code auf dem Display. Die App ist kostenlos erhältlich.</p><p><b>3</b>&nbsp; Viele Jugendliche verbringen mehr als vier Stunden am Tag mit ihrem Handy. Eine neue Studie zeigt, dass sie dadurch schlechter schlafen und sich schwerer konzentrieren können. Die Forscher empfehlen feste Zeiten ohne Bildschirm, zum Beispiel beim Essen und eine Stunde vor dem Schlafengehen. Eltern sollten dabei selbst ein Vorbild sein.</p><p><b>4</b>&nbsp; Unser Kurs „Computer für Senioren“ beginnt am 5. Oktober. Er richtet sich an alle, die noch keine Erfahrung mit dem Computer haben. An acht Nachmittagen lernen Sie, E-Mails zu schreiben, im Internet zu suchen und Fotos zu verschicken. Die Gruppe ist klein, die Lehrer sind geduldig. Kosten: 40 Euro. Bitte melden Sie sich im Seniorenbüro an.</p><p><b>5</b>&nbsp; Vorsicht bei E-Mails von angeblichen Banken! Betrüger verschicken derzeit Nachrichten, in denen sie Kunden auffordern, ihre Kontodaten einzugeben, weil das Konto angeblich gesperrt wird. Die echte Bank fragt nie per E-Mail nach Passwörtern. Wer eine solche Nachricht bekommt, sollte nicht auf den Link klicken und die Mail löschen. Im Zweifel hilft die Verbraucherzentrale.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Gefahr durch Betrug im Postfach<br><b>b</b>&nbsp; Einstieg in die digitale Welt für Ältere<br><b>c</b>&nbsp; Empfehlung: Mehr Zeit ohne Technik<br><b>d</b>&nbsp; Netzausfall im Stadtgebiet<br><b>e</b>&nbsp; Ticketkauf von unterwegs<br><b>f</b>&nbsp; Neue Geräte im Test<br><b>g</b>&nbsp; Rekord bei Einkäufen im Netz<br><b>h</b>&nbsp; Zeitung wird teurer<br><b>i</b>&nbsp; Gratis-WLAN im Stadtzentrum<br><b>j</b>&nbsp; Radio für Hörer jeden Alters</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Wegen einer technischen Störung können viele Kunden seit gestern Abend nicht ins Internet. Betroffen sind vor allem die Stadtteile im Norden. Techniker arbeiten an der Reparatur, eine genaue Zeit für das Ende der Probleme gibt es noch nicht. Der Anbieter bittet um Geduld und empfiehlt, bei dringenden Anliegen die Hotline anzurufen, die rund um die Uhr erreichbar ist.</p><p><b>2</b>&nbsp; Der Vermieter hat angekündigt, dass im Mai das Treppenhaus des Wohnblocks in der Lindenstraße gestrichen wird. Die Arbeiten dauern etwa zwei Wochen. Die Bewohner sollen in dieser Zeit ihre Fahrräder und Schuhschränke aus dem Flur entfernen. Auch das Geländer wird erneuert. Die Miete bleibt unverändert.</p><p><b>3</b>&nbsp; Viele Jugendliche verbringen mehr als vier Stunden am Tag mit ihrem Handy. Eine neue Studie zeigt, dass sie dadurch schlechter schlafen und sich schwerer konzentrieren können. Die Forscher empfehlen feste Zeiten ohne Bildschirm, zum Beispiel beim Essen und eine Stunde vor dem Schlafengehen. Eltern sollten dabei selbst ein Vorbild sein.</p><p><b>4</b>&nbsp; Die Stadt baut in der Siedlung am Fluss 40 neue Wohnungen mit niedriger Miete. Sie sind für Familien mit kleinem Einkommen bestimmt. Interessenten müssen sich bis Ende Juni im Rathaus bewerben und ihr Gehalt nachweisen. Die Auswahl erfolgt im Juli, im Herbst können die ersten Mieter einziehen.</p><p><b>5</b>&nbsp; Vorsicht bei E-Mails von angeblichen Banken! Betrüger verschicken derzeit Nachrichten, in denen sie Kunden auffordern, ihre Kontodaten einzugeben, weil das Konto angeblich gesperrt wird. Die echte Bank fragt nie per E-Mail nach Passwörtern. Wer eine solche Nachricht bekommt, sollte nicht auf den Link klicken und die Mail löschen. Im Zweifel hilft die Verbraucherzentrale.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Gefahr durch Betrug im Postfach<br><b>b</b>&nbsp; Bezahlbarer Wohnraum für Familien<br><b>c</b>&nbsp; Empfehlung: Mehr Zeit ohne Technik<br><b>d</b>&nbsp; Netzausfall im Stadtgebiet<br><b>e</b>&nbsp; Frische Farbe für das Haus<br><b>f</b>&nbsp; Neue Geräte im Test<br><b>g</b>&nbsp; Rekord bei Einkäufen im Netz<br><b>h</b>&nbsp; Zeitung wird teurer<br><b>i</b>&nbsp; Gratis-WLAN im Stadtzentrum<br><b>j</b>&nbsp; Radio für Hörer jeden Alters</div>",
    "items": [
     {
      "id": "l1",
@@ -19,7 +19,7 @@
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Passt zu „Ticketkauf von unterwegs“."
+     "why": "Passt zu „Frische Farbe für das Haus“."
     },
     {
      "id": "l3",
@@ -33,7 +33,7 @@
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Passt zu „Einstieg in die digitale Welt für Ältere“."
+     "why": "Passt zu „Bezahlbarer Wohnraum für Familien“."
     },
     {
      "id": "l5",
@@ -109,7 +109,7 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Handy-Reparatur Schnell: Display, Akku und Wasserschäden. Reparatur meist in 30 Minuten, ohne Termin.</p><p><b>b</b>&nbsp; Technikhilfe für Senioren: Wir kommen zu Ihnen nach Hause und helfen bei Computer, Drucker und Fernseher. Stundenpreis 25 Euro.</p><p><b>c</b>&nbsp; Hörbuchladen Ohrenschmaus: Tausende Titel zum Download oder auf CD, auch Klassiker und Krimis. Probehören im Laden.</p><p><b>d</b>&nbsp; Elektro-Markt Haushalt: Waschmaschinen und Trockner, Lieferung und Anschluss inklusive. Alte Geräte nehmen wir kostenlos mit.</p><p><b>e</b>&nbsp; Fotodruck Express: Ihr Urlaubsalbum als Buch mit festem Einband, in drei Tagen bei Ihnen. Bilder einfach im Internet hochladen.</p><p><b>f</b>&nbsp; Internetcafé Webpoint: Computer, Drucker und Scanner für 2 Euro pro Stunde. Täglich von 9 bis 21 Uhr geöffnet.</p><p><b>g</b>&nbsp; Radio Rhein: Das beste Programm für Ihre Stadt. Nachrichten, Verkehr und Musik rund um die Uhr.</p><p><b>h</b>&nbsp; Videoschnitt-Kurs: Wir zeigen, wie man Urlaubsvideos am Computer schneidet, mit Musik und Titel. Vier Abende, Programme sind vorhanden.</p><p><b>i</b>&nbsp; Prepaid-Tarif Mobil: Monatlich kündbar, ohne Vertragsbindung. Ab 9 Euro, mit Datenvolumen.</p><p><b>j</b>&nbsp; Computer-Börse Gebraucht: Laptops von Firmen, überprüft und mit sechs Monaten Garantie. Ab 120 Euro.</p><p><b>k</b>&nbsp; Kino Lichtblick: Aktuelle Filme, jeden Dienstag Kinotag, Karten online.</p><p><b>l</b>&nbsp; Büro Fix: Druckerpatronen, Papier und Büromöbel. Online-Bestellung, Lieferung am nächsten Tag.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Handy-Reparatur Schnell: Display, Akku und Wasserschäden. Reparatur meist in 30 Minuten, ohne Termin.</p><p><b>b</b>&nbsp; Notdienst Heizung & Sanitär: 24 Stunden täglich erreichbar. Wir reparieren Heizungen und Rohre sofort, auch nachts und am Wochenende.</p><p><b>c</b>&nbsp; Hörbuchladen Ohrenschmaus: Tausende Titel zum Download oder auf CD, auch Klassiker und Krimis. Probehören im Laden.</p><p><b>d</b>&nbsp; Elektro-Markt Haushalt: Waschmaschinen und Trockner, Lieferung und Anschluss inklusive. Alte Geräte nehmen wir kostenlos mit.</p><p><b>e</b>&nbsp; Optiker Klarblick: Kostenloser Sehtest, danach Beratung zu Brillen und Kontaktlinsen. Montags bis freitags von 9 bis 18 Uhr.</p><p><b>f</b>&nbsp; Internetcafé Webpoint: Computer, Drucker und Scanner für 2 Euro pro Stunde. Täglich von 9 bis 21 Uhr geöffnet.</p><p><b>g</b>&nbsp; Radio Rhein: Das beste Programm für Ihre Stadt. Nachrichten, Verkehr und Musik rund um die Uhr.</p><p><b>h</b>&nbsp; Videoschnitt-Kurs: Wir zeigen, wie man Urlaubsvideos am Computer schneidet, mit Musik und Titel. Vier Abende, Programme sind vorhanden.</p><p><b>i</b>&nbsp; Prepaid-Tarif Mobil: Monatlich kündbar, ohne Vertragsbindung. Ab 9 Euro, mit Datenvolumen.</p><p><b>j</b>&nbsp; Wohnungsbörse Altstadt: Kleine Wohnungen und Apartments im Zentrum, ab 450 Euro warm. Besichtigungen nach Vereinbarung.</p><p><b>k</b>&nbsp; Kino Lichtblick: Aktuelle Filme, jeden Dienstag Kinotag, Karten online.</p><p><b>l</b>&nbsp; Büro Fix: Druckerpatronen, Papier und Büromöbel. Online-Bestellung, Lieferung am nächsten Tag.</p></div>",
    "items": [
     {
      "id": "l11",
@@ -120,14 +120,14 @@
     },
     {
      "id": "l12",
-     "q": "Ihr Großvater kann seinen Fernseher und Drucker nicht bedienen, und er kann nicht ausgehen.",
+     "q": "Mitten in der Nacht wird es in Ihrer Wohnung kalt, weil die Heizung nicht mehr funktioniert.",
      "letters": "abcdefghijklx",
      "key": "b",
      "why": "Passt zu Anzeige b."
     },
     {
      "id": "l13",
-     "q": "Sie haben wenig Geld und brauchen einen Rechner, der auch gebraucht sein darf.",
+     "q": "Sie möchten allein wohnen und suchen im Stadtzentrum eine Wohnung mit niedriger Miete.",
      "letters": "abcdefghijklx",
      "key": "j",
      "why": "Passt zu Anzeige j."
@@ -162,7 +162,7 @@
     },
     {
      "id": "l18",
-     "q": "Sie haben hunderte Bilder aus dem Urlaub und möchten sie in gedruckter Form behalten.",
+     "q": "Sie sehen schlecht und wissen nicht, ob Sie eine neue Brille brauchen.",
      "letters": "abcdefghijklx",
      "key": "e",
      "why": "Passt zu Anzeige e."
@@ -512,7 +512,7 @@
     },
     {
      "id": "h17",
-     "q": "Die Waschmaschine wird am nächsten Tag geliefert.",
+     "q": "Die Miete wird um fünfzig Euro teurer.",
      "tf": true,
      "key": "f",
      "why": "Falsch: im Text steht etwas anderes."
@@ -526,7 +526,7 @@
     },
     {
      "id": "h19",
-     "q": "Die Hörer können sich an dem Gespräch beteiligen.",
+     "q": "Die Apotheke ist auch nachts erreichbar.",
      "tf": true,
      "key": "r",
      "why": "Richtig."
@@ -623,7 +623,7 @@
     ],
     [
      "Ansage 2",
-     "<p>Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.</p>"
+     "<p>Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.</p>"
     ],
     [
      "Ansage 3",
@@ -631,7 +631,7 @@
     ],
     [
      "Ansage 4",
-     "<p>Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.</p>"
+     "<p>Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.</p>"
     ],
     [
      "Ansage 5",
@@ -913,7 +913,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
+   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
    "p": 5,
    "r": "-8%"
   },
@@ -925,7 +925,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
+   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
    "p": 15,
    "r": "-8%"
   },
@@ -949,7 +949,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
+   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
    "p": 5,
    "r": "-8%"
   },
@@ -961,7 +961,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
+   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
    "p": 15,
    "r": "-8%"
   },

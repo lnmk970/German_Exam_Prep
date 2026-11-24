@@ -5,7 +5,7 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Hausverwaltung informiert: Am Mittwoch wird die Wasserleitung im Haus repariert. Zwischen 8 und 12 Uhr ist deshalb kein Wasser vorhanden. Bitte füllen Sie rechtzeitig Eimer oder Flaschen. Auch die Toiletten können in dieser Zeit nicht benutzt werden. Sollte es länger dauern, wird ein Zettel im Treppenhaus aufgehängt.</p><p><b>2</b>&nbsp; Im Hof des Hauses Nummer 12 gibt es ab Mai einen Gemeinschaftsgarten. Alle Mieter dürfen dort Salat, Tomaten und Kräuter anbauen. Die Beete werden von der Hausverwaltung angelegt, Erde und Samen sind kostenlos. Wer mitmachen möchte, trägt sich auf der Liste im Eingang ein. Das erste Treffen ist am 3. Mai um 17 Uhr.</p><p><b>3</b>&nbsp; Wegen der Straßenarbeiten ist die Hauptstraße bis Ende August zwischen Marktplatz und Bahnhof nur in einer Richtung befahrbar. Autofahrer werden über die Gartenstraße umgeleitet. Die Haltestellen der Buslinie 5 werden verlegt. Fußgänger können den Gehweg weiter benutzen. Anwohner dürfen bis zu den Häusern fahren.</p><p><b>4</b>&nbsp; Die Stadtwerke bitten alle Haushalte, ihren Stromzählerstand bis zum 15. Dezember mitzuteilen. Das geht telefonisch, auf der Internetseite oder mit der Postkarte, die in diesen Tagen im Briefkasten liegt. Wer nichts meldet, bekommt eine geschätzte Rechnung, die höher oder niedriger sein kann als der tatsächliche Verbrauch.</p><p><b>5</b>&nbsp; Der Mieterverein bietet jeden ersten Montag im Monat von 17 bis 19 Uhr eine kostenlose Sprechstunde an. Juristen beantworten Fragen zu Miete, Nebenkosten, Kündigung und Mängeln in der Wohnung. Bitte Unterlagen wie den Mietvertrag mitbringen. Eine Anmeldung ist nicht nötig, Mitglieder haben Vorrang.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Fachleute helfen bei Streit mit dem Vermieter<br><b>b</b>&nbsp; Aufforderung an Kunden zur Ablesung<br><b>c</b>&nbsp; Pflanzen und Ernten mit den Nachbarn<br><b>d</b>&nbsp; Verkehr wird umgeleitet<br><b>e</b>&nbsp; Unterbrechung der Versorgung am Vormittag<br><b>f</b>&nbsp; Preissenkung bei der Energie<br><b>g</b>&nbsp; Mehr Mülltonnen für das Haus<br><b>h</b>&nbsp; Rollstuhlgerechte Wohnungen im Neubau<br><b>i</b>&nbsp; Streit wegen Lärm im Treppenhaus<br><b>j</b>&nbsp; Neue Buslinie zum Bahnhof</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Hausverwaltung informiert: Am Mittwoch wird die Wasserleitung im Haus repariert. Zwischen 8 und 12 Uhr ist deshalb kein Wasser vorhanden. Bitte füllen Sie rechtzeitig Eimer oder Flaschen. Auch die Toiletten können in dieser Zeit nicht benutzt werden. Sollte es länger dauern, wird ein Zettel im Treppenhaus aufgehängt.</p><p><b>2</b>&nbsp; Mit dem neuen Deutschlandticket können Sie für 49 Euro im Monat in ganz Deutschland alle Busse, Straßenbahnen und Regionalzüge nutzen. Das Ticket gibt es nur als Abonnement, es lässt sich jeden Monat kündigen. Man kann es per App oder im Kundenzentrum kaufen. Für Fernzüge wie den ICE gilt es nicht.</p><p><b>3</b>&nbsp; Wegen der Straßenarbeiten ist die Hauptstraße bis Ende August zwischen Marktplatz und Bahnhof nur in einer Richtung befahrbar. Autofahrer werden über die Gartenstraße umgeleitet. Die Haltestellen der Buslinie 5 werden verlegt. Fußgänger können den Gehweg weiter benutzen. Anwohner dürfen bis zu den Häusern fahren.</p><p><b>4</b>&nbsp; Ab dem 1. Juni dürfen Fahrräder in den Zügen der Regionalbahn kostenlos mitgenommen werden, auch zu Stoßzeiten. Bisher war das morgens und am späten Nachmittag verboten. Die Bahn hat dafür zusätzliche Plätze eingerichtet. Wer sein Fahrrad mitnimmt, muss es selbst sichern. In überfüllten Zügen kann das Personal die Mitnahme ablehnen.</p><p><b>5</b>&nbsp; Der Mieterverein bietet jeden ersten Montag im Monat von 17 bis 19 Uhr eine kostenlose Sprechstunde an. Juristen beantworten Fragen zu Miete, Nebenkosten, Kündigung und Mängeln in der Wohnung. Bitte Unterlagen wie den Mietvertrag mitbringen. Eine Anmeldung ist nicht nötig, Mitglieder haben Vorrang.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Fachleute helfen bei Streit mit dem Vermieter<br><b>b</b>&nbsp; Neue Regeln für Radfahrer<br><b>c</b>&nbsp; Ein Preis für viele Fahrten<br><b>d</b>&nbsp; Verkehr wird umgeleitet<br><b>e</b>&nbsp; Unterbrechung der Versorgung am Vormittag<br><b>f</b>&nbsp; Preissenkung bei der Energie<br><b>g</b>&nbsp; Mehr Mülltonnen für das Haus<br><b>h</b>&nbsp; Rollstuhlgerechte Wohnungen im Neubau<br><b>i</b>&nbsp; Streit wegen Lärm im Treppenhaus<br><b>j</b>&nbsp; Neue Buslinie zum Bahnhof</div>",
    "items": [
     {
      "id": "l1",
@@ -19,7 +19,7 @@
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "c",
-     "why": "Passt zu „Pflanzen und Ernten mit den Nachbarn“."
+     "why": "Passt zu „Ein Preis für viele Fahrten“."
     },
     {
      "id": "l3",
@@ -33,7 +33,7 @@
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Passt zu „Aufforderung an Kunden zur Ablesung“."
+     "why": "Passt zu „Neue Regeln für Radfahrer“."
     },
     {
      "id": "l5",
@@ -109,7 +109,7 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Wohnungen am Stadtbahnhof: Zwei-Zimmer-Wohnungen mit Balkon, nur drei Minuten zur U-Bahn. Ab 650 Euro kalt, Einzug ab 1. Juli.</p><p><b>b</b>&nbsp; Umzug & Transport Schnell: Wir bringen Ihre Möbel mit Transporter und zwei Helfern ans Ziel. Auch am Wochenende, Festpreis ab 120 Euro.</p><p><b>c</b>&nbsp; Installateur Brandt: Rohre, Armaturen und Heizungen. Notdienst auch am Wochenende, Anfahrt in unter einer Stunde.</p><p><b>d</b>&nbsp; Sperrmüll-Abholung Stadtreinigung: Alte Möbel und Geräte werden kostenlos von Ihrer Wohnung abgeholt. Anmeldung online oder telefonisch.</p><p><b>e</b>&nbsp; Sozialkaufhaus Zweite Chance: Gut erhaltene gebrauchte Möbel und Hausrat schon ab 5 Euro. Lieferung gegen kleine Gebühr.</p><p><b>f</b>&nbsp; Parkhaus Hauptbahnhof: Tag und Nacht geöffnet. Für Pendler gibt es eine Monatskarte für 60 Euro, direkt am Bahnhof.</p><p><b>g</b>&nbsp; Mieterschutzverein: Wir prüfen Mietverträge und Nebenkostenabrechnungen. Beratung für Mitglieder kostenlos, Mitgliedschaft 5 Euro im Monat.</p><p><b>h</b>&nbsp; Gartenverein Grünes Eck: Hobbygärtner mieten bei uns kleine Beete und Gartenparzellen. Gemeinsames Gärtnern, Geräte sind vorhanden.</p><p><b>i</b>&nbsp; Energieberatung Stadtwerke: Wir zeigen Ihnen, wie Sie Heizkosten sparen, und prüfen Fenster und Heizung. Beratung für Mieter und Eigentümer kostenlos.</p><p><b>j</b>&nbsp; Hotel am See: Zimmer ab 59 Euro, Frühstück inklusive. Ruhige Lage, Terrasse mit Seeblick.</p><p><b>k</b>&nbsp; Reisebüro Sonne: Flugreisen und Kreuzfahrten ab 199 Euro, Beratung auch am Samstagvormittag.</p><p><b>l</b>&nbsp; Baumarkt Heimwerker: Farben, Werkzeug, Gartengeräte. Montag bis Samstag von 8 bis 20 Uhr.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Wohnungen am Stadtbahnhof: Zwei-Zimmer-Wohnungen mit Balkon, nur drei Minuten zur U-Bahn. Ab 650 Euro kalt, Einzug ab 1. Juli.</p><p><b>b</b>&nbsp; Umzug & Transport Schnell: Wir bringen Ihre Möbel mit Transporter und zwei Helfern ans Ziel. Auch am Wochenende, Festpreis ab 120 Euro.</p><p><b>c</b>&nbsp; Flughafen-Shuttle Nacht: Rund um die Uhr zum Festpreis vom Flughafen zu jeder Adresse in der Stadt. Buchung nicht nötig.</p><p><b>d</b>&nbsp; Sperrmüll-Abholung Stadtreinigung: Alte Möbel und Geräte werden kostenlos von Ihrer Wohnung abgeholt. Anmeldung online oder telefonisch.</p><p><b>e</b>&nbsp; Reiseversicherung Sicher Reisen: Krankenschutz im Ausland, ab 15 Euro pro Reise. Abschluss auch online.</p><p><b>f</b>&nbsp; Parkhaus Hauptbahnhof: Tag und Nacht geöffnet. Für Pendler gibt es eine Monatskarte für 60 Euro, direkt am Bahnhof.</p><p><b>g</b>&nbsp; Mieterschutzverein: Wir prüfen Mietverträge und Nebenkostenabrechnungen. Beratung für Mitglieder kostenlos, Mitgliedschaft 5 Euro im Monat.</p><p><b>h</b>&nbsp; Gartenverein Grünes Eck: Hobbygärtner mieten bei uns kleine Beete und Gartenparzellen. Gemeinsames Gärtnern, Geräte sind vorhanden.</p><p><b>i</b>&nbsp; Campingplatz Waldsee: Stellplätze für Zelte und Wohnmobile, Sanitär und Café am Platz. Ab 12 Euro pro Nacht.</p><p><b>j</b>&nbsp; Hotel am See: Zimmer ab 59 Euro, Frühstück inklusive. Ruhige Lage, Terrasse mit Seeblick.</p><p><b>k</b>&nbsp; Reisebüro Sonne: Flugreisen und Kreuzfahrten ab 199 Euro, Beratung auch am Samstagvormittag.</p><p><b>l</b>&nbsp; Baumarkt Heimwerker: Farben, Werkzeug, Gartengeräte. Montag bis Samstag von 8 bis 20 Uhr.</p></div>",
    "items": [
     {
      "id": "l11",
@@ -120,7 +120,7 @@
     },
     {
      "id": "l12",
-     "q": "In Ihrer Küche läuft ständig Wasser aus dem Hahn. Sie brauchen jemanden, der heute noch kommt.",
+     "q": "Ihr Flugzeug landet um zwei Uhr morgens, und öffentliche Verkehrsmittel fahren dann nicht mehr.",
      "letters": "abcdefghijklx",
      "key": "c",
      "why": "Passt zu Anzeige c."
@@ -141,7 +141,7 @@
     },
     {
      "id": "l15",
-     "q": "Sie ziehen zum ersten Mal von zu Hause aus und haben nur wenig Geld für Möbel.",
+     "q": "Sie reisen nächsten Monat nach Südamerika und haben Angst, im Ausland krank zu werden.",
      "letters": "abcdefghijklx",
      "key": "e",
      "why": "Passt zu Anzeige e."
@@ -162,7 +162,7 @@
     },
     {
      "id": "l18",
-     "q": "Ihre Heizkosten sind sehr hoch. Sie wollen wissen, wie Sie in Ihrer Mietwohnung Geld sparen können.",
+     "q": "Sie fahren im Sommer mit Ihrem Zelt an einen See und brauchen einen Übernachtungsplatz.",
      "letters": "abcdefghijklx",
      "key": "i",
      "why": "Passt zu Anzeige i."
@@ -512,7 +512,7 @@
     },
     {
      "id": "h17",
-     "q": "Der Strom fällt am Vormittag aus.",
+     "q": "Der Zug fährt vom gleichen Gleis wie sonst ab.",
      "tf": true,
      "key": "f",
      "why": "Falsch: im Text steht etwas anderes."
@@ -526,7 +526,7 @@
     },
     {
      "id": "h19",
-     "q": "Herr Schulte ist auch in den nächsten Tagen noch nicht im Büro.",
+     "q": "Es gibt Ersatz für den gesperrten Parkplatz.",
      "tf": true,
      "key": "r",
      "why": "Richtig."
@@ -623,7 +623,7 @@
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird der Strom in der Altstadt von dreizehn bis fünfzehn Uhr abgeschaltet. Betroffen sind die Straßen rund um den Marktplatz.</p>"
+     "<p>Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.</p>"
     ],
     [
      "Ansage 3",
@@ -631,7 +631,7 @@
     ],
     [
      "Ansage 4",
-     "<p>Hier ist die Mailbox von Herrn Schulte. Ich bin bis zum fünfzehnten Mai im Urlaub und danach wieder erreichbar. In dringenden Fällen wenden Sie sich bitte an meine Kollegin Frau Weiß.</p>"
+     "<p>Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.</p>"
     ],
     [
      "Ansage 5",
@@ -889,7 +889,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird der Strom in der Altstadt von dreizehn bis fünfzehn Uhr abgeschaltet. Betroffen sind die Straßen rund um den Marktplatz.",
+   "t": "Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.",
    "p": 5,
    "r": "-8%"
   },
@@ -901,7 +901,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage der Stadtwerke: Am Donnerstag wird der Strom in der Altstadt von dreizehn bis fünfzehn Uhr abgeschaltet. Betroffen sind die Straßen rund um den Marktplatz.",
+   "t": "Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.",
    "p": 15,
    "r": "-8%"
   },
@@ -925,7 +925,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Mailbox von Herrn Schulte. Ich bin bis zum fünfzehnten Mai im Urlaub und danach wieder erreichbar. In dringenden Fällen wenden Sie sich bitte an meine Kollegin Frau Weiß.",
+   "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.",
    "p": 5,
    "r": "-8%"
   },
@@ -937,7 +937,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist die Mailbox von Herrn Schulte. Ich bin bis zum fünfzehnten Mai im Urlaub und danach wieder erreichbar. In dringenden Fällen wenden Sie sich bitte an meine Kollegin Frau Weiß.",
+   "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.",
    "p": 15,
    "r": "-8%"
   },

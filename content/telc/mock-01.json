@@ -5,7 +5,7 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Firma Technik Plus aus Ulm sucht zum 1. April einen Mitarbeiter für den Kundendienst. Sie besuchen unsere Kunden, reparieren Geräte direkt vor Ort und beraten bei Neukäufen. Sie sollten gut Deutsch und Englisch sprechen und die Fahrerlaubnis Klasse B besitzen. Die Arbeitszeit ist von 8 bis 16 Uhr, ein Dienstwagen steht zur Verfügung. Bewerbungen bitte per E-Mail.</p><p><b>2</b>&nbsp; Ab dem nächsten Monat müssen Beschäftigte der Stadtverwaltung nicht mehr jeden Tag ins Rathaus kommen. An zwei Tagen pro Woche dürfen sie ihre Aufgaben daheim erledigen, wenn der Vorgesetzte zustimmt. Den Antrag muss man bis Ende des Monats abgeben. Laptop und Telefon stellt die Verwaltung. Der Personalrat begrüßt die Regelung, weil sie Fahrtzeit spart.</p><p><b>3</b>&nbsp; Wer mit 40 oder 50 noch einmal von vorn anfangen möchte, ist nicht allein. Immer mehr Menschen suchen in dieser Lebensphase eine neue Aufgabe. Die Agentur für Arbeit unterstützt sie mit einer kostenlosen Beratung und mit Kursen, die auf einen anderen Beruf vorbereiten. Einen Termin kann man telefonisch oder im Internet vereinbaren. Die Plätze sind begrenzt.</p><p><b>4</b>&nbsp; In der Pflege und im Handwerk fehlen schon lange qualifizierte Leute. Die Regierung will deshalb, dass Zeugnisse aus dem Ausland schneller geprüft werden. Bisher dauert das Verfahren oft ein Jahr oder länger, künftig soll es höchstens drei Monate dauern. Dann können Zuwanderer früher in ihrem erlernten Beruf arbeiten. Die Wirtschaft begrüßt den Plan.</p><p><b>5</b>&nbsp; Auch am Mittwoch fahren in der Stadt kaum Busse und Bahnen. Die Beschäftigten der Verkehrsbetriebe legen die Arbeit weiter nieder. Sie verlangen mehr Geld und kürzere Arbeitszeiten. Die Arbeitgeber haben bisher kein neues Angebot vorgelegt, Gespräche sind nicht geplant. Fahrgäste sollen sich im Internet über Ersatzangebote informieren.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Neuanfang in der Lebensmitte<br><b>b</b>&nbsp; Arbeitsplatz für Praktiker mit Auto<br><b>c</b>&nbsp; Kein Ende des Konflikts im Nahverkehr<br><b>d</b>&nbsp; Mehr Flexibilität im Rathaus<br><b>e</b>&nbsp; Ausländische Fachleute kommen schneller in Arbeit<br><b>f</b>&nbsp; Ausbildungsplatz für Techniker frei<br><b>g</b>&nbsp; Lohnerhöhung für Beschäftigte der Bahn<br><b>h</b>&nbsp; Seminar zu Bewerbungen für Berufsanfänger<br><b>i</b>&nbsp; Neue Regeln für Zeitarbeit<br><b>j</b>&nbsp; Betriebsfest abgesagt</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Firma Technik Plus aus Ulm sucht zum 1. April einen Mitarbeiter für den Kundendienst. Sie besuchen unsere Kunden, reparieren Geräte direkt vor Ort und beraten bei Neukäufen. Sie sollten gut Deutsch und Englisch sprechen und die Fahrerlaubnis Klasse B besitzen. Die Arbeitszeit ist von 8 bis 16 Uhr, ein Dienstwagen steht zur Verfügung. Bewerbungen bitte per E-Mail.</p><p><b>2</b>&nbsp; Das Stadtfest findet am ersten Juliwochenende statt. Auf drei Bühnen spielen lokale Bands, es gibt Stände mit Essen und Spielen für Kinder. Am Samstagabend endet das Fest mit einem Feuerwerk. Der Eintritt ist frei. Die Innenstadt ist für Autos gesperrt, Parkplätze gibt es am Stadion mit Pendelbus.</p><p><b>3</b>&nbsp; Wer mit 40 oder 50 noch einmal von vorn anfangen möchte, ist nicht allein. Immer mehr Menschen suchen in dieser Lebensphase eine neue Aufgabe. Die Agentur für Arbeit unterstützt sie mit einer kostenlosen Beratung und mit Kursen, die auf einen anderen Beruf vorbereiten. Einen Termin kann man telefonisch oder im Internet vereinbaren. Die Plätze sind begrenzt.</p><p><b>4</b>&nbsp; Wer seine Oma oder seinen Opa im Pflegeheim besuchen möchte, kann dies täglich zwischen 10 und 18 Uhr tun. Besucher müssen sich am Empfang eintragen. Kinder sind willkommen, sollten aber nicht allein kommen. In der Cafeteria können Gäste und Bewohner gemeinsam Kaffee trinken. Lebensmittel bitte vorher mit dem Personal abstimmen.</p><p><b>5</b>&nbsp; Auch am Mittwoch fahren in der Stadt kaum Busse und Bahnen. Die Beschäftigten der Verkehrsbetriebe legen die Arbeit weiter nieder. Sie verlangen mehr Geld und kürzere Arbeitszeiten. Die Arbeitgeber haben bisher kein neues Angebot vorgelegt, Gespräche sind nicht geplant. Fahrgäste sollen sich im Internet über Ersatzangebote informieren.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Neuanfang in der Lebensmitte<br><b>b</b>&nbsp; Arbeitsplatz für Praktiker mit Auto<br><b>c</b>&nbsp; Kein Ende des Konflikts im Nahverkehr<br><b>d</b>&nbsp; Ein Wochenende voller Unterhaltung<br><b>e</b>&nbsp; Regeln für Verwandtenbesuche<br><b>f</b>&nbsp; Ausbildungsplatz für Techniker frei<br><b>g</b>&nbsp; Lohnerhöhung für Beschäftigte der Bahn<br><b>h</b>&nbsp; Seminar zu Bewerbungen für Berufsanfänger<br><b>i</b>&nbsp; Neue Regeln für Zeitarbeit<br><b>j</b>&nbsp; Betriebsfest abgesagt</div>",
    "items": [
     {
      "id": "l1",
@@ -19,7 +19,7 @@
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Passt zu „Mehr Flexibilität im Rathaus“."
+     "why": "Passt zu „Ein Wochenende voller Unterhaltung“."
     },
     {
      "id": "l3",
@@ -33,7 +33,7 @@
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Passt zu „Ausländische Fachleute kommen schneller in Arbeit“."
+     "why": "Passt zu „Regeln für Verwandtenbesuche“."
     },
     {
      "id": "l5",
@@ -109,7 +109,7 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Sprachschule Lingua: Deutsch für den Arbeitsalltag in Pflege, Handwerk und Büro. Kurse montags und mittwochs ab 18.30 Uhr, Prüfung inklusive.</p><p><b>b</b>&nbsp; Zeitarbeit Schnell: Wir vermitteln Aushilfen für Lager und Produktion, auch ohne Erfahrung. Tarifliche Bezahlung, Arbeitsbeginn schon nächste Woche möglich.</p><p><b>c</b>&nbsp; Übersetzungsbüro Wort: Zeugnisse, Urkunden und Verträge werden von vereidigten Übersetzern bearbeitet und amtlich beglaubigt. Fertig in drei Werktagen.</p><p><b>d</b>&nbsp; Bewerbungshilfe Karriere: Wir prüfen Ihre Unterlagen und üben mit Ihnen das Gespräch mit dem Personalchef. Das erste Treffen ist kostenlos.</p><p><b>e</b>&nbsp; Büromöbel Ergo: Rückenfreundliche Stühle und elektrisch verstellbare Schreibtische für den Arbeitsplatz zu Hause. Lieferung innerhalb von zwei Tagen.</p><p><b>f</b>&nbsp; Gründerzentrum Start: Wir beraten Sie auf dem Weg in die eigene Firma. Büros und Werkstätten mieten Sie ab 99 Euro pro Monat, Internet inklusive.</p><p><b>g</b>&nbsp; Steuerberater Lehmann: Wir erledigen Ihre Steuererklärung und die Lohnabrechnung, für Angestellte, Rentner und Freiberufler. Erstgespräch kostenlos.</p><p><b>h</b>&nbsp; Kita Zwergenland: Kinder von 1 bis 6 Jahren werden bei uns von 6 bis 18 Uhr betreut. Ab Mai gibt es noch freie Plätze.</p><p><b>i</b>&nbsp; Weiterbildung Digital: Online-Kurse zu Excel, Programmieren und Gestaltung von Internetseiten. Man lernt, wann man will, und erhält ein Zertifikat.</p><p><b>j</b>&nbsp; Handwerkskammer: Beratung zu Lehrstellen und zur Meisterprüfung im Handwerk. Sprechstunde jeden Dienstag von 9 bis 12 Uhr.</p><p><b>k</b>&nbsp; Umschulung Pflege: Eine neue Karriere in der Altenpflege! Unterricht in der Schule und Praxis im Heim. Schon während der Ausbildung gibt es Gehalt.</p><p><b>l</b>&nbsp; Jobbörse Online: Mehr als 10.000 Stellenangebote aus Ihrer Umgebung, jeden Tag aktualisiert. Registrierung kostenlos.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Sprachschule Lingua: Deutsch für den Arbeitsalltag in Pflege, Handwerk und Büro. Kurse montags und mittwochs ab 18.30 Uhr, Prüfung inklusive.</p><p><b>b</b>&nbsp; Zeitarbeit Schnell: Wir vermitteln Aushilfen für Lager und Produktion, auch ohne Erfahrung. Tarifliche Bezahlung, Arbeitsbeginn schon nächste Woche möglich.</p><p><b>c</b>&nbsp; Übersetzungsbüro Wort: Zeugnisse, Urkunden und Verträge werden von vereidigten Übersetzern bearbeitet und amtlich beglaubigt. Fertig in drei Werktagen.</p><p><b>d</b>&nbsp; Bewerbungshilfe Karriere: Wir prüfen Ihre Unterlagen und üben mit Ihnen das Gespräch mit dem Personalchef. Das erste Treffen ist kostenlos.</p><p><b>e</b>&nbsp; Catering Lecker: Buffets und Menüs für Familienfeiern ab 10 Personen. Wir liefern, bauen auf und räumen wieder ab.</p><p><b>f</b>&nbsp; Gründerzentrum Start: Wir beraten Sie auf dem Weg in die eigene Firma. Büros und Werkstätten mieten Sie ab 99 Euro pro Monat, Internet inklusive.</p><p><b>g</b>&nbsp; Steuerberater Lehmann: Wir erledigen Ihre Steuererklärung und die Lohnabrechnung, für Angestellte, Rentner und Freiberufler. Erstgespräch kostenlos.</p><p><b>h</b>&nbsp; Kita Zwergenland: Kinder von 1 bis 6 Jahren werden bei uns von 6 bis 18 Uhr betreut. Ab Mai gibt es noch freie Plätze.</p><p><b>i</b>&nbsp; Tanzschule Rhythmus: Hochzeitskurs für Paare an vier Samstagen. Walzer, Foxtrott und Discofox.</p><p><b>j</b>&nbsp; Handwerkskammer: Beratung zu Lehrstellen und zur Meisterprüfung im Handwerk. Sprechstunde jeden Dienstag von 9 bis 12 Uhr.</p><p><b>k</b>&nbsp; Konditorei Sonnenschein: Torten für alle Gelegenheiten, auch glutenfrei und ohne Milch. Bestellung drei Tage vorher.</p><p><b>l</b>&nbsp; Jobbörse Online: Mehr als 10.000 Stellenangebote aus Ihrer Umgebung, jeden Tag aktualisiert. Registrierung kostenlos.</p></div>",
    "items": [
     {
      "id": "l11",
@@ -120,7 +120,7 @@
     },
     {
      "id": "l12",
-     "q": "Sie arbeiten seit einem Jahr zu Hause am Computer und haben oft Schmerzen im Kreuz.",
+     "q": "Zu Ihrem runden Geburtstag kommen 30 Gäste, aber Sie haben keine Lust, selbst am Herd zu stehen.",
      "letters": "abcdefghijklx",
      "key": "e",
      "why": "Passt zu Anzeige e."
@@ -141,7 +141,7 @@
     },
     {
      "id": "l15",
-     "q": "Sie möchten Ihr Wissen über die Gestaltung von Internetseiten erweitern, können aber nur nachts lernen.",
+     "q": "Ihr Hochzeitstag steht bevor, und Sie wollen mit Ihrem Partner dafür die Schritte lernen.",
      "letters": "abcdefghijklx",
      "key": "i",
      "why": "Passt zu Anzeige i."
@@ -162,7 +162,7 @@
     },
     {
      "id": "l18",
-     "q": "Sie möchten in der Betreuung alter Menschen arbeiten und können nicht ohne Einkommen lernen.",
+     "q": "Ihre Tochter hat Geburtstag, darf aber kein Mehl aus Weizen essen.",
      "letters": "abcdefghijklx",
      "key": "k",
      "why": "Passt zu Anzeige k."
@@ -512,7 +512,7 @@
     },
     {
      "id": "h17",
-     "q": "Der Film beginnt später als sonst.",
+     "q": "Das Fest beginnt später als geplant.",
      "tf": true,
      "key": "f",
      "why": "Falsch: im Text steht etwas anderes."
@@ -526,7 +526,7 @@
     },
     {
      "id": "h19",
-     "q": "Am Samstag ist das Wetter im Süden besser als im Norden.",
+     "q": "Die Trauzeugen sollen etwas früher kommen als das Brautpaar.",
      "tf": true,
      "key": "r",
      "why": "Richtig."
@@ -623,7 +623,7 @@
     ],
     [
      "Ansage 2",
-     "<p>Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.</p>"
+     "<p>Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.</p>"
     ],
     [
      "Ansage 3",
@@ -631,7 +631,7 @@
     ],
     [
      "Ansage 4",
-     "<p>Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.</p>"
+     "<p>Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.</p>"
     ],
     [
      "Ansage 5",
@@ -913,7 +913,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
+   "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
    "p": 5,
    "r": "-8%"
   },
@@ -925,7 +925,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
+   "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
    "p": 15,
    "r": "-8%"
   },
@@ -949,7 +949,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
+   "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
    "p": 5,
    "r": "-8%"
   },
@@ -961,7 +961,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
+   "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
    "p": 15,
    "r": "-8%"
   },

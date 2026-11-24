@@ -5,7 +5,7 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Praxis von Dr. Hahn bleibt wegen eines Umbaus am Freitag, dem 6. Mai, für einen Tag geschlossen. Es geht um Arbeiten an der Elektrik. Patienten mit einem Termin an diesem Tag werden telefonisch informiert und bekommen einen neuen. In dringenden Fällen hilft die Vertretung in der Bahnhofstraße 5, Telefon 4 55 10.</p><p><b>2</b>&nbsp; Der Vermieter hat angekündigt, dass im Mai das Treppenhaus des Wohnblocks in der Lindenstraße gestrichen wird. Die Arbeiten dauern etwa zwei Wochen. Die Bewohner sollen in dieser Zeit ihre Fahrräder und Schuhschränke aus dem Flur entfernen. Auch das Geländer wird erneuert. Die Miete bleibt unverändert.</p><p><b>3</b>&nbsp; Im Winter sind viele Menschen erkältet. Wer Husten und eine laufende Nase hat, sollte viel trinken, sich ausruhen und nicht gleich zum Arzt gehen. Warmer Tee, Inhalieren und frische Luft helfen oft schon. Nur bei hohem Fieber oder wenn die Beschwerden länger als eine Woche dauern, ist ein Arztbesuch sinnvoll. Antibiotika helfen bei Viren nicht.</p><p><b>4</b>&nbsp; Die Stadt baut in der Siedlung am Fluss 40 neue Wohnungen mit niedriger Miete. Sie sind für Familien mit kleinem Einkommen bestimmt. Interessenten müssen sich bis Ende Juni im Rathaus bewerben und ihr Gehalt nachweisen. Die Auswahl erfolgt im Juli, im Herbst können die ersten Mieter einziehen.</p><p><b>5</b>&nbsp; Wer schlecht schläft, ist tagsüber müde und nervös. Forscher haben herausgefunden, dass immer mehr Deutsche weniger als sechs Stunden pro Nacht schlafen. Experten raten, abends nicht mehr auf das Handy zu schauen, das Schlafzimmer kühl zu halten und jeden Tag zur gleichen Zeit ins Bett zu gehen. Wer trotzdem nicht einschlafen kann, sollte mit dem Arzt sprechen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Vorübergehend keine Sprechstunde<br><b>b</b>&nbsp; Bezahlbarer Wohnraum für Familien<br><b>c</b>&nbsp; Ruhige Nächte durch gute Gewohnheiten<br><b>d</b>&nbsp; Frische Farbe für das Haus<br><b>e</b>&nbsp; Richtig reagieren bei Winterkrankheiten<br><b>f</b>&nbsp; Neue Praxis im Stadtzentrum eröffnet<br><b>g</b>&nbsp; Wohnungen werden teurer<br><b>h</b>&nbsp; Grippeimpfung ab Oktober<br><b>i</b>&nbsp; Mieter streiten über Lärm<br><b>j</b>&nbsp; Mehr Sport gegen Rückenschmerzen</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Die Praxis von Dr. Hahn bleibt wegen eines Umbaus am Freitag, dem 6. Mai, für einen Tag geschlossen. Es geht um Arbeiten an der Elektrik. Patienten mit einem Termin an diesem Tag werden telefonisch informiert und bekommen einen neuen. In dringenden Fällen hilft die Vertretung in der Bahnhofstraße 5, Telefon 4 55 10.</p><p><b>2</b>&nbsp; Mit der neuen App können Sie Ihre Fahrkarte auf dem Smartphone kaufen und müssen nicht mehr am Automaten anstehen. Die App zeigt die nächsten Abfahrten an und rechnet den günstigsten Preis aus. Bezahlt wird per Kreditkarte oder Lastschrift. Der Kontrolleur scannt einfach den Code auf dem Display. Die App ist kostenlos erhältlich.</p><p><b>3</b>&nbsp; Im Winter sind viele Menschen erkältet. Wer Husten und eine laufende Nase hat, sollte viel trinken, sich ausruhen und nicht gleich zum Arzt gehen. Warmer Tee, Inhalieren und frische Luft helfen oft schon. Nur bei hohem Fieber oder wenn die Beschwerden länger als eine Woche dauern, ist ein Arztbesuch sinnvoll. Antibiotika helfen bei Viren nicht.</p><p><b>4</b>&nbsp; Unser Kurs „Computer für Senioren“ beginnt am 5. Oktober. Er richtet sich an alle, die noch keine Erfahrung mit dem Computer haben. An acht Nachmittagen lernen Sie, E-Mails zu schreiben, im Internet zu suchen und Fotos zu verschicken. Die Gruppe ist klein, die Lehrer sind geduldig. Kosten: 40 Euro. Bitte melden Sie sich im Seniorenbüro an.</p><p><b>5</b>&nbsp; Wer schlecht schläft, ist tagsüber müde und nervös. Forscher haben herausgefunden, dass immer mehr Deutsche weniger als sechs Stunden pro Nacht schlafen. Experten raten, abends nicht mehr auf das Handy zu schauen, das Schlafzimmer kühl zu halten und jeden Tag zur gleichen Zeit ins Bett zu gehen. Wer trotzdem nicht einschlafen kann, sollte mit dem Arzt sprechen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Vorübergehend keine Sprechstunde<br><b>b</b>&nbsp; Einstieg in die digitale Welt für Ältere<br><b>c</b>&nbsp; Ruhige Nächte durch gute Gewohnheiten<br><b>d</b>&nbsp; Ticketkauf von unterwegs<br><b>e</b>&nbsp; Richtig reagieren bei Winterkrankheiten<br><b>f</b>&nbsp; Neue Praxis im Stadtzentrum eröffnet<br><b>g</b>&nbsp; Wohnungen werden teurer<br><b>h</b>&nbsp; Grippeimpfung ab Oktober<br><b>i</b>&nbsp; Mieter streiten über Lärm<br><b>j</b>&nbsp; Mehr Sport gegen Rückenschmerzen</div>",
    "items": [
     {
      "id": "l1",
@@ -19,7 +19,7 @@
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Passt zu „Frische Farbe für das Haus“."
+     "why": "Passt zu „Ticketkauf von unterwegs“."
     },
     {
      "id": "l3",
@@ -33,7 +33,7 @@
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Passt zu „Bezahlbarer Wohnraum für Familien“."
+     "why": "Passt zu „Einstieg in die digitale Welt für Ältere“."
     },
     {
      "id": "l5",
@@ -109,7 +109,7 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Apotheke Rosen: Wir liefern verschreibungspflichtige Medikamente kostenlos bis an die Haustür, auch für ältere Menschen. Bestellung per Telefon bis 15 Uhr.</p><p><b>b</b>&nbsp; Physiotherapie Kraft: Behandlung bei Rücken- und Nackenschmerzen. Termine auch samstags von 8 bis 13 Uhr.</p><p><b>c</b>&nbsp; Zahnärztlicher Notdienst: An Wochenenden und Feiertagen von 10 bis 14 Uhr erreichbar. Bitte vorher telefonisch anmelden.</p><p><b>d</b>&nbsp; Seniorensport im Park: Sanfte Gymnastik für Menschen ab 60, dienstags und donnerstags um 9.30 Uhr im Stadtpark. Der Einstieg ist jederzeit möglich.</p><p><b>e</b>&nbsp; Reformhaus Natur: Bio-Lebensmittel, Tees und Vitaminpräparate. Persönliche Beratung von Montag bis Samstag.</p><p><b>f</b>&nbsp; Möbelhaus Wohnglück: Betten, Matratzen und Schränke zu günstigen Preisen. Lieferung und Aufbau am nächsten Tag.</p><p><b>g</b>&nbsp; Notdienst Heizung & Sanitär: 24 Stunden täglich erreichbar. Wir reparieren Heizungen und Rohre sofort, auch nachts und am Wochenende.</p><p><b>h</b>&nbsp; Malerbetrieb Farbe: Wir streichen Wohnungen und Treppenhäuser. Besichtigung und Kostenvoranschlag sind kostenlos.</p><p><b>i</b>&nbsp; Umzugsmarkt Karton: Stabile Kartons, Packpapier und Klebeband in vielen Größen. Abholung im Lager oder Lieferung innerhalb eines Tages.</p><p><b>j</b>&nbsp; Optiker Klarblick: Kostenloser Sehtest, danach Beratung zu Brillen und Kontaktlinsen. Montags bis freitags von 9 bis 18 Uhr.</p><p><b>k</b>&nbsp; Wohnungsbörse Altstadt: Kleine Wohnungen und Apartments im Zentrum, ab 450 Euro warm. Besichtigungen nach Vereinbarung.</p><p><b>l</b>&nbsp; Yoga-Studio Ruhe: Kurse für Anfänger und Fortgeschrittene. Probestunde kostenlos.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Apotheke Rosen: Wir liefern verschreibungspflichtige Medikamente kostenlos bis an die Haustür, auch für ältere Menschen. Bestellung per Telefon bis 15 Uhr.</p><p><b>b</b>&nbsp; Physiotherapie Kraft: Behandlung bei Rücken- und Nackenschmerzen. Termine auch samstags von 8 bis 13 Uhr.</p><p><b>c</b>&nbsp; Zahnärztlicher Notdienst: An Wochenenden und Feiertagen von 10 bis 14 Uhr erreichbar. Bitte vorher telefonisch anmelden.</p><p><b>d</b>&nbsp; Seniorensport im Park: Sanfte Gymnastik für Menschen ab 60, dienstags und donnerstags um 9.30 Uhr im Stadtpark. Der Einstieg ist jederzeit möglich.</p><p><b>e</b>&nbsp; Reformhaus Natur: Bio-Lebensmittel, Tees und Vitaminpräparate. Persönliche Beratung von Montag bis Samstag.</p><p><b>f</b>&nbsp; Möbelhaus Wohnglück: Betten, Matratzen und Schränke zu günstigen Preisen. Lieferung und Aufbau am nächsten Tag.</p><p><b>g</b>&nbsp; Technikhilfe für Senioren: Wir kommen zu Ihnen nach Hause und helfen bei Computer, Drucker und Fernseher. Stundenpreis 25 Euro.</p><p><b>h</b>&nbsp; Malerbetrieb Farbe: Wir streichen Wohnungen und Treppenhäuser. Besichtigung und Kostenvoranschlag sind kostenlos.</p><p><b>i</b>&nbsp; Umzugsmarkt Karton: Stabile Kartons, Packpapier und Klebeband in vielen Größen. Abholung im Lager oder Lieferung innerhalb eines Tages.</p><p><b>j</b>&nbsp; Fotodruck Express: Ihr Urlaubsalbum als Buch mit festem Einband, in drei Tagen bei Ihnen. Bilder einfach im Internet hochladen.</p><p><b>k</b>&nbsp; Computer-Börse Gebraucht: Laptops von Firmen, überprüft und mit sechs Monaten Garantie. Ab 120 Euro.</p><p><b>l</b>&nbsp; Yoga-Studio Ruhe: Kurse für Anfänger und Fortgeschrittene. Probestunde kostenlos.</p></div>",
    "items": [
     {
      "id": "l11",
@@ -120,14 +120,14 @@
     },
     {
      "id": "l12",
-     "q": "Mitten in der Nacht wird es in Ihrer Wohnung kalt, weil die Heizung nicht mehr funktioniert.",
+     "q": "Ihr Großvater kann seinen Fernseher und Drucker nicht bedienen, und er kann nicht ausgehen.",
      "letters": "abcdefghijklx",
      "key": "g",
      "why": "Passt zu Anzeige g."
     },
     {
      "id": "l13",
-     "q": "Sie möchten allein wohnen und suchen im Stadtzentrum eine Wohnung mit niedriger Miete.",
+     "q": "Sie haben wenig Geld und brauchen einen Rechner, der auch gebraucht sein darf.",
      "letters": "abcdefghijklx",
      "key": "k",
      "why": "Passt zu Anzeige k."
@@ -162,7 +162,7 @@
     },
     {
      "id": "l18",
-     "q": "Sie sehen schlecht und wissen nicht, ob Sie eine neue Brille brauchen.",
+     "q": "Sie haben hunderte Bilder aus dem Urlaub und möchten sie in gedruckter Form behalten.",
      "letters": "abcdefghijklx",
      "key": "j",
      "why": "Passt zu Anzeige j."
@@ -512,7 +512,7 @@
     },
     {
      "id": "h17",
-     "q": "Die Apotheke ist auch nachts erreichbar.",
+     "q": "Die Hörer können sich an dem Gespräch beteiligen.",
      "tf": true,
      "key": "r",
      "why": "Richtig."
@@ -526,7 +526,7 @@
     },
     {
      "id": "h19",
-     "q": "Die Miete wird um fünfzig Euro teurer.",
+     "q": "Die Waschmaschine wird am nächsten Tag geliefert.",
      "tf": true,
      "key": "f",
      "why": "Falsch: im Text steht etwas anderes."
@@ -623,7 +623,7 @@
     ],
     [
      "Ansage 2",
-     "<p>Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.</p>"
+     "<p>Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.</p>"
     ],
     [
      "Ansage 3",
@@ -631,7 +631,7 @@
     ],
     [
      "Ansage 4",
-     "<p>Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.</p>"
+     "<p>Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.</p>"
     ],
     [
      "Ansage 5",
@@ -889,7 +889,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
+   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
    "p": 5,
    "r": "-8%"
   },
@@ -901,7 +901,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
+   "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
    "p": 15,
    "r": "-8%"
   },
@@ -925,7 +925,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
+   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
    "p": 5,
    "r": "-8%"
   },
@@ -937,7 +937,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
+   "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
    "p": 15,
    "r": "-8%"
   },

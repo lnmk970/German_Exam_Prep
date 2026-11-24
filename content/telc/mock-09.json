@@ -5,7 +5,7 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Wer im Dezember heiraten möchte, muss den Termin beim Standesamt bis spätestens Ende September anmelden. Dabei sind Ausweis, Geburtsurkunde und eine Meldebescheinigung vorzulegen. Das Brautpaar kann zwischen drei Trauzimmern wählen. Die Gebühr beträgt 80 Euro. Termine am Wochenende sind schnell vergeben.</p><p><b>2</b>&nbsp; Das Stadtfest findet am ersten Juliwochenende statt. Auf drei Bühnen spielen lokale Bands, es gibt Stände mit Essen und Spielen für Kinder. Am Samstagabend endet das Fest mit einem Feuerwerk. Der Eintritt ist frei. Die Innenstadt ist für Autos gesperrt, Parkplätze gibt es am Stadion mit Pendelbus.</p><p><b>3</b>&nbsp; Die Familie Weber sucht für den Sommer eine Betreuung für ihre beiden Kinder, drei und sechs Jahre alt. Gebraucht wird jemand von Juli bis August, montags bis freitags von 8 bis 13 Uhr. Wir wohnen in der Südstadt. Sie sollten Kinder mögen und möglichst Erfahrung haben. Wir zahlen 12 Euro pro Stunde. Telefon 0172 / 5 55 12.</p><p><b>4</b>&nbsp; Wer seine Oma oder seinen Opa im Pflegeheim besuchen möchte, kann dies täglich zwischen 10 und 18 Uhr tun. Besucher müssen sich am Empfang eintragen. Kinder sind willkommen, sollten aber nicht allein kommen. In der Cafeteria können Gäste und Bewohner gemeinsam Kaffee trinken. Lebensmittel bitte vorher mit dem Personal abstimmen.</p><p><b>5</b>&nbsp; Nach 40 Jahren in der Firma geht Herr Brandt in den Ruhestand. Zu seinem Abschied laden die Kollegen alle Mitarbeiter am Freitag um 15 Uhr in die Kantine ein. Es gibt Kuchen und Getränke. Wer ein Geschenk beisteuern möchte, kann sich bei Frau Keller melden. Wir freuen uns auf viele Gäste und gemeinsame Erinnerungen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Gemeinsam auf eine lange Zeit zurückblicken<br><b>b</b>&nbsp; Vorbereitung für den schönsten Tag<br><b>c</b>&nbsp; Aushilfe für die Ferienzeit gesucht<br><b>d</b>&nbsp; Ein Wochenende voller Unterhaltung<br><b>e</b>&nbsp; Regeln für Verwandtenbesuche<br><b>f</b>&nbsp; Familie sucht Wohnung in Stadtmitte<br><b>g</b>&nbsp; Ärger mit der Nachbarschaft<br><b>h</b>&nbsp; Neues Buch für Kinder erschienen<br><b>i</b>&nbsp; Schulfest fällt aus<br><b>j</b>&nbsp; Geburtstag mit Überraschungen</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Wer im Dezember heiraten möchte, muss den Termin beim Standesamt bis spätestens Ende September anmelden. Dabei sind Ausweis, Geburtsurkunde und eine Meldebescheinigung vorzulegen. Das Brautpaar kann zwischen drei Trauzimmern wählen. Die Gebühr beträgt 80 Euro. Termine am Wochenende sind schnell vergeben.</p><p><b>2</b>&nbsp; Ab dem nächsten Monat müssen Beschäftigte der Stadtverwaltung nicht mehr jeden Tag ins Rathaus kommen. An zwei Tagen pro Woche dürfen sie ihre Aufgaben daheim erledigen, wenn der Vorgesetzte zustimmt. Den Antrag muss man bis Ende des Monats abgeben. Laptop und Telefon stellt die Verwaltung. Der Personalrat begrüßt die Regelung, weil sie Fahrtzeit spart.</p><p><b>3</b>&nbsp; Die Familie Weber sucht für den Sommer eine Betreuung für ihre beiden Kinder, drei und sechs Jahre alt. Gebraucht wird jemand von Juli bis August, montags bis freitags von 8 bis 13 Uhr. Wir wohnen in der Südstadt. Sie sollten Kinder mögen und möglichst Erfahrung haben. Wir zahlen 12 Euro pro Stunde. Telefon 0172 / 5 55 12.</p><p><b>4</b>&nbsp; In der Pflege und im Handwerk fehlen schon lange qualifizierte Leute. Die Regierung will deshalb, dass Zeugnisse aus dem Ausland schneller geprüft werden. Bisher dauert das Verfahren oft ein Jahr oder länger, künftig soll es höchstens drei Monate dauern. Dann können Zuwanderer früher in ihrem erlernten Beruf arbeiten. Die Wirtschaft begrüßt den Plan.</p><p><b>5</b>&nbsp; Nach 40 Jahren in der Firma geht Herr Brandt in den Ruhestand. Zu seinem Abschied laden die Kollegen alle Mitarbeiter am Freitag um 15 Uhr in die Kantine ein. Es gibt Kuchen und Getränke. Wer ein Geschenk beisteuern möchte, kann sich bei Frau Keller melden. Wir freuen uns auf viele Gäste und gemeinsame Erinnerungen.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Gemeinsam auf eine lange Zeit zurückblicken<br><b>b</b>&nbsp; Vorbereitung für den schönsten Tag<br><b>c</b>&nbsp; Aushilfe für die Ferienzeit gesucht<br><b>d</b>&nbsp; Mehr Flexibilität im Rathaus<br><b>e</b>&nbsp; Ausländische Fachleute kommen schneller in Arbeit<br><b>f</b>&nbsp; Familie sucht Wohnung in Stadtmitte<br><b>g</b>&nbsp; Ärger mit der Nachbarschaft<br><b>h</b>&nbsp; Neues Buch für Kinder erschienen<br><b>i</b>&nbsp; Schulfest fällt aus<br><b>j</b>&nbsp; Geburtstag mit Überraschungen</div>",
    "items": [
     {
      "id": "l1",
@@ -19,7 +19,7 @@
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "d",
-     "why": "Passt zu „Ein Wochenende voller Unterhaltung“."
+     "why": "Passt zu „Mehr Flexibilität im Rathaus“."
     },
     {
      "id": "l3",
@@ -33,7 +33,7 @@
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Passt zu „Regeln für Verwandtenbesuche“."
+     "why": "Passt zu „Ausländische Fachleute kommen schneller in Arbeit“."
     },
     {
      "id": "l5",
@@ -109,7 +109,7 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Blumen Rosengarten: Hochzeitsschmuck, Tischgestecke und Brautsträuße. Unverbindliche Beratung in unserem Geschäft.</p><p><b>b</b>&nbsp; Catering Lecker: Buffets und Menüs für Familienfeiern ab 10 Personen. Wir liefern, bauen auf und räumen wieder ab.</p><p><b>c</b>&nbsp; Fotostudio Moment: Familienfotos, Passbilder und Hochzeitsreportagen, auch am Wochenende.</p><p><b>d</b>&nbsp; Kinderglück Vermittlung: Geprüfte Betreuer für den Abend oder das Wochenende, auch kurzfristig. Anruf bis 16 Uhr genügt.</p><p><b>e</b>&nbsp; Tanzschule Rhythmus: Hochzeitskurs für Paare an vier Samstagen. Walzer, Foxtrott und Discofox.</p><p><b>f</b>&nbsp; Geschenke & mehr: Karten, Geschenkpapier und kleine Aufmerksamkeiten für jeden Anlass.</p><p><b>g</b>&nbsp; Gästehaus Linde: Zimmer für Hochzeitsgäste und Familienbesuch, Frühstück inklusive. Zwei Gehminuten bis zum Festsaal.</p><p><b>h</b>&nbsp; DJ Partymix: Musik für Feste im Saal oder im Garten, mit eigener Anlage und Mikrofon. Preis ab 250 Euro.</p><p><b>i</b>&nbsp; Konditorei Sonnenschein: Torten für alle Gelegenheiten, auch glutenfrei und ohne Milch. Bestellung drei Tage vorher.</p><p><b>j</b>&nbsp; Kostümverleih Maske: Kostüme für Karneval, Mottopartys und Theater.</p><p><b>k</b>&nbsp; Seniorentreff Mittendrin: Jeden Donnerstag Kaffee, Spiele und Ausflüge für Menschen ab 65. Neue Gäste sind herzlich willkommen.</p><p><b>l</b>&nbsp; Sportlager Adler: Ferienfreizeit für Kinder von 9 bis 13 Jahren, eine Woche mit Fußball, Schwimmen und Klettern. Übernachtung im Zelt.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Blumen Rosengarten: Hochzeitsschmuck, Tischgestecke und Brautsträuße. Unverbindliche Beratung in unserem Geschäft.</p><p><b>b</b>&nbsp; Büromöbel Ergo: Rückenfreundliche Stühle und elektrisch verstellbare Schreibtische für den Arbeitsplatz zu Hause. Lieferung innerhalb von zwei Tagen.</p><p><b>c</b>&nbsp; Fotostudio Moment: Familienfotos, Passbilder und Hochzeitsreportagen, auch am Wochenende.</p><p><b>d</b>&nbsp; Kinderglück Vermittlung: Geprüfte Betreuer für den Abend oder das Wochenende, auch kurzfristig. Anruf bis 16 Uhr genügt.</p><p><b>e</b>&nbsp; Weiterbildung Digital: Online-Kurse zu Excel, Programmieren und Gestaltung von Internetseiten. Man lernt, wann man will, und erhält ein Zertifikat.</p><p><b>f</b>&nbsp; Geschenke & mehr: Karten, Geschenkpapier und kleine Aufmerksamkeiten für jeden Anlass.</p><p><b>g</b>&nbsp; Gästehaus Linde: Zimmer für Hochzeitsgäste und Familienbesuch, Frühstück inklusive. Zwei Gehminuten bis zum Festsaal.</p><p><b>h</b>&nbsp; DJ Partymix: Musik für Feste im Saal oder im Garten, mit eigener Anlage und Mikrofon. Preis ab 250 Euro.</p><p><b>i</b>&nbsp; Umschulung Pflege: Eine neue Karriere in der Altenpflege! Unterricht in der Schule und Praxis im Heim. Schon während der Ausbildung gibt es Gehalt.</p><p><b>j</b>&nbsp; Kostümverleih Maske: Kostüme für Karneval, Mottopartys und Theater.</p><p><b>k</b>&nbsp; Seniorentreff Mittendrin: Jeden Donnerstag Kaffee, Spiele und Ausflüge für Menschen ab 65. Neue Gäste sind herzlich willkommen.</p><p><b>l</b>&nbsp; Sportlager Adler: Ferienfreizeit für Kinder von 9 bis 13 Jahren, eine Woche mit Fußball, Schwimmen und Klettern. Übernachtung im Zelt.</p></div>",
    "items": [
     {
      "id": "l11",
@@ -120,7 +120,7 @@
     },
     {
      "id": "l12",
-     "q": "Zu Ihrem runden Geburtstag kommen 30 Gäste, aber Sie haben keine Lust, selbst am Herd zu stehen.",
+     "q": "Sie arbeiten seit einem Jahr zu Hause am Computer und haben oft Schmerzen im Kreuz.",
      "letters": "abcdefghijklx",
      "key": "b",
      "why": "Passt zu Anzeige b."
@@ -141,7 +141,7 @@
     },
     {
      "id": "l15",
-     "q": "Ihr Hochzeitstag steht bevor, und Sie wollen mit Ihrem Partner dafür die Schritte lernen.",
+     "q": "Sie möchten Ihr Wissen über die Gestaltung von Internetseiten erweitern, können aber nur nachts lernen.",
      "letters": "abcdefghijklx",
      "key": "e",
      "why": "Passt zu Anzeige e."
@@ -162,7 +162,7 @@
     },
     {
      "id": "l18",
-     "q": "Ihre Tochter hat Geburtstag, darf aber kein Mehl aus Weizen essen.",
+     "q": "Sie möchten in der Betreuung alter Menschen arbeiten und können nicht ohne Einkommen lernen.",
      "letters": "abcdefghijklx",
      "key": "i",
      "why": "Passt zu Anzeige i."
@@ -505,14 +505,14 @@
    "items": [
     {
      "id": "h16",
-     "q": "Das Fest beginnt später als geplant.",
+     "q": "Der Film beginnt später als sonst.",
      "tf": true,
      "key": "f",
      "why": "Falsch: im Text steht etwas anderes."
     },
     {
      "id": "h17",
-     "q": "Die Trauzeugen sollen etwas früher kommen als das Brautpaar.",
+     "q": "Am Samstag ist das Wetter im Süden besser als im Norden.",
      "tf": true,
      "key": "r",
      "why": "Richtig."
@@ -619,11 +619,11 @@
    "texts": [
     [
      "Ansage 1",
-     "<p>Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.</p>"
+     "<p>Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.</p>"
     ],
     [
      "Ansage 2",
-     "<p>Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.</p>"
+     "<p>Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.</p>"
     ],
     [
      "Ansage 3",
@@ -895,7 +895,7 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
+   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
    "p": 5,
    "r": "-8%"
   },
@@ -907,13 +907,13 @@
   },
   {
    "v": "de-DE-KatjaNeural",
-   "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
+   "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
    "p": 15,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
+   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
    "p": 5,
    "r": "-8%"
   },
@@ -925,7 +925,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
+   "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
    "p": 15,
    "r": "-8%"
   },
