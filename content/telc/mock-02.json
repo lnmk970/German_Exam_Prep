@@ -141,10 +141,10 @@
     },
     {
      "id": "l15",
-     "q": "Sie sind im Ruhestand und möchten sich morgens in Gesellschaft bewegen, aber nichts Anstrengendes machen.",
+     "q": "Sie möchten schwimmen lernen und suchen einen Kurs für Erwachsene.",
      "letters": "abcdefghijklx",
-     "key": "d",
-     "why": "Passt zu Anzeige d."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l16",

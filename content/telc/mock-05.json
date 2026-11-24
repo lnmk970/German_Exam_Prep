@@ -162,10 +162,10 @@
     },
     {
      "id": "l18",
-     "q": "Sie fahren ans Meer und möchten dort frischen Fisch von den Fischern kaufen.",
+     "q": "Sie möchten ein Kochbuch mit Rezepten aus Italien kaufen.",
      "letters": "abcdefghijklx",
-     "key": "i",
-     "why": "Passt zu Anzeige i."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l19",

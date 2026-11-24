@@ -169,10 +169,10 @@
     },
     {
      "id": "l19",
-     "q": "Sie haben einen alten Schrank und ein Sofa, die Sie nicht mehr brauchen. Zum Entsorgen haben Sie keinen Wagen.",
+     "q": "Sie suchen für Ihr Kind einen Kindergarten in der Nähe Ihrer Wohnung.",
      "letters": "abcdefghijklx",
-     "key": "d",
-     "why": "Passt zu Anzeige d."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l20",

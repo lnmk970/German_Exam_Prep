@@ -141,10 +141,10 @@
     },
     {
      "id": "l15",
-     "q": "Ihre Großmutter ist 82 und kann Ämter nicht mehr allein besuchen.",
+     "q": "Ihre Großmutter möchte sich ein Hörgerät anpassen lassen.",
      "letters": "abcdefghijklx",
-     "key": "i",
-     "why": "Passt zu Anzeige i."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l16",

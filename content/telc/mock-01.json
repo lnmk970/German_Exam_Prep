@@ -155,10 +155,10 @@
     },
     {
      "id": "l17",
-     "q": "Sie sind nervös vor einem Termin bei einer Firma und möchten vorher üben, wie man sich vorstellt, und Ihre Papiere kontrollieren lassen.",
+     "q": "Sie möchten Ihre Stelle kündigen und wissen nicht, wie lang die Kündigungsfrist ist.",
      "letters": "abcdefghijklx",
-     "key": "d",
-     "why": "Passt zu Anzeige d."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l18",

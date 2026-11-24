@@ -134,10 +134,10 @@
     },
     {
      "id": "l14",
-     "q": "Sie möchten zwei Wochen ein Sportstudio testen, bevor Sie einen Vertrag unterschreiben.",
+     "q": "Sie suchen eine Mannschaft, in der Sie Volleyball spielen können.",
      "letters": "abcdefghijklx",
-     "key": "a",
-     "why": "Passt zu Anzeige a."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l15",
@@ -176,10 +176,10 @@
     },
     {
      "id": "l20",
-     "q": "Sie möchten am Montagabend preiswert ins Kino.",
+     "q": "Sie möchten am Samstag an einer Stadtführung teilnehmen.",
      "letters": "abcdefghijklx",
-     "key": "d",
-     "why": "Passt zu Anzeige d."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     }
    ]
   },

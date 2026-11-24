@@ -134,10 +134,10 @@
     },
     {
      "id": "l14",
-     "q": "Sie sind Schüler und wollen an den Wochenenden etwas Geld verdienen.",
+     "q": "Sie suchen einen Nebenjob als Kellner für abends.",
      "letters": "abcdefghijklx",
-     "key": "a",
-     "why": "Passt zu Anzeige a."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l15",

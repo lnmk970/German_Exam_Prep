@@ -155,10 +155,10 @@
     },
     {
      "id": "l17",
-     "q": "Ihre Reisetasche ist kaputt gegangen, und Sie wollen für eine neue nicht viel Geld ausgeben.",
+     "q": "Ihr Reisepass läuft in zwei Monaten ab, und Sie müssen ihn erneuern.",
      "letters": "abcdefghijklx",
-     "key": "f",
-     "why": "Passt zu Anzeige f."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l18",

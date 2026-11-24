@@ -148,10 +148,10 @@
     },
     {
      "id": "l16",
-     "q": "Sie sind nur vier Monate in Deutschland und wollen einen Mobilfunkvertrag ohne lange Bindung.",
+     "q": "Sie suchen ein Geschäft, das Ihre Spielkonsole repariert.",
      "letters": "abcdefghijklx",
-     "key": "i",
-     "why": "Passt zu Anzeige i."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l17",

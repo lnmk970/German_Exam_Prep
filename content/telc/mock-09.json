@@ -134,10 +134,10 @@
     },
     {
      "id": "l14",
-     "q": "Ihre Eltern sind im Ruhestand und fühlen sich oft einsam.",
+     "q": "Sie möchten Ihren Eltern zur goldenen Hochzeit eine Reise nach Italien schenken.",
      "letters": "abcdefghijklx",
-     "key": "k",
-     "why": "Passt zu Anzeige k."
+     "key": "x",
+     "why": "Keine Anzeige passt → x."
     },
     {
      "id": "l15",
