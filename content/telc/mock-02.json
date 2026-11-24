@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Ein Tag im Hausarztzentrum</p><p>Im Hausarztzentrum Südstadt arbeiten sieben Ärzte unter einem Dach. Das Konzept ist einfach: Patienten bekommen schneller einen Termin, und die Ärzte können sich bei schwierigen Fällen gegenseitig beraten. „Früher war ich mit meinen Entscheidungen oft allein“, sagt Dr. Anna Weiss. „Heute besprechen wir komplizierte Fälle am Morgen im Team.“</p><p>Auch die Patienten profitieren. Wer Rückenschmerzen hat, kann am selben Tag zur Physiotherapie gehen, die im Haus ist. Das Zentrum hat außerdem eine eigene Apotheke und ein Labor. Die Wartezeiten sind kürzer, weil Termine im Internet gebucht werden.</p><p>Kritiker meinen, dass kleine Praxen auf dem Land darunter leiden. Wenn immer mehr Ärzte in größere Zentren gehen, fehlen sie in den Dörfern. Die Stadt will deshalb mit Zuschüssen helfen, damit auch kleine Praxen überleben.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Ein Tag im Hausarztzentrum</p><p>Im Hausarztzentrum Südstadt arbeiten sieben Ärztinnen und Ärzte gemeinsam unter einem Dach. Seit das Zentrum vor zwei Jahren eröffnet wurde, kommen täglich mehr als 200 Patienten. „Früher hatte jeder Arzt seine eigene kleine Praxis und oft zu wenig Zeit“, sagt die Leiterin Dr. Sabine Hahn. „Heute können wir uns die Arbeit teilen und mehr Zeit für die einzelnen Menschen einplanen.“</p><p>Besonders beliebt sind die Abendsprechstunden. Montags und donnerstags ist das Zentrum bis 20 Uhr geöffnet, damit auch Berufstätige einen Termin bekommen, ohne sich freinehmen zu müssen. Wer morgens krank wird, kann außerdem über eine App einen Termin am selben Tag buchen. Dafür müssen Patienten allerdings vorher online ein Formular ausfüllen.</p><p>Das Zentrum hat auch eine eigene Apotheke und einen Raum, in dem Physiotherapeuten arbeiten. Viele Patienten schätzen, dass sie nach dem Arztbesuch alles am selben Ort erledigen können. Nur Röntgenaufnahmen werden weiterhin in einer Klinik in der Nähe gemacht, weil das Zentrum dafür keinen Platz hat.</p><p>Auch die Wohnsituation spielt eine Rolle. Weil Wohnungen in der Südstadt teuer sind, hat die Stadt dem Zentrum erlaubt, im Obergeschoss vier kleine Wohnungen für junge Ärzte und Pflegekräfte einzurichten. So lassen sich neue Mitarbeiter leichter finden. Zwei Wohnungen sind schon vermietet, die anderen sollen im Herbst fertig werden.</p><p>Die Zukunft sieht gut aus, meint Dr. Hahn, aber ein Problem bleibt: Es gibt zu wenige junge Hausärzte. „Viele wollen lieber in einem Krankenhaus arbeiten, weil sie dort feste Dienstpläne haben“, sagt sie. Deshalb plant das Zentrum, im nächsten Jahr zwei Stellen anzubieten, bei denen man die Arbeitszeit freier einteilen kann.</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Wie viele Ärzte arbeiten im Zentrum?",
+     "q": "Was ist laut Dr. Hahn ein Vorteil des Zentrums?",
      "opts": [
-      "Drei.",
-      "Sieben.",
-      "Zwölf."
+      "Die Behandlung kostet die Patienten weniger.",
+      "Das Zentrum hat rund um die Uhr geöffnet.",
+      "Die Ärzte können sich für den einzelnen Patienten mehr Zeit nehmen."
      ],
-     "key": "b",
-     "why": "Sieben."
+     "key": "c",
+     "why": "Arbeit teilen, mehr Zeit für Menschen."
     },
     {
      "id": "l7",
-     "q": "Was hat sich für Dr. Weiss geändert?",
+     "q": "Für wen sind die langen Öffnungszeiten besonders nützlich?",
      "opts": [
-      "Sie arbeitet weniger.",
-      "Sie bespricht komplizierte Fälle mit dem Team.",
-      "Sie arbeitet nur noch am Computer."
+      "Für Patienten, die ohne Termin kommen wollen.",
+      "Für Menschen, die tagsüber arbeiten.",
+      "Für ältere Patienten, die nicht allein kommen können."
      ],
      "key": "b",
-     "why": "Team."
+     "why": "Berufstätige, bis 20 Uhr."
     },
     {
      "id": "l8",
-     "q": "Was ist im Haus vorhanden?",
+     "q": "Was ist im Zentrum nicht möglich?",
      "opts": [
-      "Eine Schule.",
-      "Ein Schwimmbad.",
-      "Physiotherapie, Apotheke und Labor."
+      "Sich röntgen zu lassen.",
+      "Medikamente zu kaufen.",
+      "Krankengymnastik zu bekommen."
      ],
-     "key": "c",
-     "why": "Physio, Apotheke, Labor."
+     "key": "a",
+     "why": "Röntgen in der Klinik."
     },
     {
      "id": "l9",
-     "q": "Warum sind die Wartezeiten kürzer?",
+     "q": "Wofür sind die Wohnungen im Obergeschoss gedacht?",
      "opts": [
-      "Weil es weniger Patienten gibt.",
-      "Weil man Termine online buchen kann.",
-      "Weil die Ärzte schneller arbeiten."
+      "Für Patienten, die länger behandelt werden.",
+      "Für Ärzte, die gerade in Rente gegangen sind.",
+      "Für Beschäftigte, die neu im Zentrum anfangen."
      ],
-     "key": "b",
-     "why": "Online-Termine."
+     "key": "c",
+     "why": "Junge Ärzte und Pflegekräfte."
     },
     {
      "id": "l10",
-     "q": "Was befürchten die Kritiker?",
+     "q": "Wie will das Zentrum mehr junge Ärzte gewinnen?",
      "opts": [
-      "Dass Ärzte auf dem Land fehlen.",
-      "Dass alles teurer wird.",
-      "Dass die Patienten krank werden."
+      "Mit einem höheren Gehalt als in Kliniken.",
+      "Mit Stellen, bei denen die Arbeitszeit flexibel ist.",
+      "Mit festen Dienstplänen wie im Krankenhaus."
      ],
-     "key": "a",
-     "why": "Landärzte."
+     "key": "b",
+     "why": "Zwei Stellen mit freier Zeiteinteilung."
     }
    ]
   },

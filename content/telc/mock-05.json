@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Vier Wochen ohne Fertiggericht</p><p>Familie Arslan aus Dortmund hat ein Experiment gemacht: Vier Wochen lang aß sie keine Fertiggerichte und ging nicht ins Restaurant. „Wir wollten wissen, ob wir wirklich so wenig Zeit zum Kochen haben, wie wir immer sagen“, erzählt Vater Emre, 38. Er und seine Frau Selin arbeiten beide Vollzeit. Die zwei Kinder sind sieben und elf Jahre alt.</p><p>Die erste Woche war schwierig. Der Einkauf dauerte fast zwei Stunden, weil die Familie vorher nie einen Plan gemacht hatte. Am Mittwoch fehlten plötzlich Zwiebeln, und niemand hatte Lust, noch einmal in den Laden zu gehen. Danach schrieben die Arslans jeden Sonntag eine Liste. „Das hat uns sehr geholfen“, sagt Selin.</p><p>Überrascht war die Familie vor allem vom Geld. Am Ende des Monats hatte sie 140 Euro weniger ausgegeben als sonst. Auch die Kinder halfen mit: Die Elfjährige schneidet seitdem das Gemüse, der Siebenjährige deckt den Tisch. „Beim gemeinsamen Kochen reden wir mehr als früher“, sagt Emre.</p><p>Ganz ohne Restaurant wollen die Arslans in Zukunft aber nicht leben. Einmal im Monat gehen sie essen, als kleine Belohnung. Fertiggerichte kommen nur noch im Notfall auf den Tisch.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Vier Wochen ohne Fertiggericht</p><p>Familie Arslan aus Dortmund hat ein Experiment gemacht: Vier Wochen lang gab es bei ihr kein Fertiggericht, keine Tiefkühlpizza und keine Tütensuppe. Die Idee kam von Vater Murat, der bei einer Untersuchung erfahren hatte, dass sein Cholesterinwert zu hoch ist. „Wir haben gemerkt, wie viel Fertiges wir eigentlich essen“, sagt er.</p><p>Die erste Woche war schwierig. Die Eltern arbeiten beide, und abends fehlte oft die Zeit zum Kochen. Deshalb hat die Familie am Sonntag Essen für mehrere Tage vorbereitet und eingefroren. Auch die Kinder, 9 und 12, mussten helfen: Sie schälten Gemüse und deckten den Tisch.</p><p>Auch die Einkäufe veränderten sich. Statt im Supermarkt kauft Frau Arslan jetzt samstags auf dem Wochenmarkt ein, weil Obst und Gemüse dort frischer und oft billiger sind. Insgesamt gab die Familie in den vier Wochen etwa 60 Euro weniger aus als sonst, obwohl sie mehr Bioprodukte gekauft hat.</p><p>Nicht alle waren begeistert. Der zwölfjährige Emre vermisste vor allem die Pizza am Freitagabend. Nach zwei Wochen erlaubten ihm die Eltern, selbst eine Pizza aus frischem Teig zu machen. „Das hat ihm sogar besser geschmeckt als die aus dem Tiefkühlfach“, erzählt die Mutter. Seitdem kocht er gern.</p><p>Nach dem Experiment gibt es bei den Arslans nicht nur Frisches. Einmal pro Woche greifen sie zum Fertigprodukt, wenn es abends sehr schnell gehen muss. Aber das gemeinsame Essen am Tisch ist ihnen jetzt wichtiger. „Früher hat jeder vor dem Fernseher gegessen“, sagt Murat Arslan.</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Warum haben die Arslans das Experiment gemacht?",
+     "q": "Was brachte Herrn Arslan auf die Idee?",
      "opts": [
-      "Sie wollten Geld sparen.",
-      "Sie wollten abnehmen.",
-      "Sie wollten prüfen, ob ihnen wirklich die Zeit zum Kochen fehlt."
+      "Ein Fernsehbericht über Lebensmittel hat ihn überzeugt.",
+      "Seine Kinder wollten das Kochen lernen.",
+      "Ein Untersuchungsergebnis hat ihn beunruhigt."
      ],
      "key": "c",
-     "why": "Emre sagt: „Wir wollten wissen, ob wir wirklich so wenig Zeit zum Kochen haben.“ Das Geld sparen war ein Ergebnis, nicht der Grund."
+     "why": "Cholesterinwert."
     },
     {
      "id": "l7",
-     "q": "Was war in der ersten Woche das Problem?",
+     "q": "Wie hat die Familie das Zeitproblem gelöst?",
      "opts": [
-      "Der Einkauf dauerte sehr lange.",
-      "Die Kinder wollten nicht helfen.",
-      "Das Essen war zu teuer."
+      "Sie ist öfter im Restaurant essen gegangen.",
+      "Sie hat Mahlzeiten im Voraus zubereitet.",
+      "Sie hat einen Kochkurs besucht."
      ],
-     "key": "a",
-     "why": "Der Einkauf dauerte fast zwei Stunden, weil es keinen Plan gab."
+     "key": "b",
+     "why": "Sonntag vorbereiten und einfrieren."
     },
     {
      "id": "l8",
-     "q": "Was hat der Familie danach geholfen?",
+     "q": "Was stellte die Familie bei den Kosten fest?",
      "opts": [
-      "Ein neues Kochbuch.",
-      "Eine Einkaufsliste, die sie am Sonntag schrieben.",
-      "Ein Kochkurs."
+      "Sie hat insgesamt etwas weniger Geld ausgegeben.",
+      "Die Lebensmittel waren deutlich teurer.",
+      "Die Ausgaben waren genau gleich hoch."
      ],
-     "key": "b",
-     "why": "„Danach schrieben die Arslans jeden Sonntag eine Liste.“"
+     "key": "a",
+     "why": "60 Euro weniger."
     },
     {
      "id": "l9",
-     "q": "Was hat die Familie am meisten überrascht?",
+     "q": "Wie ging die Familie mit Emres Wunsch nach Pizza um?",
      "opts": [
-      "Die Kinder essen gern Gemüse.",
-      "Das Kochen dauert nur zehn Minuten.",
-      "Sie hat weniger Geld ausgegeben."
+      "Er durfte sich eine Pizza liefern lassen.",
+      "Er musste den ganzen Monat verzichten.",
+      "Er durfte sie selbst herstellen."
      ],
      "key": "c",
-     "why": "„Überrascht war die Familie vor allem vom Geld.“ Sie sparte 140 Euro."
+     "why": "Pizza aus frischem Teig."
     },
     {
      "id": "l10",
-     "q": "Wie ist es heute bei den Arslans?",
+     "q": "Was hat sich nach dem Experiment dauerhaft verändert?",
      "opts": [
-      "Sie gehen nie mehr ins Restaurant.",
-      "Sie gehen manchmal zur Belohnung essen.",
-      "Sie essen oft Fertiggerichte."
+      "Die Familie isst nie mehr Fertiggerichte.",
+      "Die Familie isst jetzt gemeinsam am Tisch.",
+      "Die Eltern kochen nur noch am Wochenende."
      ],
      "key": "b",
-     "why": "Einmal im Monat gehen sie essen, Fertiggerichte nur im Notfall."
+     "why": "Gemeinsames Essen wichtiger."
     }
    ]
   },

@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Seit einem Jahr leben Mara und Jens Albers mit ihren zwei Kindern ohne Auto. Die Entscheidung kam, nachdem ihr alter Wagen kaputtging und eine Reparatur über 1.500 Euro kosten sollte. „Wir haben gerechnet“, erzählt Jens. „Versicherung, Steuer, Benzin und Parkplatz kosteten uns fast 400 Euro im Monat. Das Geld können wir besser nutzen.“</p><p>Heute fahren sie mit dem Rad, der Bahn oder dem Bus. Für den Wocheneinkauf haben sie ein Lastenrad, in dem auch die Kinder sitzen können. Die Schule und der Kindergarten sind nur zehn Minuten entfernt. Für längere Strecken leihen sie sich bei einem Carsharing-Anbieter ein Auto, aber das passiert nur dreimal im Jahr.</p><p>Einfach war der Anfang nicht. Im Winter fuhr Mara bei Schnee und Kälte mit dem Rad zur Arbeit und war froh, als es wieder wärmer wurde. Auch der Einkauf von schweren Dingen, etwa Getränkekisten, ist umständlich. „Wir lassen uns die Getränke jetzt liefern“, sagt sie. Dafür sparen sie viel Zeit, weil sie nicht im Stau stehen müssen.</p><p>Der älteste Sohn, elf, vermisst das Auto nicht. „Mit dem Rad bin ich schneller als meine Freunde im Elternauto“, sagt er stolz. Die Familie hat überlegt, vielleicht doch wieder einen Wagen zu kaufen, aber nur dann, wenn sie aufs Land ziehen sollten. In der Stadt wollen sie so weiterleben.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Ein Jahr ohne Auto</p><p>Seit einem Jahr leben Mara und Jens Albers mit ihren zwei Kindern ohne Auto. Die Familie wohnt in einer Mittelstadt, in der Busse nur alle halbe Stunde fahren. Den Anstoß gab eine hohe Rechnung der Werkstatt: „Als sie 1.800 Euro für die Reparatur wollten, haben wir uns gefragt, ob wir das Auto wirklich brauchen“, erzählt Mara Albers.</p><p>Am Anfang war der Alltag kompliziert. Der Wocheneinkauf ist ohne Auto schwer, und die Kinder kamen morgens oft zu spät zur Schule. Dann kaufte die Familie ein Lastenrad, in das beide Kinder und mehrere Einkaufstaschen passen. Heute fahren Eltern und Kinder fast jeden Tag damit, auch bei Regen.</p><p>Für längere Strecken borgt sich die Familie ein Fahrzeug. Das passiert etwa viermal im Jahr, zum Beispiel für den Besuch bei den Eltern von Jens auf dem Land. In den Urlaub fährt sie meist mit dem Zug. „Insgesamt kommt uns das viel billiger“, rechnet Jens vor. „Wir sparen etwa 350 Euro im Monat.“</p><p>Besonders überrascht hat die Eltern die Veränderung bei der Gesundheit. Beide sind fitter, und die Rückenschmerzen von Jens sind fast verschwunden. Die Kinder schlafen besser und sind nachmittags aktiver. Nur im Winter ist das Radfahren manchmal unangenehm, wenn es früh dunkel wird.</p><p>Ob sie jemals wieder ein Auto kaufen werden? „Im Moment nicht“, sagt Mara Albers. „Aber wenn die Kinder älter sind und wir auf dem Land wohnen würden, müssten wir neu rechnen.“ Anderen Familien rät sie, den Verzicht zuerst ein halbes Jahr zu testen, bevor sie ihr Auto verkaufen.</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Warum hat die Familie das Auto verkauft?",
+     "q": "Warum hat die Familie ihr Auto abgeschafft?",
      "opts": [
-      "Es war kaputt und die Reparatur zu teuer.",
-      "Sie zog aufs Land.",
-      "Die Kinder wollten es so."
+      "Eine teure Reparatur hat sie zum Nachdenken gebracht.",
+      "Das Auto war nach einem Unfall kaputt.",
+      "Die Stadt hat den Autoverkehr eingeschränkt."
      ],
      "key": "a",
-     "why": "Der alte Wagen ging kaputt und die Reparatur sollte über 1.500 Euro kosten. Der Umzug aufs Land ist nur eine mögliche Zukunft."
+     "why": "1.800 Euro Rechnung."
     },
     {
      "id": "l7",
-     "q": "Was kostete das Auto die Familie früher jeden Monat?",
+     "q": "Wie haben die Albers das Problem mit Einkauf und Schulweg gelöst?",
      "opts": [
-      "etwa 150 Euro",
-      "fast 400 Euro",
-      "über 1.500 Euro"
+      "Sie haben ein Busabonnement für die Kinder gekauft.",
+      "Sie lassen sich die Lebensmittel liefern.",
+      "Sie benutzen ein Rad, das viel transportieren kann."
      ],
-     "key": "b",
-     "why": "„Fast 400 Euro im Monat“ für Versicherung, Steuer, Benzin und Parkplatz. 1.500 Euro ist der Preis der Reparatur."
+     "key": "c",
+     "why": "Lastenrad."
     },
     {
      "id": "l8",
-     "q": "Wie fährt die Familie heute längere Strecken?",
+     "q": "Wie kommt die Familie zu den Großeltern?",
      "opts": [
-      "Sie nehmen ein Taxi.",
-      "Sie leihen manchmal ein Auto.",
-      "Sie fahren mit dem Lastenrad."
+      "Sie fährt mit dem Zug.",
+      "Sie leiht sich für diese Fahrt gelegentlich ein Auto.",
+      "Sie nimmt den Bus."
      ],
      "key": "b",
-     "why": "Für längere Strecken leihen sie sich bei einem Carsharing-Anbieter ein Auto – dreimal im Jahr."
+     "why": "Ausleihen, viermal im Jahr."
     },
     {
      "id": "l9",
-     "q": "Was war nach Maras Erfahrung ein Problem?",
+     "q": "Was hat sich für die Familie positiv verändert?",
      "opts": [
-      "Das Radfahren im Winter.",
-      "Die Schule war zu weit weg.",
-      "Der Bus fuhr nie pünktlich."
+      "Sie fühlt sich körperlich besser.",
+      "Sie hat im Winter weniger Stress.",
+      "Sie kennt mehr Nachbarn."
      ],
      "key": "a",
-     "why": "Im Winter fuhr Mara bei Schnee und Kälte mit dem Rad. Die Schule ist nur zehn Minuten entfernt."
+     "why": "Fitter, weniger Rückenschmerzen."
     },
     {
      "id": "l10",
-     "q": "Wann würde die Familie wieder ein Auto kaufen?",
+     "q": "Was rät Mara Albers anderen Familien?",
      "opts": [
-      "Wenn die Kinder älter sind.",
-      "Wenn sie aufs Land ziehen.",
-      "Wenn das Lastenrad kaputtgeht."
+      "Das Auto sofort zu verkaufen.",
+      "Nur im Sommer Rad zu fahren.",
+      "Die Lebensweise vor dem Autoverkauf eine Zeit lang auszuprobieren."
      ],
-     "key": "b",
-     "why": "„… aber nur dann, wenn sie aufs Land ziehen sollten.“"
+     "key": "c",
+     "why": "Ein halbes Jahr testen."
     }
    ]
   },

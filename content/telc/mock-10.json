@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Das Ende der Zeitung?</p><p>Immer weniger Menschen lesen eine gedruckte Zeitung. Die „Rheinische Rundschau“ hat in zehn Jahren die Hälfte ihrer Leser verloren. Dafür steigen die Zahlen der Online-Abonnenten. Chefredakteurin Sabine Roth sagt: „Die Nachrichten sind dieselben, nur der Weg zum Leser ist ein anderer.“ Trotzdem macht sie sich Sorgen, denn mit Online-Anzeigen verdient die Zeitung viel weniger Geld.</p><p>Deshalb testet die Redaktion ein neues Modell. Wer einen Artikel liest, kann am Ende freiwillig ein bis zwei Euro bezahlen. Nach drei Monaten haben rund fünf Prozent der Leser mitgemacht. „Das ist nicht viel, aber es zeigt, dass Leser guten Journalismus schätzen“, so Roth.</p><p>Auch die Redaktion verändert sich. Statt zwanzig Reportern arbeiten nur noch zwölf. Dafür gibt es neue Stellen für Video und soziale Medien. Ältere Mitarbeiter müssen sich fortbilden, was nicht allen leichtfällt.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Das Ende der Zeitung?</p><p>Immer weniger Menschen in Deutschland lesen eine gedruckte Tageszeitung. Vor zwanzig Jahren hatte noch jeder zweite Haushalt ein Abonnement, heute ist es nur noch etwa jeder vierte. Die Verlage reagieren darauf mit Sparmaßnahmen: Viele haben ihre Redaktionen verkleinert oder Lokalausgaben zusammengelegt.</p><p>Junge Leser informieren sich meist auf dem Smartphone, oft über soziale Netzwerke. Das sieht Nina Kramer, Chefredakteurin einer Regionalzeitung in Münster, kritisch: „Dort sieht man vor allem, was einem gefällt, nicht, was wichtig ist.“ Ihre Zeitung hat deshalb eine App entwickelt, die täglich fünf Meldungen auswählt und kurz erklärt.</p><p>Das Geschäft mit Digitalabos ist schwierig. Viele Leser sind nicht bereit, für Nachrichten im Internet zu zahlen, weil es so viele kostenlose Angebote gibt. Nur etwa jeder zehnte Nutzer der App hat bisher ein bezahltes Abo abgeschlossen. Auch das Geld aus der Werbung ist gesunken, weil Firmen ihre Anzeigen lieber bei großen Internetkonzernen schalten.</p><p>Trotzdem sieht Kramer eine Zukunft. Ältere Leser schätzen die Zeitung am Frühstückstisch, und gerade in kleineren Städten gibt es kaum eine andere Quelle für Nachrichten aus der Region. Über den Stadtrat, den örtlichen Fußballverein oder die Baustelle am Markt berichten nur die Lokalredaktionen. „Das kann kein Internetkonzern ersetzen“, meint sie.</p><p>Nina Kramer rechnet damit, dass es die gedruckte Zeitung auch in zehn Jahren noch geben wird, allerdings nur noch an vier Tagen pro Woche. Die übrigen Ausgaben sollen nur digital erscheinen. „Wichtig ist, dass wir die Leser dort erreichen, wo sie sind“, sagt sie.</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Wie hat sich die Zahl der Leser der Zeitung verändert?",
+     "q": "Was zeigt die Entwicklung der letzten zwanzig Jahre?",
      "opts": [
-      "Sie hat sich verdoppelt.",
-      "Die Hälfte der Print-Leser ist weg.",
-      "Sie ist gleich geblieben."
+      "Die Zeitungen sind deutlich teurer geworden.",
+      "Die Zahl der Zeitungsabonnenten ist stark gesunken.",
+      "Mehr Haushalte haben eine Zeitung abonniert."
      ],
      "key": "b",
-     "why": "Hälfte verloren."
+     "why": "Jeder zweite, jetzt jeder vierte."
     },
     {
      "id": "l7",
-     "q": "Was ist das Problem bei Online-Anzeigen?",
+     "q": "Wie hat die Zeitung von Frau Kramer reagiert?",
      "opts": [
-      "Sie sind verboten.",
-      "Sie bringen weniger Geld.",
-      "Niemand liest sie."
+      "Sie bietet eine App mit einer kleinen Auswahl an Nachrichten an.",
+      "Sie hat den Preis der Zeitung gesenkt.",
+      "Sie hat eine eigene Fernsehsendung gestartet."
      ],
-     "key": "b",
-     "why": "Viel weniger Geld."
+     "key": "a",
+     "why": "App mit fünf Meldungen."
     },
     {
      "id": "l8",
-     "q": "Wie funktioniert das neue Modell?",
+     "q": "Warum haben Zeitungen finanzielle Probleme?",
      "opts": [
-      "Leser zahlen freiwillig am Ende eines Artikels.",
-      "Alle Artikel kosten zwei Euro.",
-      "Nur Abonnenten dürfen lesen."
+      "Die Redakteure verdienen zu viel.",
+      "Die Druckkosten sind stark gestiegen.",
+      "Viele Nutzer zahlen nicht für Inhalte im Internet."
      ],
-     "key": "a",
-     "why": "Freiwillige Zahlung."
+     "key": "c",
+     "why": "Kostenlose Angebote, weniger Werbung."
     },
     {
      "id": "l9",
-     "q": "Wie viele Leser machen mit?",
+     "q": "Worin liegt laut Kramer die Stärke der Zeitung?",
      "opts": [
-      "Etwa fünf Prozent.",
-      "Etwa die Hälfte.",
-      "Fast alle."
+      "In ihrem günstigen Preis.",
+      "In der Berichterstattung über das Geschehen vor Ort.",
+      "In der schnellen Verbreitung im Internet."
      ],
-     "key": "a",
-     "why": "Rund 5 %."
+     "key": "b",
+     "why": "Lokalredaktionen."
     },
     {
      "id": "l10",
-     "q": "Was hat sich in der Redaktion geändert?",
+     "q": "Wie stellt sich Kramer die Zukunft vor?",
      "opts": [
-      "Mehr Reporter wurden eingestellt.",
-      "Es gibt weniger Reporter, aber neue Stellen für Video.",
-      "Die Redaktion zieht um."
+      "Es wird weniger gedruckte Ausgaben geben.",
+      "Die Zeitung wird ganz verschwinden.",
+      "Alles bleibt wie bisher."
      ],
-     "key": "b",
-     "why": "12 statt 20; Video."
+     "key": "a",
+     "why": "Vier Tage Print."
     }
    ]
   },

@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Raus aus der Stadt</p><p>Vor einem Jahr haben Thomas und Nora Berger ihre Wohnung in München verlassen und sind in ein Dorf bei Landshut gezogen. Der Grund war das Geld: Die Miete war in vier Jahren um 30 Prozent gestiegen, und für eine größere Wohnung hätte die Familie noch mehr bezahlen müssen. Im Dorf zahlen sie für ein Haus mit Garten weniger als vorher.</p><p>Für Thomas hat sich der Alltag stark verändert. Früher fuhr er mit dem Auto zur Arbeit und stand oft im Stau. Heute nimmt er den Zug, der in 35 Minuten in der Stadt ist. „Ich lese jetzt jeden Morgen die Zeitung, das hätte ich früher nie getan“, sagt er. Nora arbeitet im Homeoffice und vermisst vor allem eines: den Supermarkt, der in München abends lange geöffnet hatte. Im Dorf schließt der einzige Laden um 18 Uhr, deshalb plant sie die Einkäufe jetzt genauer.</p><p>Die Kinder, acht und zwölf Jahre alt, sind begeistert. Sie spielen nach der Schule draußen, fahren mit dem Rad zu Freunden und haben gelernt, Hühner zu füttern. Nur das Nachmittagsprogramm in der Stadt, mit Schwimmkurs und Musikschule, fehlt ihnen manchmal.</p><p>Im Frühjahr wollen die Bergers einen Gemüsegarten anlegen. Die Nachbarn haben schon Hilfe angeboten und ihnen Samen geschenkt. „Wir sind hier nicht allein“, sagt Nora. „Das hatten wir in der Stadt nicht.“</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Raus aus der Stadt</p><p>Vor einem Jahr haben Thomas und Nora Berger ihre Wohnung in Hamburg verkauft und sind in ein altes Bauernhaus in der Lüneburger Heide gezogen. Beide arbeiten als Grafiker und können von zu Hause aus arbeiten. „In der Stadt haben wir auf 70 Quadratmetern gelebt und für die Miete ein Vermögen bezahlt“, erzählt Thomas Berger.</p><p>Das Haus war in schlechtem Zustand. Dach und Heizung mussten erneuert werden, und die Fenster ließen im Winter viel Kälte herein. Die Renovierung dauerte acht Monate und kostete mehr als geplant. In dieser Zeit lebte die Familie in einem kleinen Wohnwagen auf dem Grundstück. „Das war unser Abenteuer“, sagt Nora Berger.</p><p>Im Dorf wurden sie freundlich aufgenommen. Die Nachbarn brachten Eier und selbst gemachte Marmelade, und Herr Voss von nebenan half beim Dach. Trotzdem gibt es Nachteile: Der Supermarkt ist sieben Kilometer entfernt, und der Bus fährt nur zweimal am Tag. Ohne Auto geht es nicht.</p><p>Auch die Arbeit hat sich verändert. Das Internet auf dem Land war zunächst zu langsam, sodass Nora wichtige Dateien nicht verschicken konnte. Die Gemeinde hat im Frühjahr ein Glasfaserkabel verlegt, seitdem gibt es keine Probleme mehr. Die Kunden in der Stadt wissen gar nicht, dass die Bergers umgezogen sind.</p><p>Ob sie ihren Entschluss bereuen? „Nein“, sagt Nora Berger. „Wir haben jetzt Zeit für die Kinder und für unseren Gemüsegarten.“ Nur Tochter Lea, 15, vermisst manchmal ihre Freundinnen aus der Stadt und fährt am Wochenende mit dem Zug nach Hamburg. Thomas Berger sagt: „Für Jugendliche ist das Land schwieriger als für uns.“</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Warum sind die Bergers aus München weggezogen?",
+     "q": "Warum konnten die Bergers aufs Land ziehen?",
      "opts": [
-      "Der Arbeitgeber von Thomas ist umgezogen.",
-      "Sie hatten Streit mit den Nachbarn.",
-      "Die Miete war für sie zu hoch geworden."
+      "Ihre Arbeit ist nicht an einen bestimmten Ort gebunden.",
+      "Ihre Firma ist mit ihnen umgezogen.",
+      "Sie haben das Haus geerbt."
      ],
-     "key": "c",
-     "why": "„Der Grund war das Geld: Die Miete war in vier Jahren um 30 Prozent gestiegen.“"
+     "key": "a",
+     "why": "Von zu Hause arbeiten."
     },
     {
      "id": "l7",
-     "q": "Was hat sich für Thomas im Alltag verändert?",
+     "q": "Wie lebte die Familie während der Renovierung?",
      "opts": [
-      "Er fährt jetzt mit dem Zug zur Arbeit.",
-      "Er arbeitet jetzt zu Hause.",
-      "Er hat weniger Arbeitszeit."
+      "Sie wohnte bei den Nachbarn im Dorf.",
+      "Sie blieb in der Hamburger Wohnung.",
+      "Sie wohnte vorübergehend auf dem Grundstück, aber nicht im Haus."
      ],
-     "key": "a",
-     "why": "Früher fuhr er mit dem Auto und stand im Stau. „Heute nimmt er den Zug.“ Nora arbeitet im Homeoffice, nicht Thomas."
+     "key": "c",
+     "why": "Wohnwagen."
     },
     {
      "id": "l8",
-     "q": "Was vermisst Nora im Dorf?",
+     "q": "Was ist ein Nachteil des Landlebens?",
      "opts": [
-      "Ihre Freunde aus München.",
-      "Einen Supermarkt, der abends lange offen ist.",
-      "Ihre Arbeit im Büro."
+      "Man kennt die Nachbarn kaum.",
+      "Man braucht fast immer ein eigenes Fahrzeug.",
+      "Es gibt keine Möglichkeit zum Einkaufen."
      ],
      "key": "b",
-     "why": "Im Dorf schließt der einzige Laden um 18 Uhr; in München war abends lange geöffnet."
+     "why": "Supermarkt weit, Bus selten."
     },
     {
      "id": "l9",
-     "q": "Wie finden die Kinder das Leben im Dorf?",
+     "q": "Wie ist es heute mit dem Internet?",
      "opts": [
-      "Sie langweilen sich oft.",
-      "Sie wollen zurück in die Stadt.",
-      "Sie sind begeistert und spielen viel draußen."
+      "Es funktioniert inzwischen gut.",
+      "Es ist immer noch zu langsam zum Verschicken.",
+      "Die Kunden beschweren sich über die Verbindung."
      ],
-     "key": "c",
-     "why": "„Die Kinder … sind begeistert. Sie spielen nach der Schule draußen.“ Nur das Programm der Stadt fehlt manchmal."
+     "key": "a",
+     "why": "Glasfaser, keine Probleme."
     },
     {
      "id": "l10",
-     "q": "Was wollen die Bergers im Frühjahr tun?",
+     "q": "Wer hat mit dem neuen Leben die größten Probleme?",
      "opts": [
-      "Ein neues Haus kaufen.",
-      "Einen Gemüsegarten anlegen.",
-      "Einen Schwimmkurs besuchen."
+      "Thomas, weil er sehr viel arbeiten muss.",
+      "Nora, weil sie den Garten pflegen muss.",
+      "Lea, weil ihre Freunde weit weg sind."
      ],
-     "key": "b",
-     "why": "„Im Frühjahr wollen die Bergers einen Gemüsegarten anlegen.“"
+     "key": "c",
+     "why": "Lea vermisst Freundinnen."
     }
    ]
   },

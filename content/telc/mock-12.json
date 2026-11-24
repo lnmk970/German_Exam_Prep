@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Singen verbindet</p><p>Jeden Mittwochabend treffen sich im Gemeindehaus von Wiesental etwa vierzig Menschen zum Singen. Der „Chor ohne Noten“ wurde vor vier Jahren von der Musiklehrerin Clara Brandt gegründet. Mitglieder müssen keine Noten lesen können und auch nicht vorsingen. „Wer Spaß am Singen hat, ist willkommen“, sagt sie.</p><p>Die Idee kam ihr, als sie merkte, dass viele Erwachsene sich nicht trauen zu singen. „In der Schule hat ihnen jemand gesagt, sie seien unmusikalisch. Das bleibt hängen“, erzählt Brandt. Im Chor lernen sie die Lieder nach Gehör. Am Ende des Jahres gibt es ein Konzert, das meist ausverkauft ist.</p><p>Der Chor finanziert sich durch einen Monatsbeitrag von zehn Euro und durch Spenden. Neue Mitglieder können im September einsteigen. Wer möchte, kann einen Abend unverbindlich zuhören.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Singen verbindet</p><p>Jeden Mittwochabend treffen sich im Gemeindehaus von Holzbach rund vierzig Menschen zum Singen. Der gemischte Chor „Klangfarben“ wurde vor fünf Jahren von der Lehrerin Anke Dorn gegründet, die damals nach einem neuen Hobby für den Ruhestand suchte. Mitmachen darf jeder, Noten lesen muss man nicht.</p><p>Die Mitglieder sind zwischen 18 und 83 Jahre alt. Eine Studentin singt neben einem pensionierten Postbeamten, eine Krankenschwester neben einem Bäcker. „Im Chor spielt der Beruf keine Rolle“, sagt Anke Dorn. Einige Mitglieder haben hier Freunde gefunden, mit denen sie auch außerhalb der Proben etwas unternehmen.</p><p>Die Proben dauern zwei Stunden. Zuerst singt man sich mit Atem- und Stimmübungen ein, dann übt der Chor neue Stücke. Zweimal im Jahr gibt es ein Konzert, im Sommer im Garten des Gemeindehauses und im Dezember in der Kirche. Die Einnahmen gehen an Schüler, die sich eine Klassenfahrt nicht leisten können.</p><p>Für viele ist der Chor mehr als ein Freizeitvergnügen. Eine Teilnehmerin erzählt, dass sie nach dem Tod ihres Mannes kaum noch aus dem Haus ging, bis eine Nachbarin sie zum Singen mitnahm. „Hier habe ich wieder Lust bekommen, unter Leute zu gehen“, sagt sie. Studien zeigen außerdem, dass gemeinsames Singen Stress verringern kann.</p><p>Zurzeit sucht der Chor vor allem Männer, weil nur sieben Tenöre und Bässe dabei sind. Wer Interesse hat, kann an drei Probeabenden unverbindlich mitsingen. Danach kostet die Mitgliedschaft 10 Euro im Monat. Der Chor plant außerdem eine Reise zu einem Chorfestival in Prag im nächsten Frühjahr.</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Wann trifft sich der Chor?",
+     "q": "Wer kann im Chor mitsingen?",
      "opts": [
-      "Jeden Mittwochabend.",
-      "Jeden Samstag.",
-      "Einmal im Monat."
+      "Alle, die Lust dazu haben.",
+      "Nur Menschen mit musikalischer Ausbildung.",
+      "Nur Menschen im Ruhestand."
      ],
      "key": "a",
-     "why": "Mittwochabend."
+     "why": "Jeder darf mitmachen."
     },
     {
      "id": "l7",
-     "q": "Was müssen Mitglieder können?",
+     "q": "Was ist das Besondere an der Gruppe?",
      "opts": [
-      "Noten lesen.",
-      "Vorsingen.",
-      "Nichts Besonderes, nur Spaß am Singen haben."
+      "Alle Mitglieder kommen aus demselben Beruf.",
+      "Alle Mitglieder sind etwa gleich alt.",
+      "Die Mitglieder unterscheiden sich stark in Alter und Beruf."
      ],
      "key": "c",
-     "why": "Keine Voraussetzung."
+     "why": "18 bis 83 Jahre."
     },
     {
      "id": "l8",
-     "q": "Warum gründete Clara Brandt den Chor?",
+     "q": "Was geschieht mit dem Geld aus den Konzerten?",
      "opts": [
-      "Weil viele Erwachsene sich nicht zu singen trauen.",
-      "Weil sie Geld verdienen wollte.",
-      "Weil die Schule es verlangte."
+      "Der Chor kauft davon neue Noten.",
+      "Es hilft Schülern mit wenig Geld.",
+      "Damit wird die Chorleiterin bezahlt."
      ],
-     "key": "a",
-     "why": "Hemmung bei Erwachsenen."
+     "key": "b",
+     "why": "Klassenfahrt."
     },
     {
      "id": "l9",
-     "q": "Wie lernt man die Lieder?",
+     "q": "Wie hat der Chor der Teilnehmerin geholfen?",
      "opts": [
-      "Durch Noten.",
-      "Nach Gehör.",
-      "Mit dem Computer."
+      "Sie ist wieder aktiver geworden.",
+      "Sie hat ihren Beruf gewechselt.",
+      "Sie ist in eine andere Stadt gezogen."
      ],
-     "key": "b",
-     "why": "Nach Gehör."
+     "key": "a",
+     "why": "Lust, unter Leute zu gehen."
     },
     {
      "id": "l10",
-     "q": "Was kostet die Mitgliedschaft?",
+     "q": "Wen sucht der Chor im Moment?",
      "opts": [
-      "Nichts.",
-      "Zehn Euro im Monat.",
-      "Hundert Euro im Jahr."
+      "Mehr Sängerinnen.",
+      "Eine neue Chorleitung.",
+      "Mehr männliche Sänger."
      ],
-     "key": "b",
-     "why": "10 € pro Monat."
+     "key": "c",
+     "why": "Nur sieben Tenöre und Bässe."
     }
    ]
   },

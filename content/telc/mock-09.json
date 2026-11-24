@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Großfamilie im Hochhaus</p><p>In einem Hochhaus in Essen leben vier Generationen unter einem Dach. Die 84-jährige Oma Hilde wohnt im Erdgeschoss, ihre Tochter Gerda mit Mann im ersten Stock, deren Sohn mit seiner Familie im dritten. Vor zehn Jahren sind sie bewusst zusammengezogen. „Wir wollten nicht, dass Oma alleine ist“, sagt Gerda. „Und wir sparen so auch Miete.“ Jeder hat seine eigene Wohnung, gegessen wird aber sonntags gemeinsam.</p><p>Nicht immer ist alles einfach. Die Kinder im dritten Stock sind laut, und Opa Karl ärgert sich über den Fernseher von Oma Hilde, der bis spät läuft. Wenn es Streit gibt, setzen sich alle zusammen und suchen eine Lösung. Es gibt inzwischen eine Regel: Nach zehn Uhr abends ist Ruhe.</p><p>Soziologen beobachten, dass solche Wohnformen wieder häufiger werden. Vor allem junge Eltern schätzen die Hilfe der Großeltern bei der Kinderbetreuung. Dafür unterstützen sie die Älteren im Alltag, zum Beispiel beim Einkaufen oder bei Arztterminen.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Großfamilie im Hochhaus</p><p>In einem Hochhaus in Essen leben vier Generationen unter einem Dach, allerdings nicht in einer gemeinsamen Wohnung. Im achten Stock wohnen die Urgroßmutter Ilse Berger (91) und ihre Tochter Hannelore (68), im neunten Stock die Enkelin Sabine (44) mit Mann und den Söhnen Jonas (16) und Paul (11). Die Familie hat die Wohnungen bewusst übereinander gewählt.</p><p>Begonnen hat alles, als Ilse Berger nach einem Sturz nicht mehr allein zurechtkam. Statt ins Pflegeheim zu ziehen, entschied die Familie, näher zusammenzurücken. Hannelore zog zu ihrer Mutter, wenige Monate später fand Sabine im Haus eine freie Wohnung. „Wir wollten, dass Oma ihre vertraute Umgebung behält“, sagt sie.</p><p>Der Alltag ist gut organisiert. Mittags essen alle zusammen bei Hannelore, die für alle kocht. Dafür erledigt Sabine nach der Arbeit die Einkäufe und fährt die Urgroßmutter zu Arztterminen. Die Jungen helfen ihr am Computer, wenn sie Fotos an Verwandte schicken will. Jede Generation übernimmt also eine Aufgabe.</p><p>Konflikte gibt es natürlich auch. Der Fernseher bei Ilse läuft oft sehr laut, und Jonas braucht für seine Hausaufgaben Ruhe. Deshalb gilt in der Familie eine Regel: Zwischen 15 und 17 Uhr ist Ruhezeit. Außerdem darf niemand unangemeldet in die Wohnung der anderen kommen.</p><p>Der Soziologe Prof. Klaus Reuter findet das Modell zukunftsfähig. Immer mehr Familien suchen solche Lösungen, weil Pflegeplätze fehlen und die Mieten steigen. Er warnt aber: „Das funktioniert nur, wenn jeder genug Privatsphäre behält.“</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Warum sind die Familien zusammengezogen?",
+     "q": "Wie wohnt die Familie?",
      "opts": [
-      "Weil die Wohnungen zu klein waren.",
-      "Weil Oma nicht allein sein sollte und man Miete spart.",
-      "Weil der Sohn Arbeit im Haus hatte."
+      "In getrennten Wohnungen im selben Haus.",
+      "In einer großen gemeinsamen Wohnung.",
+      "In mehreren Häusern in einer Straße."
      ],
-     "key": "b",
-     "why": "Oma nicht allein; Miete sparen."
+     "key": "a",
+     "why": "Achter und neunter Stock."
     },
     {
      "id": "l7",
-     "q": "Wie oft essen alle zusammen?",
+     "q": "Warum hat sich die Familie so entschieden?",
      "opts": [
-      "Jeden Tag.",
-      "Nur zu Weihnachten.",
-      "Immer sonntags."
+      "Die Wohnungen im Haus waren besonders billig.",
+      "Die Kinder wollten ihre Großeltern öfter sehen.",
+      "Die Urgroßmutter brauchte Hilfe, wollte aber nicht ins Heim."
      ],
      "key": "c",
-     "why": "Sonntags gemeinsam."
+     "why": "Nach dem Sturz."
     },
     {
      "id": "l8",
-     "q": "Worüber ärgert sich Opa Karl?",
+     "q": "Wie ist die Arbeit in der Familie verteilt?",
      "opts": [
-      "Über die lauten Kinder.",
-      "Über Omas Fernseher.",
-      "Über die Miete."
+      "Die Enkelin erledigt fast alles allein.",
+      "Jeder hilft auf seine Weise.",
+      "Ein Pflegedienst übernimmt die meisten Aufgaben."
      ],
      "key": "b",
-     "why": "Fernseher bis spät."
+     "why": "Kochen, Einkaufen, Computer."
     },
     {
      "id": "l9",
-     "q": "Was gilt seit dem Streit?",
+     "q": "Was hat die Familie gegen Streit vereinbart?",
      "opts": [
-      "Nach zehn Uhr abends ist Ruhe.",
-      "Fernsehen ist verboten.",
-      "Die Kinder spielen draußen."
+      "Man betritt die Wohnung der anderen nur nach Anmeldung.",
+      "Der Fernseher der Urgroßmutter wurde abgeschafft.",
+      "Die Jungen dürfen nachmittags nicht mehr lernen."
      ],
      "key": "a",
-     "why": "Regel: ab 22 Uhr Ruhe."
+     "why": "Ruhezeit und Anmeldung."
     },
     {
      "id": "l10",
-     "q": "Wovon profitieren junge Eltern laut Text?",
+     "q": "Was sagt der Soziologe über diese Wohnform?",
      "opts": [
-      "Von billigem Essen.",
-      "Von der Hilfe der Großeltern bei den Kindern.",
-      "Von mehr Platz."
+      "Sie ist für die meisten Familien zu teuer.",
+      "Pflegeheime sind die bessere Lösung.",
+      "Sie klappt nur, wenn jeder einen eigenen Rückzugsbereich hat."
      ],
-     "key": "b",
-     "why": "Kinderbetreuung."
+     "key": "c",
+     "why": "Privatsphäre."
     }
    ]
   },

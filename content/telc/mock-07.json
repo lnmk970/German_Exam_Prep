@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Vier Tage arbeiten, drei Tage frei</p><p>Die Firma Lindner aus Bielefeld, die Küchenmöbel herstellt, hat vor einem halben Jahr die Vier-Tage-Woche eingeführt. Seitdem arbeiten die 60 Mitarbeiter nur noch von Montag bis Donnerstag, jeden Tag zehn Stunden statt acht. Das Gehalt ist gleich geblieben. Chef Peter Lindner wollte damit gute Fachkräfte halten: „In unserer Region ist es schwer, Tischler zu finden. Wer mehr freie Zeit bietet, hat einen Vorteil.“</p><p>Die Mitarbeiter sind überwiegend zufrieden. „Ich habe freitags endlich Zeit für Arzttermine und Einkäufe, und am Wochenende bin ich weniger gestresst“, sagt Tischlerin Anja Roth. Allerdings sind die langen Tage anstrengend. Manche Kollegen sind abends sehr müde, besonders ältere Mitarbeiter. Deshalb gibt es jetzt zwei zusätzliche Pausen von je zwanzig Minuten.</p><p>Auch für die Kunden gab es Veränderungen: Freitags ist die Firma nicht mehr erreichbar. Einige Kunden haben sich beschwert. Das Unternehmen hat daraufhin einen Anrufbeantworter eingerichtet, der am Montag zuerst abgehört wird.</p><p>Für die Zukunft will Lindner prüfen, ob sich der Umsatz verändert. Bisher ist er stabil. „Wenn das so bleibt, machen wir weiter“, sagt der Chef.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Vier Tage arbeiten, drei Tage frei</p><p>Die Firma Lindner aus Bielefeld, die Küchengeräte herstellt, hat vor einem Jahr die Vier-Tage-Woche eingeführt. Die 120 Beschäftigten arbeiten seitdem von Montag bis Donnerstag je neun Stunden, bekommen aber den gleichen Lohn wie vorher. Geschäftsführerin Petra Lindner erklärt: „Wir hatten Probleme, neue Fachkräfte zu finden. Mit dem langen Wochenende sind wir plötzlich attraktiv.“</p><p>Die Reaktionen der Mitarbeiter waren überwiegend positiv. Viele nutzen den freien Freitag für Arztbesuche oder Behördengänge, die früher während der Arbeitszeit stattfinden mussten. Andere fahren mit der Familie weg. Eine Mitarbeiterin sagt, sie habe abends mehr Energie für ihre Kinder, obwohl der Arbeitstag länger ist.</p><p>Es gab aber auch Probleme. Im Kundenservice fehlte freitags zunächst jemand am Telefon, und mehrere Kunden beschwerten sich. Die Firma hat darauf ein Schichtsystem eingeführt: Eine Gruppe arbeitet von Dienstag bis Freitag, sodass das Telefon immer besetzt ist.</p><p>Wirtschaftlich hat sich die Umstellung bisher gelohnt. Die Zahl der Krankmeldungen sank um ein Fünftel, und im letzten Jahr kündigten nur zwei Mitarbeiter, nach fast zehn im Jahr davor. Die Produktion ist ungefähr gleich geblieben, weil die Beschäftigten konzentrierter arbeiten.</p><p>Nicht jede Firma kann so ein Modell einführen, meint Petra Lindner. In Krankenhäusern oder Geschäften müssten zum Beispiel immer Menschen anwesend sein. Für ihre eigene Firma schließt sie eine Rückkehr zur Fünf-Tage-Woche aus. Eine Drei-Tage-Woche sei dagegen nicht geplant.</p></div>",
    "items": [
     {
      "id": "l6",
      "q": "Warum hat die Firma die Vier-Tage-Woche eingeführt?",
      "opts": [
-      "Weil die Kunden es wünschten.",
-      "Um gute Fachkräfte zu halten.",
-      "Weil es weniger Aufträge gab."
+      "Sie wollte Lohnkosten sparen.",
+      "Sie wollte für neue Mitarbeiter interessanter werden.",
+      "Die Beschäftigten hatten es gefordert."
      ],
      "key": "b",
-     "why": "„Chef Peter Lindner wollte damit gute Fachkräfte halten.“"
+     "why": "Fachkräfte finden."
     },
     {
      "id": "l7",
-     "q": "Wie lange arbeiten die Mitarbeiter jetzt pro Tag?",
+     "q": "Wofür nutzen viele Mitarbeiter den freien Tag?",
      "opts": [
-      "Zehn Stunden.",
-      "Acht Stunden.",
-      "Sechs Stunden."
+      "Für Erledigungen, die sonst in der Arbeitszeit anfallen.",
+      "Für einen zweiten, bezahlten Job.",
+      "Für Kurse, die die Firma anbietet."
      ],
      "key": "a",
-     "why": "„Jeden Tag zehn Stunden statt acht.“"
+     "why": "Arztbesuche, Behördengänge."
     },
     {
      "id": "l8",
-     "q": "Was gefällt Anja Roth an der neuen Regelung?",
+     "q": "Wie wurde das Problem im Kundenservice gelöst?",
      "opts": [
-      "Dass sie weniger verdient.",
-      "Dass sie mehr Zeit mit den Kollegen verbringt.",
-      "Dass sie freitags Zeit für Termine hat."
+      "Es wurden zusätzliche Mitarbeiter eingestellt.",
+      "Freitags nimmt ein Anrufbeantworter die Anrufe an.",
+      "Die Beschäftigten arbeiten in Gruppen an verschiedenen Tagen."
      ],
      "key": "c",
-     "why": "„Ich habe freitags endlich Zeit für Arzttermine und Einkäufe.“"
+     "why": "Schichtsystem."
     },
     {
      "id": "l9",
-     "q": "Was hat die Firma gegen die Müdigkeit getan?",
+     "q": "Was hat sich laut Artikel verbessert?",
      "opts": [
-      "Sie hat einen zweiten Mitarbeiter eingestellt.",
-      "Sie hat zusätzliche Pausen eingeführt.",
-      "Sie hat die Arbeitszeit gekürzt."
+      "Es wird deutlich mehr produziert.",
+      "Es gibt weniger Krankheitsfälle und Kündigungen.",
+      "Der Umsatz hat sich verdoppelt."
      ],
      "key": "b",
-     "why": "„Deshalb gibt es jetzt zwei zusätzliche Pausen von je zwanzig Minuten.“"
+     "why": "Krankmeldungen minus ein Fünftel."
     },
     {
      "id": "l10",
-     "q": "Wie ist die Lage im Moment?",
+     "q": "Was plant die Firma für die Zukunft?",
      "opts": [
-      "Der Umsatz ist stark gesunken.",
-      "Die Firma will die Vier-Tage-Woche wieder abschaffen.",
-      "Der Umsatz ist bisher gleich geblieben."
+      "Sie will die Vier-Tage-Woche beibehalten.",
+      "Sie will zur Fünf-Tage-Woche zurückkehren.",
+      "Sie will die Arbeit auf drei Tage verkürzen."
      ],
-     "key": "c",
-     "why": "„Bisher ist er stabil.“ Der Chef will weitermachen, wenn das so bleibt."
+     "key": "a",
+     "why": "Rückkehr ausgeschlossen, keine Drei-Tage-Woche."
     }
    ]
   },

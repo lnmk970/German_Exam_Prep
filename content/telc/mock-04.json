@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Mit 41 wieder Schüler</p><p>Jasmin Kovač hat zwanzig Jahre als Verkäuferin gearbeitet. Als ihr Geschäft im vergangenen Jahr schloss, stand sie plötzlich ohne Arbeit da. „Ich hatte nie einen Beruf gelernt, nur Erfahrung“, sagt sie. Beim Arbeitsamt riet man ihr zu einer Ausbildung als Pflegekraft. Die Idee gefiel ihr, aber zuerst musste sie einen Deutschkurs auf Niveau B1 abschließen.</p><p>Seit September sitzt sie jeden Morgen mit 14 anderen Erwachsenen im Klassenzimmer, die meisten sind jünger als sie. „Am Anfang war es komisch, wieder zu lernen“, erzählt sie. „Aber die anderen sind nett, und wir helfen uns gegenseitig.“ Besonders schwer findet sie das Schreiben. Dafür übt sie jeden Abend eine halbe Stunde, während ihre beiden Kinder Hausaufgaben machen.</p><p>Den Kurs bezahlt die Agentur für Arbeit. Auch die Fahrkarte für den Bus bekommt Jasmin erstattet. Nur die Bücher muss sie selbst kaufen. Ihr Mann findet das Projekt gut, auch wenn er jetzt öfter kochen muss.</p><p>Im Februar macht sie die Prüfung. Danach möchte sie sich in einem Krankenhaus bewerben. „Ich weiß, dass es nicht leicht wird“, sagt sie. „Aber ich möchte meinen Kindern zeigen, dass man in jedem Alter etwas Neues anfangen kann.“</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Mit 41 wieder Schüler</p><p>Jasmin Kovač hat zwanzig Jahre als Verkäuferin in einem Schuhgeschäft gearbeitet. Dann schloss das Geschäft, und sie wurde arbeitslos. Beim Arbeitsamt hörte sie immer wieder denselben Satz: Ohne Schulabschluss sei es schwer, eine neue Stelle zu finden. Mit 41 hat sie sich deshalb an der Abendschule angemeldet.</p><p>Der Unterricht findet viermal pro Woche von 18 bis 21 Uhr statt. Tagsüber arbeitet sie weiter in einem Supermarkt, damit sie die Miete bezahlen kann. Ihre beiden Töchter, 14 und 17, helfen im Haushalt. „Manchmal kocht die Ältere, wenn ich aus dem Unterricht komme“, sagt Frau Kovač und lacht.</p><p>Am schwersten fällt ihr der Matheunterricht. „Früher habe ich einfach im Kopf gerechnet, jetzt muss ich Formeln lernen“, erzählt sie. In Deutsch und Geschichte dagegen gehört sie zu den Besten in der Klasse, weil sie viel liest. Ihr Lehrer meint, dass Erwachsene oft motivierter lernen als Jugendliche.</p><p>Ihre Mitschüler sind zwischen 19 und 55 Jahre alt. Manche wollen später studieren, andere wie sie einen besseren Job finden. In den Pausen tauschen sie Tipps aus und lernen gemeinsam für Klassenarbeiten. „Das ist wie eine große Familie“, sagt Frau Kovač. Besonders hilft ihr ein junger Mitschüler, der ihr Computerprogramme erklärt.</p><p>Wenn alles gut läuft, hat sie den Abschluss im nächsten Sommer. Dann möchte sie eine Ausbildung zur Bürokauffrau beginnen. Ein Studium plant sie nicht. „Ich will einfach einen Beruf, bei dem ich nicht mehr den ganzen Tag stehen muss“, sagt sie.</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Warum hat Jasmin ihre Arbeit verloren?",
+     "q": "Warum geht Frau Kovač wieder zur Schule?",
      "opts": [
-      "Sie hat selbst gekündigt.",
-      "Ihr Geschäft wurde geschlossen.",
-      "Sie war zu oft krank."
+      "Ihr früherer Arbeitgeber hat sie dazu aufgefordert.",
+      "Ihr fehlt ein Abschluss, der ihr bei der Stellensuche helfen würde.",
+      "Sie möchte so bald wie möglich studieren."
      ],
      "key": "b",
-     "why": "Im Text: „Als ihr Geschäft … schloss, stand sie ohne Arbeit da.“ Sie hat nicht selbst gekündigt."
+     "why": "Ohne Abschluss schwer eine Stelle."
     },
     {
      "id": "l7",
-     "q": "Was musste Jasmin vor der Ausbildung machen?",
+     "q": "Wie bekommt sie Arbeit, Schule und Familie unter einen Hut?",
      "opts": [
-      "Ein Praktikum im Krankenhaus.",
-      "Einen Deutschkurs auf B1 abschließen.",
-      "Ihren Führerschein machen."
+      "Ihre Töchter übernehmen einen Teil der Hausarbeit.",
+      "Sie hat ihre Arbeit im Supermarkt aufgegeben.",
+      "Sie lernt nur am Wochenende."
      ],
-     "key": "b",
-     "why": "Das Arbeitsamt riet zur Ausbildung, aber „zuerst musste sie einen Deutschkurs auf Niveau B1 abschließen“."
+     "key": "a",
+     "why": "Die Ältere kocht."
     },
     {
      "id": "l8",
-     "q": "Was findet Jasmin im Kurs besonders schwer?",
+     "q": "Wobei hat Frau Kovač die größten Schwierigkeiten?",
      "opts": [
-      "Das Sprechen.",
-      "Das Hören.",
-      "Das Schreiben."
+      "Beim Schreiben von Texten.",
+      "Beim Auswendiglernen von Jahreszahlen.",
+      "Beim Rechnen mit Formeln."
      ],
      "key": "c",
-     "why": "„Besonders schwer findet sie das Schreiben.“"
+     "why": "Mathe."
     },
     {
      "id": "l9",
-     "q": "Was bezahlt Jasmin selbst?",
+     "q": "Wie beschreibt Frau Kovač das Verhältnis in der Klasse?",
      "opts": [
-      "Die Bücher.",
-      "Den Kurs.",
-      "Die Fahrkarte."
+      "Sie fühlt sich als Außenseiterin.",
+      "Man unterstützt sich gegenseitig.",
+      "Sie ist deutlich die Älteste."
      ],
-     "key": "a",
-     "why": "Kurs und Fahrkarte bezahlt die Agentur. „Nur die Bücher muss sie selbst kaufen.“"
+     "key": "b",
+     "why": "Wie eine große Familie."
     },
     {
      "id": "l10",
-     "q": "Was sagt Jasmin über ihre Pläne?",
+     "q": "Was hat Frau Kovač nach dem Abschluss vor?",
      "opts": [
-      "Sie hofft, dass die Prüfung leicht ist.",
-      "Sie will ihren Kindern ein Vorbild sein.",
-      "Sie möchte nach der Prüfung ins Ausland ziehen."
+      "Sie will eine Lehre in einem Büro machen.",
+      "Sie will an der Universität studieren.",
+      "Sie will wieder in einem Schuhgeschäft arbeiten."
      ],
-     "key": "b",
-     "why": "„Ich möchte meinen Kindern zeigen, dass man in jedem Alter etwas Neues anfangen kann.“"
+     "key": "a",
+     "why": "Bürokauffrau."
     }
    ]
   },

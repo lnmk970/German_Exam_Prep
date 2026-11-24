@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Neues Leben im alten Bahnhof</p><p>Der alte Bahnhof von Oberdorf stand zwanzig Jahre lang leer. Jetzt hat ein Verein das Gebäude gekauft und in ein Kulturzentrum verwandelt. Im Wartesaal gibt es ein Café, in der Gepäckhalle finden Konzerte und Theaterabende statt. Rund 80 Freiwillige haben den Umbau geholfen.</p><p>Bürgermeister Franz Lenz freut sich über das Projekt. „Die Stadt hätte kein Geld gehabt, das Gebäude zu renovieren“, sagt er. Trotzdem hat die Stadt den Verein unterstützt: Sie hat ihm das Gebäude für einen Euro verkauft und die Bauarbeiten mit 50.000 Euro gefördert.</p><p>Kritik kommt von einigen Anwohnern. Sie befürchten Lärm am Abend und fehlende Parkplätze. Der Verein hat versprochen, dass nach 22 Uhr keine Musik mehr gespielt wird und Besucher am nahegelegenen Sportplatz parken sollen.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Neues Leben im alten Bahnhof</p><p>Der alte Bahnhof von Oberdorf stand zwanzig Jahre lang leer. Seit dem letzten Zug 2004 verfiel das Gebäude, Fenster waren eingeschlagen, und die Gemeinde dachte schon an den Abriss. Dann gründeten 15 Einwohner einen Verein und kauften das Haus für einen Euro von der Bahn.</p><p>Die Renovierung dauerte drei Jahre und kostete 400.000 Euro. Einen Teil des Geldes spendeten Firmen aus der Region, ein anderer kam aus einem Förderprogramm des Landes. Viele Arbeiten haben die Vereinsmitglieder selbst gemacht: Sie strichen Wände, erneuerten Böden und bauten Möbel. Insgesamt kamen mehr als 5.000 Stunden unbezahlter Arbeit zusammen.</p><p>Heute ist der Bahnhof ein Treffpunkt für das ganze Dorf. Im früheren Wartesaal gibt es ein Café, in der Schalterhalle finden Konzerte und Lesungen statt, und im Obergeschoss können Schüler nachmittags Hausaufgaben machen. Am Wochenende bietet ein Fahrradverleih Touren auf der alten Bahnstrecke an, die zum Radweg umgebaut wurde.</p><p>Den größten Erfolg sieht Vereinsvorsitzende Martina Roth jedoch woanders. „Früher kannte man sich im Dorf kaum. Jetzt treffen sich Alt und Jung hier, und viele Neue sind dazugezogen.“ Der Verein hat inzwischen 120 Mitglieder, und die Gemeinde hat im vergangenen Jahr erstmals seit Langem mehr Einwohner gewonnen als verloren.</p><p>Probleme gibt es trotzdem: Die Heizkosten sind hoch, und das Café macht nur im Sommer Gewinn. Der Verein sucht deshalb Sponsoren für eine Solaranlage auf dem Dach. Wenn das gelingt, will er die Eintrittspreise für die Konzerte niedrig halten.</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Was war mit dem Bahnhof zwanzig Jahre lang?",
+     "q": "Wie wurde das Gebäude vor dem Verfall gerettet?",
      "opts": [
-      "Er war ein Museum.",
-      "Er stand leer.",
-      "Er war ein Hotel."
+      "Die Bahn hat es renoviert.",
+      "Die Gemeinde hat es gekauft.",
+      "Eine Gruppe von Einwohnern hat es übernommen."
      ],
-     "key": "b",
-     "why": "Leer."
+     "key": "c",
+     "why": "Verein für einen Euro."
     },
     {
      "id": "l7",
-     "q": "Wer hat den Umbau gemacht?",
+     "q": "Wie wurde die Renovierung bezahlt und durchgeführt?",
      "opts": [
-      "Eine große Baufirma.",
-      "Der Bürgermeister allein.",
-      "Rund 80 Freiwillige."
+      "Mit einem Kredit, den die Gemeinde zurückzahlt.",
+      "Mit Spenden und Zuschüssen, und viele Mitglieder halfen ohne Bezahlung.",
+      "Mit den Eintrittsgeldern der Konzerte."
      ],
-     "key": "c",
-     "why": "Freiwillige."
+     "key": "b",
+     "why": "Spenden, Förderprogramm, 5.000 Stunden."
     },
     {
      "id": "l8",
-     "q": "Wie hat die Stadt das Projekt unterstützt?",
+     "q": "Was kann man heute im Bahnhof machen?",
      "opts": [
-      "Sie hat das Gebäude für einen Euro verkauft und Geld gegeben.",
-      "Sie hat gar nichts gemacht.",
-      "Sie hat den Verein bezahlt."
+      "An Kulturveranstaltungen teilnehmen.",
+      "Eine Zugfahrkarte kaufen.",
+      "Im Gebäude übernachten."
      ],
      "key": "a",
-     "why": "1 Euro + 50.000 Euro."
+     "why": "Konzerte und Lesungen."
     },
     {
      "id": "l9",
-     "q": "Was kritisieren einige Anwohner?",
+     "q": "Welchen Erfolg hebt Frau Roth hervor?",
      "opts": [
-      "Die hohen Preise.",
-      "Möglichen Lärm und fehlende Parkplätze.",
-      "Die Öffnungszeiten."
+      "Der Ort hat wieder einen Zug.",
+      "Die Gemeinde verdient viel Geld.",
+      "Die Menschen im Dorf haben mehr Kontakt miteinander."
      ],
-     "key": "b",
-     "why": "Lärm, Parkplätze."
+     "key": "c",
+     "why": "Alt und Jung treffen sich."
     },
     {
      "id": "l10",
-     "q": "Was verspricht der Verein?",
+     "q": "Was will der Verein als Nächstes erreichen?",
      "opts": [
-      "Nach 22 Uhr keine Musik mehr.",
-      "Eintritt frei für Anwohner.",
-      "Mehr Parkplätze zu bauen."
+      "Ein zweites Café eröffnen.",
+      "Die Energiekosten des Gebäudes senken.",
+      "Die Preise für Konzerte erhöhen."
      ],
-     "key": "a",
-     "why": "Nach 22 Uhr Ruhe."
+     "key": "b",
+     "why": "Solaranlage."
     }
    ]
   },

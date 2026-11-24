@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Von der Bank in die Backstube</p><p>Ralf Meier war zwanzig Jahre lang Bankangestellter. Mit 42 hat er gekündigt und eine Bäckerlehre begonnen. „Mir hat die Arbeit am Schreibtisch keinen Spaß mehr gemacht“, erzählt er. „Ich wollte etwas mit meinen Händen herstellen.“ Seine Frau war anfangs skeptisch, hat ihn aber unterstützt.</p><p>Die Ausbildung ist hart. Um drei Uhr nachts steht er auf, und er verdient als Azubi viel weniger als früher. Die Familie musste sich einschränken. Seine Kollegen, meist zwanzig Jahre jünger, haben ihn zuerst belächelt. Heute sagen sie, dass er der Beste im Team ist.</p><p>Nach der Prüfung im Sommer möchte er eine eigene Bäckerei eröffnen. Die Bank hat ihm einen Kredit zugesagt. „Ich bin glücklicher als je zuvor“, sagt Meier. „Wenn ich früher gewusst hätte, wie schön es ist, hätte ich viel eher gewechselt.“</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Von der Bank in die Backstube</p><p>Ralf Meier aus Kassel hat zwanzig Jahre in einer Bank gearbeitet, zuletzt als Kundenberater. Eigentlich war er zufrieden: ein sicherer Arbeitsplatz, ein gutes Gehalt, ein Reihenhaus mit Garten. Trotzdem fühlte er sich abends oft leer. „Ich habe den ganzen Tag Zahlen und Papier angeschaut und am Ende nichts in den Händen gehabt“, erzählt der 42-Jährige. Als sein Chef ihm eine Beförderung anbot, wusste er plötzlich, dass er etwas ändern muss. Er lehnte ab und kündigte.</p><p>Seine Frau Anja reagierte zunächst vorsichtig. „Sie hatte Angst, dass wir das Haus nicht halten können“, sagt Meier. Nach mehreren langen Gesprächen und einer Woche Probearbeit in einer Bäckerei stimmte sie aber zu. Sie arbeitet weiter als Lehrerin und sorgt dafür, dass das Geld reicht.</p><p>Die Lehre dauert drei Jahre. Meier ist der Älteste in seiner Berufsschulklasse, die meisten Mitschüler sind knapp über zwanzig. Am schwersten fällt ihm das frühe Aufstehen: Schon um drei Uhr nachts beginnt sein Arbeitstag. Auch finanziell ist die Zeit schwierig, denn als Azubi bekommt er nur einen Bruchteil seines früheren Gehalts. Die Familie hat deshalb ihren Urlaub gestrichen und das zweite Auto verkauft.</p><p>Anfangs haben die jungen Kollegen in der Backstube über den „Banker“ gelächelt. Das hat sich geändert. Der Chef lobt Meiers Genauigkeit: „Wer zwanzig Jahre mit Zahlen gearbeitet hat, wiegt auch Mehl exakt ab.“ Inzwischen fragen die Jüngeren ihn um Rat, wenn ein Rezept nicht funktioniert.</p><p>Nach der Abschlussprüfung im Sommer will Meier nicht in einer fremden Backstube bleiben. Er hat bereits ein kleines Ladenlokal in seinem Stadtteil gefunden, und seine frühere Bank hat ihm einen Kredit angeboten. Bereut er seinen Schritt? „Keine Sekunde“, sagt er. „Nur eines würde ich anders machen: Ich hätte früher anfangen sollen.“</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Warum hat Ralf Meier seinen Job gekündigt?",
+     "q": "Warum hat Ralf Meier die Bank verlassen?",
      "opts": [
-      "Er wurde entlassen.",
-      "Er wollte etwas mit den Händen machen.",
-      "Er hat zu wenig verdient."
+      "Er hatte keine Beförderung bekommen.",
+      "Er wünschte sich eine Arbeit mit sichtbarem Ergebnis.",
+      "Er fand die Kollegen in der Bank unfreundlich."
      ],
      "key": "b",
-     "why": "Hände."
+     "why": "Zahlen und Papier, nichts in den Händen."
     },
     {
      "id": "l7",
-     "q": "Wie reagierte seine Frau?",
+     "q": "Wie hat Meiers Frau auf seinen Plan reagiert?",
      "opts": [
-      "Sie war zuerst skeptisch, hat ihn aber unterstützt.",
-      "Sie war sofort begeistert.",
-      "Sie war dagegen."
+      "Sie machte sich Sorgen ums Geld, stimmte dann aber zu.",
+      "Sie war von Anfang an begeistert.",
+      "Sie verlangte, dass er in Teilzeit in der Bank bleibt."
      ],
      "key": "a",
-     "why": "Skeptisch, aber Unterstützung."
+     "why": "Angst um das Haus; nach Probearbeit Zustimmung."
     },
     {
      "id": "l8",
-     "q": "Was ist ein Nachteil der Ausbildung?",
+     "q": "Was fällt Meier an der Ausbildung besonders schwer?",
      "opts": [
-      "Man verdient weniger.",
-      "Man arbeitet nur am Wochenende.",
-      "Man hat keine Kollegen."
+      "Der Unterricht in der Berufsschule.",
+      "Der Umgang mit den jüngeren Mitschülern.",
+      "Der sehr frühe Arbeitsbeginn."
      ],
-     "key": "a",
-     "why": "Weniger Geld."
+     "key": "c",
+     "why": "Drei Uhr nachts."
     },
     {
      "id": "l9",
-     "q": "Wie finden die Kollegen ihn heute?",
+     "q": "Wie sehen die Kollegen Meier inzwischen?",
      "opts": [
-      "Zu alt.",
-      "Zu langsam.",
-      "Den Besten im Team."
+      "Sie finden ihn immer noch zu alt für den Beruf.",
+      "Sie schätzen seine Erfahrung und fragen ihn um Hilfe.",
+      "Sie sind neidisch auf sein früheres Gehalt."
      ],
-     "key": "c",
-     "why": "Bester."
+     "key": "b",
+     "why": "Die Jüngeren fragen ihn um Rat."
     },
     {
      "id": "l10",
-     "q": "Was will er nach der Prüfung machen?",
+     "q": "Was plant Meier für die Zeit nach der Prüfung?",
      "opts": [
-      "Wieder zur Bank gehen.",
-      "Eine eigene Bäckerei eröffnen.",
-      "Auswandern."
+      "Er will sich mit einem eigenen Geschäft selbstständig machen.",
+      "Er will in seinen alten Beruf zurückkehren.",
+      "Er will in der Backstube seines Chefs Filialleiter werden."
      ],
-     "key": "b",
-     "why": "Eigene Bäckerei."
+     "key": "a",
+     "why": "Ladenlokal und Kredit."
     }
    ]
   },

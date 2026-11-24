@@ -46,63 +46,63 @@
   },
   {
    "title": "Lesen · Teil 2: Zeitungsartikel verstehen",
-   "instr": "Lesen Sie den Text und die Aufgaben 1 bis 5. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c. Die Aufgaben folgen nicht der Reihenfolge im Text.",
-   "left": "<div class=\"text\"><p>Zug fahren ohne Ticketschalter</p><p>Die Deutsche Bahn schließt in diesem Jahr 40 Reisezentren in kleineren Städten. Die Kunden sollen ihre Fahrkarten künftig online oder an Automaten kaufen. Die Bahn begründet den Schritt damit, dass nur noch jeder fünfte Kunde am Schalter bucht. „Wir können nicht überall Personal bezahlen, das kaum noch gebraucht wird“, sagt ein Sprecher. Fahrgastverbände kritisieren die Pläne. Vor allem ältere Menschen und Reisende ohne Smartphone seien betroffen, die Automaten seien oft schwer zu bedienen.</p><p>Die Bahn versichert, dass sie Schulungen anbieten will. In den Bahnhöfen sollen Mitarbeiter mit Tablets Fragen beantworten und beim Kauf helfen. Außerdem wird ein Telefonservice ausgebaut: Wer anruft, bekommt die Fahrkarte nach Hause geschickt. Die Gebühr dafür beträgt jedoch 3,50 Euro pro Ticket, was die Verbände ebenfalls ärgert.</p><p>Die ersten Reisezentren sollen im Herbst geschlossen werden. Die Städte, die davon betroffen sind, wurden noch nicht genannt. Im nächsten Jahr will die Bahn prüfen, ob die Änderungen funktionieren.</p></div>",
+   "instr": "Lesen Sie den Text und die Aufgaben 6 bis 10. Wählen Sie bei jeder Aufgabe die richtige Lösung a, b oder c.",
+   "left": "<div class=\"text\"><p>Zug fahren ohne Ticketschalter</p><p>Die Deutsche Bahn schließt in diesem Jahr in 40 kleineren Bahnhöfen den Fahrkartenschalter. Statt Mitarbeitern stehen dort künftig Automaten und eine Telefonnummer für Fragen. Die Bahn begründet den Schritt mit dem Kaufverhalten: Nur noch jede zehnte Fahrkarte wird am Schalter gekauft, die meisten Reisenden buchen online oder per App.</p><p>Für ältere Reisende ist das ein Problem. „Ich verstehe den Automaten nicht, und mit dem Handy komme ich nicht zurecht“, sagt Gerda Winkler, 78, die am Bahnhof Lengerich oft ihre Tochter besucht. Der Fahrgastverband kritisiert, dass die Bahn zu wenig an Menschen denke, die keine digitalen Geräte benutzen.</p><p>Die Bahn will die Kritik ernst nehmen. In den Bahnhöfen ohne Schalter sollen in den ersten Wochen Mitarbeiter stehen und den Reisenden die Automaten erklären. Außerdem kann man die Fahrkarte im Zug beim Personal kaufen, ohne Aufpreis. Das gilt allerdings nur in Regionalzügen, nicht im Fernverkehr.</p><p>Die Bahn plant zudem, bis Jahresende an 100 Bahnhöfen kostenloses WLAN anzubieten und die Anzeigetafeln zu erneuern. Das soll den Reisenden helfen, Verspätungen früher zu erkennen. Wer bei einer Verspätung von mehr als einer Stunde einen Teil des Fahrpreises zurückfordern will, kann das bereits per App erledigen.</p><p>Ob die Maßnahmen reichen, bleibt offen. Der Verband fordert, dass in jeder Stadt mit mehr als 5.000 Einwohnern ein Schalter bleibt. Die Bahn lehnt das ab, will aber nach einem Jahr prüfen, ob sich die Lage für die Kunden verschlechtert hat, und gegebenenfalls einzelne Schalter wieder öffnen.</p></div>",
    "items": [
     {
      "id": "l6",
-     "q": "Warum schließt die Bahn Reisezentren?",
+     "q": "Warum werden die Schalter geschlossen?",
      "opts": [
-      "Weil die Kunden es verlangten.",
-      "Weil nur wenige Kunden am Schalter buchen.",
-      "Weil Fahrkarten billiger werden."
+      "Die Bahn hat zu wenig Personal.",
+      "Die Bahnhöfe werden umgebaut.",
+      "Nur noch wenige Fahrgäste kaufen dort ihre Karte."
      ],
-     "key": "b",
-     "why": "„Nur noch jeder fünfte Kunde bucht am Schalter.“"
+     "key": "c",
+     "why": "Jede zehnte Karte."
     },
     {
      "id": "l7",
-     "q": "Wer ist laut Fahrgastverbänden besonders betroffen?",
+     "q": "Wer hat laut Text besondere Schwierigkeiten?",
      "opts": [
-      "Junge Berufstätige.",
-      "Touristen aus dem Ausland.",
-      "Ältere Menschen und Reisende ohne Smartphone."
+      "Reisende mit viel Gepäck.",
+      "Menschen, die mit moderner Technik schlecht umgehen können.",
+      "Kinder, die allein reisen."
      ],
-     "key": "c",
-     "why": "Ältere und Menschen ohne Smartphone."
+     "key": "b",
+     "why": "Gerda Winkler, digitale Geräte."
     },
     {
      "id": "l8",
-     "q": "Was bietet die Bahn als Ersatz an?",
+     "q": "Welche zusätzliche Möglichkeit gibt es, eine Fahrkarte zu kaufen?",
      "opts": [
-      "Mitarbeiter mit Tablets in den Bahnhöfen.",
-      "Kostenlose Fahrkarten.",
-      "Größere Automaten."
+      "In Regionalzügen kann man ohne Aufpreis beim Personal zahlen.",
+      "In allen Zügen kann man beim Personal ohne Aufpreis zahlen.",
+      "Im Supermarkt neben dem Bahnhof."
      ],
      "key": "a",
-     "why": "Mitarbeiter helfen mit Tablets."
+     "why": "Nur Regionalzüge."
     },
     {
      "id": "l9",
-     "q": "Was kostet der telefonische Kartenversand?",
+     "q": "Was soll an vielen Bahnhöfen verbessert werden?",
      "opts": [
-      "Nichts.",
-      "3,50 Euro pro Ticket.",
-      "Zehn Prozent des Fahrpreises."
+      "Die Zahl der Sitzplätze.",
+      "Die Zahl der Parkplätze.",
+      "Die Informationen zu Verspätungen und der Internetzugang."
      ],
-     "key": "b",
-     "why": "Gebühr: 3,50 Euro pro Ticket."
+     "key": "c",
+     "why": "WLAN, Anzeigetafeln."
     },
     {
      "id": "l10",
-     "q": "Was ist über die ersten Schließungen bekannt?",
+     "q": "Was geschieht in einem Jahr?",
      "opts": [
-      "Sie beginnen im Herbst, die Orte sind noch unklar.",
-      "Sie finden schon statt.",
-      "Sie betreffen nur große Städte."
+      "Alle Schalter werden wieder geöffnet.",
+      "Die Bahn untersucht die Folgen der Schließungen.",
+      "Der Verband übernimmt die Schalter."
      ],
-     "key": "a",
-     "why": "Im Herbst; Städte noch nicht genannt."
+     "key": "b",
+     "why": "Nach einem Jahr prüfen."
     }
    ]
   },
