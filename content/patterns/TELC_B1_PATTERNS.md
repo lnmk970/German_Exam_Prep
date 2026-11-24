@@ -3,8 +3,8 @@
 Quellen (nur diese wurden ausgewertet): telc Deutsch B1 / Zertifikat Deutsch, Übungstest 1 (zwei Ausgaben desselben Übungstests, beide von sprachenatelier-berlin.de, Original telc). Keine Schul-, Beruf- oder DTB-Papiere. Gesamt 300 P.: schriftlich 225 (75 %), mündlich 75 (25 %), bestanden ab 180 P. und je 60 % in beiden Teilen.
 
 ## Lesen (90 Min. mit Sprachbausteinen)
-- Teil 1 (Globalverstehen, 5 P.): 5 kurze Texte ↔ 10 Überschriften a–j, 5 Distraktoren. Überschriften greifen Schlüsselwörter auf, passen aber thematisch nicht.
-- Teil 2 (Detail, 5 P.): 1 Zeitungsartikel (z. B. Büro-Werkstatt Wien), 5 a/b/c; Reihenfolge ≠ Textreihenfolge; Distraktoren sind plausibel oder erfinden Aussagen.
+- Teil 1 (Globalverstehen, 5 P.): 5 kurze Texte ↔ 10 Überschriften a–j, 5 Distraktoren. Texte zu verschiedenen Themen; Überschriften paraphrasieren (kein Wort-für-Wort-Treffer), Distraktoren bleiben thematisch nah.
+- Teil 2 (Detail, 5 P.): 1 Zeitungsartikel (z. B. Büro-Werkstatt Wien), 5 a/b/c; Fragen in Textreihenfolge; Distraktoren sind plausibel oder erfinden Aussagen.
 - Teil 3 (Selektiv, 10 P.): 10 Situationen ↔ 12 Anzeigen a–l, "x" möglich (1–2 Mal). Ähnliche Anzeigen (mehrere Nachhilfe-/Reiseangebote) passen nur teilweise.
 ## Sprachbausteine
 - Teil 1 (10): persönlicher Brief, a/b/c; Konjunktionen (aber/denn/sondern), Kasus, Verbformen, Adjektivendungen, Präpositionen, Relativ-/Possessivpronomen.
@@ -20,3 +20,8 @@ Teil 1 Kennenlernen (3 Min., 15 P.) · Teil 2 Gespräch über ein Thema (6 Min.,
 
 ## Schwerer-als-Original-Regeln
 Mehr Distraktoren mit Schlüsselwort-Überschneidung (Lesen 1/3), zwei plausible Optionen in Lesen 2, Sprachbausteine 2 mit Wortpaaren wenn/wann, denn/weil; Hören 2 mit mehr Zahlen und Rücknahmen; Teil-3-Ansagen mit je zwei Details.
+
+## Format-Angleichung an Übungstest 1 (Branch telc-official-format)
+- Lesen 3: realistische Anzeigen, paraphrasierte Situationen, genau 2× "x" (Situation ohne passende Anzeige).
+- Hören: T1 ca. 50–70 Wörter je Text, T2 Interview ca. 170–270 Wörter, T3 fünf Ansagen zu verschiedenen Themen; Aussagen paraphrasiert/kombiniert, Falsch = Details vertauscht.
+- Hören-Schlüssel je Test: T1 2× richtig, T2 5×, T3 3×. Pausen: 16 s zwischen T1-Texten, 5–6 s zwischen den Wiederholungen in T3.
