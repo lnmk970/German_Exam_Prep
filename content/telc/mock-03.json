@@ -5,7 +5,7 @@
   {
    "title": "Lesen · Teil 1: Überschriften zuordnen",
    "instr": "Lesen Sie die fünf Texte und die zehn Überschriften a bis j. Wählen Sie zu jedem Text die passende Überschrift. Fünf Überschriften bleiben übrig. Jede Überschrift passt nur einmal.",
-   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Am kommenden Wochenende ist die Stadtapotheke am Marktplatz auch nachts geöffnet. Wer am Samstag oder Sonntag dringend ein Medikament braucht, kann dort rund um die Uhr klingeln. Die Mitarbeiter beraten auch am Telefon. Die Nummer steht an der Tür und im Internet. Die Notdienstapotheke wechselt jede Woche.</p><p><b>2</b>&nbsp; Das Rote Kreuz sucht Spender. Am Mittwoch von 14 bis 19 Uhr kann man in der Turnhalle der Grundschule Blut abgeben. Man muss mindestens 18 Jahre alt und gesund sein. Bitte Ausweis mitbringen. Nach der Spende gibt es einen Imbiss. Besonders gebraucht wird Blut der Gruppe 0.</p><p><b>3</b>&nbsp; Ab Juli bekommen Kunden in den Supermärkten der Stadt keine kostenlosen Tüten aus Kunststoff mehr. Wer keinen eigenen Beutel mitbringt, muss Papiertüten oder Stoffbeutel kaufen. Die Stadt will damit weniger Müll auf den Straßen und in den Flüssen. Die Händler unterstützen die Regel; Stoffbeutel kosten ab einem Euro.</p><p><b>4</b>&nbsp; Die Laufgruppe des Turnvereins trifft sich jeden Dienstag und Donnerstag um 18 Uhr am Parkplatz des Stadions. Es gibt drei Gruppen: für Anfänger, Fortgeschrittene und Schnelle. Man läuft zwischen 5 und 10 Kilometer. Neue Teilnehmer sind jederzeit willkommen und können kostenlos mitmachen. Bitte feste Schuhe mitbringen.</p><p><b>5</b>&nbsp; Das Kino im Hof des Museums zeigt im August jeden Freitag einen Film. Die Vorführungen beginnen bei Sonnenuntergang, gegen 21 Uhr. Man kann Decken und Kissen mitbringen. Bei Regen fällt die Vorstellung aus. Das Programm hängt am Eingang. Der Eintritt kostet 5 Euro, für Kinder 3 Euro.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Medikamente in der Nacht<br><b>b</b>&nbsp; Aufruf an alle Gesunden<br><b>c</b>&nbsp; Einkaufen ohne Kunststoff<br><b>d</b>&nbsp; Neue Ärzte im Stadtteil<br><b>e</b>&nbsp; Sport in der Gemeinschaft<br><b>f</b>&nbsp; Abendunterhaltung im Freien<br><b>g</b>&nbsp; Preise für Bahnkarten steigen<br><b>h</b>&nbsp; Müll richtig trennen<br><b>i</b>&nbsp; Fahrradtour am Sonntag<br><b>j</b>&nbsp; Eltern-Kind-Café eröffnet</div>",
+   "left": "<div class=\"text\"><p><b>1</b>&nbsp; Am kommenden Wochenende ist die Stadtapotheke am Marktplatz auch nachts geöffnet. Wer am Samstag oder Sonntag dringend ein Medikament braucht, kann dort rund um die Uhr klingeln. Die Mitarbeiter beraten auch am Telefon. Die Nummer steht an der Tür und im Internet. Die Notdienstapotheke wechselt jede Woche.</p><p><b>2</b>&nbsp; Der Wochenmarkt auf dem Rathausplatz findet immer mittwochs und samstags statt, von 8 bis 14 Uhr. Rund 30 Händler bieten Obst, Gemüse, Fleisch und Blumen an. Im Winter ist der Markt kleiner. Außerdem gibt es einen Stand mit warmen Speisen und Getränken. Ein Besuch lohnt sich vor allem am Samstag, wenn auch Bauern aus dem Umland kommen.</p><p><b>3</b>&nbsp; Ab Juli bekommen Kunden in den Supermärkten der Stadt keine kostenlosen Tüten aus Kunststoff mehr. Wer keinen eigenen Beutel mitbringt, muss Papiertüten oder Stoffbeutel kaufen. Die Stadt will damit weniger Müll auf den Straßen und in den Flüssen. Die Händler unterstützen die Regel; Stoffbeutel kosten ab einem Euro.</p><p><b>4</b>&nbsp; Ab Montag wird die Hauptstraße zwischen Rathaus und Bahnhof wegen Bauarbeiten gesperrt. Die Stadt erneuert dort die Wasserleitungen. Die Arbeiten dauern voraussichtlich sechs Wochen. Autofahrer werden über die Ringstraße umgeleitet, die Buslinien 3 und 7 fahren eine andere Strecke. Die Geschäfte bleiben für Fußgänger erreichbar.</p><p><b>5</b>&nbsp; Das Kino im Hof des Museums zeigt im August jeden Freitag einen Film. Die Vorführungen beginnen bei Sonnenuntergang, gegen 21 Uhr. Man kann Decken und Kissen mitbringen. Bei Regen fällt die Vorstellung aus. Das Programm hängt am Eingang. Der Eintritt kostet 5 Euro, für Kinder 3 Euro.</p></div><div class=\"text\"><b>Überschriften</b><br><b>a</b>&nbsp; Medikamente in der Nacht<br><b>b</b>&nbsp; Treffpunkt zum Einkaufen unter freiem Himmel<br><b>c</b>&nbsp; Einkaufen ohne Kunststoff<br><b>d</b>&nbsp; Neue Ärzte im Stadtteil<br><b>e</b>&nbsp; Durchfahrt vorübergehend nicht möglich<br><b>f</b>&nbsp; Abendunterhaltung im Freien<br><b>g</b>&nbsp; Preise für Bahnkarten steigen<br><b>h</b>&nbsp; Müll richtig trennen<br><b>i</b>&nbsp; Fahrradtour am Sonntag<br><b>j</b>&nbsp; Eltern-Kind-Café eröffnet</div>",
    "items": [
     {
      "id": "l1",
@@ -19,7 +19,7 @@
      "q": "Text 2",
      "letters": "abcdefghij",
      "key": "b",
-     "why": "Passt zu „Aufruf an alle Gesunden“."
+     "why": "Passt zu „Treffpunkt zum Einkaufen unter freiem Himmel“."
     },
     {
      "id": "l3",
@@ -33,7 +33,7 @@
      "q": "Text 4",
      "letters": "abcdefghij",
      "key": "e",
-     "why": "Passt zu „Sport in der Gemeinschaft“."
+     "why": "Passt zu „Durchfahrt vorübergehend nicht möglich“."
     },
     {
      "id": "l5",
@@ -109,7 +109,7 @@
   {
    "title": "Lesen · Teil 3: Anzeigen zuordnen",
    "instr": "Zehn Personen suchen etwas Bestimmtes. Lesen Sie die Situationen 1 bis 10 und die Anzeigen a bis l. Welche Anzeige passt zu welcher Situation? Sie können jede Anzeige nur einmal verwenden. Wenn keine Anzeige passt, wählen Sie x.",
-   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Rückenschule Gesund: Kurs mit Gymnastik und Übungen gegen Rückenschmerzen. Acht Termine mittwochs um 18 Uhr, die Krankenkasse übernimmt oft die Kosten.</p><p><b>b</b>&nbsp; Computerspende e. V.: Wir nehmen funktionierende alte Computer und Laptops an, richten sie her und geben sie an Schulen weiter. Abgabe montags bis freitags im Büro.</p><p><b>c</b>&nbsp; Ärztehaus am Markt: Allgemeinmedizin mit Sprechstunde auch samstags von 9 bis 12 Uhr. Termine telefonisch oder online.</p><p><b>d</b>&nbsp; Wanderverein Heide: Jeden Sonntag geführte Touren über 10 bis 15 Kilometer. Gäste sind willkommen, Treffpunkt ist um 9 Uhr am Bahnhof.</p><p><b>e</b>&nbsp; Nachhilfe Plus: Einzel- und Gruppenunterricht in Mathematik, Englisch und Deutsch für die Klassen 5 bis 10. Die erste Stunde ist gratis.</p><p><b>f</b>&nbsp; Hofladen Bergmann: Gemüse, Obst und Eier aus eigenem Anbau. Verkauf mittwochs und freitags von 14 bis 18 Uhr direkt auf dem Hof.</p><p><b>g</b>&nbsp; Pension Sonnenblick: Gemütliche Zimmer ab 35 Euro pro Nacht, Frühstück inklusive, nur zehn Minuten vom Bahnhof entfernt.</p><p><b>h</b>&nbsp; Kulturverein Sommerbühne: Konzerte im Schlossgarten im Juli und August. Karten im Vorverkauf in der Touristeninformation.</p><p><b>i</b>&nbsp; Tierheim Pfötchen: Wir suchen Helferinnen und Helfer, die mit Hunden spazieren gehen oder Katzen versorgen. Zeit nach Absprache, auch am Wochenende.</p><p><b>j</b>&nbsp; Autohaus Weber: Winterreifen im Angebot, Montage inklusive. Termine auch ohne Anmeldung.</p><p><b>k</b>&nbsp; Fitnessstudio Aktiv: Drei Monate zum Preis von zwei. Neue Abendkurse für Anfänger.</p><p><b>l</b>&nbsp; Bäckerei Lindner: Frische Brötchen ab 6 Uhr, Frühstück am Wochenende bis 12 Uhr.</p></div>",
+   "left": "<div class=\"text\"><p><b>a</b>&nbsp; Rückenschule Gesund: Kurs mit Gymnastik und Übungen gegen Rückenschmerzen. Acht Termine mittwochs um 18 Uhr, die Krankenkasse übernimmt oft die Kosten.</p><p><b>b</b>&nbsp; Rechtsberatung Mieter: Streit mit dem Vermieter? Unsere Anwälte beraten Sie in der ersten halben Stunde kostenlos.</p><p><b>c</b>&nbsp; Ärztehaus am Markt: Allgemeinmedizin mit Sprechstunde auch samstags von 9 bis 12 Uhr. Termine telefonisch oder online.</p><p><b>d</b>&nbsp; Wanderverein Heide: Jeden Sonntag geführte Touren über 10 bis 15 Kilometer. Gäste sind willkommen, Treffpunkt ist um 9 Uhr am Bahnhof.</p><p><b>e</b>&nbsp; Nachhilfe Plus: Einzel- und Gruppenunterricht in Mathematik, Englisch und Deutsch für die Klassen 5 bis 10. Die erste Stunde ist gratis.</p><p><b>f</b>&nbsp; Reinigung Sauber & Schnell: Hemden und Anzüge werden abgeholt und am nächsten Tag zurückgebracht. Abholservice kostenlos ab 15 Euro.</p><p><b>g</b>&nbsp; Sprachinstitut Prüfung: Vorbereitungskurse auf die B1-Prüfung. Probeprüfungen und Beratung zur Anmeldung.</p><p><b>h</b>&nbsp; Kulturverein Sommerbühne: Konzerte im Schlossgarten im Juli und August. Karten im Vorverkauf in der Touristeninformation.</p><p><b>i</b>&nbsp; Tierheim Pfötchen: Wir suchen Helferinnen und Helfer, die mit Hunden spazieren gehen oder Katzen versorgen. Zeit nach Absprache, auch am Wochenende.</p><p><b>j</b>&nbsp; Autohaus Weber: Winterreifen im Angebot, Montage inklusive. Termine auch ohne Anmeldung.</p><p><b>k</b>&nbsp; Fitnessstudio Aktiv: Drei Monate zum Preis von zwei. Neue Abendkurse für Anfänger.</p><p><b>l</b>&nbsp; Bäckerei Lindner: Frische Brötchen ab 6 Uhr, Frühstück am Wochenende bis 12 Uhr.</p></div>",
    "items": [
     {
      "id": "l11",
@@ -127,7 +127,7 @@
     },
     {
      "id": "l13",
-     "q": "Ihr Laptop ist alt, aber er läuft noch. Statt ihn wegzuwerfen, möchten Sie ihn anderen Menschen geben.",
+     "q": "Ihr Vermieter will Ihnen die Miete erhöhen, und Sie sind nicht sicher, ob er das darf.",
      "letters": "abcdefghijklx",
      "key": "b",
      "why": "Passt zu Anzeige b."
@@ -148,7 +148,7 @@
     },
     {
      "id": "l16",
-     "q": "Ihre Eltern besuchen Sie im Mai für drei Tage. In Ihrer Wohnung ist nicht genug Platz, und sie möchten nicht viel ausgeben.",
+     "q": "Sie möchten Ihr Deutsch auf B1-Niveau prüfen lassen und möchten vorher üben.",
      "letters": "abcdefghijklx",
      "key": "g",
      "why": "Passt zu Anzeige g."
@@ -162,7 +162,7 @@
     },
     {
      "id": "l18",
-     "q": "Sie möchten Gemüse kaufen, das aus der Region kommt und nicht aus dem Supermarkt.",
+     "q": "Sie arbeiten viel und haben keine Zeit, Ihre Hemden zur Reinigung zu bringen.",
      "letters": "abcdefghijklx",
      "key": "f",
      "why": "Passt zu Anzeige f."
@@ -512,7 +512,7 @@
     },
     {
      "id": "h17",
-     "q": "Ein Teil des Bades ist für kurze Zeit nicht benutzbar.",
+     "q": "Eine Haltestelle wird heute Abend nicht angefahren.",
      "tf": true,
      "key": "r",
      "why": "Richtig."
@@ -526,7 +526,7 @@
     },
     {
      "id": "h19",
-     "q": "Studenten zahlen den gleichen Preis wie alle anderen.",
+     "q": "Das Wasser ist nur für wenige Stunden weg.",
      "tf": true,
      "key": "f",
      "why": "Falsch: im Text steht etwas anderes."
@@ -623,7 +623,7 @@
     ],
     [
      "Ansage 2",
-     "<p>Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.</p>"
+     "<p>Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.</p>"
     ],
     [
      "Ansage 3",
@@ -631,7 +631,7 @@
     ],
     [
      "Ansage 4",
-     "<p>Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.</p>"
+     "<p>Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.</p>"
     ],
     [
      "Ansage 5",
@@ -937,7 +937,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.",
+   "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.",
    "p": 5,
    "r": "-8%"
   },
@@ -949,7 +949,7 @@
   },
   {
    "v": "de-DE-ConradNeural",
-   "t": "Achtung, eine Durchsage im Schwimmbad Nordbad: Das Sportbecken ist heute wegen einer Reparatur bis vierzehn Uhr geschlossen. Das Nichtschwimmerbecken und die Sauna sind wie gewohnt geöffnet. Wir bitten um Verständnis.",
+   "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.",
    "p": 15,
    "r": "-8%"
   },
@@ -973,7 +973,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.",
+   "t": "Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.",
    "p": 5,
    "r": "-8%"
   },
@@ -985,7 +985,7 @@
   },
   {
    "v": "de-DE-KillianNeural",
-   "t": "Das Stadttheater präsentiert am Freitag um zwanzig Uhr die Komödie „Der Besuch“. Karten kosten zwölf Euro, für Schüler und Studenten acht Euro. Nach der Vorstellung gibt es ein Gespräch mit den Schauspielern im Foyer.",
+   "t": "Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.",
    "p": 15,
    "r": "-8%"
   },
