@@ -656,31 +656,31 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich fahre immer mit dem Zug, auch wenn es manchmal länger dauert. Ich kann lesen oder arbeiten, und ich muss mich nicht über Staus ärgern. Nur wenn der Zug Verspätung hat, bin ich genervt.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ohne Auto geht bei uns auf dem Land nichts. Der Bus fährt nur zweimal am Tag, und der Bahnhof ist zwanzig Kilometer entfernt. Ich würde gern öfter Zug fahren, aber es ist zu umständlich.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Ich fliege gern, auch wenn ich weiß, dass es schlecht für die Umwelt ist. Für Reisen nach Südamerika gibt es keine Alternative. Ich versuche, bei anderen Reisen auf das Flugzeug zu verzichten.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Seit fünf Jahren fahre ich nur mit dem Fahrrad in den Urlaub. Letztes Jahr bin ich in drei Wochen bis nach Dänemark gekommen. Nur bei Regen ist es unangenehm, aber ich habe gute Kleidung.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich bin nicht gern unterwegs. Am liebsten bleibe ich zu Hause und mache es mir gemütlich. Meine Familie will jedes Jahr ans Meer, deshalb fahre ich mit, aber ich freue mich schon auf den Heimweg.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
@@ -896,7 +896,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -908,13 +908,13 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Bahn-Hotline. Ihr Zug nach Hamburg fährt heute von Gleis sieben statt von Gleis drei und hat voraussichtlich zehn Minuten Verspätung. Wir bitten um Entschuldigung.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -926,13 +926,13 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Willkommen am Flughafen Köln. Wegen Bauarbeiten ist der Parkplatz P2 bis Ende des Monats gesperrt. Bitte nutzen Sie die Parkhäuser P1 und P3. Von dort fahren Busse im Fünf-Minuten-Takt zum Terminal.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Das Taxi wartet vor dem Haus. Bitte seien Sie pünktlich, die Wartezeit ist auf fünf Minuten begrenzt.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -944,13 +944,13 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier ist Taxi Meier. Ihre Bestellung für morgen früh um fünf Uhr ist bestätigt. Das Taxi wartet vor dem Haus. Bitte seien Sie pünktlich, die Wartezeit ist auf fünf Minuten begrenzt.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Gäste, das Hotel Seeblick heißt Sie herzlich willkommen. Das Frühstück gibt es von sieben bis zehn Uhr im Wintergarten. Am Abend sind Sie zu einem Glas Wein auf der Terrasse eingeladen.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -962,13 +962,13 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Gäste, das Hotel Seeblick heißt Sie herzlich willkommen. Das Frühstück gibt es von sieben bis zehn Uhr im Wintergarten. Am Abend sind Sie zu einem Glas Wein auf der Terrasse eingeladen.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Und nun der Wetterbericht für das Wochenende. Am Samstag scheint überall die Sonne, am Sonntag ziehen im Norden Wolken auf. Die Temperaturen steigen bis auf achtundzwanzig Grad.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -980,7 +980,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Und nun der Wetterbericht für das Wochenende. Am Samstag scheint überall die Sonne, am Sonntag ziehen im Norden Wolken auf. Die Temperaturen steigen bis auf achtundzwanzig Grad.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {

@@ -656,31 +656,31 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich arbeite als Krankenschwester im Schichtdienst. Das ist anstrengend, vor allem die Nachtschichten. Dafür habe ich oft unter der Woche frei und kann in Ruhe einkaufen oder zum Arzt gehen, wenn die anderen arbeiten. Mit meinen Kollegen verstehe ich mich sehr gut, wir helfen uns gegenseitig.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ich bin selbstständig und arbeite zu Hause am Computer. Niemand sagt mir, wann ich aufstehen muss, das ist ein großer Vorteil. Aber ich kann Aufträge schlecht ablehnen, deshalb sitze ich manchmal bis in die Nacht am Schreibtisch. Am Wochenende versuche ich, nicht zu arbeiten.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Ich arbeite seit zehn Jahren in einem Büro. Der Job ist sicher, und die Kollegen sind nett. Aber ehrlich gesagt sind die Aufgaben immer die gleichen, und ich fühle mich nicht mehr gefordert. Ich überlege, ob ich noch einmal etwas ganz Neues ausprobieren sollte.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Ich bin Busfahrer und liebe meinen Beruf. Ich sehe jeden Tag viele Menschen und bin immer in Bewegung, das wäre im Büro nichts für mich. Nur die Dienste am Wochenende sind für meine Familie nicht einfach, weil meine Kinder dann gern etwas mit mir unternehmen würden.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich habe vor kurzem meine Stelle verloren, weil die Firma geschlossen hat. Im Moment schreibe ich viele Bewerbungen, aber es ist schwierig, etwas Passendes zu finden. Das Arbeitsamt unterstützt mich dabei und hat mir einen Kurs angeboten.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
@@ -896,7 +896,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken, wir antworten dann ab dem fünfundzwanzigsten August.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -908,13 +908,13 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Guten Tag, Sie sind verbunden mit der Personalabteilung der Firma Bauer. Wegen der Betriebsferien sind wir vom zehnten bis zum vierundzwanzigsten August nicht erreichbar. Bewerbungen können Sie weiterhin per E-Mail schicken, wir antworten dann ab dem fünfundzwanzigsten August.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -926,13 +926,13 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Liebe Gäste, das Kino am Hafen zeigt heute den Film „Sommer“ nicht im großen Saal, sondern im kleinen Saal neben dem Eingang. Die Vorstellung beginnt wie geplant um zwanzig Uhr fünfzehn. Karten gibt es an der Kasse, Getränke dürfen Sie mitnehmen.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie diesen Termin telefonisch bis morgen zwölf Uhr, sonst vergeben wir ihn an andere Kunden.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -944,13 +944,13 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier ist die Arbeitsagentur Köln. Ihr Termin am Dienstag muss leider verschoben werden. Wir bieten Ihnen einen neuen Termin am Donnerstag um zehn Uhr an. Bitte bestätigen Sie diesen Termin telefonisch bis morgen zwölf Uhr, sonst vergeben wir ihn an andere Kunden.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -962,13 +962,13 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Und nun das Wetter für das Wochenende. Am Samstag ist es im Norden regnerisch, im Süden dagegen sonnig bei bis zu vierundzwanzig Grad. Am Sonntag ziehen von Westen Wolken auf, am Abend gibt es einzelne Gewitter.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück, ich bin bis siebzehn Uhr im Büro.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -980,7 +980,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hallo Herr Schulte, hier ist Frau Berg von der Firma Technik Plus. Wir möchten Sie zu einem zweiten Gespräch einladen. Bitte rufen Sie mich heute noch unter der Nummer zwei vier acht sieben zurück, ich bin bis siebzehn Uhr im Büro.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {

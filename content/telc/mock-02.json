@@ -656,31 +656,31 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich wohne in einer kleinen Wohnung im Zentrum. Alles ist in der Nähe: Supermarkt, Arzt, Café. Dafür ist es laut, und die Miete ist hoch. Einen Balkon habe ich nicht, aber das stört mich nicht, weil ich ohnehin viel unterwegs bin.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Wir haben ein Haus mit Garten am Stadtrand. Für die Kinder ist das ideal, sie können draußen spielen. Aber ich muss jeden Morgen eine Dreiviertelstunde zur Arbeit fahren, und abends gibt es kaum Busse. Ohne Auto geht es nicht.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Ich lebe in einer Wohngemeinschaft mit drei anderen Studenten. Wir teilen uns Küche und Bad, das spart Geld. Meistens verstehen wir uns gut, nur beim Putzen gibt es manchmal Streit. Später möchte ich trotzdem allein wohnen.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Ich wohne bei meinen Eltern, obwohl ich schon 28 bin. Das ist bequem, meine Mutter kocht, und ich zahle kaum Miete. Aber ich möchte unabhängiger sein und suche seit Monaten eine kleine Wohnung, bisher ohne Erfolg.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich habe vor einem Jahr eine Wohnung im Altbau gekauft. Hohe Decken und ein alter Holzboden, das gefällt mir sehr. Die Heizkosten sind allerdings hoch. Ich würde trotzdem sofort wieder so eine Wohnung nehmen.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
@@ -872,7 +872,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -884,13 +884,13 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Mieter, im Namen der Hausverwaltung teilen wir Ihnen mit, dass am Mittwoch zwischen acht und zwölf Uhr das Wasser abgestellt wird. Grund sind Arbeiten an den Rohren im Keller. Bitte füllen Sie rechtzeitig Wasser ab.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -902,13 +902,13 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Hier ist die Notrufzentrale der Apotheken. Heute Nacht hat die Löwen-Apotheke in der Bahnhofstraße geöffnet. Sie ist bis sieben Uhr morgens besetzt. Die Telefonnummer lautet vier fünf sechs, zwei eins drei.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -920,13 +920,13 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Guten Tag, Sie sind verbunden mit der Praxis Doktor Lenz. Wegen einer Fortbildung bleibt die Praxis bis Freitag geschlossen. In dringenden Fällen wenden Sie sich bitte an den ärztlichen Bereitschaftsdienst unter der Nummer eins eins sechs, eins eins sieben.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -938,13 +938,13 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Hier ist Herr Lang, Ihr Vermieter. Ich möchte Ihnen mitteilen, dass ich die Miete ab dem ersten Januar erhöhen muss, und zwar um dreißig Euro. Ein Brief mit allen Informationen kommt in den nächsten Tagen. Rufen Sie mich gern an.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -956,7 +956,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Und nun das Wetter für morgen: Im Westen regnet es, im Osten ist es teilweise sonnig, die Höchstwerte liegen bei achtzehn Grad. Am Abend lässt der Regen nach.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {

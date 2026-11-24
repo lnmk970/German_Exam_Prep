@@ -656,31 +656,31 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich wohne in einer kleinen Stadt, in der jeder jeden kennt. Das ist schön, wenn man Hilfe braucht, aber manchmal auch anstrengend, weil alle über einen reden. Ich möchte hier nicht weg.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Die Mieten in meiner Stadt sind unglaublich hoch. Für meine kleine Wohnung zahle ich fast die Hälfte meines Gehalts. Ich überlege, aufs Land zu ziehen, aber dort gibt es keine Arbeit für mich.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Bei uns gibt es viele Parks und Radwege. Ich fahre jeden Tag mit dem Rad zur Arbeit und treffe nach Feierabend Freunde am Fluss. Nur im Winter ist die Stadt grau.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Ich finde die Stadt zu laut und zu hektisch. Überall sind Baustellen, und die Straßenbahn ist immer voll. Wenn ich könnte, würde ich in ein Dorf ziehen. Aber meine Arbeit hält mich hier.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Seit zwei Jahren engagiere ich mich in einer Bürgerinitiative für mehr Grün in der Stadt. Wir haben schon zwei Spielplätze und einen Gemeinschaftsgarten gebaut. Die Stadtverwaltung hilft uns dabei.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
@@ -872,7 +872,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -884,13 +884,13 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen im Bürgeramt Mitte. Wenn Sie einen Reisepass beantragen möchten, brauchen Sie ein biometrisches Foto und Ihren alten Pass. Die Bearbeitung dauert vier Wochen. Gegen Aufpreis ist auch ein Express-Pass möglich.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -902,13 +902,13 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage der Stadtwerke. Wegen eines Rohrbruchs ist die Wasserversorgung in der Gartenstraße unterbrochen. Die Reparatur dauert voraussichtlich bis morgen früh.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -920,13 +920,13 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hier spricht der Anrufbeantworter der Stadtverwaltung. Unser Büro ist wegen eines Betriebsausflugs am Freitag geschlossen. Ab Montag sind wir wieder zu den üblichen Zeiten erreichbar.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -938,13 +938,13 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Fahrgäste, wegen eines Konzerts auf dem Marktplatz werden die Linien drei und sieben heute Abend umgeleitet. Die Haltestelle Rathaus wird nicht bedient. Bitte steigen Sie an der Haltestelle Kirchstraße aus.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -956,7 +956,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Das Fundbüro der Stadt ist montags, mittwochs und freitags von neun bis zwölf Uhr geöffnet. Gefundene Schlüssel, Brillen und Handys werden sechs Monate aufbewahrt. Wer etwas abholen möchte, muss sich ausweisen.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {

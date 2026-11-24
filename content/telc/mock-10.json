@@ -656,31 +656,31 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich lese nur noch Nachrichten am Handy. Eine Zeitung habe ich seit Jahren nicht mehr gekauft. Ich finde es praktisch, dass ich unterwegs in der Bahn alles lesen kann. Aber ich weiß, dass ich dadurch oft nur die Überschriften sehe.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ich sehe fast jeden Abend fern. Nach der Arbeit will ich einfach abschalten und mich berieseln lassen. Am liebsten schaue ich Krimis, aber Nachrichten interessieren mich nicht.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Ich höre den ganzen Tag Podcasts, beim Joggen, beim Kochen und im Auto. Dabei lerne ich viel über Geschichte und Wirtschaft. Nur bei sehr langen Folgen schlafe ich manchmal ein.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Ich bin viel in sozialen Netzwerken unterwegs, aber nur beruflich. Privat habe ich keine Profile, weil mir das zu viel Zeit nimmt. Ich telefoniere lieber mit Freunden.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Meine Kinder dürfen nur eine Stunde am Tag an den Computer oder das Handy. Anfangs gab es viel Streit, aber inzwischen akzeptieren sie die Regel. Dafür spielen sie mehr draußen und lesen mehr.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
@@ -896,7 +896,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -908,13 +908,13 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen beim Kundenservice von Telefon-Plus. Wegen einer Störung sind unsere Mitarbeiter heute nur bis zwölf Uhr erreichbar. Sie können aber jederzeit eine Nachricht in der App hinterlassen. Wir antworten innerhalb von vierundzwanzig Stunden.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -926,13 +926,13 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Guten Tag, hier spricht das Elektrogeschäft Meier. Ihre Waschmaschine ist leider noch nicht eingetroffen. Die Lieferung verzögert sich um eine Woche. Wir rufen Sie an, sobald das Gerät da ist.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -944,13 +944,13 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Und nun die Verkehrsmeldungen. Auf der A fünf zwischen Karlsruhe und Heidelberg staut es sich in beiden Richtungen auf zehn Kilometern, Grund ist ein Unfall. Autofahrer sollten mit einer halben Stunde Verzögerung rechnen.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -962,13 +962,13 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Liebe Hörer, im Anschluss an die Nachrichten hören Sie unser Interview mit der Autorin Marie Kunz. Sie erzählt über ihr neues Buch. Wenn Sie Fragen haben, rufen Sie während der Sendung an.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -980,7 +980,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist der automatische Anrufbeantworter der Stadtbibliothek. Wegen Umbauarbeiten ist die Bibliothek bis Ende des Monats geschlossen. Die Rückgabe von Büchern ist weiter am Automaten vor dem Haus möglich.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {

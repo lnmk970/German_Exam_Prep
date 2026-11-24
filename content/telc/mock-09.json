@@ -656,31 +656,31 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Weihnachten ist für mich das wichtigste Fest. Die ganze Familie kommt zusammen, wir kochen stundenlang und singen Lieder. Das Schönste ist, dass alle Zeit füreinander haben.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Ich feiere meinen Geburtstag nie. Früher habe ich große Partys gemacht, aber das war mir zu viel Stress. Jetzt gehe ich einfach mit meiner Frau essen und schalte das Handy aus.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Bei uns in Köln ist Karneval das schönste Fest. Man verkleidet sich, tanzt auf der Straße und spricht mit Fremden, als würde man sie schon ewig kennen. Nur die Preise für Getränke sind in dieser Zeit unglaublich hoch.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Hochzeiten finde ich anstrengend. Man muss im Anzug stundenlang sitzen, Reden hören und Leute treffen, die man kaum kennt. Aber für meine Schwester war ich natürlich da, und es war am Ende doch ein schöner Tag.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Wir feiern jedes Jahr ein Straßenfest. Alle Nachbarn bringen etwas zu essen mit, die Kinder spielen auf der gesperrten Straße. Seit dem ersten Fest vor zehn Jahren kennen wir uns viel besser.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
@@ -896,7 +896,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -908,13 +908,13 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Eltern, hier ist die Kita Sonnenblume. Am Freitag findet unser Sommerfest nicht um fünfzehn Uhr, sondern schon um vierzehn Uhr statt. Bitte bringen Sie einen Kuchen oder Salat mit.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -926,13 +926,13 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Standesamt Mitte, guten Tag. Ihr Trautermin am Samstag um elf Uhr ist bestätigt. Bitte bringen Sie beide Ihren Ausweis und die Geburtsurkunde mit. Die Trauzeugen sollten zehn Minuten vorher da sein.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -944,13 +944,13 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Hallo Oma, hier ist Lena. Ich komme am Samstag nicht mit dem Zug, sondern mit dem Bus, weil der Zug streikt. Ich bin um sechzehn Uhr da. Papa holt mich an der Haltestelle ab, du musst also nicht zum Bahnhof.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -962,13 +962,13 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Das Familienmuseum lädt am ersten Sonntag im Monat zum Familientag ein. Der Eintritt ist für alle kostenlos, und um elf und um fünfzehn Uhr gibt es eine Führung für Kinder.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -980,7 +980,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Willkommen beim Seniorennachmittag. Heute zeigt uns Frau Berger Bilder von ihrer Reise nach Norwegen. Danach gibt es Kaffee und Kuchen, und um sechzehn Uhr spielt der Chor.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {

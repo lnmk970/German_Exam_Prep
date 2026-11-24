@@ -656,31 +656,31 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Ich arbeite seit drei Jahren im Homeoffice und möchte nie wieder ins Büro. Ich spare die Zeit für den Weg und kann mir meine Arbeit einteilen. Nur manchmal vermisse ich die Kollegen.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Bei mir geht Homeoffice nicht, ich bin Elektriker. Ich bin den ganzen Tag bei Kunden unterwegs. Das gefällt mir, aber die Arbeit ist körperlich anstrengend, und im Winter ist es oft kalt.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Ich wechsle gerade den Job. In meiner alten Firma gab es keine Perspektive, mein Chef hat mich nie gelobt. Die neue Stelle bringt weniger Gehalt, aber dafür mehr Verantwortung.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Ich bin selbstständig als Grafiker. Ich verdiene nicht schlecht, aber die Aufträge schwanken. In manchen Monaten habe ich kaum Zeit, in anderen fast nichts zu tun. Eine feste Stelle wäre sicherer, aber ich bin lieber mein eigener Chef.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Für mich ist ein gutes Team wichtiger als das Gehalt. In meiner letzten Firma habe ich viel verdient, aber die Stimmung war schlecht. Jetzt verdiene ich weniger, gehe aber gern jeden Morgen zur Arbeit.",
-   "p": 7,
+   "p": 16,
    "r": "-8%"
   },
   {
@@ -896,7 +896,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -908,13 +908,13 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Hier ist die Agentur für Arbeit. Ihr Termin am Montag um acht Uhr dreißig findet nicht in Zimmer zwölf, sondern in Zimmer einundzwanzig statt. Bringen Sie bitte Ihren Ausweis und Ihre Bewerbungsunterlagen mit.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -926,13 +926,13 @@
   {
    "v": "de-DE-ConradNeural",
    "t": "Achtung, eine Durchsage der Firma Technik Plus: Wegen eines Feueralarms müssen alle Mitarbeiter das Gebäude verlassen. Bitte gehen Sie ruhig zum Parkplatz und warten Sie dort auf weitere Informationen.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -944,13 +944,13 @@
   {
    "v": "de-DE-AmalaNeural",
    "t": "Das Bürocenter Nord bietet ab sofort Arbeitsplätze für Selbstständige an. Sie zahlen nur für die Zeit, die Sie wirklich nutzen. Internet, Drucker und Kaffee sind im Preis enthalten. Eine Besichtigung ist jeden Tag möglich.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KillianNeural",
    "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -962,13 +962,13 @@
   {
    "v": "de-DE-KillianNeural",
    "t": "Hier ist die Mailbox von Frau Lange. Ich bin bis Mittwoch auf einer Dienstreise und lese meine E-Mails nur abends. Bitte rufen Sie mich nur in dringenden Fällen auf dem Handy an.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.",
-   "p": 2,
+   "p": 5,
    "r": "-8%"
   },
   {
@@ -980,7 +980,7 @@
   {
    "v": "de-DE-KatjaNeural",
    "t": "Liebe Fahrgäste, wegen eines Streiks fahren morgen nur wenige Busse. Die Straßenbahnlinien eins und drei fahren im Zwanzig-Minuten-Takt. Bitte informieren Sie sich im Internet über Ihre Verbindung.",
-   "p": 7,
+   "p": 6,
    "r": "-8%"
   },
   {
