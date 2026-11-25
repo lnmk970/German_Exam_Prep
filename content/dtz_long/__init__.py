@@ -43,6 +43,8 @@ def apply(n, M):
             turns[pos:pos] = [tuple(x) for x in extra]
             turns += [tuple(x) for x in P.get("h3end", {}).get(i, [])]
             qs = list(qs)
+            if i in P.get("h3q", {}):
+                qs = [tuple(x) for x in P["h3q"][i]]
             if i in P.get("h3tf", {}):
                 for j, (q, o, a) in enumerate(qs):
                     if o.startswith("richtig"):
