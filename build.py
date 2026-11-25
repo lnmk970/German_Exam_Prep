@@ -183,15 +183,25 @@ def build_page(n, M, total):
     C1 = M["l1cat"]
     labels = [r[0] for r in C1["rows"]]
     left = f'<h4>{E(C1["title"])}</h4><p class="hint">{E(C1["intro"])}</p><table class="cat">' + "".join(f'<tr><th>{E(l)}</th><td>{E(d)}</td></tr>' for l, d in C1["rows"]) + "</table>"
+    _lab = " ".join(labels)
+    other = C1.get("other") or ("anderes Stockwerk" if re.search(r"Stock|OG|Etage|Erdgeschoss", _lab) else "anderer Bereich")
+    nq = len(C1["qs"])
+    c_other = (n * 3 + 1) % nq  # exactly one question per test has "c = other" as the correct answer (official pattern)
     for qi, (q, ci) in enumerate(C1["qs"]):
         others = [i for i in range(len(labels)) if i != ci]
-        sel = sorted([ci, others[qi % len(others)], others[(qi + 2) % len(others)]])
-        a = sel.index(ci); ol = [labels[i] for i in sel]
-        o, a = rot("|".join(ol), a); ol = o.split("|")
+        if qi == c_other:
+            sel = sorted([others[qi % len(others)], others[(qi + 2) % len(others)]])
+            ol = [labels[i] for i in sel] + [other]; a = 2
+        else:
+            sel = sorted([ci, others[qi % len(others)]])
+            ol = [labels[i] for i in sel] + [other]; a = sel.index(ci)
         c += 1; nm = f"l{c}"; key[nm] = a; ks.append(nm)
         it += item(c, q, ol, nm)
         row = dict(C1["rows"])
-        why = f"Im Verzeichnis steht: «{ol[a]}: {row[ol[a]]}». Das passt zu Ihrer Situation. " + " ".join(f"«{l}: {row[l]}» enthält dazu nichts." for l in ol if l != ol[a])
+        if a == 2:
+            why = f"Die passende Stelle ist «{labels[ci]}: {row[labels[ci]]}». Sie wird hier nicht angeboten. Also ist «{other}» richtig. " + " ".join(f"«{l}: {row[l]}» passt nicht." for l in ol[:2])
+        else:
+            why = f"Im Verzeichnis steht: «{ol[a]}: {row[ol[a]]}». Das passt zu Ihrer Situation. " + " ".join(f"«{l}: {row[l]}» enthält dazu nichts." for l in ol[:2] if l != ol[a])
         reg(nm, "l1", q, ol, a, "", ev=["" for _ in ol], extra={"why": why})
     LT.append(("Aufgabe 1 · Kataloge, Verzeichnisse, Rubriken", "Lesen Sie das Verzeichnis. Wo finden Sie das? Wählen Sie die richtige Angabe.", left, it)); TK["lesen"].append(ks)
     ads, sits, sans = M["l2"]
@@ -704,6 +714,9 @@ def main():
             M['l1cat'] = Hd['l1']; M['l2'] = Hd['l2']; M['l3'] = Hd['l3']; M['l4'] = Hd['l4']; M['l5'] = Hd['l5']
         if i + 1 in HOE:  # official-pattern Hören (content/hoeren_dtz_new.py)
             for k in ('h1','h2','h3','h4'): M[k] = HOE[i + 1][k]
+    from content import dtz_long as _DL
+    for i, M in enumerate(mocks):
+        _DL.apply(i + 1, M)
     os.makedirs(os.path.join(DOCS, "assets"), exist_ok=True)
     app = APP.replace("%TIPS%", json.dumps({k: list(v) for k, v in X.TIPS.items()}, ensure_ascii=False))
     for name, txt in (("style.css", CSS), ("app.js", app), ("index.js", INDEX_JS)):
