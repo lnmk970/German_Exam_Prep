@@ -22,11 +22,11 @@ OPTS[14] = {"Sie schmecken besser": "Man kann sie auch gefroren kaufen", "Sie si
             "Sie müssen weggeworfen werden": "Sie müssen vor dem Datum verbraucht werden", "Sie müssen gekocht werden": "Sie müssen im Kühlschrank ganz unten liegen"}
 OPTS[15] = {"Das Auto reparieren lassen": "Die Polizei rufen", "Die Versicherung anrufen": "Name und Kennzeichen des anderen Fahrers notieren",
             "Schon am Abend": "Heute Nacht, sobald es Glatteis gibt", "Am nächsten Wochenende": "Erst nach der Warnung des Wetterdienstes",
-            "Für die Krankenversicherung": "Für die Anmeldung im Gemeindehaus", "Für den Arbeitsvertrag": "Für die Schule oder Universität",
+            "Für die Krankenversicherung": "Für die Anmeldung im Gemeindehaus", "Für den Arbeitsvertrag": "Für eine Ermäßigung",
             "Nur eine Stunde": "Von neun bis dreizehn Uhr", "Den ganzen Tag": "Von fünfzehn Uhr bis zum Abend",
             "Neue Fenster einzubauen": "Sicherheitsschlösser nur mit Termin zu kaufen", "Nachts nicht auszugehen": "Jeden Tag die Wache am Marktplatz zu besuchen"}
 OPTS[16] = {"Dreißig Tage": "Solange der Händler kostenlosen Rückversand anbietet", "Sieben Tage": "Nur bei individuell angefertigten Produkten",
-            "Nichts": "Zehn Gigabyte im Monat", "Zeit": "WLAN-Kosten zu Hause",
+            "Nichts": "Die Anfahrt ist kostenlos", "Zeit": "WLAN-Kosten zu Hause",
             "Das Originalverpackung": "Die Originalverpackung", "Eine Bestätigung der Bank": "Die Garantieverlängerung für fünf Jahre"}
 OPTS[17] = {"Ein ärztliches Zeugnis": "Die Kosten für den ersten Monat", "Neue Tickets kaufen": "Die Haltestelle Marktplatz nutzen",
             "Zu Fuß gehen": "Die Linien drei und acht am Marktplatz nehmen",
@@ -70,3 +70,27 @@ OPTS.setdefault(7, {}).update({"An der Kasse": "Am Informationsschalter"})
 OPTS[9] = {"Im Internet": "Mit der Post in den nächsten Tagen"}
 OPTS[10].update({"Eine Reduzierung der Miete": "Eine Wohnung für zwanzig Euro weniger"})
 OPTS[11].update({"Mit einem Anruf": "Mit einer Anmeldung in der Sporthalle"})
+
+# second round 13-18
+for _n, _d in {
+ 13: {'Sie zahlen nichts': 'Sie brauchen eine Zehnerkarte', 'Nichts Besonderes': 'Eine Nachricht an den Trainer', 'Telefonisch': 'Mit einer Meldebescheinigung'},
+ 14: {'Immer': 'Bei Bestellung bis zwölf Uhr', 'Mit Kreditkarte': 'Nur an der Ausgabe', 'Nichts': 'Zwei Euro für den Kinderstuhl'},
+ 15: {'Das Haus verlassen': 'Sich bei der Feuerwehr melden', 'Zum Hausarzt gehen': 'Den Bereitschaftsdienst anrufen'},
+ 16: {'Einen Ausweis': 'Die Parkkarte', 'Nur im Sale kaufen': 'Nur Elektrogeräte kaufen'},
+ 17: {'Immer': 'Wenn die Reservierung verfällt', 'Den Personalausweis und Geld': 'Einen Termin für die Theorie', 'Senioren': 'Reisende nach Griechenland'},
+ 18: {'Zeugnisse': 'Die Aufenthaltserlaubnis', 'Nichts': 'Kostenlos mit dem Pass', 'Der Bus fährt nicht': 'Das Amt öffnet später'},
+}.items():
+    for _k, _v in _d.items():
+        OPTS.setdefault(_n, {}).setdefault(_k, _v)
+
+# second round 19-24
+for _n, _d in {
+ 19: {'Der Kunde ist Stammkunde': 'Der Mantel wurde zu spät abgegeben', 'Telefonisch': 'Mit einem Neukundenangebot'},
+ 20: {'Die Firma wechseln': 'Zwei Stunden warten', 'Online': 'An die Hotline schreiben', 'Freitag': 'Nach der Sendung'},
+ 21: {'Eine E-Mail schicken': 'Die TAN nennen', 'Die Bank ist geschlossen': 'Sie hat keinen Pass'},
+ 22: {'Er sucht einen Nachbarn': 'Er möchte eine Flasche Wein zurückbringen', 'Sie ist nur vormittags offen': 'Sie ist nur nach zwölf Uhr offen', 'Die Polizei rufen': 'Ein Geschenk machen'},
+ 23: {'Nichts': 'Sie sind kostenlos', 'Den Mietvertrag': 'Eine Stromrechnung vom Vorjahr', 'Nichts ändern': 'Nur online vergleichen'},
+ 24: {'Geschenke': 'Die Geburtsurkunden', 'Am Montag': 'Am Samstag', 'Mit dem Auto zu fahren': 'Kleine Taschen zu Hause zu lassen'},
+}.items():
+    for _k, _v in _d.items():
+        OPTS.setdefault(_n, {}).setdefault(_k, _v)
