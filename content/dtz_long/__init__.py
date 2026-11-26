@@ -4,9 +4,12 @@ LONGER[n] = dict(h1=[ins x4], h2=[ins x5], h3=[(pos,[turns]) x4], h3tf={i:(stmt,
 ins = extra string (appended) or (anchor, extra) -> extra inserted right after anchor (anchor must occur in the text)."""
 import importlib, pkgutil
 LONGER = {}
+OPTS = {}   # OPTS[n] = {old option text: new option text}  (distractor rewrites, see opts.py)
 for _m in pkgutil.iter_modules(__path__):
     mod = importlib.import_module(__name__ + "." + _m.name)
     LONGER.update(getattr(mod, "LONGER", {}))
+    for _k, _v in getattr(mod, "OPTS", {}).items():
+        OPTS.setdefault(_k, {}).update(_v)
 
 
 def _ins(text, spec, where=""):
@@ -25,7 +28,36 @@ def _ins(text, spec, where=""):
     return text.replace(anchor, anchor + " " + extra, 1)
 
 
+def _swap_opts(n, M):
+    R = OPTS.get(n)
+    if not R:
+        return
+    used = set()
+    def fix(o, a=None):
+        parts = o.split("|")
+        for j, x in enumerate(parts):
+            if x in R:
+                assert a is None or j != a, (n, "replacing a CORRECT option", x)
+                parts[j] = R[x]; used.add(x)
+        return "|".join(parts)
+    for k in ("h1", "h2"):
+        M[k] = [(t, q, fix(o, a), a) for (t, q, o, a) in M[k]]
+    M["h3"] = [(st, tu, [(q, fix(o, a), a) if "|" in o and not o.startswith("richtig") else (q, o, a) for (q, o, a) in qs]) for (st, tu, qs) in M["h3"]]
+    new = []
+    for item in M["l3"]:
+        qs = [[q[0], fix(q[1], q[2]) if not q[1].startswith("richtig") else q[1], q[2]] for q in item[1]]
+        new.append([item[0], qs] if isinstance(item, list) else (item[0], qs))
+    M["l3"] = new
+    missing = set(R) - used
+    assert not missing, (n, missing)
+
+
 def apply(n, M):
+    _apply_long(n, M)
+    _swap_opts(n, M)
+
+
+def _apply_long(n, M):
     P = LONGER.get(n)
     if not P:
         return
