@@ -58,3 +58,15 @@ OPTS[23] = {"Eigene Arbeitskleidung": "Wetterfeste Kleidung", "Fahrkarten": "Fes
 OPTS[24] = {"Nur online": "Nur telefonisch bis Freitagmittag", "Nur persönlich": "Auf der Rückseite des Gebäudes",
             "Im Winter": "Zu Silvester um Mitternacht", "Im Herbst": "Am Abend um acht Uhr",
             "Das Büro anrufen": "Sich bei der Klassenlehrerin melden", "Nichts": "Kuchen für den Förderverein kaufen"}
+OPTS[1].update({"Am Vormittag": "Von acht bis zwölf Uhr", "Die A4 nehmen": "Nach Köln über die A vier fahren", "Nur am Telefon": "Nur persönlich am Freitag",
+                "Ein Formular im Internet ausfüllen": "Ein Frühstück für Freitag bestellen", "Man muss die Wohnung verlassen": "Man muss die Fenster im Flur schließen"})
+OPTS[2].update({"Eine Gebühr zahlen": "Getränke und Snacks mitbringen", "Die Lage im Zentrum": "Der Aufzug im Haus",
+                "Einen Nachhilfelehrer bezahlen": "Mit Leons Lehrerin morgen einen neuen Termin vereinbaren", "Am Freitag": "Am Sonntag nach sechzehn Uhr"})
+OPTS[3].update({"Sie sind schon fertig": "Der erste Radweg führt bis zum Stadtrand", "Mit dem Bus": "Zu Fuß zum Supermarkt", "Nur ein Foto": "Einen Brief von Frau Fischer"})
+OPTS.setdefault(4, {}).update({"Lieber den Bus zu nehmen": "In die Berge zu fahren", "Für das Vorlesen": "Für Kaffee und Kuchen", "Er verdient zu wenig": "Er möchte eine Ausbildung in Buchhaltung machen"})
+OPTS[5].update({"Zum Schalter": "Zum Gate B zwanzig", "Eine Reise im Winter": "Eine Reise mit dem Auto, zehn Stunden lang", "Er hat Angst vor dem Fliegen": "Er muss im Juli für zehn Tage arbeiten"})
+OPTS[6].update({"Einen Gutschein für den Supermarkt": "Ein Rezept in einer Sendung", "Sie darf keinen Fisch essen": "Sie darf nur Suppe essen", "Sie ruft ihren Chef": "Sie schreibt den Preis auf das Schild"})
+OPTS.setdefault(7, {}).update({"An der Kasse": "Am Informationsschalter"})
+OPTS[9] = {"Im Internet": "Mit der Post in den nächsten Tagen"}
+OPTS[10].update({"Eine Reduzierung der Miete": "Eine Wohnung für zwanzig Euro weniger"})
+OPTS[11].update({"Mit einem Anruf": "Mit einer Anmeldung in der Sporthalle"})

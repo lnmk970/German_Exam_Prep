@@ -4,10 +4,13 @@ LONGER[n] = dict(h1=[ins x4], h2=[ins x5], h3=[(pos,[turns]) x4], h3tf={i:(stmt,
 ins = extra string (appended) or (anchor, extra) -> extra inserted right after anchor (anchor must occur in the text)."""
 import importlib, pkgutil
 LONGER = {}
-OPTS = {}   # OPTS[n] = {old option text: new option text}  (distractor rewrites, see opts.py)
+OPTS = {}
+L2X = {}   # L2X[n] = {ad index: extra sentence}  (extra Lesen Teil 2 detail, see l2x.py)   # OPTS[n] = {old option text: new option text}  (distractor rewrites, see opts.py)
 for _m in pkgutil.iter_modules(__path__):
     mod = importlib.import_module(__name__ + "." + _m.name)
     LONGER.update(getattr(mod, "LONGER", {}))
+    for _k, _v in getattr(mod, "L2X", {}).items():
+        L2X.setdefault(_k, {}).update(_v)
     for _k, _v in getattr(mod, "OPTS", {}).items():
         OPTS.setdefault(_k, {}).update(_v)
 
@@ -54,6 +57,9 @@ def _swap_opts(n, M):
 
 def apply(n, M):
     _apply_long(n, M)
+    if n in L2X:
+        ads, sits, ans = M["l2"]
+        M["l2"] = ([(_ins(t, L2X[n][i], f"{n}l2x{i}") if i in L2X[n] else t) for i, t in enumerate(ads)], sits, ans)
     _swap_opts(n, M)
 
 
